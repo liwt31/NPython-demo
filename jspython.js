@@ -271,9 +271,9 @@ var NTI178726 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
 var NTI178694 = {size: 0,kind: 22,base: null,node: null,finalizer: null};
 var NTI178838 = {size: 0,kind: 24,base: null,node: null,finalizer: null};
 var NTI178837 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
-var NTI596676 = {size: 0,kind: 24,base: null,node: null,finalizer: null};
-var NTI596270 = {size: 0,kind: 24,base: null,node: null,finalizer: null};
-var NTI596410 = {size: 0,kind: 24,base: null,node: null,finalizer: null};
+var NTI598676 = {size: 0,kind: 24,base: null,node: null,finalizer: null};
+var NTI598270 = {size: 0,kind: 24,base: null,node: null,finalizer: null};
+var NTI598410 = {size: 0,kind: 24,base: null,node: null,finalizer: null};
 var NTI350389 = {size: 0,kind: 24,base: null,node: null,finalizer: null};
 var NTI348051 = {size: 0,kind: 24,base: null,node: null,finalizer: null};
 var NTI208887 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
@@ -311,19 +311,19 @@ var NTI324646 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
 var NTI324446 = {size: 0,kind: 24,base: null,node: null,finalizer: null};
 var NTI324445 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
 var NTI156086 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
-var NTI626109 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
+var NTI628109 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
 var NTI157559 = {size: 0,kind: 16,base: null,node: null,finalizer: null};
-var NTI607110 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
-var NTI604304 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
-var NTI602891 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
-var NTI600083 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
+var NTI609110 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
+var NTI606304 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
+var NTI604891 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
+var NTI602083 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
 var NTI506275 = {size: 0,kind: 24,base: null,node: null,finalizer: null};
-var NTI551208 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
-var NTI586657 = {size: 0,kind: 24,base: null,node: null,finalizer: null};
-var NTI563059 = {size: 0,kind: 24,base: null,node: null,finalizer: null};
-var NTI590712 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
+var NTI551408 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
+var NTI587857 = {size: 0,kind: 24,base: null,node: null,finalizer: null};
+var NTI563859 = {size: 0,kind: 24,base: null,node: null,finalizer: null};
+var NTI592712 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
 var NTI374108 = {size: 0,kind: 22,base: null,node: null,finalizer: null};
-var NTI588190 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
+var NTI590190 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
 var NTI547081 = {size: 0, kind: 14, base: null, node: null, finalizer: null};
 var NTI547143 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
 var NTI545084 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
@@ -1296,44 +1296,44 @@ var NNI547143 = {kind: 2, len: 4, offset: 0, typ: null, name: null, sons: [{kind
 NTI547143.node = NNI547143;
 NTI547143.base = NTI157273;
 NTI374108.base = NTI374109;
-var NNI588190 = {kind: 2, len: 4, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "start", len: 0, typ: NTI374108, name: "start", sons: null}, 
+var NNI590190 = {kind: 2, len: 4, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "start", len: 0, typ: NTI374108, name: "start", sons: null}, 
 {kind: 1, offset: "ending", len: 0, typ: NTI374108, name: "ending", sons: null}, 
 {kind: 1, offset: "step", len: 0, typ: NTI374108, name: "step", sons: null}, 
 {kind: 1, offset: "length", len: 0, typ: NTI374108, name: "length", sons: null}]};
-NTI588190.node = NNI588190;
-NTI588190.base = NTI157273;
-var NNI590712 = {kind: 2, len: 4, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "start", len: 0, typ: NTI374108, name: "start", sons: null}, 
+NTI590190.node = NNI590190;
+NTI590190.base = NTI157273;
+var NNI592712 = {kind: 2, len: 4, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "start", len: 0, typ: NTI374108, name: "start", sons: null}, 
 {kind: 1, offset: "step", len: 0, typ: NTI374108, name: "step", sons: null}, 
 {kind: 1, offset: "length", len: 0, typ: NTI374108, name: "length", sons: null}, 
 {kind: 1, offset: "index", len: 0, typ: NTI374108, name: "index", sons: null}]};
-NTI590712.node = NNI590712;
-NTI590712.base = NTI157273;
-NTI563059.base = NTI157214;
-NTI586657.base = NTI535149;
-var NNI551208 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "Field0", len: 0, typ: NTI459016, name: "Field0", sons: null}, 
+NTI592712.node = NNI592712;
+NTI592712.base = NTI157273;
+NTI563859.base = NTI157214;
+NTI587857.base = NTI535149;
+var NNI551408 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "Field0", len: 0, typ: NTI459016, name: "Field0", sons: null}, 
 {kind: 1, offset: "Field1", len: 0, typ: NTI487068, name: "Field1", sons: null}]};
-NTI551208.node = NNI551208;
+NTI551408.node = NNI551408;
 NTI506275.base = NTI157214;
-var NNI600083 = {kind: 2, len: 4, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "name", len: 0, typ: NTI175083, name: "name", sons: null}, 
+var NNI602083 = {kind: 2, len: 4, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "name", len: 0, typ: NTI175083, name: "name", sons: null}, 
 {kind: 1, offset: "dType", len: 0, typ: NTI157218, name: "dType", sons: null}, 
 {kind: 1, offset: "kind", len: 0, typ: NTI547081, name: "kind", sons: null}, 
 {kind: 1, offset: "meth", len: 0, typ: NTI104, name: "meth", sons: null}]};
-NTI600083.node = NNI600083;
-NTI600083.base = NTI157273;
-var NNI602891 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "getter", len: 0, typ: NTI157346, name: "getter", sons: null}, 
+NTI602083.node = NNI602083;
+NTI602083.base = NTI157273;
+var NNI604891 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "getter", len: 0, typ: NTI157346, name: "getter", sons: null}, 
 {kind: 1, offset: "setter", len: 0, typ: NTI157349, name: "setter", sons: null}]};
-NTI602891.node = NNI602891;
-NTI602891.base = NTI157273;
-var NNI604304 = {kind: 1, offset: "getter", len: 0, typ: NTI157214, name: "getter", sons: null};
-NTI604304.node = NNI604304;
-NTI604304.base = NTI157273;
-var NNI607110 = {kind: 1, offset: "dict", len: 0, typ: NTI157214, name: "dict", sons: null};
-NTI607110.node = NNI607110;
-NTI607110.base = NTI157273;
+NTI604891.node = NNI604891;
+NTI604891.base = NTI157273;
+var NNI606304 = {kind: 1, offset: "getter", len: 0, typ: NTI157214, name: "getter", sons: null};
+NTI606304.node = NNI606304;
+NTI606304.base = NTI157273;
+var NNI609110 = {kind: 1, offset: "dict", len: 0, typ: NTI157214, name: "dict", sons: null};
+NTI609110.node = NNI609110;
+NTI609110.base = NTI157273;
 NTI157559.base = NTI138;
-var NNI626109 = {kind: 2, len: 0, offset: 0, typ: null, name: null, sons: []};
-NTI626109.node = NNI626109;
-NTI626109.base = NTI157277;
+var NNI628109 = {kind: 2, len: 0, offset: 0, typ: null, name: null, sons: []};
+NTI628109.node = NNI628109;
+NTI628109.base = NTI157277;
 var NNI156086 = {kind: 2, len: 3, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "fileName", len: 0, typ: NTI138, name: "fileName", sons: null}, 
 {kind: 1, offset: "lineNo", len: 0, typ: NTI104, name: "lineNo", sons: null}, 
 {kind: 1, offset: "colNo", len: 0, typ: NTI104, name: "colNo", sons: null}]};
@@ -1398,9 +1398,9 @@ NTI208886.base = NTI208887;
 NTI337147.base = NTI208886;
 NTI348051.base = NTI212017;
 NTI350389.base = NTI212017;
-NTI596410.base = NTI357165;
-NTI596270.base = NTI357165;
-NTI596676.base = NTI138;
+NTI598410.base = NTI357165;
+NTI598270.base = NTI357165;
+NTI598676.base = NTI138;
 var NNI177024 = {kind: 1, offset: "value", len: 0, typ: NTI104, name: "value", sons: null};
 NTI177024.node = NNI177024;
 var NNI177022 = {kind: 2, len: 0, offset: 0, typ: null, name: null, sons: []};
@@ -19676,165 +19676,166 @@ py_nim_func_object_type_547155.kind = 12;
 py_nim_func_object_type_547155.magicMethods.Field26 = new_py_nim_func_default_547821;
 py_nim_func_object_type_547155.magicMethods.Field31 = call_py_nim_func_object_magic_548044;
 var val_stack_551095 = [null];
+var block_stack_551097 = [null];
 
-function new_588406() {
-	var result_588411 = null;
+function new_590406() {
+	var result_590411 = null;
 
 	var F={procname:"new.new",prev:framePtr,filename:"../../../../.choosenim/toolchains/nim-0.19.4/lib/system.nim",line:0};
 	framePtr = F;
 	BeforeRet: do {
 		F.line = 208;
-		var r_588601 = null;
+		var r_590601 = null;
 		F.line = 211;
-		r_588601 = {m_type: NTI588190, start: null, ending: null, step: null, length: null, id: 0, pyType: null};
+		r_590601 = {m_type: NTI590190, start: null, ending: null, step: null, length: null, id: 0, pyType: null};
 		F.line = 212;
-		result_588411 = r_588601;
+		result_590411 = r_590601;
 		break BeforeRet;
 	} while (false);
 	framePtr = F.prev;
 
-	return result_588411;
+	return result_590411;
 
 }
 
-function new_py_range_simple_588401() {
-	var result_588403 = null;
+function new_py_range_simple_590401() {
+	var result_590403 = null;
 
 	var F={procname:"rangeobject.newPyRangeSimple",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
 	framePtr = F;
 		F.line = 560;
 		F.line = 560;
-		var obj_588624 = new_588406();
+		var obj_590624 = new_590406();
 		F.line = 561;
-		obj_588624.pyType = py_range_object_type_588202;
+		obj_590624.pyType = py_range_object_type_590202;
 		F.line = 563;
-		give_id_157814(obj_588624);
-		result_588403 = obj_588624;
+		give_id_157814(obj_590624);
+		result_590403 = obj_590624;
 	framePtr = F.prev;
 
-	return result_588403;
+	return result_590403;
 
 }
 
-function new_py_range_default_589021(args_588145) {
-	var result_589024 = null;
+function new_py_range_default_591021(args_590145) {
+	var result_591024 = null;
 
 	var F={procname:"rangeobject.newPyRangeDefault",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
 	framePtr = F;
 		F.line = 581;
-		result_589024 = new_py_range_simple_588401();
+		result_591024 = new_py_range_simple_590401();
 	framePtr = F.prev;
 
-	return result_589024;
+	return result_591024;
 
 }
 
-function len_py_range_object_magic_589244(self_no_cast_589246) {
-	var result_589247 = null;
+function len_py_range_object_magic_591244(self_no_cast_591246) {
+	var result_591247 = null;
 
 	var F={procname:"rangeobject.lenPyRangeObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
 	framePtr = F;
 		F.line = 438;
-		if (!(isObj(self_no_cast_589246.m_type, NTI588190))) {
+		if (!(isObj(self_no_cast_591246.m_type, NTI590190))) {
 		F.line = 438;
 		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Objects/pyobject.nim(438, 33) `selfNoCast of PyRangeObject` "));
 		}
 		
 		F.line = 438;
-		var self_589401 = self_no_cast_589246;
-		result_589247 = self_589401.length;
+		var self_591401 = self_no_cast_591246;
+		result_591247 = self_591401.length;
 	framePtr = F.prev;
 
-	return result_589247;
+	return result_591247;
 
 }
 
-function repr_py_range_object_magic_589416(self_no_cast_589418) {
-	var result_589419 = null;
+function repr_py_range_object_magic_591416(self_no_cast_591418) {
+	var result_591419 = null;
 
 	var F={procname:"rangeobject.reprPyRangeObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
 	framePtr = F;
 		F.line = 438;
-		if (!(isObj(self_no_cast_589418.m_type, NTI588190))) {
+		if (!(isObj(self_no_cast_591418.m_type, NTI590190))) {
 		F.line = 438;
 		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Objects/pyobject.nim(438, 33) `selfNoCast of PyRangeObject` "));
 		}
 		
 		F.line = 438;
-		var self_589601 = self_no_cast_589418;
+		var self_591601 = self_no_cast_591418;
 		F.line = 21;
-		var fmt_res_589605 = mnewString(0);
+		var fmt_res_591605 = mnewString(0);
 		F.line = 21;
-		if (fmt_res_589605 != null) { fmt_res_589605 = (fmt_res_589605).concat(makeNimstrLit("range(")); } else { fmt_res_589605 = makeNimstrLit("range("); };
+		if (fmt_res_591605 != null) { fmt_res_591605 = (fmt_res_591605).concat(makeNimstrLit("range(")); } else { fmt_res_591605 = makeNimstrLit("range("); };
 		F.line = 270;
-		if (fmt_res_589605 != null) { fmt_res_589605 = (fmt_res_589605).concat(cstrToNimstr((self_589601.start.v)+"")); } else { fmt_res_589605 = cstrToNimstr((self_589601.start.v)+"").slice(); };
+		if (fmt_res_591605 != null) { fmt_res_591605 = (fmt_res_591605).concat(cstrToNimstr((self_591601.start.v)+"")); } else { fmt_res_591605 = cstrToNimstr((self_591601.start.v)+"").slice(); };
 		F.line = 21;
-		if (fmt_res_589605 != null) { fmt_res_589605 = (fmt_res_589605).concat(makeNimstrLit(", ")); } else { fmt_res_589605 = makeNimstrLit(", "); };
+		if (fmt_res_591605 != null) { fmt_res_591605 = (fmt_res_591605).concat(makeNimstrLit(", ")); } else { fmt_res_591605 = makeNimstrLit(", "); };
 		F.line = 270;
-		if (fmt_res_589605 != null) { fmt_res_589605 = (fmt_res_589605).concat(cstrToNimstr((self_589601.ending.v)+"")); } else { fmt_res_589605 = cstrToNimstr((self_589601.ending.v)+"").slice(); };
+		if (fmt_res_591605 != null) { fmt_res_591605 = (fmt_res_591605).concat(cstrToNimstr((self_591601.ending.v)+"")); } else { fmt_res_591605 = cstrToNimstr((self_591601.ending.v)+"").slice(); };
 		F.line = 21;
-		if (fmt_res_589605 != null) { fmt_res_589605 = (fmt_res_589605).concat(makeNimstrLit(", ")); } else { fmt_res_589605 = makeNimstrLit(", "); };
+		if (fmt_res_591605 != null) { fmt_res_591605 = (fmt_res_591605).concat(makeNimstrLit(", ")); } else { fmt_res_591605 = makeNimstrLit(", "); };
 		F.line = 270;
-		if (fmt_res_589605 != null) { fmt_res_589605 = (fmt_res_589605).concat(cstrToNimstr((self_589601.step.v)+"")); } else { fmt_res_589605 = cstrToNimstr((self_589601.step.v)+"").slice(); };
+		if (fmt_res_591605 != null) { fmt_res_591605 = (fmt_res_591605).concat(cstrToNimstr((self_591601.step.v)+"")); } else { fmt_res_591605 = cstrToNimstr((self_591601.step.v)+"").slice(); };
 		F.line = 21;
-		if (fmt_res_589605 != null) { fmt_res_589605 = (fmt_res_589605).concat(makeNimstrLit(", ")); } else { fmt_res_589605 = makeNimstrLit(", "); };
+		if (fmt_res_591605 != null) { fmt_res_591605 = (fmt_res_591605).concat(makeNimstrLit(", ")); } else { fmt_res_591605 = makeNimstrLit(", "); };
 		F.line = 270;
-		if (fmt_res_589605 != null) { fmt_res_589605 = (fmt_res_589605).concat(cstrToNimstr((self_589601.length.v)+"")); } else { fmt_res_589605 = cstrToNimstr((self_589601.length.v)+"").slice(); };
+		if (fmt_res_591605 != null) { fmt_res_591605 = (fmt_res_591605).concat(cstrToNimstr((self_591601.length.v)+"")); } else { fmt_res_591605 = cstrToNimstr((self_591601.length.v)+"").slice(); };
 		F.line = 21;
-		if (fmt_res_589605 != null) { fmt_res_589605 = (fmt_res_589605).concat(makeNimstrLit(")")); } else { fmt_res_589605 = makeNimstrLit(")"); };
-		result_589419 = new_py_string_176075(fmt_res_589605);
+		if (fmt_res_591605 != null) { fmt_res_591605 = (fmt_res_591605).concat(makeNimstrLit(")")); } else { fmt_res_591605 = makeNimstrLit(")"); };
+		result_591419 = new_py_string_176075(fmt_res_591605);
 	framePtr = F.prev;
 
-	return result_589419;
+	return result_591419;
 
 }
 
-function init_py_range_object_magic_590415(self_no_cast_590417, args_590431) {
-	var result_590432 = null;
+function init_py_range_object_magic_592415(self_no_cast_592417, args_592431) {
+	var result_592432 = null;
 
 	var F={procname:"rangeobject.initPyRangeObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
 	framePtr = F;
 	BeforeRet: do {
 		F.line = 438;
-		if (!(isObj(self_no_cast_590417.m_type, NTI588190))) {
+		if (!(isObj(self_no_cast_592417.m_type, NTI590190))) {
 		F.line = 438;
 		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Objects/pyobject.nim(438, 33) `selfNoCast of PyRangeObject` "));
 		}
 		
 		F.line = 438;
-		var self_590601 = self_no_cast_590417;
+		var self_592601 = self_no_cast_592417;
 		L1: do {
 			F.line = 25;
-			var arg_590610 = null;
+			var arg_592610 = null;
 			F.line = 3911;
-			var i_590640 = 0;
+			var i_592640 = 0;
 			F.line = 3912;
-			var l_590642 = (args_590431 != null ? args_590431.length : 0);
+			var l_592642 = (args_592431 != null ? args_592431.length : 0);
 			L2: do {
 				F.line = 3913;
 					L3: while (true) {
-					if (!(i_590640 < l_590642)) break L3;
+					if (!(i_592640 < l_592642)) break L3;
 						F.line = 3914;
-						arg_590610 = args_590431[chckIndx(i_590640, 0, args_590431.length+0-1)-0];
-						if (!(of_py_int_object_374117(arg_590610))) {
+						arg_592610 = args_592431[chckIndx(i_592640, 0, args_592431.length+0-1)-0];
+						if (!(of_py_int_object_374117(arg_592610))) {
 						F.line = 29;
-						var msg_590611 = makeNimstrLit("range() only support int arguments");
+						var msg_592611 = makeNimstrLit("range() only support int arguments");
 						F.line = 30;
 						F.line = 104;
-						var excp_590613 = new_py_type_error_simple_360601();
+						var excp_592613 = new_py_type_error_simple_360601();
 						F.line = 105;
-						excp_590613.tk = 3;
+						excp_592613.tk = 3;
 						F.line = 106;
-						excp_590613.thrown = true;
+						excp_592613.thrown = true;
 						F.line = 107;
-						excp_590613.msg = new_py_string_176075(msg_590611);
-						result_590432 = excp_590613;
+						excp_592613.msg = new_py_string_176075(msg_592611);
+						result_592432 = excp_592613;
 						break BeforeRet;
 						}
 						
 						F.line = 3915;
-						i_590640 = addInt(i_590640, 1);
-						if (!(((args_590431 != null ? args_590431.length : 0) == l_590642))) {
+						i_592640 = addInt(i_592640, 1);
+						if (!(((args_592431 != null ? args_592431.length : 0) == l_592642))) {
 						F.line = 3916;
 						failed_assert_impl_20481(makeNimstrLit("/home/wtli/.choosenim/toolchains/nim-0.19.4/lib/system.nim(3916, 11) `len(a) == L` seq modified while iterating over it"));
 						}
@@ -19843,335 +19844,335 @@ function init_py_range_object_magic_590415(self_no_cast_590417, args_590431) {
 			} while(false);
 		} while(false);
 		F.line = 31;
-		var start_590615 = null;
+		var start_592615 = null;
 		F.line = 31;
-		var ending_590616 = null;
+		var ending_592616 = null;
 		F.line = 31;
-		var step_590617 = null;
+		var step_592617 = null;
 		F.line = 32;
-		switch ((args_590431 != null ? args_590431.length : 0)) {
+		switch ((args_592431 != null ? args_592431.length : 0)) {
 		case 1:
 			F.line = 34;
-			start_590615 = new_py_int_376142(0);
+			start_592615 = new_py_int_376142(0);
 			F.line = 35;
-			ending_590616 = args_590431[chckIndx(0, 0, args_590431.length+0-1)-0];
+			ending_592616 = args_592431[chckIndx(0, 0, args_592431.length+0-1)-0];
 			F.line = 36;
-			step_590617 = new_py_int_376142(1);
+			step_592617 = new_py_int_376142(1);
 			break;
 		case 2:
 			F.line = 38;
-			start_590615 = args_590431[chckIndx(0, 0, args_590431.length+0-1)-0];
+			start_592615 = args_592431[chckIndx(0, 0, args_592431.length+0-1)-0];
 			F.line = 39;
-			ending_590616 = args_590431[chckIndx(1, 0, args_590431.length+0-1)-0];
+			ending_592616 = args_592431[chckIndx(1, 0, args_592431.length+0-1)-0];
 			F.line = 40;
-			step_590617 = new_py_int_376142(1);
+			step_592617 = new_py_int_376142(1);
 			break;
 		case 3:
 			F.line = 42;
-			start_590615 = args_590431[chckIndx(0, 0, args_590431.length+0-1)-0];
+			start_592615 = args_592431[chckIndx(0, 0, args_592431.length+0-1)-0];
 			F.line = 43;
-			ending_590616 = args_590431[chckIndx(1, 0, args_590431.length+0-1)-0];
+			ending_592616 = args_592431[chckIndx(1, 0, args_592431.length+0-1)-0];
 			F.line = 44;
-			step_590617 = args_590431[chckIndx(2, 0, args_590431.length+0-1)-0];
-			if ((step_590617.v == 0)) {
+			step_592617 = args_592431[chckIndx(2, 0, args_592431.length+0-1)-0];
+			if ((step_592617.v == 0)) {
 			F.line = 46;
-			var msg_590625 = makeNimstrLit("range() step must not be 0");
+			var msg_592625 = makeNimstrLit("range() step must not be 0");
 			F.line = 47;
 			F.line = 104;
-			var excp_590627 = new_py_value_error_simple_362601();
+			var excp_592627 = new_py_value_error_simple_362601();
 			F.line = 105;
-			excp_590627.tk = 5;
+			excp_592627.tk = 5;
 			F.line = 106;
-			excp_590627.thrown = true;
+			excp_592627.thrown = true;
 			F.line = 107;
-			excp_590627.msg = new_py_string_176075(msg_590625);
-			result_590432 = excp_590627;
+			excp_592627.msg = new_py_string_176075(msg_592625);
+			result_592432 = excp_592627;
 			break BeforeRet;
 			}
 			
 			break;
 		default: 
 			F.line = 49;
-			var msg_590629 = makeNimstrLit("range() expected 1-3 arguments");
+			var msg_592629 = makeNimstrLit("range() expected 1-3 arguments");
 			F.line = 50;
 			F.line = 104;
-			var excp_590631 = new_py_type_error_simple_360601();
+			var excp_592631 = new_py_type_error_simple_360601();
 			F.line = 105;
-			excp_590631.tk = 3;
+			excp_592631.tk = 3;
 			F.line = 106;
-			excp_590631.thrown = true;
+			excp_592631.thrown = true;
 			F.line = 107;
-			excp_590631.msg = new_py_string_176075(msg_590629);
-			result_590432 = excp_590631;
+			excp_592631.msg = new_py_string_176075(msg_592629);
+			result_592432 = excp_592631;
 			break BeforeRet;
 			break;
 		}
 		F.line = 51;
-		var length_590633 = 0;
-		if ((0 < step_590617.v)) {
+		var length_592633 = 0;
+		if ((0 < step_592617.v)) {
 		F.line = 57;
-		length_590633 = divInt(subInt(addInt(subInt(ending_590616.v, start_590615.v), step_590617.v), 1), step_590617.v);
+		length_592633 = divInt(subInt(addInt(subInt(ending_592616.v, start_592615.v), step_592617.v), 1), step_592617.v);
 		}
 		else {
-		if ((step_590617.v < 0)) {
+		if ((step_592617.v < 0)) {
 		F.line = 60;
-		length_590633 = divInt(subInt(subInt(addInt(negInt(ending_590616.v), start_590615.v), step_590617.v), 1), negInt(step_590617.v));
+		length_592633 = divInt(subInt(subInt(addInt(negInt(ending_592616.v), start_592615.v), step_592617.v), 1), negInt(step_592617.v));
 		}
 		}
-		if ((length_590633 < 0)) {
+		if ((length_592633 < 0)) {
 		F.line = 62;
-		length_590633 = 0;
+		length_592633 = 0;
 		}
 		
 		F.line = 63;
-		self_590601.start = start_590615;
+		self_592601.start = start_592615;
 		F.line = 64;
-		self_590601.ending = ending_590616;
+		self_592601.ending = ending_592616;
 		F.line = 65;
-		self_590601.step = step_590617;
+		self_592601.step = step_592617;
 		F.line = 66;
-		self_590601.length = new_py_int_376142(length_590633);
-		result_590432 = py_none_356044;
+		self_592601.length = new_py_int_376142(length_592633);
+		result_592432 = py_none_356044;
 	} while (false);
 	framePtr = F.prev;
 
-	return result_590432;
+	return result_592432;
 
 }
 
-function new_590806() {
-	var result_590811 = null;
+function new_592806() {
+	var result_592811 = null;
 
 	var F={procname:"new.new",prev:framePtr,filename:"../../../../.choosenim/toolchains/nim-0.19.4/lib/system.nim",line:0};
 	framePtr = F;
 	BeforeRet: do {
 		F.line = 208;
-		var r_591001 = null;
+		var r_593001 = null;
 		F.line = 211;
-		r_591001 = {m_type: NTI590712, start: null, step: null, length: null, index: null, id: 0, pyType: null};
+		r_593001 = {m_type: NTI592712, start: null, step: null, length: null, index: null, id: 0, pyType: null};
 		F.line = 212;
-		result_590811 = r_591001;
+		result_592811 = r_593001;
 		break BeforeRet;
 	} while (false);
 	framePtr = F.prev;
 
-	return result_590811;
+	return result_592811;
 
 }
 
-function new_py_range_iter_simple_590801() {
-	var result_590803 = null;
+function new_py_range_iter_simple_592801() {
+	var result_592803 = null;
 
 	var F={procname:"rangeobject.newPyRangeIterSimple",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
 	framePtr = F;
 		F.line = 560;
 		F.line = 560;
-		var obj_591024 = new_590806();
+		var obj_593024 = new_592806();
 		F.line = 561;
-		obj_591024.pyType = py_range_iter_object_type_590724;
+		obj_593024.pyType = py_range_iter_object_type_592724;
 		F.line = 563;
-		give_id_157814(obj_591024);
-		result_590803 = obj_591024;
+		give_id_157814(obj_593024);
+		result_592803 = obj_593024;
 	framePtr = F.prev;
 
-	return result_590803;
+	return result_592803;
 
 }
 
-function new_py_range_iter_default_591421(args_590667) {
-	var result_591424 = null;
+function new_py_range_iter_default_593421(args_592667) {
+	var result_593424 = null;
 
 	var F={procname:"rangeobject.newPyRangeIterDefault",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
 	framePtr = F;
 		F.line = 581;
-		result_591424 = new_py_range_iter_simple_590801();
+		result_593424 = new_py_range_iter_simple_592801();
 	framePtr = F.prev;
 
-	return result_591424;
+	return result_593424;
 
 }
 
-function iter_py_range_object_magic_591644(self_no_cast_591646) {
-	var result_591647 = null;
+function iter_py_range_object_magic_593644(self_no_cast_593646) {
+	var result_593647 = null;
 
 	var F={procname:"rangeobject.iterPyRangeObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
 	framePtr = F;
 		F.line = 438;
-		if (!(isObj(self_no_cast_591646.m_type, NTI588190))) {
+		if (!(isObj(self_no_cast_593646.m_type, NTI590190))) {
 		F.line = 438;
 		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Objects/pyobject.nim(438, 33) `selfNoCast of PyRangeObject` "));
 		}
 		
 		F.line = 438;
-		var self_591801 = self_no_cast_591646;
+		var self_593801 = self_no_cast_593646;
 		F.line = 78;
-		var iter_591802 = new_py_range_iter_simple_590801();
+		var iter_593802 = new_py_range_iter_simple_592801();
 		F.line = 79;
-		iter_591802.start = self_591801.start;
+		iter_593802.start = self_593801.start;
 		F.line = 80;
-		iter_591802.step = self_591801.step;
+		iter_593802.step = self_593801.step;
 		F.line = 81;
-		iter_591802.length = self_591801.length;
+		iter_593802.length = self_593801.length;
 		F.line = 82;
-		iter_591802.index = new_py_int_376142(0);
-		result_591647 = iter_591802;
+		iter_593802.index = new_py_int_376142(0);
+		result_593647 = iter_593802;
 	framePtr = F.prev;
 
-	return result_591647;
+	return result_593647;
 
 }
 
-function iter_py_range_iter_object_magic_591817(self_no_cast_591819) {
-	var result_591820 = null;
+function iter_py_range_iter_object_magic_593817(self_no_cast_593819) {
+	var result_593820 = null;
 
 	var F={procname:"rangeobject.iterPyRangeIterObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
 	framePtr = F;
 		F.line = 438;
-		if (!(isObj(self_no_cast_591819.m_type, NTI590712))) {
+		if (!(isObj(self_no_cast_593819.m_type, NTI592712))) {
 		F.line = 438;
 		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Objects/pyobject.nim(438, 33) `selfNoCast of PyRangeIterObject` "));
 		}
 		
 		F.line = 438;
-		var self_592001 = self_no_cast_591819;
-		result_591820 = self_592001;
+		var self_594001 = self_no_cast_593819;
+		result_593820 = self_594001;
 	framePtr = F.prev;
 
-	return result_591820;
+	return result_593820;
 
 }
 
-function iternext_py_range_iter_object_magic_592016(self_no_cast_592018) {
-	var result_592019 = null;
+function iternext_py_range_iter_object_magic_594016(self_no_cast_594018) {
+	var result_594019 = null;
 
 	var F={procname:"rangeobject.iternextPyRangeIterObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
 	framePtr = F;
 	BeforeRet: do {
-		if (!(isObj(self_no_cast_592018.m_type, NTI590712))) {
+		if (!(isObj(self_no_cast_594018.m_type, NTI592712))) {
 		F.line = 438;
 		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Objects/pyobject.nim(438, 33) `selfNoCast of PyRangeIterObject` "));
 		}
 		
 		F.line = 438;
-		var self_592201 = self_no_cast_592018;
+		var self_594201 = self_no_cast_594018;
 			F.line = 56;
-			if ((self_592201.index.pyType === null)) {
+			if ((self_594201.index.pyType === null)) {
 			F.line = 2895;
-			var e_592228 = null;
+			var e_594228 = null;
 			F.line = 2896;
-			e_592228 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
+			e_594228 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
 			F.line = 26;
-			e_592228.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
+			e_594228.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
 			F.line = 2891;
-			e_592228.parent = null;
+			e_594228.parent = null;
 			F.line = 26;
-			raiseException(e_592228, "InternalError");
+			raiseException(e_594228, "InternalError");
 			}
 			
 			F.line = 27;
-			var fun_592402 = self_592201.index.pyType.magicMethods.Field16;
-			if ((fun_592402 === null)) {
+			var fun_594402 = self_594201.index.pyType.magicMethods.Field16;
+			if ((fun_594402 === null)) {
 			F.line = 29;
-			var obj_type_str_592411 = self_592201.index.pyType.name;
+			var obj_type_str_594411 = self_594201.index.pyType.name;
 			F.line = 30;
-			var method_str_592413 = makeNimstrLit("lt");
+			var method_str_594413 = makeNimstrLit("lt");
 			F.line = 31;
-			var msg_592415 = (makeNimstrLit("No ")).concat(method_str_592413,makeNimstrLit(" method for "),obj_type_str_592411,makeNimstrLit(" defined"));
+			var msg_594415 = (makeNimstrLit("No ")).concat(method_str_594413,makeNimstrLit(" method for "),obj_type_str_594411,makeNimstrLit(" defined"));
 			F.line = 32;
 			F.line = 104;
-			var excp_592417 = new_py_type_error_simple_360601();
+			var excp_594417 = new_py_type_error_simple_360601();
 			F.line = 105;
-			excp_592417.tk = 3;
+			excp_594417.tk = 3;
 			F.line = 106;
-			excp_592417.thrown = true;
+			excp_594417.thrown = true;
 			F.line = 107;
-			excp_592417.msg = new_py_string_176075(msg_592415);
-			var excp_592420 = excp_592417;
+			excp_594417.msg = new_py_string_176075(msg_594415);
+			var excp_594420 = excp_594417;
 			F.line = 36;
-			result_592019 = excp_592420;
+			result_594019 = excp_594420;
 			break BeforeRet;
 			}
 			
-			var fun_592602 = fun_592402;
+			var fun_594602 = fun_594402;
 			F.line = 57;
-			var res_592604 = fun_592602(self_592201.index, self_592201.length);
-		if ((res_592604 == py_true_obj_354074)) {
+			var res_594604 = fun_594602(self_594201.index, self_594201.length);
+		if ((res_594604 == py_true_obj_354074)) {
 		F.line = 91;
-		result_592019 = new_py_int_376142(addInt(self_592201.start.v, mulInt(self_592201.index.v, self_592201.step.v)));
+		result_594019 = new_py_int_376142(addInt(self_594201.start.v, mulInt(self_594201.index.v, self_594201.step.v)));
 		F.line = 92;
 		F.line = 56;
-		if ((self_592201.index.pyType === null)) {
+		if ((self_594201.index.pyType === null)) {
 		F.line = 2895;
-		var e_592838 = null;
+		var e_594838 = null;
 		F.line = 2896;
-		e_592838 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
+		e_594838 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
 		F.line = 26;
-		e_592838.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
+		e_594838.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
 		F.line = 2891;
-		e_592838.parent = null;
+		e_594838.parent = null;
 		F.line = 26;
-		raiseException(e_592838, "InternalError");
+		raiseException(e_594838, "InternalError");
 		}
 		
 		F.line = 27;
-		var fun_593002 = self_592201.index.pyType.magicMethods.Field0;
-		if ((fun_593002 === null)) {
+		var fun_595002 = self_594201.index.pyType.magicMethods.Field0;
+		if ((fun_595002 === null)) {
 		F.line = 29;
-		var obj_type_str_593011 = self_592201.index.pyType.name;
+		var obj_type_str_595011 = self_594201.index.pyType.name;
 		F.line = 30;
-		var method_str_593013 = makeNimstrLit("add");
+		var method_str_595013 = makeNimstrLit("add");
 		F.line = 31;
-		var msg_593015 = (makeNimstrLit("No ")).concat(method_str_593013,makeNimstrLit(" method for "),obj_type_str_593011,makeNimstrLit(" defined"));
+		var msg_595015 = (makeNimstrLit("No ")).concat(method_str_595013,makeNimstrLit(" method for "),obj_type_str_595011,makeNimstrLit(" defined"));
 		F.line = 32;
 		F.line = 104;
-		var excp_593017 = new_py_type_error_simple_360601();
+		var excp_595017 = new_py_type_error_simple_360601();
 		F.line = 105;
-		excp_593017.tk = 3;
+		excp_595017.tk = 3;
 		F.line = 106;
-		excp_593017.thrown = true;
+		excp_595017.thrown = true;
 		F.line = 107;
-		excp_593017.msg = new_py_string_176075(msg_593015);
-		var excp_593020 = excp_593017;
+		excp_595017.msg = new_py_string_176075(msg_595015);
+		var excp_595020 = excp_595017;
 		F.line = 36;
-		result_592019 = excp_593020;
+		result_594019 = excp_595020;
 		break BeforeRet;
 		}
 		
-		var fun_593202 = fun_593002;
+		var fun_595202 = fun_595002;
 		F.line = 57;
-		var res_593204 = fun_593202(self_592201.index, new_py_int_376142(1));
-		var new_index_593401 = res_593204;
+		var res_595204 = fun_595202(self_594201.index, new_py_int_376142(1));
+		var new_index_595401 = res_595204;
 		F.line = 93;
-		self_592201.index = new_index_593401;
+		self_594201.index = new_index_595401;
 		}
 		else {
 			F.line = 95;
 			F.line = 97;
-			var excp_593403 = new_py_stop_iter_error_simple_364601();
+			var excp_595403 = new_py_stop_iter_error_simple_364601();
 			F.line = 98;
-			excp_593403.tk = 7;
+			excp_595403.tk = 7;
 			F.line = 99;
-			excp_593403.thrown = true;
-			result_592019 = excp_593403;
+			excp_595403.thrown = true;
+			result_594019 = excp_595403;
 			break BeforeRet;
 		}
 		
 	} while (false);
 	framePtr = F.prev;
 
-	return result_592019;
+	return result_594019;
 
 }
-var py_range_object_type_588202 = new_py_type_159261(makeNimstrLit("Range"));
-py_range_object_type_588202.magicMethods.Field26 = new_py_range_default_589021;
-py_range_object_type_588202.magicMethods.Field23 = len_py_range_object_magic_589244;
-py_range_object_type_588202.magicMethods.Field25 = repr_py_range_object_magic_589416;
-py_range_object_type_588202.magicMethods.Field27 = init_py_range_object_magic_590415;
-var py_range_iter_object_type_590724 = new_py_type_159261(makeNimstrLit("RangeIter"));
-py_range_iter_object_type_590724.magicMethods.Field26 = new_py_range_iter_default_591421;
-py_range_object_type_588202.magicMethods.Field36 = iter_py_range_object_magic_591644;
-py_range_iter_object_type_590724.magicMethods.Field36 = iter_py_range_iter_object_magic_591817;
-py_range_iter_object_type_590724.magicMethods.Field37 = iternext_py_range_iter_object_magic_592016;
+var py_range_object_type_590202 = new_py_type_159261(makeNimstrLit("Range"));
+py_range_object_type_590202.magicMethods.Field26 = new_py_range_default_591021;
+py_range_object_type_590202.magicMethods.Field23 = len_py_range_object_magic_591244;
+py_range_object_type_590202.magicMethods.Field25 = repr_py_range_object_magic_591416;
+py_range_object_type_590202.magicMethods.Field27 = init_py_range_object_magic_592415;
+var py_range_iter_object_type_592724 = new_py_type_159261(makeNimstrLit("RangeIter"));
+py_range_iter_object_type_592724.magicMethods.Field26 = new_py_range_iter_default_593421;
+py_range_object_type_590202.magicMethods.Field36 = iter_py_range_object_magic_593644;
+py_range_iter_object_type_592724.magicMethods.Field36 = iter_py_range_iter_object_magic_593817;
+py_range_iter_object_type_592724.magicMethods.Field37 = iternext_py_range_iter_object_magic_594016;
 
 function add_quoted_489609(s_489613, s_489613_Idx, x_489615) {
 	var F={procname:"addQuoted.addQuoted",prev:framePtr,filename:"../../../../.choosenim/toolchains/nim-0.19.4/lib/system.nim",line:0};
@@ -20254,52 +20255,52 @@ function HEX24_489237(x_489242) {
 
 }
 
-function HEX5BHEX5D_584249(s_584256, x_584259) {
-	var result_584261 = null;
+function HEX5BHEX5D_585449(s_585456, x_585459) {
+	var result_585461 = null;
 
 	var F={procname:"[].[]",prev:framePtr,filename:"../../../../.choosenim/toolchains/nim-0.19.4/lib/system.nim",line:0};
 	framePtr = F;
 		F.line = 3706;
-		var a_584407 = subInt((s_584256 != null ? s_584256.length : 0), x_584259.a);
+		var a_585607 = subInt((s_585456 != null ? s_585456.length : 0), x_585459.a);
 		F.line = 3707;
-		var l_584607 = addInt(subInt(subInt((s_584256 != null ? s_584256.length : 0), x_584259.b), a_584407), 1);
+		var l_585807 = addInt(subInt(subInt((s_585456 != null ? s_585456.length : 0), x_585459.b), a_585607), 1);
 		F.line = 3708;
-		result_584261 = new Array(chckRange(l_584607, 0, 2147483647)); for (var i=0;i<chckRange(l_584607, 0, 2147483647);++i) {result_584261[i]=null;}		L1: do {
+		result_585461 = new Array(chckRange(l_585807, 0, 2147483647)); for (var i=0;i<chckRange(l_585807, 0, 2147483647);++i) {result_585461[i]=null;}		L1: do {
 			F.line = 3709;
-			var i_584627 = 0;
+			var i_585827 = 0;
 			F.line = 3617;
-			var i_584635 = 0;
+			var i_585835 = 0;
 			L2: do {
 				F.line = 3618;
 					L3: while (true) {
-					if (!(i_584635 < l_584607)) break L3;
+					if (!(i_585835 < l_585807)) break L3;
 						F.line = 3619;
-						i_584627 = i_584635;
+						i_585827 = i_585835;
 						F.line = 3709;
-						result_584261[chckIndx(i_584627, 0, result_584261.length+0-1)-0] = s_584256[chckIndx(addInt(i_584627, a_584407), 0, s_584256.length+0-1)-0];
+						result_585461[chckIndx(i_585827, 0, result_585461.length+0-1)-0] = s_585456[chckIndx(addInt(i_585827, a_585607), 0, s_585456.length+0-1)-0];
 						F.line = 3620;
-						i_584635 = addInt(i_584635, 1);
+						i_585835 = addInt(i_585835, 1);
 					}
 			} while(false);
 		} while(false);
 	framePtr = F.prev;
 
-	return result_584261;
+	return result_585461;
 
 }
 
-function HEX2EHEX2E_584206(a_584211, b_584213) {
-	var result_584221 = {a: 0, b: 0};
+function HEX2EHEX2E_585406(a_585411, b_585413) {
+	var result_585421 = {a: 0, b: 0};
 
 	var F={procname:".....",prev:framePtr,filename:"../../../../.choosenim/toolchains/nim-0.19.4/lib/system.nim",line:0};
 	framePtr = F;
 		F.line = 398;
-		result_584221.a = a_584211;
+		result_585421.a = a_585411;
 		F.line = 399;
-		result_584221.b = b_584213;
+		result_585421.b = b_585413;
 	framePtr = F.prev;
 
-	return result_584221;
+	return result_585421;
 
 }
 
@@ -20316,27 +20317,27 @@ function new_py_frame_538057() {
 
 }
 
-function new_seq_563054(len_563058) {
-	var result_563060 = null;
+function new_seq_563854(len_563858) {
+	var result_563860 = null;
 
 	var F={procname:"newSeq.newSeq",prev:framePtr,filename:"../../../../.choosenim/toolchains/nim-0.19.4/lib/system.nim",line:0};
 	framePtr = F;
 		F.line = 763;
-		result_563060 = new Array(len_563058); for (var i=0;i<len_563058;++i) {result_563060[i]=null;}	framePtr = F.prev;
+		result_563860 = new Array(len_563858); for (var i=0;i<len_563858;++i) {result_563860[i]=null;}	framePtr = F.prev;
 
-	return result_563060;
+	return result_563860;
 
 }
 
-function new_seq_586652(len_586656) {
-	var result_586658 = null;
+function new_seq_587852(len_587856) {
+	var result_587858 = null;
 
 	var F={procname:"newSeq.newSeq",prev:framePtr,filename:"../../../../.choosenim/toolchains/nim-0.19.4/lib/system.nim",line:0};
 	framePtr = F;
 		F.line = 763;
-		result_586658 = new Array(len_586656); for (var i=0;i<len_586656;++i) {result_586658[i]=null;}	framePtr = F.prev;
+		result_587858 = new Array(len_587856); for (var i=0;i<len_587856;++i) {result_587858[i]=null;}	framePtr = F.prev;
 
-	return result_586658;
+	return result_587858;
 
 }
 
@@ -20369,256 +20370,256 @@ function of_py_cell_object_535158(obj_535095) {
 }
 
 function new_py_frame_551050(fun_551052, args_551054, back_551055) {
-	var result_583221 = null;
+	var result_584421 = null;
 
 	var F={procname:"neval.newPyFrame",prev:framePtr,filename:"neval.nim",line:0};
 	framePtr = F;
 	BeforeRet: do {
-		F.line = 645;
-		F.line = 645;
-		var code_583222 = fun_551052.code;
-		if (((code_583222.argScopes != null ? code_583222.argScopes.length : 0) < (args_551054 != null ? args_551054.length : 0))) {
-		F.line = 648;
-		F.line = 648;
-		var fmt_res_583240 = mnewString(0);
+		F.line = 652;
+		F.line = 652;
+		var code_584422 = fun_551052.code;
+		if (((code_584422.argScopes != null ? code_584422.argScopes.length : 0) < (args_551054 != null ? args_551054.length : 0))) {
+		F.line = 655;
+		F.line = 655;
+		var fmt_res_584440 = mnewString(0);
 		F.line = 260;
-		if (fmt_res_583240 != null) { fmt_res_583240 = (fmt_res_583240).concat(fun_551052.name.str); } else { fmt_res_583240 = fun_551052.name.str.slice(); };
-		F.line = 648;
-		if (fmt_res_583240 != null) { fmt_res_583240 = (fmt_res_583240).concat(makeNimstrLit("() takes ")); } else { fmt_res_583240 = makeNimstrLit("() takes "); };
+		if (fmt_res_584440 != null) { fmt_res_584440 = (fmt_res_584440).concat(fun_551052.name.str); } else { fmt_res_584440 = fun_551052.name.str.slice(); };
+		F.line = 655;
+		if (fmt_res_584440 != null) { fmt_res_584440 = (fmt_res_584440).concat(makeNimstrLit("() takes ")); } else { fmt_res_584440 = makeNimstrLit("() takes "); };
 		F.line = 270;
-		if (fmt_res_583240 != null) { fmt_res_583240 = (fmt_res_583240).concat(cstrToNimstr(((code_583222.argScopes != null ? code_583222.argScopes.length : 0))+"")); } else { fmt_res_583240 = cstrToNimstr(((code_583222.argScopes != null ? code_583222.argScopes.length : 0))+"").slice(); };
-		F.line = 648;
-		if (fmt_res_583240 != null) { fmt_res_583240 = (fmt_res_583240).concat(makeNimstrLit(" positional arguments but ")); } else { fmt_res_583240 = makeNimstrLit(" positional arguments but "); };
+		if (fmt_res_584440 != null) { fmt_res_584440 = (fmt_res_584440).concat(cstrToNimstr(((code_584422.argScopes != null ? code_584422.argScopes.length : 0))+"")); } else { fmt_res_584440 = cstrToNimstr(((code_584422.argScopes != null ? code_584422.argScopes.length : 0))+"").slice(); };
+		F.line = 655;
+		if (fmt_res_584440 != null) { fmt_res_584440 = (fmt_res_584440).concat(makeNimstrLit(" positional arguments but ")); } else { fmt_res_584440 = makeNimstrLit(" positional arguments but "); };
 		F.line = 270;
-		if (fmt_res_583240 != null) { fmt_res_583240 = (fmt_res_583240).concat(cstrToNimstr(((args_551054 != null ? args_551054.length : 0))+"")); } else { fmt_res_583240 = cstrToNimstr(((args_551054 != null ? args_551054.length : 0))+"").slice(); };
-		F.line = 648;
-		if (fmt_res_583240 != null) { fmt_res_583240 = (fmt_res_583240).concat(makeNimstrLit(" were given")); } else { fmt_res_583240 = makeNimstrLit(" were given"); };
-		var msg_583808 = nimCopy(null, fmt_res_583240, NTI138);
-		F.line = 649;
+		if (fmt_res_584440 != null) { fmt_res_584440 = (fmt_res_584440).concat(cstrToNimstr(((args_551054 != null ? args_551054.length : 0))+"")); } else { fmt_res_584440 = cstrToNimstr(((args_551054 != null ? args_551054.length : 0))+"").slice(); };
+		F.line = 655;
+		if (fmt_res_584440 != null) { fmt_res_584440 = (fmt_res_584440).concat(makeNimstrLit(" were given")); } else { fmt_res_584440 = makeNimstrLit(" were given"); };
+		var msg_585008 = nimCopy(null, fmt_res_584440, NTI138);
+		F.line = 656;
 		F.line = 104;
-		var excp_583810 = new_py_type_error_simple_360601();
+		var excp_585010 = new_py_type_error_simple_360601();
 		F.line = 105;
-		excp_583810.tk = 3;
+		excp_585010.tk = 3;
 		F.line = 106;
-		excp_583810.thrown = true;
+		excp_585010.thrown = true;
 		F.line = 107;
-		excp_583810.msg = new_py_string_176075(msg_583808);
-		result_583221 = excp_583810;
+		excp_585010.msg = new_py_string_176075(msg_585008);
+		result_584421 = excp_585010;
 		break BeforeRet;
 		}
 		else {
-		if (((args_551054 != null ? args_551054.length : 0) < (code_583222.argScopes != null ? code_583222.argScopes.length : 0))) {
-		F.line = 651;
-		var diff_583840 = subInt((code_583222.argScopes != null ? code_583222.argScopes.length : 0), (args_551054 != null ? args_551054.length : 0));
-		F.line = 652;
-		F.line = 652;
-		var fmt_res_583844 = mnewString(0);
+		if (((args_551054 != null ? args_551054.length : 0) < (code_584422.argScopes != null ? code_584422.argScopes.length : 0))) {
+		F.line = 658;
+		var diff_585040 = subInt((code_584422.argScopes != null ? code_584422.argScopes.length : 0), (args_551054 != null ? args_551054.length : 0));
+		F.line = 659;
+		F.line = 659;
+		var fmt_res_585044 = mnewString(0);
 		F.line = 260;
-		if (fmt_res_583844 != null) { fmt_res_583844 = (fmt_res_583844).concat(fun_551052.name.str); } else { fmt_res_583844 = fun_551052.name.str.slice(); };
-		F.line = 652;
-		if (fmt_res_583844 != null) { fmt_res_583844 = (fmt_res_583844).concat(makeNimstrLit("() missing ")); } else { fmt_res_583844 = makeNimstrLit("() missing "); };
+		if (fmt_res_585044 != null) { fmt_res_585044 = (fmt_res_585044).concat(fun_551052.name.str); } else { fmt_res_585044 = fun_551052.name.str.slice(); };
+		F.line = 659;
+		if (fmt_res_585044 != null) { fmt_res_585044 = (fmt_res_585044).concat(makeNimstrLit("() missing ")); } else { fmt_res_585044 = makeNimstrLit("() missing "); };
 		F.line = 270;
-		if (fmt_res_583844 != null) { fmt_res_583844 = (fmt_res_583844).concat(cstrToNimstr((diff_583840)+"")); } else { fmt_res_583844 = cstrToNimstr((diff_583840)+"").slice(); };
-		F.line = 652;
-		if (fmt_res_583844 != null) { fmt_res_583844 = (fmt_res_583844).concat(makeNimstrLit(" required positional argument: ")); } else { fmt_res_583844 = makeNimstrLit(" required positional argument: "); };
-		F.line = 653;
-		var fmt_res_584204 = mnewString(0);
+		if (fmt_res_585044 != null) { fmt_res_585044 = (fmt_res_585044).concat(cstrToNimstr((diff_585040)+"")); } else { fmt_res_585044 = cstrToNimstr((diff_585040)+"").slice(); };
+		F.line = 659;
+		if (fmt_res_585044 != null) { fmt_res_585044 = (fmt_res_585044).concat(makeNimstrLit(" required positional argument: ")); } else { fmt_res_585044 = makeNimstrLit(" required positional argument: "); };
+		F.line = 660;
+		var fmt_res_585404 = mnewString(0);
 		F.line = 270;
-		if (fmt_res_584204 != null) { fmt_res_584204 = (fmt_res_584204).concat(HEX24_489237(HEX5BHEX5D_584249(code_583222.argNames, HEX2EHEX2E_584206(diff_583840, 1)))); } else { fmt_res_584204 = HEX24_489237(HEX5BHEX5D_584249(code_583222.argNames, HEX2EHEX2E_584206(diff_583840, 1))).slice(); };
-		F.line = 653;
-		if (fmt_res_584204 != null) { fmt_res_584204 = (fmt_res_584204).concat(makeNimstrLit(". ")); } else { fmt_res_584204 = makeNimstrLit(". "); };
+		if (fmt_res_585404 != null) { fmt_res_585404 = (fmt_res_585404).concat(HEX24_489237(HEX5BHEX5D_585449(code_584422.argNames, HEX2EHEX2E_585406(diff_585040, 1)))); } else { fmt_res_585404 = HEX24_489237(HEX5BHEX5D_585449(code_584422.argNames, HEX2EHEX2E_585406(diff_585040, 1))).slice(); };
+		F.line = 660;
+		if (fmt_res_585404 != null) { fmt_res_585404 = (fmt_res_585404).concat(makeNimstrLit(". ")); } else { fmt_res_585404 = makeNimstrLit(". "); };
 		F.line = 270;
-		if (fmt_res_584204 != null) { fmt_res_584204 = (fmt_res_584204).concat(cstrToNimstr(((args_551054 != null ? args_551054.length : 0))+"")); } else { fmt_res_584204 = cstrToNimstr(((args_551054 != null ? args_551054.length : 0))+"").slice(); };
-		F.line = 653;
-		if (fmt_res_584204 != null) { fmt_res_584204 = (fmt_res_584204).concat(makeNimstrLit(" args are given.")); } else { fmt_res_584204 = makeNimstrLit(" args are given."); };
-		var msg_586608 = (fmt_res_583844).concat(fmt_res_584204);
-		F.line = 654;
+		if (fmt_res_585404 != null) { fmt_res_585404 = (fmt_res_585404).concat(cstrToNimstr(((args_551054 != null ? args_551054.length : 0))+"")); } else { fmt_res_585404 = cstrToNimstr(((args_551054 != null ? args_551054.length : 0))+"").slice(); };
+		F.line = 660;
+		if (fmt_res_585404 != null) { fmt_res_585404 = (fmt_res_585404).concat(makeNimstrLit(" args are given.")); } else { fmt_res_585404 = makeNimstrLit(" args are given."); };
+		var msg_587808 = (fmt_res_585044).concat(fmt_res_585404);
+		F.line = 661;
 		F.line = 104;
-		var excp_586610 = new_py_type_error_simple_360601();
+		var excp_587810 = new_py_type_error_simple_360601();
 		F.line = 105;
-		excp_586610.tk = 3;
+		excp_587810.tk = 3;
 		F.line = 106;
-		excp_586610.thrown = true;
+		excp_587810.thrown = true;
 		F.line = 107;
-		excp_586610.msg = new_py_string_176075(msg_586608);
-		result_583221 = excp_586610;
+		excp_587810.msg = new_py_string_176075(msg_587808);
+		result_584421 = excp_587810;
 		break BeforeRet;
 		}
 		}
-		F.line = 655;
-		var frame_586612 = new_py_frame_538057();
-		F.line = 656;
-		frame_586612.back = back_551055;
-		F.line = 657;
-		frame_586612.code = code_583222;
-		F.line = 658;
-		frame_586612.globals = fun_551052.globals;
-		F.line = 660;
-		frame_586612.fastLocals = nimCopy(null, new_seq_563054(chckRange((code_583222.localVars != null ? code_583222.localVars.length : 0), 0, 2147483647)), NTI563059);
-		F.line = 661;
-		frame_586612.cellVars = nimCopy(null, new_seq_586652(chckRange(addInt((code_583222.cellVars != null ? code_583222.cellVars.length : 0), (code_583222.freeVars != null ? code_583222.freeVars.length : 0)), 0, 2147483647)), NTI586657);
+		F.line = 662;
+		var frame_587812 = new_py_frame_538057();
+		F.line = 663;
+		frame_587812.back = back_551055;
+		F.line = 664;
+		frame_587812.code = code_584422;
+		F.line = 665;
+		frame_587812.globals = fun_551052.globals;
+		F.line = 667;
+		frame_587812.fastLocals = nimCopy(null, new_seq_563854(chckRange((code_584422.localVars != null ? code_584422.localVars.length : 0), 0, 2147483647)), NTI563859);
+		F.line = 668;
+		frame_587812.cellVars = nimCopy(null, new_seq_587852(chckRange(addInt((code_584422.cellVars != null ? code_584422.cellVars.length : 0), (code_584422.freeVars != null ? code_584422.freeVars.length : 0)), 0, 2147483647)), NTI587857);
 		L1: do {
-			F.line = 663;
-			var i_586731 = 0;
+			F.line = 670;
+			var i_587931 = 0;
 			F.line = 3616;
-			var colontmp__587611 = 0;
-			F.line = 663;
-			colontmp__587611 = (code_583222.cellVars != null ? code_583222.cellVars.length : 0);
+			var colontmp__588811 = 0;
+			F.line = 670;
+			colontmp__588811 = (code_584422.cellVars != null ? code_584422.cellVars.length : 0);
 			F.line = 3617;
-			var i_587614 = 0;
+			var i_588814 = 0;
 			L2: do {
 				F.line = 3618;
 					L3: while (true) {
-					if (!(i_587614 < colontmp__587611)) break L3;
+					if (!(i_588814 < colontmp__588811)) break L3;
 						F.line = 3619;
-						i_586731 = i_587614;
-						F.line = 664;
-						frame_586612.cellVars[chckIndx(i_586731, 0, frame_586612.cellVars.length+0-1)-0] = new_py_cell_536057(null);
+						i_587931 = i_588814;
+						F.line = 671;
+						frame_587812.cellVars[chckIndx(i_587931, 0, frame_587812.cellVars.length+0-1)-0] = new_py_cell_536057(null);
 						F.line = 3620;
-						i_587614 = addInt(i_587614, 1);
+						i_588814 = addInt(i_588814, 1);
 					}
 			} while(false);
 		} while(false);
 		L4: do {
-			F.line = 666;
-			var i_586749 = 0;
+			F.line = 673;
+			var i_587949 = 0;
 			F.line = 3616;
-			var colontmp__587617 = 0;
-			F.line = 666;
-			colontmp__587617 = (args_551054 != null ? args_551054.length : 0);
+			var colontmp__588817 = 0;
+			F.line = 673;
+			colontmp__588817 = (args_551054 != null ? args_551054.length : 0);
 			F.line = 3617;
-			var i_587620 = 0;
+			var i_588820 = 0;
 			L5: do {
 				F.line = 3618;
 					L6: while (true) {
-					if (!(i_587620 < colontmp__587617)) break L6;
+					if (!(i_588820 < colontmp__588817)) break L6;
 						F.line = 3619;
-						i_586749 = i_587620;
-						F.line = 667;
-						var colontmp__598153 = {Field0: 0, Field1: 0};
-						F.line = 667;
-						var scope_586750 = 0;
-						F.line = 667;
-						var scope_idx_586751 = 0;
-						F.line = 667;
-						nimCopy(colontmp__598153, code_583222.argScopes[chckIndx(i_586749, 0, code_583222.argScopes.length+0-1)-0], NTI487148);
-						F.line = 667;
-						scope_586750 = colontmp__598153["Field0"];
-						F.line = 667;
-						scope_idx_586751 = colontmp__598153["Field1"];
-						F.line = 668;
-						switch (scope_586750) {
+						i_587949 = i_588820;
+						F.line = 674;
+						var colontmp__600153 = {Field0: 0, Field1: 0};
+						F.line = 674;
+						var scope_587950 = 0;
+						F.line = 674;
+						var scope_idx_587951 = 0;
+						F.line = 674;
+						nimCopy(colontmp__600153, code_584422.argScopes[chckIndx(i_587949, 0, code_584422.argScopes.length+0-1)-0], NTI487148);
+						F.line = 674;
+						scope_587950 = colontmp__600153["Field0"];
+						F.line = 674;
+						scope_idx_587951 = colontmp__600153["Field1"];
+						F.line = 675;
+						switch (scope_587950) {
 						case 0:
-							F.line = 670;
-							frame_586612.fastLocals[chckIndx(scope_idx_586751, 0, frame_586612.fastLocals.length+0-1)-0] = args_551054[chckIndx(i_586749, 0, args_551054.length+0-1)-0];
+							F.line = 677;
+							frame_587812.fastLocals[chckIndx(scope_idx_587951, 0, frame_587812.fastLocals.length+0-1)-0] = args_551054[chckIndx(i_587949, 0, args_551054.length+0-1)-0];
 							break;
 						case 3:
 							F.line = 2895;
-							var e_586759 = null;
+							var e_587959 = null;
 							F.line = 2896;
-							e_586759 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
+							e_587959 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
 							F.line = 25;
-							e_586759.message = nimCopy(null, makeNimstrLit("Shouldn\'t be here"), NTI138);
+							e_587959.message = nimCopy(null, makeNimstrLit("Shouldn\'t be here"), NTI138);
 							F.line = 2891;
-							e_586759.parent = null;
-							F.line = 672;
-							raiseException(e_586759, "InternalError");
+							e_587959.parent = null;
+							F.line = 679;
+							raiseException(e_587959, "InternalError");
 							break;
 						case 1:
-							F.line = 674;
-							frame_586612.cellVars[chckIndx(scope_idx_586751, 0, frame_586612.cellVars.length+0-1)-0].refObj = args_551054[chckIndx(i_586749, 0, args_551054.length+0-1)-0];
+							F.line = 681;
+							frame_587812.cellVars[chckIndx(scope_idx_587951, 0, frame_587812.cellVars.length+0-1)-0].refObj = args_551054[chckIndx(i_587949, 0, args_551054.length+0-1)-0];
 							break;
 						case 2:
 							F.line = 2895;
-							var e_586808 = null;
+							var e_588008 = null;
 							F.line = 2896;
-							e_586808 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
-							F.line = 676;
-							e_586808.message = nimCopy(null, makeNimstrLit("arguments can\'t be free"), NTI138);
+							e_588008 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
+							F.line = 683;
+							e_588008.message = nimCopy(null, makeNimstrLit("arguments can\'t be free"), NTI138);
 							F.line = 2891;
-							e_586808.parent = null;
-							F.line = 676;
-							raiseException(e_586808, "InternalError");
+							e_588008.parent = null;
+							F.line = 683;
+							raiseException(e_588008, "InternalError");
 							break;
 						}
 						F.line = 3620;
-						i_587620 = addInt(i_587620, 1);
+						i_588820 = addInt(i_588820, 1);
 					}
 			} while(false);
 		} while(false);
 		if ((fun_551052.closure === null)) {
-		if (!(((code_583222.freeVars != null ? code_583222.freeVars.length : 0) == 0))) {
-		F.line = 679;
-		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Python/neval.nim(679, 12) `len(code.freeVars) == 0` "));
+		if (!(((code_584422.freeVars != null ? code_584422.freeVars.length : 0) == 0))) {
+		F.line = 686;
+		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Python/neval.nim(686, 12) `len(code.freeVars) == 0` "));
 		}
 		
 		}
 		else {
-			if (!(((code_583222.freeVars != null ? code_583222.freeVars.length : 0) == (fun_551052.closure.items != null ? fun_551052.closure.items.length : 0)))) {
-			F.line = 681;
-			failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Python/neval.nim(681, 12) `len(code.freeVars) == len(fun.closure.items)` "));
+			if (!(((code_584422.freeVars != null ? code_584422.freeVars.length : 0) == (fun_551052.closure.items != null ? fun_551052.closure.items.length : 0)))) {
+			F.line = 688;
+			failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Python/neval.nim(688, 12) `len(code.freeVars) == len(fun.closure.items)` "));
 			}
 			
 			L7: do {
-				F.line = 682;
-				var idx_587414 = 0;
-				F.line = 682;
-				var c_587415 = null;
+				F.line = 689;
+				var idx_588614 = 0;
+				F.line = 689;
+				var c_588615 = null;
 				F.line = 2352;
-				var colontmp__587623 = null;
-				F.line = 682;
-				colontmp__587623 = fun_551052.closure.items;
+				var colontmp__588823 = null;
+				F.line = 689;
+				colontmp__588823 = fun_551052.closure.items;
 				F.line = 2354;
-				var i_587626 = 0;
+				var i_588826 = 0;
 				L8: do {
 					F.line = 2355;
 						L9: while (true) {
-						if (!(i_587626 < (colontmp__587623 != null ? colontmp__587623.length : 0))) break L9;
+						if (!(i_588826 < (colontmp__588823 != null ? colontmp__588823.length : 0))) break L9;
 							F.line = 2356;
-							idx_587414 = i_587626;
+							idx_588614 = i_588826;
 							F.line = 2356;
-							c_587415 = colontmp__587623[chckIndx(i_587626, 0, colontmp__587623.length+0-1)-0];
-							if (!(of_py_cell_object_535158(c_587415))) {
-							F.line = 683;
-							failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Python/neval.nim(683, 14) `ofPyCellObject(c)` "));
+							c_588615 = colontmp__588823[chckIndx(i_588826, 0, colontmp__588823.length+0-1)-0];
+							if (!(of_py_cell_object_535158(c_588615))) {
+							F.line = 690;
+							failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Python/neval.nim(690, 14) `ofPyCellObject(c)` "));
 							}
 							
-							F.line = 684;
-							frame_586612.cellVars[chckIndx(addInt((code_583222.cellVars != null ? code_583222.cellVars.length : 0), idx_587414), 0, frame_586612.cellVars.length+0-1)-0] = c_587415;
+							F.line = 691;
+							frame_587812.cellVars[chckIndx(addInt((code_584422.cellVars != null ? code_584422.cellVars.length : 0), idx_588614), 0, frame_587812.cellVars.length+0-1)-0] = c_588615;
 							F.line = 2357;
-							i_587626 = addInt(i_587626, 1);
+							i_588826 = addInt(i_588826, 1);
 						}
 				} while(false);
 			} while(false);
 		}
 		
-		result_583221 = frame_586612;
+		result_584421 = frame_587812;
 	} while (false);
 	framePtr = F.prev;
 
-	return result_583221;
+	return result_584421;
 
 }
 
-function HEX5BHEX5D_551617(s_551623, i_551625) {
-	var result_551627 = [null, 0];
-	var result_551627_Idx = 0;
+function HEX5BHEX5D_552217(s_552223, i_552225) {
+	var result_552227 = [null, 0];
+	var result_552227_Idx = 0;
 
 	var F={procname:"[].[]",prev:framePtr,filename:"../../../../.choosenim/toolchains/nim-0.19.4/lib/system.nim",line:0};
 	framePtr = F;
 		F.line = 3730;
-		result_551627 = s_551623; result_551627_Idx = chckIndx(subInt((s_551623 != null ? s_551623.length : 0), i_551625), 0, s_551623.length+0-1)-0;
+		result_552227 = s_552223; result_552227_Idx = chckIndx(subInt((s_552223 != null ? s_552223.length : 0), i_552225), 0, s_552223.length+0-1)-0;
 	framePtr = F.prev;
 
-	return [result_551627, result_551627_Idx];
+	return [result_552227, result_552227_Idx];
 
 }
 
-function HEX5BHEX5DHEX3D_552604(s_552610, i_552612, x_552614) {
+function HEX5BHEX5DHEX3D_553204(s_553210, i_553212, x_553214) {
 	var F={procname:"[]=.[]=",prev:framePtr,filename:"../../../../.choosenim/toolchains/nim-0.19.4/lib/system.nim",line:0};
 	framePtr = F;
 		F.line = 3735;
-		s_552610[chckIndx(subInt((s_552610 != null ? s_552610.length : 0), i_552612), 0, s_552610.length+0-1)-0] = x_552614;
+		s_553210[chckIndx(subInt((s_553210 != null ? s_553210.length : 0), i_553212), 0, s_553210.length+0-1)-0] = x_553214;
 	framePtr = F.prev;
 
 	
@@ -20675,35 +20676,35 @@ function HEX5BHEX5D_523323(dict_523325, key_523326) {
 
 }
 
-function HEX5BHEX5D_561636(s_561642, i_561644) {
-	var result_561646 = [null, 0];
-	var result_561646_Idx = 0;
+function HEX5BHEX5D_562236(s_562242, i_562244) {
+	var result_562246 = [null, 0];
+	var result_562246_Idx = 0;
 
 	var F={procname:"[].[]",prev:framePtr,filename:"../../../../.choosenim/toolchains/nim-0.19.4/lib/system.nim",line:0};
 	framePtr = F;
 		F.line = 3730;
-		result_561646 = s_561642; result_561646_Idx = chckIndx(subInt((s_561642 != null ? s_561642.length : 0), i_561644), 0, s_561642.length+0-1)-0;
+		result_562246 = s_562242; result_562246_Idx = chckIndx(subInt((s_562242 != null ? s_562242.length : 0), i_562244), 0, s_562242.length+0-1)-0;
 	framePtr = F.prev;
 
-	return [result_561646, result_561646_Idx];
+	return [result_562246, result_562246_Idx];
 
 }
 
-function pop_561671(s_561677, s_561677_Idx) {
-	var result_561678 = null;
+function pop_562271(s_562277, s_562277_Idx) {
+	var result_562278 = null;
 
 	var F={procname:"pop.pop",prev:framePtr,filename:"../../../../.choosenim/toolchains/nim-0.19.4/lib/system.nim",line:0};
 	framePtr = F;
 		F.line = 2524;
-		var l_561686 = subInt((s_561677[s_561677_Idx] != null ? s_561677[s_561677_Idx].length : 0), 1);
+		var l_562286 = subInt((s_562277[s_562277_Idx] != null ? s_562277[s_562277_Idx].length : 0), 1);
 		F.line = 2525;
-		result_561678 = s_561677[s_561677_Idx][chckIndx(l_561686, 0, s_561677[s_561677_Idx].length+0-1)-0];
+		result_562278 = s_562277[s_562277_Idx][chckIndx(l_562286, 0, s_562277[s_562277_Idx].length+0-1)-0];
 		F.line = 2526;
-		if (s_561677[s_561677_Idx].length < chckRange(l_561686, 0, 2147483647)) { for (var i=s_561677[s_561677_Idx].length;i<chckRange(l_561686, 0, 2147483647);++i) s_561677[s_561677_Idx].push(null); }
-               else { s_561677[s_561677_Idx].length = chckRange(l_561686, 0, 2147483647); };
+		if (s_562277[s_562277_Idx].length < chckRange(l_562286, 0, 2147483647)) { for (var i=s_562277[s_562277_Idx].length;i<chckRange(l_562286, 0, 2147483647);++i) s_562277[s_562277_Idx].push(null); }
+               else { s_562277[s_562277_Idx].length = chckRange(l_562286, 0, 2147483647); };
 	framePtr = F.prev;
 
-	return result_561678;
+	return result_562278;
 
 }
 
@@ -20800,23 +20801,23 @@ function match_excp_486072(target_486074, current_486075) {
 }
 
 function py_import_551059(name_551061) {
-	var result_582980 = null;
+	var result_584182 = null;
 
 	var F={procname:"neval.pyImport",prev:framePtr,filename:"neval.nim",line:0};
 	framePtr = F;
-		F.line = 609;
+		F.line = 616;
 		F.line = 104;
-		var excp_582982 = new_py_runtime_error_simple_371601();
+		var excp_584184 = new_py_runtime_error_simple_371601();
 		F.line = 105;
-		excp_582982.tk = 14;
+		excp_584184.tk = 14;
 		F.line = 106;
-		excp_582982.thrown = true;
+		excp_584184.thrown = true;
 		F.line = 107;
-		excp_582982.msg = new_py_string_176075(makeNimstrLit("Can\'t import in js mode"));
-		result_582980 = excp_582982;
+		excp_584184.msg = new_py_string_176075(makeNimstrLit("Can\'t import in js mode"));
+		result_584182 = excp_584184;
 	framePtr = F.prev;
 
-	return result_582980;
+	return result_584182;
 
 }
 
@@ -21057,180 +21058,180 @@ function eval_frame_551056(f_551058) {
 											var Tmp34;
 										var Tmp35;
 											var Tmp36;
-											var Tmp37;
+												var Tmp37;
 												var Tmp38;
-														var Tmp42;
-														var Tmp46;
-												var Tmp47;
-																var Tmp51;
-															var Tmp55;
-										var Tmp56;
-											var Tmp57;
+												var Tmp39;
+														var Tmp43;
+														var Tmp47;
+												var Tmp48;
+																var Tmp52;
+															var Tmp56;
+										var Tmp57;
 											var Tmp58;
-															var Tmp68;
-										var Tmp69;
-											var Tmp70;
+											var Tmp59;
+															var Tmp69;
+										var Tmp70;
 											var Tmp71;
-												var Tmp72;
-											var Tmp73;
-												var Tmp74;
-											var Tmp75;
-												var Tmp76;
-											var Tmp77;
-												var Tmp78;
-											var Tmp79;
-												var Tmp80;
-											var Tmp81;
-												var Tmp82;
-											var Tmp83;
-												var Tmp84;
-											var Tmp85;
-												var Tmp86;
+											var Tmp72;
+												var Tmp73;
+											var Tmp74;
+												var Tmp75;
+											var Tmp76;
+												var Tmp77;
+											var Tmp78;
+												var Tmp79;
+											var Tmp80;
+												var Tmp81;
+											var Tmp82;
+												var Tmp83;
+											var Tmp84;
+												var Tmp85;
+											var Tmp86;
 												var Tmp87;
-													var Tmp88;
+												var Tmp88;
 													var Tmp89;
-											var Tmp90;
+													var Tmp90;
 											var Tmp91;
-										var Tmp92;
-												var Tmp93;
-										var Tmp94;
-												var Tmp95;
+											var Tmp92;
+										var Tmp93;
+												var Tmp94;
+										var Tmp95;
 												var Tmp96;
 												var Tmp97;
-										var Tmp98;
-												var Tmp99;
-													var Tmp100;
-												var Tmp101;
-											var Tmp105;
+												var Tmp98;
+										var Tmp99;
+												var Tmp100;
+													var Tmp101;
+												var Tmp102;
 											var Tmp106;
-										var Tmp107;
-											var Tmp108;
-										var Tmp109;
+											var Tmp107;
+										var Tmp108;
+											var Tmp109;
+										var Tmp110;
 
-						function set_trace_back_551218(excp_551220) {
+						function set_trace_back_551418(excp_551420) {
 							var F={procname:"evalFrame.setTraceBack",prev:framePtr,filename:"neval.nim",line:0};
 							framePtr = F;
-								F.line = 99;
-								var line_no_551221 = f_551058.code.lineNos[chckIndx(last_i_551203, 0, f_551058.code.lineNos.length+0-1)-0];
 								F.line = 101;
-								if (excp_551220.traceBacks != null) { excp_551220.traceBacks.push({Field0: f_551058.code.fileName, Field1: f_551058.code.codeName, Field2: line_no_551221, Field3: -1}); } else { excp_551220.traceBacks = [{Field0: f_551058.code.fileName, Field1: f_551058.code.codeName, Field2: line_no_551221, Field3: -1}]; };
+								var line_no_551421 = f_551058.code.lineNos[chckIndx(last_i_551403, 0, f_551058.code.lineNos.length+0-1)-0];
+								F.line = 103;
+								if (excp_551420.traceBacks != null) { excp_551420.traceBacks.push({Field0: f_551058.code.fileName, Field1: f_551058.code.codeName, Field2: line_no_551421, Field3: -1}); } else { excp_551420.traceBacks = [{Field0: f_551058.code.fileName, Field1: f_551058.code.codeName, Field2: line_no_551421, Field3: -1}]; };
 							framePtr = F.prev;
 
 							
 						}
-									var Tmp113;
-										var Tmp114;
+									var Tmp114;
+											var Tmp115;
+											var Tmp116;
 
-	var result_551112 = null;
+	var result_551217 = null;
 
 	var F={procname:"neval.evalFrame",prev:framePtr,filename:"neval.nim",line:0};
 	framePtr = F;
 	BeforeRet: do {
-		F.line = 81;
-		var last_i_551203 = -1;
-		F.line = 84;
-		var op_code_551204 = 0;
-		F.line = 85;
-		var op_arg_551205 = 0;
-		F.line = 143;
-		var constants_551287 = f_551058.code, constants_551287_Idx = "constants";
-		F.line = 144;
-		var names_551289 = f_551058.code, names_551289_Idx = "names";
-		F.line = 145;
-		var fast_locals_551291 = f_551058, fast_locals_551291_Idx = "fastLocals";
-		F.line = 146;
-		var cell_vars_551293 = f_551058, cell_vars_551293_Idx = "cellVars";
+		F.line = 83;
+		var last_i_551403 = -1;
+		F.line = 86;
+		var op_code_551404 = 0;
+		F.line = 87;
+		var op_arg_551405 = 0;
+		F.line = 149;
+		var constants_551643 = f_551058.code, constants_551643_Idx = "constants";
 		F.line = 150;
-		var block_stack_551295 = null;
-		F.line = 175;
+		var names_551645 = f_551058.code, names_551645_Idx = "names";
+		F.line = 151;
+		var fast_locals_551647 = f_551058, fast_locals_551647_Idx = "fastLocals";
+		F.line = 152;
+		var cell_vars_551649 = f_551058, cell_vars_551649_Idx = "cellVars";
+		F.line = 182;
 		try {
 		L2: do {
-			F.line = 177;
+			F.line = 184;
 				L3: while (true) {
 				if (!true) break L3;
-					F.line = 178;
-					var excp_obj_551322 = null;
+					F.line = 185;
+					var excp_obj_551827 = null;
 					L4: do {
-						F.line = 180;
+						F.line = 187;
 							L5: while (true) {
 							if (!true) break L5;
 								L6: do {
-									F.line = 182;
-									var colontmp__598154 = {Field0: 0, Field1: 0};
-									F.line = 182;
-									var op_code_551405 = 0;
-									F.line = 182;
-									var op_arg_551406 = 0;
-									F.line = 182;
-									F.line = 87;
-									last_i_551203 = addInt(last_i_551203, 1);
-									nimCopy(colontmp__598154, f_551058.code.code[chckIndx(last_i_551203, 0, f_551058.code.code.length+0-1)-0], NTI551208);
-									F.line = 182;
-									op_code_551405 = colontmp__598154["Field0"];
-									F.line = 182;
-									op_arg_551406 = colontmp__598154["Field1"];
-									F.line = 185;
-									switch (op_code_551405) {
+									F.line = 189;
+									var colontmp__600154 = {Field0: 0, Field1: 0};
+									F.line = 189;
+									var op_code_552005 = 0;
+									F.line = 189;
+									var op_arg_552006 = 0;
+									F.line = 189;
+									F.line = 89;
+									last_i_551403 = addInt(last_i_551403, 1);
+									nimCopy(colontmp__600154, f_551058.code.code[chckIndx(last_i_551403, 0, f_551058.code.code.length+0-1)-0], NTI551408);
+									F.line = 189;
+									op_code_552005 = colontmp__600154["Field0"];
+									F.line = 189;
+									op_arg_552006 = colontmp__600154["Field1"];
+									F.line = 192;
+									switch (op_code_552005) {
 									case 1:
-										F.line = 187;
+										F.line = 194;
 										pop_518821(val_stack_551095, 0);
 										break;
 									case 4:
-										F.line = 127;
-										if (val_stack_551095[0] != null) { val_stack_551095[0].push((Tmp7 = HEX5BHEX5D_551617(val_stack_551095[0], 1), Tmp7[0])[Tmp7[1]]); } else { val_stack_551095[0] = [(Tmp7 = HEX5BHEX5D_551617(val_stack_551095[0], 1), Tmp7[0])[Tmp7[1]]]; };
+										F.line = 129;
+										if (val_stack_551095[0] != null) { val_stack_551095[0].push((Tmp7 = HEX5BHEX5D_552217(val_stack_551095[0], 1), Tmp7[0])[Tmp7[1]]); } else { val_stack_551095[0] = [(Tmp7 = HEX5BHEX5D_552217(val_stack_551095[0], 1), Tmp7[0])[Tmp7[1]]]; };
 										break;
 									case 7:
-										F.line = 193;
+										F.line = 200;
 										break L6;
 										break;
 									case 8:
 										F.line = 43;
-										var top_551833 = (Tmp8 = HEX5BHEX5D_551617(val_stack_551095[0], 1), Tmp8[0])[Tmp8[1]];
+										var top_552433 = (Tmp8 = HEX5BHEX5D_552217(val_stack_551095[0], 1), Tmp8[0])[Tmp8[1]];
 										F.line = 44;
 										F.line = 45;
-										if ((top_551833.pyType === null)) {
+										if ((top_552433.pyType === null)) {
 										F.line = 2895;
-										var e_551860 = null;
+										var e_552460 = null;
 										F.line = 2896;
-										e_551860 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
+										e_552460 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
 										F.line = 26;
-										e_551860.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
+										e_552460.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
 										F.line = 2891;
-										e_551860.parent = null;
+										e_552460.parent = null;
 										F.line = 26;
-										raiseException(e_551860, "InternalError");
+										raiseException(e_552460, "InternalError");
 										}
 										
 										F.line = 27;
-										var fun_552002 = top_551833.pyType.magicMethods.Field9;
-										if ((fun_552002 === null)) {
+										var fun_552602 = top_552433.pyType.magicMethods.Field9;
+										if ((fun_552602 === null)) {
 										F.line = 29;
-										var obj_type_str_552011 = top_551833.pyType.name;
+										var obj_type_str_552611 = top_552433.pyType.name;
 										F.line = 30;
-										var method_str_552013 = makeNimstrLit("positive");
+										var method_str_552613 = makeNimstrLit("positive");
 										F.line = 31;
-										var msg_552015 = (makeNimstrLit("No ")).concat(method_str_552013,makeNimstrLit(" method for "),obj_type_str_552011,makeNimstrLit(" defined"));
+										var msg_552615 = (makeNimstrLit("No ")).concat(method_str_552613,makeNimstrLit(" method for "),obj_type_str_552611,makeNimstrLit(" defined"));
 										F.line = 32;
 										F.line = 104;
-										var excp_552017 = new_py_type_error_simple_360601();
+										var excp_552617 = new_py_type_error_simple_360601();
 										F.line = 105;
-										excp_552017.tk = 3;
+										excp_552617.tk = 3;
 										F.line = 106;
-										excp_552017.thrown = true;
+										excp_552617.thrown = true;
 										F.line = 107;
-										excp_552017.msg = new_py_string_176075(msg_552015);
-										var excp_552020 = excp_552017;
+										excp_552617.msg = new_py_string_176075(msg_552615);
+										var excp_552620 = excp_552617;
 										F.line = 34;
-										excp_obj_551322 = excp_552020;
+										excp_obj_551827 = excp_552620;
 										F.line = 34;
 										break L4;
 										}
 										
-										var fun_552202 = fun_552002;
+										var fun_552802 = fun_552602;
 										F.line = 46;
-										var res_552204 = fun_552202(top_551833);
-											if (of_py_exception_object_358259(res_552204)) {
-											Tmp9 = res_552204.thrown;
+										var res_552804 = fun_552802(top_552433);
+											if (of_py_exception_object_358259(res_552804)) {
+											Tmp9 = res_552804.thrown;
 											}
 											else {
 											Tmp9 = false;
@@ -21238,63 +21239,63 @@ function eval_frame_551056(f_551058) {
 											
 										if (Tmp9) {
 										F.line = 49;
-										excp_obj_551322 = res_552204;
+										excp_obj_551827 = res_552804;
 										F.line = 49;
 										break L4;
 										}
 										
-										var res_552402 = res_552204;
-										F.line = 196;
-										HEX5BHEX5DHEX3D_552604(val_stack_551095[0], 1, res_552402);
+										var res_553002 = res_552804;
+										F.line = 203;
+										HEX5BHEX5DHEX3D_553204(val_stack_551095[0], 1, res_553002);
 										break;
 									case 9:
 										F.line = 43;
-										var top_552656 = (Tmp10 = HEX5BHEX5D_551617(val_stack_551095[0], 1), Tmp10[0])[Tmp10[1]];
+										var top_553256 = (Tmp10 = HEX5BHEX5D_552217(val_stack_551095[0], 1), Tmp10[0])[Tmp10[1]];
 										F.line = 44;
 										F.line = 45;
-										if ((top_552656.pyType === null)) {
+										if ((top_553256.pyType === null)) {
 										F.line = 2895;
-										var e_552683 = null;
+										var e_553283 = null;
 										F.line = 2896;
-										e_552683 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
+										e_553283 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
 										F.line = 26;
-										e_552683.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
+										e_553283.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
 										F.line = 2891;
-										e_552683.parent = null;
+										e_553283.parent = null;
 										F.line = 26;
-										raiseException(e_552683, "InternalError");
+										raiseException(e_553283, "InternalError");
 										}
 										
 										F.line = 27;
-										var fun_552802 = top_552656.pyType.magicMethods.Field8;
-										if ((fun_552802 === null)) {
+										var fun_553402 = top_553256.pyType.magicMethods.Field8;
+										if ((fun_553402 === null)) {
 										F.line = 29;
-										var obj_type_str_552811 = top_552656.pyType.name;
+										var obj_type_str_553411 = top_553256.pyType.name;
 										F.line = 30;
-										var method_str_552813 = makeNimstrLit("negative");
+										var method_str_553413 = makeNimstrLit("negative");
 										F.line = 31;
-										var msg_552815 = (makeNimstrLit("No ")).concat(method_str_552813,makeNimstrLit(" method for "),obj_type_str_552811,makeNimstrLit(" defined"));
+										var msg_553415 = (makeNimstrLit("No ")).concat(method_str_553413,makeNimstrLit(" method for "),obj_type_str_553411,makeNimstrLit(" defined"));
 										F.line = 32;
 										F.line = 104;
-										var excp_552817 = new_py_type_error_simple_360601();
+										var excp_553417 = new_py_type_error_simple_360601();
 										F.line = 105;
-										excp_552817.tk = 3;
+										excp_553417.tk = 3;
 										F.line = 106;
-										excp_552817.thrown = true;
+										excp_553417.thrown = true;
 										F.line = 107;
-										excp_552817.msg = new_py_string_176075(msg_552815);
-										var excp_552820 = excp_552817;
+										excp_553417.msg = new_py_string_176075(msg_553415);
+										var excp_553420 = excp_553417;
 										F.line = 34;
-										excp_obj_551322 = excp_552820;
+										excp_obj_551827 = excp_553420;
 										F.line = 34;
 										break L4;
 										}
 										
-										var fun_553002 = fun_552802;
+										var fun_553602 = fun_553402;
 										F.line = 46;
-										var res_553004 = fun_553002(top_552656);
-											if (of_py_exception_object_358259(res_553004)) {
-											Tmp11 = res_553004.thrown;
+										var res_553604 = fun_553602(top_553256);
+											if (of_py_exception_object_358259(res_553604)) {
+											Tmp11 = res_553604.thrown;
 											}
 											else {
 											Tmp11 = false;
@@ -21302,63 +21303,63 @@ function eval_frame_551056(f_551058) {
 											
 										if (Tmp11) {
 										F.line = 49;
-										excp_obj_551322 = res_553004;
+										excp_obj_551827 = res_553604;
 										F.line = 49;
 										break L4;
 										}
 										
-										var res_553202 = res_553004;
-										F.line = 199;
-										HEX5BHEX5DHEX3D_552604(val_stack_551095[0], 1, res_553202);
+										var res_553802 = res_553604;
+										F.line = 206;
+										HEX5BHEX5DHEX3D_553204(val_stack_551095[0], 1, res_553802);
 										break;
 									case 10:
 										F.line = 43;
-										var top_553436 = (Tmp12 = HEX5BHEX5D_551617(val_stack_551095[0], 1), Tmp12[0])[Tmp12[1]];
+										var top_554036 = (Tmp12 = HEX5BHEX5D_552217(val_stack_551095[0], 1), Tmp12[0])[Tmp12[1]];
 										F.line = 44;
 										F.line = 45;
-										if ((top_553436.pyType === null)) {
+										if ((top_554036.pyType === null)) {
 										F.line = 2895;
-										var e_553463 = null;
+										var e_554063 = null;
 										F.line = 2896;
-										e_553463 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
+										e_554063 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
 										F.line = 26;
-										e_553463.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
+										e_554063.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
 										F.line = 2891;
-										e_553463.parent = null;
+										e_554063.parent = null;
 										F.line = 26;
-										raiseException(e_553463, "InternalError");
+										raiseException(e_554063, "InternalError");
 										}
 										
 										F.line = 27;
-										var fun_553602 = top_553436.pyType.magicMethods.Field7;
-										if ((fun_553602 === null)) {
+										var fun_554202 = top_554036.pyType.magicMethods.Field7;
+										if ((fun_554202 === null)) {
 										F.line = 29;
-										var obj_type_str_553611 = top_553436.pyType.name;
+										var obj_type_str_554211 = top_554036.pyType.name;
 										F.line = 30;
-										var method_str_553613 = makeNimstrLit("Not");
+										var method_str_554213 = makeNimstrLit("Not");
 										F.line = 31;
-										var msg_553615 = (makeNimstrLit("No ")).concat(method_str_553613,makeNimstrLit(" method for "),obj_type_str_553611,makeNimstrLit(" defined"));
+										var msg_554215 = (makeNimstrLit("No ")).concat(method_str_554213,makeNimstrLit(" method for "),obj_type_str_554211,makeNimstrLit(" defined"));
 										F.line = 32;
 										F.line = 104;
-										var excp_553617 = new_py_type_error_simple_360601();
+										var excp_554217 = new_py_type_error_simple_360601();
 										F.line = 105;
-										excp_553617.tk = 3;
+										excp_554217.tk = 3;
 										F.line = 106;
-										excp_553617.thrown = true;
+										excp_554217.thrown = true;
 										F.line = 107;
-										excp_553617.msg = new_py_string_176075(msg_553615);
-										var excp_553620 = excp_553617;
+										excp_554217.msg = new_py_string_176075(msg_554215);
+										var excp_554220 = excp_554217;
 										F.line = 34;
-										excp_obj_551322 = excp_553620;
+										excp_obj_551827 = excp_554220;
 										F.line = 34;
 										break L4;
 										}
 										
-										var fun_553802 = fun_553602;
+										var fun_554402 = fun_554202;
 										F.line = 46;
-										var res_553804 = fun_553802(top_553436);
-											if (of_py_exception_object_358259(res_553804)) {
-											Tmp13 = res_553804.thrown;
+										var res_554404 = fun_554402(top_554036);
+											if (of_py_exception_object_358259(res_554404)) {
+											Tmp13 = res_554404.thrown;
 											}
 											else {
 											Tmp13 = false;
@@ -21366,65 +21367,65 @@ function eval_frame_551056(f_551058) {
 											
 										if (Tmp13) {
 										F.line = 49;
-										excp_obj_551322 = res_553804;
+										excp_obj_551827 = res_554404;
 										F.line = 49;
 										break L4;
 										}
 										
-										var res_554002 = res_553804;
-										F.line = 202;
-										HEX5BHEX5DHEX3D_552604(val_stack_551095[0], 1, res_554002);
+										var res_554602 = res_554404;
+										F.line = 209;
+										HEX5BHEX5DHEX3D_553204(val_stack_551095[0], 1, res_554602);
 										break;
 									case 14:
 										F.line = 48;
-										var op2_554232 = pop_518821(val_stack_551095, 0);
+										var op2_554832 = pop_518821(val_stack_551095, 0);
 										F.line = 49;
-										var op1_554249 = (Tmp14 = HEX5BHEX5D_551617(val_stack_551095[0], 1), Tmp14[0])[Tmp14[1]];
+										var op1_554849 = (Tmp14 = HEX5BHEX5D_552217(val_stack_551095[0], 1), Tmp14[0])[Tmp14[1]];
 										F.line = 50;
 										F.line = 56;
-										if ((op1_554249.pyType === null)) {
+										if ((op1_554849.pyType === null)) {
 										F.line = 2895;
-										var e_554276 = null;
+										var e_554876 = null;
 										F.line = 2896;
-										e_554276 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
+										e_554876 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
 										F.line = 26;
-										e_554276.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
+										e_554876.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
 										F.line = 2891;
-										e_554276.parent = null;
+										e_554876.parent = null;
 										F.line = 26;
-										raiseException(e_554276, "InternalError");
+										raiseException(e_554876, "InternalError");
 										}
 										
 										F.line = 27;
-										var fun_554402 = op1_554249.pyType.magicMethods.Field6;
-										if ((fun_554402 === null)) {
+										var fun_555002 = op1_554849.pyType.magicMethods.Field6;
+										if ((fun_555002 === null)) {
 										F.line = 29;
-										var obj_type_str_554411 = op1_554249.pyType.name;
+										var obj_type_str_555011 = op1_554849.pyType.name;
 										F.line = 30;
-										var method_str_554413 = makeNimstrLit("pow");
+										var method_str_555013 = makeNimstrLit("pow");
 										F.line = 31;
-										var msg_554415 = (makeNimstrLit("No ")).concat(method_str_554413,makeNimstrLit(" method for "),obj_type_str_554411,makeNimstrLit(" defined"));
+										var msg_555015 = (makeNimstrLit("No ")).concat(method_str_555013,makeNimstrLit(" method for "),obj_type_str_555011,makeNimstrLit(" defined"));
 										F.line = 32;
 										F.line = 104;
-										var excp_554417 = new_py_type_error_simple_360601();
+										var excp_555017 = new_py_type_error_simple_360601();
 										F.line = 105;
-										excp_554417.tk = 3;
+										excp_555017.tk = 3;
 										F.line = 106;
-										excp_554417.thrown = true;
+										excp_555017.thrown = true;
 										F.line = 107;
-										excp_554417.msg = new_py_string_176075(msg_554415);
-										var excp_554420 = excp_554417;
+										excp_555017.msg = new_py_string_176075(msg_555015);
+										var excp_555020 = excp_555017;
 										F.line = 34;
-										excp_obj_551322 = excp_554420;
+										excp_obj_551827 = excp_555020;
 										F.line = 34;
 										break L4;
 										}
 										
-										var fun_554602 = fun_554402;
+										var fun_555202 = fun_555002;
 										F.line = 57;
-										var res_554604 = fun_554602(op1_554249, op2_554232);
-											if (of_py_exception_object_358259(res_554604)) {
-											Tmp15 = res_554604.thrown;
+										var res_555204 = fun_555202(op1_554849, op2_554832);
+											if (of_py_exception_object_358259(res_555204)) {
+											Tmp15 = res_555204.thrown;
 											}
 											else {
 											Tmp15 = false;
@@ -21432,65 +21433,65 @@ function eval_frame_551056(f_551058) {
 											
 										if (Tmp15) {
 										F.line = 60;
-										excp_obj_551322 = res_554604;
+										excp_obj_551827 = res_555204;
 										F.line = 60;
 										break L4;
 										}
 										
-										var res_554802 = res_554604;
-										F.line = 205;
-										HEX5BHEX5DHEX3D_552604(val_stack_551095[0], 1, res_554802);
+										var res_555402 = res_555204;
+										F.line = 212;
+										HEX5BHEX5DHEX3D_553204(val_stack_551095[0], 1, res_555402);
 										break;
 									case 15:
 										F.line = 48;
-										var op2_555032 = pop_518821(val_stack_551095, 0);
+										var op2_555632 = pop_518821(val_stack_551095, 0);
 										F.line = 49;
-										var op1_555049 = (Tmp16 = HEX5BHEX5D_551617(val_stack_551095[0], 1), Tmp16[0])[Tmp16[1]];
+										var op1_555649 = (Tmp16 = HEX5BHEX5D_552217(val_stack_551095[0], 1), Tmp16[0])[Tmp16[1]];
 										F.line = 50;
 										F.line = 56;
-										if ((op1_555049.pyType === null)) {
+										if ((op1_555649.pyType === null)) {
 										F.line = 2895;
-										var e_555076 = null;
+										var e_555676 = null;
 										F.line = 2896;
-										e_555076 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
+										e_555676 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
 										F.line = 26;
-										e_555076.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
+										e_555676.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
 										F.line = 2891;
-										e_555076.parent = null;
+										e_555676.parent = null;
 										F.line = 26;
-										raiseException(e_555076, "InternalError");
+										raiseException(e_555676, "InternalError");
 										}
 										
 										F.line = 27;
-										var fun_555202 = op1_555049.pyType.magicMethods.Field2;
-										if ((fun_555202 === null)) {
+										var fun_555802 = op1_555649.pyType.magicMethods.Field2;
+										if ((fun_555802 === null)) {
 										F.line = 29;
-										var obj_type_str_555211 = op1_555049.pyType.name;
+										var obj_type_str_555811 = op1_555649.pyType.name;
 										F.line = 30;
-										var method_str_555213 = makeNimstrLit("mul");
+										var method_str_555813 = makeNimstrLit("mul");
 										F.line = 31;
-										var msg_555215 = (makeNimstrLit("No ")).concat(method_str_555213,makeNimstrLit(" method for "),obj_type_str_555211,makeNimstrLit(" defined"));
+										var msg_555815 = (makeNimstrLit("No ")).concat(method_str_555813,makeNimstrLit(" method for "),obj_type_str_555811,makeNimstrLit(" defined"));
 										F.line = 32;
 										F.line = 104;
-										var excp_555217 = new_py_type_error_simple_360601();
+										var excp_555817 = new_py_type_error_simple_360601();
 										F.line = 105;
-										excp_555217.tk = 3;
+										excp_555817.tk = 3;
 										F.line = 106;
-										excp_555217.thrown = true;
+										excp_555817.thrown = true;
 										F.line = 107;
-										excp_555217.msg = new_py_string_176075(msg_555215);
-										var excp_555220 = excp_555217;
+										excp_555817.msg = new_py_string_176075(msg_555815);
+										var excp_555820 = excp_555817;
 										F.line = 34;
-										excp_obj_551322 = excp_555220;
+										excp_obj_551827 = excp_555820;
 										F.line = 34;
 										break L4;
 										}
 										
-										var fun_555402 = fun_555202;
+										var fun_556002 = fun_555802;
 										F.line = 57;
-										var res_555404 = fun_555402(op1_555049, op2_555032);
-											if (of_py_exception_object_358259(res_555404)) {
-											Tmp17 = res_555404.thrown;
+										var res_556004 = fun_556002(op1_555649, op2_555632);
+											if (of_py_exception_object_358259(res_556004)) {
+											Tmp17 = res_556004.thrown;
 											}
 											else {
 											Tmp17 = false;
@@ -21498,65 +21499,65 @@ function eval_frame_551056(f_551058) {
 											
 										if (Tmp17) {
 										F.line = 60;
-										excp_obj_551322 = res_555404;
+										excp_obj_551827 = res_556004;
 										F.line = 60;
 										break L4;
 										}
 										
-										var res_555602 = res_555404;
-										F.line = 208;
-										HEX5BHEX5DHEX3D_552604(val_stack_551095[0], 1, res_555602);
+										var res_556202 = res_556004;
+										F.line = 215;
+										HEX5BHEX5DHEX3D_553204(val_stack_551095[0], 1, res_556202);
 										break;
 									case 16:
 										F.line = 48;
-										var op2_555832 = pop_518821(val_stack_551095, 0);
+										var op2_556432 = pop_518821(val_stack_551095, 0);
 										F.line = 49;
-										var op1_555849 = (Tmp18 = HEX5BHEX5D_551617(val_stack_551095[0], 1), Tmp18[0])[Tmp18[1]];
+										var op1_556449 = (Tmp18 = HEX5BHEX5D_552217(val_stack_551095[0], 1), Tmp18[0])[Tmp18[1]];
 										F.line = 50;
 										F.line = 56;
-										if ((op1_555849.pyType === null)) {
+										if ((op1_556449.pyType === null)) {
 										F.line = 2895;
-										var e_555876 = null;
+										var e_556476 = null;
 										F.line = 2896;
-										e_555876 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
+										e_556476 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
 										F.line = 26;
-										e_555876.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
+										e_556476.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
 										F.line = 2891;
-										e_555876.parent = null;
+										e_556476.parent = null;
 										F.line = 26;
-										raiseException(e_555876, "InternalError");
+										raiseException(e_556476, "InternalError");
 										}
 										
 										F.line = 27;
-										var fun_556002 = op1_555849.pyType.magicMethods.Field5;
-										if ((fun_556002 === null)) {
+										var fun_556602 = op1_556449.pyType.magicMethods.Field5;
+										if ((fun_556602 === null)) {
 										F.line = 29;
-										var obj_type_str_556011 = op1_555849.pyType.name;
+										var obj_type_str_556611 = op1_556449.pyType.name;
 										F.line = 30;
-										var method_str_556013 = makeNimstrLit("Mod");
+										var method_str_556613 = makeNimstrLit("Mod");
 										F.line = 31;
-										var msg_556015 = (makeNimstrLit("No ")).concat(method_str_556013,makeNimstrLit(" method for "),obj_type_str_556011,makeNimstrLit(" defined"));
+										var msg_556615 = (makeNimstrLit("No ")).concat(method_str_556613,makeNimstrLit(" method for "),obj_type_str_556611,makeNimstrLit(" defined"));
 										F.line = 32;
 										F.line = 104;
-										var excp_556017 = new_py_type_error_simple_360601();
+										var excp_556617 = new_py_type_error_simple_360601();
 										F.line = 105;
-										excp_556017.tk = 3;
+										excp_556617.tk = 3;
 										F.line = 106;
-										excp_556017.thrown = true;
+										excp_556617.thrown = true;
 										F.line = 107;
-										excp_556017.msg = new_py_string_176075(msg_556015);
-										var excp_556020 = excp_556017;
+										excp_556617.msg = new_py_string_176075(msg_556615);
+										var excp_556620 = excp_556617;
 										F.line = 34;
-										excp_obj_551322 = excp_556020;
+										excp_obj_551827 = excp_556620;
 										F.line = 34;
 										break L4;
 										}
 										
-										var fun_556202 = fun_556002;
+										var fun_556802 = fun_556602;
 										F.line = 57;
-										var res_556204 = fun_556202(op1_555849, op2_555832);
-											if (of_py_exception_object_358259(res_556204)) {
-											Tmp19 = res_556204.thrown;
+										var res_556804 = fun_556802(op1_556449, op2_556432);
+											if (of_py_exception_object_358259(res_556804)) {
+											Tmp19 = res_556804.thrown;
 											}
 											else {
 											Tmp19 = false;
@@ -21564,108 +21565,44 @@ function eval_frame_551056(f_551058) {
 											
 										if (Tmp19) {
 										F.line = 60;
-										excp_obj_551322 = res_556204;
+										excp_obj_551827 = res_556804;
 										F.line = 60;
 										break L4;
 										}
 										
-										var res_556402 = res_556204;
-										F.line = 211;
-										HEX5BHEX5DHEX3D_552604(val_stack_551095[0], 1, res_556402);
+										var res_557002 = res_556804;
+										F.line = 218;
+										HEX5BHEX5DHEX3D_553204(val_stack_551095[0], 1, res_557002);
 										break;
 									case 33:
-										F.line = 214;
-										var idx_556625 = pop_518821(val_stack_551095, 0);
-										F.line = 215;
-										var obj_556635 = pop_518821(val_stack_551095, 0);
-										F.line = 216;
-										var value_556645 = pop_518821(val_stack_551095, 0);
-										F.line = 217;
+										F.line = 221;
+										var idx_557225 = pop_518821(val_stack_551095, 0);
+										F.line = 222;
+										var obj_557235 = pop_518821(val_stack_551095, 0);
+										F.line = 223;
+										var value_557245 = pop_518821(val_stack_551095, 0);
+										F.line = 224;
 										F.line = 67;
-										if ((obj_556635.pyType === null)) {
+										if ((obj_557235.pyType === null)) {
 										F.line = 2895;
-										var e_556672 = null;
+										var e_557272 = null;
 										F.line = 2896;
-										e_556672 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
+										e_557272 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
 										F.line = 26;
-										e_556672.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
+										e_557272.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
 										F.line = 2891;
-										e_556672.parent = null;
+										e_557272.parent = null;
 										F.line = 26;
-										raiseException(e_556672, "InternalError");
+										raiseException(e_557272, "InternalError");
 										}
 										
 										F.line = 27;
-										var fun_556802 = obj_556635.pyType.magicMethods.Field33;
-										if ((fun_556802 === null)) {
-										F.line = 29;
-										var obj_type_str_556811 = obj_556635.pyType.name;
-										F.line = 30;
-										var method_str_556813 = makeNimstrLit("setitem");
-										F.line = 31;
-										var msg_556815 = (makeNimstrLit("No ")).concat(method_str_556813,makeNimstrLit(" method for "),obj_type_str_556811,makeNimstrLit(" defined"));
-										F.line = 32;
-										F.line = 104;
-										var excp_556817 = new_py_type_error_simple_360601();
-										F.line = 105;
-										excp_556817.tk = 3;
-										F.line = 106;
-										excp_556817.thrown = true;
-										F.line = 107;
-										excp_556817.msg = new_py_string_176075(msg_556815);
-										var excp_556820 = excp_556817;
-										F.line = 34;
-										excp_obj_551322 = excp_556820;
-										F.line = 34;
-										break L4;
-										}
-										
-										var fun_557002 = fun_556802;
-										F.line = 68;
-										var res_557004 = fun_557002(obj_556635, idx_556625, value_556645);
-											if (of_py_exception_object_358259(res_557004)) {
-											Tmp20 = res_557004.thrown;
-											}
-											else {
-											Tmp20 = false;
-											}
-											
-										if (Tmp20) {
-										F.line = 71;
-										excp_obj_551322 = res_557004;
-										F.line = 71;
-										break L4;
-										}
-										
-										res_557004;
-										break;
-									case 17:
-										F.line = 48;
-										var op2_557218 = pop_518821(val_stack_551095, 0);
-										F.line = 49;
-										var op1_557235 = (Tmp21 = HEX5BHEX5D_551617(val_stack_551095[0], 1), Tmp21[0])[Tmp21[1]];
-										F.line = 50;
-										F.line = 56;
-										if ((op1_557235.pyType === null)) {
-										F.line = 2895;
-										var e_557262 = null;
-										F.line = 2896;
-										e_557262 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
-										F.line = 26;
-										e_557262.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
-										F.line = 2891;
-										e_557262.parent = null;
-										F.line = 26;
-										raiseException(e_557262, "InternalError");
-										}
-										
-										F.line = 27;
-										var fun_557402 = op1_557235.pyType.magicMethods.Field0;
+										var fun_557402 = obj_557235.pyType.magicMethods.Field33;
 										if ((fun_557402 === null)) {
 										F.line = 29;
-										var obj_type_str_557411 = op1_557235.pyType.name;
+										var obj_type_str_557411 = obj_557235.pyType.name;
 										F.line = 30;
-										var method_str_557413 = makeNimstrLit("add");
+										var method_str_557413 = makeNimstrLit("setitem");
 										F.line = 31;
 										var msg_557415 = (makeNimstrLit("No ")).concat(method_str_557413,makeNimstrLit(" method for "),obj_type_str_557411,makeNimstrLit(" defined"));
 										F.line = 32;
@@ -21679,16 +21616,80 @@ function eval_frame_551056(f_551058) {
 										excp_557417.msg = new_py_string_176075(msg_557415);
 										var excp_557420 = excp_557417;
 										F.line = 34;
-										excp_obj_551322 = excp_557420;
+										excp_obj_551827 = excp_557420;
 										F.line = 34;
 										break L4;
 										}
 										
 										var fun_557602 = fun_557402;
-										F.line = 57;
-										var res_557604 = fun_557602(op1_557235, op2_557218);
+										F.line = 68;
+										var res_557604 = fun_557602(obj_557235, idx_557225, value_557245);
 											if (of_py_exception_object_358259(res_557604)) {
-											Tmp22 = res_557604.thrown;
+											Tmp20 = res_557604.thrown;
+											}
+											else {
+											Tmp20 = false;
+											}
+											
+										if (Tmp20) {
+										F.line = 71;
+										excp_obj_551827 = res_557604;
+										F.line = 71;
+										break L4;
+										}
+										
+										res_557604;
+										break;
+									case 17:
+										F.line = 48;
+										var op2_557818 = pop_518821(val_stack_551095, 0);
+										F.line = 49;
+										var op1_557835 = (Tmp21 = HEX5BHEX5D_552217(val_stack_551095[0], 1), Tmp21[0])[Tmp21[1]];
+										F.line = 50;
+										F.line = 56;
+										if ((op1_557835.pyType === null)) {
+										F.line = 2895;
+										var e_557862 = null;
+										F.line = 2896;
+										e_557862 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
+										F.line = 26;
+										e_557862.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
+										F.line = 2891;
+										e_557862.parent = null;
+										F.line = 26;
+										raiseException(e_557862, "InternalError");
+										}
+										
+										F.line = 27;
+										var fun_558002 = op1_557835.pyType.magicMethods.Field0;
+										if ((fun_558002 === null)) {
+										F.line = 29;
+										var obj_type_str_558011 = op1_557835.pyType.name;
+										F.line = 30;
+										var method_str_558013 = makeNimstrLit("add");
+										F.line = 31;
+										var msg_558015 = (makeNimstrLit("No ")).concat(method_str_558013,makeNimstrLit(" method for "),obj_type_str_558011,makeNimstrLit(" defined"));
+										F.line = 32;
+										F.line = 104;
+										var excp_558017 = new_py_type_error_simple_360601();
+										F.line = 105;
+										excp_558017.tk = 3;
+										F.line = 106;
+										excp_558017.thrown = true;
+										F.line = 107;
+										excp_558017.msg = new_py_string_176075(msg_558015);
+										var excp_558020 = excp_558017;
+										F.line = 34;
+										excp_obj_551827 = excp_558020;
+										F.line = 34;
+										break L4;
+										}
+										
+										var fun_558202 = fun_558002;
+										F.line = 57;
+										var res_558204 = fun_558202(op1_557835, op2_557818);
+											if (of_py_exception_object_358259(res_558204)) {
+											Tmp22 = res_558204.thrown;
 											}
 											else {
 											Tmp22 = false;
@@ -21696,65 +21697,65 @@ function eval_frame_551056(f_551058) {
 											
 										if (Tmp22) {
 										F.line = 60;
-										excp_obj_551322 = res_557604;
+										excp_obj_551827 = res_558204;
 										F.line = 60;
 										break L4;
 										}
 										
-										var res_557802 = res_557604;
-										F.line = 220;
-										HEX5BHEX5DHEX3D_552604(val_stack_551095[0], 1, res_557802);
+										var res_558402 = res_558204;
+										F.line = 227;
+										HEX5BHEX5DHEX3D_553204(val_stack_551095[0], 1, res_558402);
 										break;
 									case 18:
 										F.line = 48;
-										var op2_558032 = pop_518821(val_stack_551095, 0);
+										var op2_558632 = pop_518821(val_stack_551095, 0);
 										F.line = 49;
-										var op1_558049 = (Tmp23 = HEX5BHEX5D_551617(val_stack_551095[0], 1), Tmp23[0])[Tmp23[1]];
+										var op1_558649 = (Tmp23 = HEX5BHEX5D_552217(val_stack_551095[0], 1), Tmp23[0])[Tmp23[1]];
 										F.line = 50;
 										F.line = 56;
-										if ((op1_558049.pyType === null)) {
+										if ((op1_558649.pyType === null)) {
 										F.line = 2895;
-										var e_558076 = null;
+										var e_558676 = null;
 										F.line = 2896;
-										e_558076 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
+										e_558676 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
 										F.line = 26;
-										e_558076.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
+										e_558676.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
 										F.line = 2891;
-										e_558076.parent = null;
+										e_558676.parent = null;
 										F.line = 26;
-										raiseException(e_558076, "InternalError");
+										raiseException(e_558676, "InternalError");
 										}
 										
 										F.line = 27;
-										var fun_558202 = op1_558049.pyType.magicMethods.Field1;
-										if ((fun_558202 === null)) {
+										var fun_558802 = op1_558649.pyType.magicMethods.Field1;
+										if ((fun_558802 === null)) {
 										F.line = 29;
-										var obj_type_str_558211 = op1_558049.pyType.name;
+										var obj_type_str_558811 = op1_558649.pyType.name;
 										F.line = 30;
-										var method_str_558213 = makeNimstrLit("sub");
+										var method_str_558813 = makeNimstrLit("sub");
 										F.line = 31;
-										var msg_558215 = (makeNimstrLit("No ")).concat(method_str_558213,makeNimstrLit(" method for "),obj_type_str_558211,makeNimstrLit(" defined"));
+										var msg_558815 = (makeNimstrLit("No ")).concat(method_str_558813,makeNimstrLit(" method for "),obj_type_str_558811,makeNimstrLit(" defined"));
 										F.line = 32;
 										F.line = 104;
-										var excp_558217 = new_py_type_error_simple_360601();
+										var excp_558817 = new_py_type_error_simple_360601();
 										F.line = 105;
-										excp_558217.tk = 3;
+										excp_558817.tk = 3;
 										F.line = 106;
-										excp_558217.thrown = true;
+										excp_558817.thrown = true;
 										F.line = 107;
-										excp_558217.msg = new_py_string_176075(msg_558215);
-										var excp_558220 = excp_558217;
+										excp_558817.msg = new_py_string_176075(msg_558815);
+										var excp_558820 = excp_558817;
 										F.line = 34;
-										excp_obj_551322 = excp_558220;
+										excp_obj_551827 = excp_558820;
 										F.line = 34;
 										break L4;
 										}
 										
-										var fun_558402 = fun_558202;
+										var fun_559002 = fun_558802;
 										F.line = 57;
-										var res_558404 = fun_558402(op1_558049, op2_558032);
-											if (of_py_exception_object_358259(res_558404)) {
-											Tmp24 = res_558404.thrown;
+										var res_559004 = fun_559002(op1_558649, op2_558632);
+											if (of_py_exception_object_358259(res_559004)) {
+											Tmp24 = res_559004.thrown;
 											}
 											else {
 											Tmp24 = false;
@@ -21762,65 +21763,65 @@ function eval_frame_551056(f_551058) {
 											
 										if (Tmp24) {
 										F.line = 60;
-										excp_obj_551322 = res_558404;
+										excp_obj_551827 = res_559004;
 										F.line = 60;
 										break L4;
 										}
 										
-										var res_558602 = res_558404;
-										F.line = 223;
-										HEX5BHEX5DHEX3D_552604(val_stack_551095[0], 1, res_558602);
+										var res_559202 = res_559004;
+										F.line = 230;
+										HEX5BHEX5DHEX3D_553204(val_stack_551095[0], 1, res_559202);
 										break;
 									case 19:
 										F.line = 48;
-										var op2_558832 = pop_518821(val_stack_551095, 0);
+										var op2_559432 = pop_518821(val_stack_551095, 0);
 										F.line = 49;
-										var op1_558849 = (Tmp25 = HEX5BHEX5D_551617(val_stack_551095[0], 1), Tmp25[0])[Tmp25[1]];
+										var op1_559449 = (Tmp25 = HEX5BHEX5D_552217(val_stack_551095[0], 1), Tmp25[0])[Tmp25[1]];
 										F.line = 50;
 										F.line = 56;
-										if ((op1_558849.pyType === null)) {
+										if ((op1_559449.pyType === null)) {
 										F.line = 2895;
-										var e_558876 = null;
+										var e_559476 = null;
 										F.line = 2896;
-										e_558876 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
+										e_559476 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
 										F.line = 26;
-										e_558876.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
+										e_559476.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
 										F.line = 2891;
-										e_558876.parent = null;
+										e_559476.parent = null;
 										F.line = 26;
-										raiseException(e_558876, "InternalError");
+										raiseException(e_559476, "InternalError");
 										}
 										
 										F.line = 27;
-										var fun_559002 = op1_558849.pyType.magicMethods.Field32;
-										if ((fun_559002 === null)) {
+										var fun_559602 = op1_559449.pyType.magicMethods.Field32;
+										if ((fun_559602 === null)) {
 										F.line = 29;
-										var obj_type_str_559011 = op1_558849.pyType.name;
+										var obj_type_str_559611 = op1_559449.pyType.name;
 										F.line = 30;
-										var method_str_559013 = makeNimstrLit("getitem");
+										var method_str_559613 = makeNimstrLit("getitem");
 										F.line = 31;
-										var msg_559015 = (makeNimstrLit("No ")).concat(method_str_559013,makeNimstrLit(" method for "),obj_type_str_559011,makeNimstrLit(" defined"));
+										var msg_559615 = (makeNimstrLit("No ")).concat(method_str_559613,makeNimstrLit(" method for "),obj_type_str_559611,makeNimstrLit(" defined"));
 										F.line = 32;
 										F.line = 104;
-										var excp_559017 = new_py_type_error_simple_360601();
+										var excp_559617 = new_py_type_error_simple_360601();
 										F.line = 105;
-										excp_559017.tk = 3;
+										excp_559617.tk = 3;
 										F.line = 106;
-										excp_559017.thrown = true;
+										excp_559617.thrown = true;
 										F.line = 107;
-										excp_559017.msg = new_py_string_176075(msg_559015);
-										var excp_559020 = excp_559017;
+										excp_559617.msg = new_py_string_176075(msg_559615);
+										var excp_559620 = excp_559617;
 										F.line = 34;
-										excp_obj_551322 = excp_559020;
+										excp_obj_551827 = excp_559620;
 										F.line = 34;
 										break L4;
 										}
 										
-										var fun_559202 = fun_559002;
+										var fun_559802 = fun_559602;
 										F.line = 57;
-										var res_559204 = fun_559202(op1_558849, op2_558832);
-											if (of_py_exception_object_358259(res_559204)) {
-											Tmp26 = res_559204.thrown;
+										var res_559804 = fun_559802(op1_559449, op2_559432);
+											if (of_py_exception_object_358259(res_559804)) {
+											Tmp26 = res_559804.thrown;
 											}
 											else {
 											Tmp26 = false;
@@ -21828,65 +21829,65 @@ function eval_frame_551056(f_551058) {
 											
 										if (Tmp26) {
 										F.line = 60;
-										excp_obj_551322 = res_559204;
+										excp_obj_551827 = res_559804;
 										F.line = 60;
 										break L4;
 										}
 										
-										var res_559402 = res_559204;
-										F.line = 226;
-										HEX5BHEX5DHEX3D_552604(val_stack_551095[0], 1, res_559402);
+										var res_560002 = res_559804;
+										F.line = 233;
+										HEX5BHEX5DHEX3D_553204(val_stack_551095[0], 1, res_560002);
 										break;
 									case 20:
 										F.line = 48;
-										var op2_559632 = pop_518821(val_stack_551095, 0);
+										var op2_560232 = pop_518821(val_stack_551095, 0);
 										F.line = 49;
-										var op1_559649 = (Tmp27 = HEX5BHEX5D_551617(val_stack_551095[0], 1), Tmp27[0])[Tmp27[1]];
+										var op1_560249 = (Tmp27 = HEX5BHEX5D_552217(val_stack_551095[0], 1), Tmp27[0])[Tmp27[1]];
 										F.line = 50;
 										F.line = 56;
-										if ((op1_559649.pyType === null)) {
+										if ((op1_560249.pyType === null)) {
 										F.line = 2895;
-										var e_559676 = null;
+										var e_560276 = null;
 										F.line = 2896;
-										e_559676 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
+										e_560276 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
 										F.line = 26;
-										e_559676.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
+										e_560276.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
 										F.line = 2891;
-										e_559676.parent = null;
+										e_560276.parent = null;
 										F.line = 26;
-										raiseException(e_559676, "InternalError");
+										raiseException(e_560276, "InternalError");
 										}
 										
 										F.line = 27;
-										var fun_559802 = op1_559649.pyType.magicMethods.Field4;
-										if ((fun_559802 === null)) {
+										var fun_560402 = op1_560249.pyType.magicMethods.Field4;
+										if ((fun_560402 === null)) {
 										F.line = 29;
-										var obj_type_str_559811 = op1_559649.pyType.name;
+										var obj_type_str_560411 = op1_560249.pyType.name;
 										F.line = 30;
-										var method_str_559813 = makeNimstrLit("floorDiv");
+										var method_str_560413 = makeNimstrLit("floorDiv");
 										F.line = 31;
-										var msg_559815 = (makeNimstrLit("No ")).concat(method_str_559813,makeNimstrLit(" method for "),obj_type_str_559811,makeNimstrLit(" defined"));
+										var msg_560415 = (makeNimstrLit("No ")).concat(method_str_560413,makeNimstrLit(" method for "),obj_type_str_560411,makeNimstrLit(" defined"));
 										F.line = 32;
 										F.line = 104;
-										var excp_559817 = new_py_type_error_simple_360601();
+										var excp_560417 = new_py_type_error_simple_360601();
 										F.line = 105;
-										excp_559817.tk = 3;
+										excp_560417.tk = 3;
 										F.line = 106;
-										excp_559817.thrown = true;
+										excp_560417.thrown = true;
 										F.line = 107;
-										excp_559817.msg = new_py_string_176075(msg_559815);
-										var excp_559820 = excp_559817;
+										excp_560417.msg = new_py_string_176075(msg_560415);
+										var excp_560420 = excp_560417;
 										F.line = 34;
-										excp_obj_551322 = excp_559820;
+										excp_obj_551827 = excp_560420;
 										F.line = 34;
 										break L4;
 										}
 										
-										var fun_560002 = fun_559802;
+										var fun_560602 = fun_560402;
 										F.line = 57;
-										var res_560004 = fun_560002(op1_559649, op2_559632);
-											if (of_py_exception_object_358259(res_560004)) {
-											Tmp28 = res_560004.thrown;
+										var res_560604 = fun_560602(op1_560249, op2_560232);
+											if (of_py_exception_object_358259(res_560604)) {
+											Tmp28 = res_560604.thrown;
 											}
 											else {
 											Tmp28 = false;
@@ -21894,65 +21895,65 @@ function eval_frame_551056(f_551058) {
 											
 										if (Tmp28) {
 										F.line = 60;
-										excp_obj_551322 = res_560004;
+										excp_obj_551827 = res_560604;
 										F.line = 60;
 										break L4;
 										}
 										
-										var res_560202 = res_560004;
-										F.line = 229;
-										HEX5BHEX5DHEX3D_552604(val_stack_551095[0], 1, res_560202);
+										var res_560802 = res_560604;
+										F.line = 236;
+										HEX5BHEX5DHEX3D_553204(val_stack_551095[0], 1, res_560802);
 										break;
 									case 21:
 										F.line = 48;
-										var op2_560432 = pop_518821(val_stack_551095, 0);
+										var op2_561032 = pop_518821(val_stack_551095, 0);
 										F.line = 49;
-										var op1_560449 = (Tmp29 = HEX5BHEX5D_551617(val_stack_551095[0], 1), Tmp29[0])[Tmp29[1]];
+										var op1_561049 = (Tmp29 = HEX5BHEX5D_552217(val_stack_551095[0], 1), Tmp29[0])[Tmp29[1]];
 										F.line = 50;
 										F.line = 56;
-										if ((op1_560449.pyType === null)) {
+										if ((op1_561049.pyType === null)) {
 										F.line = 2895;
-										var e_560476 = null;
+										var e_561076 = null;
 										F.line = 2896;
-										e_560476 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
+										e_561076 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
 										F.line = 26;
-										e_560476.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
+										e_561076.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
 										F.line = 2891;
-										e_560476.parent = null;
+										e_561076.parent = null;
 										F.line = 26;
-										raiseException(e_560476, "InternalError");
+										raiseException(e_561076, "InternalError");
 										}
 										
 										F.line = 27;
-										var fun_560602 = op1_560449.pyType.magicMethods.Field3;
-										if ((fun_560602 === null)) {
+										var fun_561202 = op1_561049.pyType.magicMethods.Field3;
+										if ((fun_561202 === null)) {
 										F.line = 29;
-										var obj_type_str_560611 = op1_560449.pyType.name;
+										var obj_type_str_561211 = op1_561049.pyType.name;
 										F.line = 30;
-										var method_str_560613 = makeNimstrLit("trueDiv");
+										var method_str_561213 = makeNimstrLit("trueDiv");
 										F.line = 31;
-										var msg_560615 = (makeNimstrLit("No ")).concat(method_str_560613,makeNimstrLit(" method for "),obj_type_str_560611,makeNimstrLit(" defined"));
+										var msg_561215 = (makeNimstrLit("No ")).concat(method_str_561213,makeNimstrLit(" method for "),obj_type_str_561211,makeNimstrLit(" defined"));
 										F.line = 32;
 										F.line = 104;
-										var excp_560617 = new_py_type_error_simple_360601();
+										var excp_561217 = new_py_type_error_simple_360601();
 										F.line = 105;
-										excp_560617.tk = 3;
+										excp_561217.tk = 3;
 										F.line = 106;
-										excp_560617.thrown = true;
+										excp_561217.thrown = true;
 										F.line = 107;
-										excp_560617.msg = new_py_string_176075(msg_560615);
-										var excp_560620 = excp_560617;
+										excp_561217.msg = new_py_string_176075(msg_561215);
+										var excp_561220 = excp_561217;
 										F.line = 34;
-										excp_obj_551322 = excp_560620;
+										excp_obj_551827 = excp_561220;
 										F.line = 34;
 										break L4;
 										}
 										
-										var fun_560802 = fun_560602;
+										var fun_561402 = fun_561202;
 										F.line = 57;
-										var res_560804 = fun_560802(op1_560449, op2_560432);
-											if (of_py_exception_object_358259(res_560804)) {
-											Tmp30 = res_560804.thrown;
+										var res_561404 = fun_561402(op1_561049, op2_561032);
+											if (of_py_exception_object_358259(res_561404)) {
+											Tmp30 = res_561404.thrown;
 											}
 											else {
 											Tmp30 = false;
@@ -21960,112 +21961,112 @@ function eval_frame_551056(f_551058) {
 											
 										if (Tmp30) {
 										F.line = 60;
-										excp_obj_551322 = res_560804;
+										excp_obj_551827 = res_561404;
 										F.line = 60;
 										break L4;
 										}
 										
-										var res_561002 = res_560804;
-										F.line = 232;
-										HEX5BHEX5DHEX3D_552604(val_stack_551095[0], 1, res_561002);
+										var res_561602 = res_561404;
+										F.line = 239;
+										HEX5BHEX5DHEX3D_553204(val_stack_551095[0], 1, res_561602);
 										break;
 									case 41:
-										F.line = 235;
-										var top_561231 = (Tmp31 = HEX5BHEX5D_551617(val_stack_551095[0], 1), Tmp31[0])[Tmp31[1]];
-										F.line = 236;
+										F.line = 242;
+										var top_561831 = (Tmp31 = HEX5BHEX5D_552217(val_stack_551095[0], 1), Tmp31[0])[Tmp31[1]];
+										F.line = 243;
 										F.line = 170;
-										var iter_func_561241 = top_561231.pyType.magicMethods.Field36;
-										if ((iter_func_561241 === null)) {
+										var iter_func_561841 = top_561831.pyType.magicMethods.Field36;
+										if ((iter_func_561841 === null)) {
 										F.line = 172;
-										var msg_561249 = (top_561231.pyType.name).concat(makeNimstrLit(" object is not iterable"));
+										var msg_561849 = (top_561831.pyType.name).concat(makeNimstrLit(" object is not iterable"));
 										F.line = 173;
 										F.line = 104;
-										var excp_561251 = new_py_type_error_simple_360601();
+										var excp_561851 = new_py_type_error_simple_360601();
 										F.line = 105;
-										excp_561251.tk = 3;
+										excp_561851.tk = 3;
 										F.line = 106;
-										excp_561251.thrown = true;
+										excp_561851.thrown = true;
 										F.line = 107;
-										excp_561251.msg = new_py_string_176075(msg_561249);
-										result_551112 = excp_561251;
+										excp_561851.msg = new_py_string_176075(msg_561849);
+										result_551217 = excp_561851;
 										break BeforeRet;
 										}
 										
 										F.line = 174;
-										var iter_obj_561254 = iter_func_561241(top_561231);
-										if ((iter_obj_561254.pyType.magicMethods.Field37 === null)) {
+										var iter_obj_561854 = iter_func_561841(top_561831);
+										if ((iter_obj_561854.pyType.magicMethods.Field37 === null)) {
 										F.line = 176;
 										F.line = 176;
-										var fmt_res_561263 = mnewString(0);
+										var fmt_res_561863 = mnewString(0);
 										F.line = 176;
-										if (fmt_res_561263 != null) { fmt_res_561263 = (fmt_res_561263).concat(makeNimstrLit("iter() returned non-iterator of type ")); } else { fmt_res_561263 = makeNimstrLit("iter() returned non-iterator of type "); };
-										var msg_561265 = (fmt_res_561263).concat(iter_obj_561254.pyType.name);
+										if (fmt_res_561863 != null) { fmt_res_561863 = (fmt_res_561863).concat(makeNimstrLit("iter() returned non-iterator of type ")); } else { fmt_res_561863 = makeNimstrLit("iter() returned non-iterator of type "); };
+										var msg_561865 = (fmt_res_561863).concat(iter_obj_561854.pyType.name);
 										F.line = 177;
 										F.line = 104;
-										var excp_561267 = new_py_type_error_simple_360601();
+										var excp_561867 = new_py_type_error_simple_360601();
 										F.line = 105;
-										excp_561267.tk = 3;
+										excp_561867.tk = 3;
 										F.line = 106;
-										excp_561267.thrown = true;
+										excp_561867.thrown = true;
 										F.line = 107;
-										excp_561267.msg = new_py_string_176075(msg_561265);
-										result_551112 = excp_561267;
+										excp_561867.msg = new_py_string_176075(msg_561865);
+										result_551217 = excp_561867;
 										break BeforeRet;
 										}
 										
-										var iter_obj_561269 = iter_obj_561254;
-											if (of_py_exception_object_358259(iter_obj_561269)) {
-											Tmp32 = iter_obj_561269.thrown;
+										var iter_obj_561869 = iter_obj_561854;
+											if (of_py_exception_object_358259(iter_obj_561869)) {
+											Tmp32 = iter_obj_561869.thrown;
 											}
 											else {
 											Tmp32 = false;
 											}
 											
 										if (Tmp32) {
-										F.line = 238;
-										excp_obj_551322 = iter_obj_561269;
-										F.line = 238;
+										F.line = 245;
+										excp_obj_551827 = iter_obj_561869;
+										F.line = 245;
 										break L4;
 										}
 										
-										F.line = 239;
-										HEX5BHEX5DHEX3D_552604(val_stack_551095[0], 1, iter_obj_561269);
+										F.line = 246;
+										HEX5BHEX5DHEX3D_553204(val_stack_551095[0], 1, iter_obj_561869);
 										break;
 									case 43:
-										F.line = 242;
-										var top_561425 = pop_518821(val_stack_551095, 0);
-										if (!((id_157596(top_561425) == id_157596(py_none_356044)))) {
-										F.line = 245;
-										var repr_obj_561426 = top_561425.pyType.magicMethods.Field25(top_561425);
-											if (of_py_exception_object_358259(repr_obj_561426)) {
-											Tmp33 = repr_obj_561426.thrown;
+										F.line = 249;
+										var top_562025 = pop_518821(val_stack_551095, 0);
+										if (!((id_157596(top_562025) == id_157596(py_none_356044)))) {
+										F.line = 252;
+										var repr_obj_562026 = top_562025.pyType.magicMethods.Field25(top_562025);
+											if (of_py_exception_object_358259(repr_obj_562026)) {
+											Tmp33 = repr_obj_562026.thrown;
 											}
 											else {
 											Tmp33 = false;
 											}
 											
 										if (Tmp33) {
-										F.line = 247;
-										excp_obj_551322 = repr_obj_561426;
-										F.line = 247;
+										F.line = 254;
+										excp_obj_551827 = repr_obj_562026;
+										F.line = 254;
 										break L4;
 										}
 										
-										F.line = 250;
-										var print_function_561427 = HEX5BHEX5D_523323(bltin_dict_534014, new_py_str_176092(makeNimstrLit("print")));
-										F.line = 251;
-										var ret_obj_561440 = call_py_nim_func_object_magic_548044(print_function_561427, [repr_obj_561426]);
-											if (of_py_exception_object_358259(ret_obj_561440)) {
-											Tmp34 = ret_obj_561440.thrown;
+										F.line = 257;
+										var print_function_562027 = HEX5BHEX5D_523323(bltin_dict_534014, new_py_str_176092(makeNimstrLit("print")));
+										F.line = 258;
+										var ret_obj_562040 = call_py_nim_func_object_magic_548044(print_function_562027, [repr_obj_562026]);
+											if (of_py_exception_object_358259(ret_obj_562040)) {
+											Tmp34 = ret_obj_562040.thrown;
 											}
 											else {
 											Tmp34 = false;
 											}
 											
 										if (Tmp34) {
-										F.line = 253;
-										excp_obj_551322 = ret_obj_561440;
-										F.line = 253;
+										F.line = 260;
+										excp_obj_551827 = ret_obj_562040;
+										F.line = 260;
 										break L4;
 										}
 										
@@ -22073,44 +22074,58 @@ function eval_frame_551056(f_551058) {
 										
 										break;
 									case 44:
-										F.line = 127;
+										F.line = 129;
 										if (val_stack_551095[0] != null) { val_stack_551095[0].push(HEX5BHEX5D_523323(bltin_dict_534014, new_py_str_176092(makeNimstrLit("__build_class__")))); } else { val_stack_551095[0] = [HEX5BHEX5D_523323(bltin_dict_534014, new_py_str_176092(makeNimstrLit("__build_class__")))]; };
 										break;
 									case 54:
-										F.line = 259;
-										result_551112 = pop_518821(val_stack_551095, 0);
+										F.line = 266;
+										result_551217 = pop_518821(val_stack_551095, 0);
 										break BeforeRet;
 										break;
 									case 58:
 										if (((val_stack_551095[0] != null ? val_stack_551095[0].length : 0) == 0)) {
-										F.line = 264;
-										F.line = 166;
-										var ret_561669 = (Tmp35 = HEX5BHEX5D_561636(block_stack_551295, 1), Tmp35[0])[Tmp35[1]].sPtr;
-										F.line = 167;
-										pop_561671(block_stack_551295, 0);
-										ret_561669;
+										F.line = 271;
+										F.line = 173;
+										var ret_562269 = (Tmp35 = HEX5BHEX5D_562236(block_stack_551097[0], 1), Tmp35[0])[Tmp35[1]].sPtr;
+										F.line = 174;
+										pop_562271(block_stack_551097, 0);
+										ret_562269;
 										}
 										else {
-											F.line = 266;
-											var top_561726 = (Tmp36 = HEX5BHEX5D_551617(val_stack_551095[0], 1), Tmp36[0])[Tmp36[1]];
-											F.line = 267;
-											F.line = 166;
-											var ret_561745 = (Tmp37 = HEX5BHEX5D_561636(block_stack_551295, 1), Tmp37[0])[Tmp37[1]].sPtr;
-											F.line = 167;
-											pop_561671(block_stack_551295, 0);
-											if (val_stack_551095[0].length < chckRange(ret_561745, 0, 2147483647)) { for (var i=val_stack_551095[0].length;i<chckRange(ret_561745, 0, 2147483647);++i) val_stack_551095[0].push(null); }
-               else { val_stack_551095[0].length = chckRange(ret_561745, 0, 2147483647); };
-												if (of_py_exception_object_358259(top_561726)) {
-												Tmp38 = top_561726.thrown;
+											F.line = 273;
+											var top_562326 = (Tmp36 = HEX5BHEX5D_552217(val_stack_551095[0], 1), Tmp36[0])[Tmp36[1]];
+											if (((val_stack_551095[0] != null ? val_stack_551095[0].length : 0) == 0)) {
+												F.line = 140;
+												var ret_562345 = (Tmp37 = HEX5BHEX5D_562236(block_stack_551097[0], 1), Tmp37[0])[Tmp37[1]].sPtr;
+												F.line = 140;
+												pop_562271(block_stack_551097, 0);
+											if (!((ret_562345 == 0))) {
+											F.line = 140;
+											failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Python/neval.nim(140, 14) `\x0A  let ret562345 = blockStack[BackwardsIndex(1)].sPtr\x0A  discard pop(blockStack)\x0A  ret562345 == 0` "));
+											}
+											
+											}
+											else {
+												F.line = 142;
+												F.line = 173;
+												var ret_562345 = (Tmp38 = HEX5BHEX5D_562236(block_stack_551097[0], 1), Tmp38[0])[Tmp38[1]].sPtr;
+												F.line = 174;
+												pop_562271(block_stack_551097, 0);
+											if (val_stack_551095[0].length < chckRange(ret_562345, 0, 2147483647)) { for (var i=val_stack_551095[0].length;i<chckRange(ret_562345, 0, 2147483647);++i) val_stack_551095[0].push(null); }
+               else { val_stack_551095[0].length = chckRange(ret_562345, 0, 2147483647); };
+											}
+											
+												if (of_py_exception_object_358259(top_562326)) {
+												Tmp39 = top_562326.thrown;
 												}
 												else {
-												Tmp38 = false;
+												Tmp39 = false;
 												}
 												
-											if (Tmp38) {
-											F.line = 270;
-											excp_obj_551322 = top_561726;
-											F.line = 270;
+											if (Tmp39) {
+											F.line = 277;
+											excp_obj_551827 = top_562326;
+											F.line = 277;
 											break L4;
 											}
 											
@@ -22119,275 +22134,275 @@ function eval_frame_551056(f_551058) {
 										break;
 									case 62:
 										F.line = 2895;
-										var e_561771 = null;
+										var e_562417 = null;
 										F.line = 2896;
-										e_561771 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
-										F.line = 273;
-										e_561771.message = nimCopy(null, makeNimstrLit("locals() scope not implemented"), NTI138);
+										e_562417 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
+										F.line = 280;
+										e_562417.message = nimCopy(null, makeNimstrLit("locals() scope not implemented"), NTI138);
 										F.line = 2891;
-										e_561771.parent = null;
-										F.line = 273;
-										raiseException(e_561771, "InternalError");
+										e_562417.parent = null;
+										F.line = 280;
+										raiseException(e_562417, "InternalError");
 										break;
 									case 64:
-										F.line = 281;
-										var s_561819 = pop_518821(val_stack_551095, 0);
-										if (of_py_tuple_object_464082(s_561819)) {
-										F.line = 283;
-										var t_561820 = s_561819;
-										if (!((op_arg_551406 == (t_561820.items != null ? t_561820.items.length : 0)))) {
-										F.line = 277;
-										var got_561839 = cstrToNimstr(((t_561820.items != null ? t_561820.items.length : 0))+"");
-										F.line = 278;
-										F.line = 278;
-										var fmt_res_561843 = mnewString(0);
-										F.line = 278;
-										if (fmt_res_561843 != null) { fmt_res_561843 = (fmt_res_561843).concat(makeNimstrLit("not enough values to unpack (expected ")); } else { fmt_res_561843 = makeNimstrLit("not enough values to unpack (expected "); };
-										F.line = 270;
-										if (fmt_res_561843 != null) { fmt_res_561843 = (fmt_res_561843).concat(cstrToNimstr((op_arg_551406)+"")); } else { fmt_res_561843 = cstrToNimstr((op_arg_551406)+"").slice(); };
-										F.line = 278;
-										if (fmt_res_561843 != null) { fmt_res_561843 = (fmt_res_561843).concat(makeNimstrLit(", got ")); } else { fmt_res_561843 = makeNimstrLit(", got "); };
-										F.line = 260;
-										if (fmt_res_561843 != null) { fmt_res_561843 = (fmt_res_561843).concat(got_561839); } else { fmt_res_561843 = got_561839.slice(); };
-										F.line = 278;
-										if (fmt_res_561843 != null) { fmt_res_561843 = (fmt_res_561843).concat(makeNimstrLit(")")); } else { fmt_res_561843 = makeNimstrLit(")"); };
-										var msg_562202 = nimCopy(null, fmt_res_561843, NTI138);
-										F.line = 279;
-										F.line = 104;
-										var excp_562204 = new_py_value_error_simple_362601();
-										F.line = 105;
-										excp_562204.tk = 5;
-										F.line = 106;
-										excp_562204.thrown = true;
-										F.line = 107;
-										excp_562204.msg = new_py_string_176075(msg_562202);
-										var excp_562207 = excp_562204;
-										F.line = 280;
-										excp_obj_551322 = excp_562207;
+										F.line = 288;
+										var s_562619 = pop_518821(val_stack_551095, 0);
+										if (of_py_tuple_object_464082(s_562619)) {
+										F.line = 290;
+										var t_562620 = s_562619;
+										if (!((op_arg_552006 == (t_562620.items != null ? t_562620.items.length : 0)))) {
+										F.line = 284;
+										var got_562639 = cstrToNimstr(((t_562620.items != null ? t_562620.items.length : 0))+"");
 										F.line = 285;
-										break L4;
-										}
-										
-										L39: do {
-											F.line = 286;
-											var i_562219 = 0;
-											F.line = 2107;
-											var res_582852 = 1;
-											L40: do {
-												F.line = 2108;
-													L41: while (true) {
-													if (!(res_582852 <= op_arg_551406)) break L41;
-														F.line = 2109;
-														i_562219 = res_582852;
-														F.line = 127;
-														if (val_stack_551095[0] != null) { val_stack_551095[0].push((Tmp42 = HEX5BHEX5D_551617(t_561820.items, i_562219), Tmp42[0])[Tmp42[1]]); } else { val_stack_551095[0] = [(Tmp42 = HEX5BHEX5D_551617(t_561820.items, i_562219), Tmp42[0])[Tmp42[1]]]; };
-														F.line = 2110;
-														res_582852 = addInt(res_582852, 1);
-													}
-											} while(false);
-										} while(false);
-										}
-										else {
-										if (of_py_list_object_505271(s_561819)) {
-										F.line = 289;
-										var l_562411 = s_561819;
-										if (!((op_arg_551406 == (l_562411.items != null ? l_562411.items.length : 0)))) {
-										F.line = 277;
-										var got_562430 = cstrToNimstr(((l_562411.items != null ? l_562411.items.length : 0))+"");
-										F.line = 278;
-										F.line = 278;
-										var fmt_res_562434 = mnewString(0);
-										F.line = 278;
-										if (fmt_res_562434 != null) { fmt_res_562434 = (fmt_res_562434).concat(makeNimstrLit("not enough values to unpack (expected ")); } else { fmt_res_562434 = makeNimstrLit("not enough values to unpack (expected "); };
+										F.line = 285;
+										var fmt_res_562643 = mnewString(0);
+										F.line = 285;
+										if (fmt_res_562643 != null) { fmt_res_562643 = (fmt_res_562643).concat(makeNimstrLit("not enough values to unpack (expected ")); } else { fmt_res_562643 = makeNimstrLit("not enough values to unpack (expected "); };
 										F.line = 270;
-										if (fmt_res_562434 != null) { fmt_res_562434 = (fmt_res_562434).concat(cstrToNimstr((op_arg_551406)+"")); } else { fmt_res_562434 = cstrToNimstr((op_arg_551406)+"").slice(); };
-										F.line = 278;
-										if (fmt_res_562434 != null) { fmt_res_562434 = (fmt_res_562434).concat(makeNimstrLit(", got ")); } else { fmt_res_562434 = makeNimstrLit(", got "); };
+										if (fmt_res_562643 != null) { fmt_res_562643 = (fmt_res_562643).concat(cstrToNimstr((op_arg_552006)+"")); } else { fmt_res_562643 = cstrToNimstr((op_arg_552006)+"").slice(); };
+										F.line = 285;
+										if (fmt_res_562643 != null) { fmt_res_562643 = (fmt_res_562643).concat(makeNimstrLit(", got ")); } else { fmt_res_562643 = makeNimstrLit(", got "); };
 										F.line = 260;
-										if (fmt_res_562434 != null) { fmt_res_562434 = (fmt_res_562434).concat(got_562430); } else { fmt_res_562434 = got_562430.slice(); };
-										F.line = 278;
-										if (fmt_res_562434 != null) { fmt_res_562434 = (fmt_res_562434).concat(makeNimstrLit(")")); } else { fmt_res_562434 = makeNimstrLit(")"); };
-										var msg_562802 = nimCopy(null, fmt_res_562434, NTI138);
-										F.line = 279;
+										if (fmt_res_562643 != null) { fmt_res_562643 = (fmt_res_562643).concat(got_562639); } else { fmt_res_562643 = got_562639.slice(); };
+										F.line = 285;
+										if (fmt_res_562643 != null) { fmt_res_562643 = (fmt_res_562643).concat(makeNimstrLit(")")); } else { fmt_res_562643 = makeNimstrLit(")"); };
+										var msg_563002 = nimCopy(null, fmt_res_562643, NTI138);
+										F.line = 286;
 										F.line = 104;
-										var excp_562804 = new_py_value_error_simple_362601();
+										var excp_563004 = new_py_value_error_simple_362601();
 										F.line = 105;
-										excp_562804.tk = 5;
+										excp_563004.tk = 5;
 										F.line = 106;
-										excp_562804.thrown = true;
+										excp_563004.thrown = true;
 										F.line = 107;
-										excp_562804.msg = new_py_string_176075(msg_562802);
-										var excp_562807 = excp_562804;
-										F.line = 280;
-										excp_obj_551322 = excp_562807;
-										F.line = 291;
+										excp_563004.msg = new_py_string_176075(msg_563002);
+										var excp_563007 = excp_563004;
+										F.line = 287;
+										excp_obj_551827 = excp_563007;
+										F.line = 292;
 										break L4;
 										}
 										
-										L43: do {
-											F.line = 292;
-											var i_562819 = 0;
+										L40: do {
+											F.line = 293;
+											var i_563019 = 0;
 											F.line = 2107;
-											var res_582860 = 1;
-											L44: do {
+											var res_584053 = 1;
+											L41: do {
 												F.line = 2108;
-													L45: while (true) {
-													if (!(res_582860 <= op_arg_551406)) break L45;
+													L42: while (true) {
+													if (!(res_584053 <= op_arg_552006)) break L42;
 														F.line = 2109;
-														i_562819 = res_582860;
-														F.line = 127;
-														if (val_stack_551095[0] != null) { val_stack_551095[0].push((Tmp46 = HEX5BHEX5D_551617(l_562411.items, i_562819), Tmp46[0])[Tmp46[1]]); } else { val_stack_551095[0] = [(Tmp46 = HEX5BHEX5D_551617(l_562411.items, i_562819), Tmp46[0])[Tmp46[1]]]; };
+														i_563019 = res_584053;
+														F.line = 129;
+														if (val_stack_551095[0] != null) { val_stack_551095[0].push((Tmp43 = HEX5BHEX5D_552217(t_562620.items, i_563019), Tmp43[0])[Tmp43[1]]); } else { val_stack_551095[0] = [(Tmp43 = HEX5BHEX5D_552217(t_562620.items, i_563019), Tmp43[0])[Tmp43[1]]]; };
 														F.line = 2110;
-														res_582860 = addInt(res_582860, 1);
+														res_584053 = addInt(res_584053, 1);
 													}
 											} while(false);
 										} while(false);
 										}
 										else {
-											F.line = 295;
+										if (of_py_list_object_505271(s_562619)) {
+										F.line = 296;
+										var l_563211 = s_562619;
+										if (!((op_arg_552006 == (l_563211.items != null ? l_563211.items.length : 0)))) {
+										F.line = 284;
+										var got_563230 = cstrToNimstr(((l_563211.items != null ? l_563211.items.length : 0))+"");
+										F.line = 285;
+										F.line = 285;
+										var fmt_res_563234 = mnewString(0);
+										F.line = 285;
+										if (fmt_res_563234 != null) { fmt_res_563234 = (fmt_res_563234).concat(makeNimstrLit("not enough values to unpack (expected ")); } else { fmt_res_563234 = makeNimstrLit("not enough values to unpack (expected "); };
+										F.line = 270;
+										if (fmt_res_563234 != null) { fmt_res_563234 = (fmt_res_563234).concat(cstrToNimstr((op_arg_552006)+"")); } else { fmt_res_563234 = cstrToNimstr((op_arg_552006)+"").slice(); };
+										F.line = 285;
+										if (fmt_res_563234 != null) { fmt_res_563234 = (fmt_res_563234).concat(makeNimstrLit(", got ")); } else { fmt_res_563234 = makeNimstrLit(", got "); };
+										F.line = 260;
+										if (fmt_res_563234 != null) { fmt_res_563234 = (fmt_res_563234).concat(got_563230); } else { fmt_res_563234 = got_563230.slice(); };
+										F.line = 285;
+										if (fmt_res_563234 != null) { fmt_res_563234 = (fmt_res_563234).concat(makeNimstrLit(")")); } else { fmt_res_563234 = makeNimstrLit(")"); };
+										var msg_563602 = nimCopy(null, fmt_res_563234, NTI138);
+										F.line = 286;
+										F.line = 104;
+										var excp_563604 = new_py_value_error_simple_362601();
+										F.line = 105;
+										excp_563604.tk = 5;
+										F.line = 106;
+										excp_563604.thrown = true;
+										F.line = 107;
+										excp_563604.msg = new_py_string_176075(msg_563602);
+										var excp_563607 = excp_563604;
+										F.line = 287;
+										excp_obj_551827 = excp_563607;
+										F.line = 298;
+										break L4;
+										}
+										
+										L44: do {
+											F.line = 299;
+											var i_563619 = 0;
+											F.line = 2107;
+											var res_584061 = 1;
+											L45: do {
+												F.line = 2108;
+													L46: while (true) {
+													if (!(res_584061 <= op_arg_552006)) break L46;
+														F.line = 2109;
+														i_563619 = res_584061;
+														F.line = 129;
+														if (val_stack_551095[0] != null) { val_stack_551095[0].push((Tmp47 = HEX5BHEX5D_552217(l_563211.items, i_563619), Tmp47[0])[Tmp47[1]]); } else { val_stack_551095[0] = [(Tmp47 = HEX5BHEX5D_552217(l_563211.items, i_563619), Tmp47[0])[Tmp47[1]]]; };
+														F.line = 2110;
+														res_584061 = addInt(res_584061, 1);
+													}
+											} while(false);
+										} while(false);
+										}
+										else {
+											F.line = 302;
 											F.line = 170;
-											var iter_func_563020 = s_561819.pyType.magicMethods.Field36;
-											if ((iter_func_563020 === null)) {
+											var iter_func_563820 = s_562619.pyType.magicMethods.Field36;
+											if ((iter_func_563820 === null)) {
 											F.line = 172;
-											var msg_563028 = (s_561819.pyType.name).concat(makeNimstrLit(" object is not iterable"));
+											var msg_563828 = (s_562619.pyType.name).concat(makeNimstrLit(" object is not iterable"));
 											F.line = 173;
 											F.line = 104;
-											var excp_563030 = new_py_type_error_simple_360601();
+											var excp_563830 = new_py_type_error_simple_360601();
 											F.line = 105;
-											excp_563030.tk = 3;
+											excp_563830.tk = 3;
 											F.line = 106;
-											excp_563030.thrown = true;
+											excp_563830.thrown = true;
 											F.line = 107;
-											excp_563030.msg = new_py_string_176075(msg_563028);
-											result_551112 = excp_563030;
+											excp_563830.msg = new_py_string_176075(msg_563828);
+											result_551217 = excp_563830;
 											break BeforeRet;
 											}
 											
 											F.line = 174;
-											var iter_obj_563033 = iter_func_563020(s_561819);
-											if ((iter_obj_563033.pyType.magicMethods.Field37 === null)) {
+											var iter_obj_563833 = iter_func_563820(s_562619);
+											if ((iter_obj_563833.pyType.magicMethods.Field37 === null)) {
 											F.line = 176;
 											F.line = 176;
-											var fmt_res_563042 = mnewString(0);
+											var fmt_res_563842 = mnewString(0);
 											F.line = 176;
-											if (fmt_res_563042 != null) { fmt_res_563042 = (fmt_res_563042).concat(makeNimstrLit("iter() returned non-iterator of type ")); } else { fmt_res_563042 = makeNimstrLit("iter() returned non-iterator of type "); };
-											var msg_563044 = (fmt_res_563042).concat(iter_obj_563033.pyType.name);
+											if (fmt_res_563842 != null) { fmt_res_563842 = (fmt_res_563842).concat(makeNimstrLit("iter() returned non-iterator of type ")); } else { fmt_res_563842 = makeNimstrLit("iter() returned non-iterator of type "); };
+											var msg_563844 = (fmt_res_563842).concat(iter_obj_563833.pyType.name);
 											F.line = 177;
 											F.line = 104;
-											var excp_563046 = new_py_type_error_simple_360601();
+											var excp_563846 = new_py_type_error_simple_360601();
 											F.line = 105;
-											excp_563046.tk = 3;
+											excp_563846.tk = 3;
 											F.line = 106;
-											excp_563046.thrown = true;
+											excp_563846.thrown = true;
 											F.line = 107;
-											excp_563046.msg = new_py_string_176075(msg_563044);
-											result_551112 = excp_563046;
+											excp_563846.msg = new_py_string_176075(msg_563844);
+											result_551217 = excp_563846;
 											break BeforeRet;
 											}
 											
-											var iterable_563048 = iter_obj_563033;
-												if (of_py_exception_object_358259(iterable_563048)) {
-												Tmp47 = iterable_563048.thrown;
+											var iterable_563848 = iter_obj_563833;
+												if (of_py_exception_object_358259(iterable_563848)) {
+												Tmp48 = iterable_563848.thrown;
 												}
 												else {
-												Tmp47 = false;
+												Tmp48 = false;
 												}
 												
-											if (Tmp47) {
-											F.line = 297;
-											excp_obj_551322 = iterable_563048;
-											F.line = 297;
+											if (Tmp48) {
+											F.line = 304;
+											excp_obj_551827 = iterable_563848;
+											F.line = 304;
 											break L4;
 											}
 											
-											F.line = 298;
-											var next_func_563049 = iterable_563048.pyType.magicMethods.Field37;
-											F.line = 301;
-											var items_563102 = new_seq_563054(chckRange(op_arg_551406, 0, 2147483647));
-											L48: do {
-												F.line = 302;
-												var i_563113 = 0;
+											F.line = 305;
+											var next_func_563849 = iterable_563848.pyType.magicMethods.Field37;
+											F.line = 308;
+											var items_563902 = new_seq_563854(chckRange(op_arg_552006, 0, 2147483647));
+											L49: do {
+												F.line = 309;
+												var i_563913 = 0;
 												F.line = 3617;
-												var i_582869 = 0;
-												L49: do {
+												var i_584070 = 0;
+												L50: do {
 													F.line = 3618;
-														L50: while (true) {
-														if (!(i_582869 < op_arg_551406)) break L50;
+														L51: while (true) {
+														if (!(i_584070 < op_arg_552006)) break L51;
 															F.line = 3619;
-															i_563113 = i_582869;
-															F.line = 303;
-															var ret_obj_563114 = next_func_563049(iterable_563048);
-															if (is_stop_iter_373851(ret_obj_563114)) {
-															F.line = 277;
-															var got_563119 = cstrToNimstr((i_563113)+"");
-															F.line = 278;
-															F.line = 278;
-															var fmt_res_563123 = mnewString(0);
-															F.line = 278;
-															if (fmt_res_563123 != null) { fmt_res_563123 = (fmt_res_563123).concat(makeNimstrLit("not enough values to unpack (expected ")); } else { fmt_res_563123 = makeNimstrLit("not enough values to unpack (expected "); };
+															i_563913 = i_584070;
+															F.line = 310;
+															var ret_obj_563914 = next_func_563849(iterable_563848);
+															if (is_stop_iter_373851(ret_obj_563914)) {
+															F.line = 284;
+															var got_563919 = cstrToNimstr((i_563913)+"");
+															F.line = 285;
+															F.line = 285;
+															var fmt_res_563923 = mnewString(0);
+															F.line = 285;
+															if (fmt_res_563923 != null) { fmt_res_563923 = (fmt_res_563923).concat(makeNimstrLit("not enough values to unpack (expected ")); } else { fmt_res_563923 = makeNimstrLit("not enough values to unpack (expected "); };
 															F.line = 270;
-															if (fmt_res_563123 != null) { fmt_res_563123 = (fmt_res_563123).concat(cstrToNimstr((op_arg_551406)+"")); } else { fmt_res_563123 = cstrToNimstr((op_arg_551406)+"").slice(); };
-															F.line = 278;
-															if (fmt_res_563123 != null) { fmt_res_563123 = (fmt_res_563123).concat(makeNimstrLit(", got ")); } else { fmt_res_563123 = makeNimstrLit(", got "); };
+															if (fmt_res_563923 != null) { fmt_res_563923 = (fmt_res_563923).concat(cstrToNimstr((op_arg_552006)+"")); } else { fmt_res_563923 = cstrToNimstr((op_arg_552006)+"").slice(); };
+															F.line = 285;
+															if (fmt_res_563923 != null) { fmt_res_563923 = (fmt_res_563923).concat(makeNimstrLit(", got ")); } else { fmt_res_563923 = makeNimstrLit(", got "); };
 															F.line = 260;
-															if (fmt_res_563123 != null) { fmt_res_563123 = (fmt_res_563123).concat(got_563119); } else { fmt_res_563123 = got_563119.slice(); };
-															F.line = 278;
-															if (fmt_res_563123 != null) { fmt_res_563123 = (fmt_res_563123).concat(makeNimstrLit(")")); } else { fmt_res_563123 = makeNimstrLit(")"); };
-															var msg_563402 = nimCopy(null, fmt_res_563123, NTI138);
-															F.line = 279;
+															if (fmt_res_563923 != null) { fmt_res_563923 = (fmt_res_563923).concat(got_563919); } else { fmt_res_563923 = got_563919.slice(); };
+															F.line = 285;
+															if (fmt_res_563923 != null) { fmt_res_563923 = (fmt_res_563923).concat(makeNimstrLit(")")); } else { fmt_res_563923 = makeNimstrLit(")"); };
+															var msg_564202 = nimCopy(null, fmt_res_563923, NTI138);
+															F.line = 286;
 															F.line = 104;
-															var excp_563404 = new_py_value_error_simple_362601();
+															var excp_564204 = new_py_value_error_simple_362601();
 															F.line = 105;
-															excp_563404.tk = 5;
+															excp_564204.tk = 5;
 															F.line = 106;
-															excp_563404.thrown = true;
+															excp_564204.thrown = true;
 															F.line = 107;
-															excp_563404.msg = new_py_string_176075(msg_563402);
-															var excp_563407 = excp_563404;
-															F.line = 280;
-															excp_obj_551322 = excp_563407;
-															F.line = 305;
-															break L48;
+															excp_564204.msg = new_py_string_176075(msg_564202);
+															var excp_564207 = excp_564204;
+															F.line = 287;
+															excp_obj_551827 = excp_564207;
+															F.line = 312;
+															break L49;
 															}
 															else {
-																if (of_py_exception_object_358259(ret_obj_563114)) {
-																Tmp51 = ret_obj_563114.thrown;
+																if (of_py_exception_object_358259(ret_obj_563914)) {
+																Tmp52 = ret_obj_563914.thrown;
 																}
 																else {
-																Tmp51 = false;
+																Tmp52 = false;
 																}
 																
-															if (Tmp51) {
-															F.line = 307;
-															excp_obj_551322 = ret_obj_563114;
-															F.line = 307;
-															break L48;
+															if (Tmp52) {
+															F.line = 314;
+															excp_obj_551827 = ret_obj_563914;
+															F.line = 314;
+															break L49;
 															}
 															else {
-																F.line = 309;
-																items_563102[chckIndx(i_563113, 0, items_563102.length+0-1)-0] = ret_obj_563114;
+																F.line = 316;
+																items_563902[chckIndx(i_563913, 0, items_563902.length+0-1)-0] = ret_obj_563914;
 															}
 															}
 															F.line = 3620;
-															i_582869 = addInt(i_582869, 1);
+															i_584070 = addInt(i_584070, 1);
 														}
 												} while(false);
 											} while(false);
-											L52: do {
-												F.line = 310;
-												var i_563419 = 0;
+											L53: do {
+												F.line = 317;
+												var i_564219 = 0;
 												F.line = 2107;
-												var res_582875 = 1;
-												L53: do {
+												var res_584076 = 1;
+												L54: do {
 													F.line = 2108;
-														L54: while (true) {
-														if (!(res_582875 <= op_arg_551406)) break L54;
+														L55: while (true) {
+														if (!(res_584076 <= op_arg_552006)) break L55;
 															F.line = 2109;
-															i_563419 = res_582875;
-															F.line = 127;
-															if (val_stack_551095[0] != null) { val_stack_551095[0].push((Tmp55 = HEX5BHEX5D_551617(items_563102, i_563419), Tmp55[0])[Tmp55[1]]); } else { val_stack_551095[0] = [(Tmp55 = HEX5BHEX5D_551617(items_563102, i_563419), Tmp55[0])[Tmp55[1]]]; };
+															i_564219 = res_584076;
+															F.line = 129;
+															if (val_stack_551095[0] != null) { val_stack_551095[0].push((Tmp56 = HEX5BHEX5D_552217(items_563902, i_564219), Tmp56[0])[Tmp56[1]]); } else { val_stack_551095[0] = [(Tmp56 = HEX5BHEX5D_552217(items_563902, i_564219), Tmp56[0])[Tmp56[1]]]; };
 															F.line = 2110;
-															res_582875 = addInt(res_582875, 1);
+															res_584076 = addInt(res_584076, 1);
 														}
 												} while(false);
 											} while(false);
@@ -22395,397 +22410,331 @@ function eval_frame_551056(f_551058) {
 										}
 										break;
 									case 65:
-										F.line = 314;
-										var top_563627 = (Tmp56 = HEX5BHEX5D_551617(val_stack_551095[0], 1), Tmp56[0])[Tmp56[1]];
-										F.line = 315;
-										var next_func_563628 = top_563627.pyType.magicMethods.Field37;
-										if ((next_func_563628 === null)) {
-										F.line = 317;
-										rawEcho(top_563627.pyType.name);
-										F.line = 2895;
-										var e_563643 = null;
-										F.line = 2896;
-										e_563643 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
-										F.line = 25;
-										e_563643.message = nimCopy(null, makeNimstrLit("Shouldn\'t be here"), NTI138);
-										F.line = 2891;
-										e_563643.parent = null;
-										F.line = 318;
-										raiseException(e_563643, "InternalError");
-										}
-										
-										F.line = 319;
-										var ret_obj_563801 = next_func_563628(top_563627);
-										if (is_stop_iter_373851(ret_obj_563801)) {
 										F.line = 321;
-										pop_518821(val_stack_551095, 0);
-										F.line = 96;
-										last_i_551203 = subInt(op_arg_551406, 1);
-										}
-										else {
-											if (of_py_exception_object_358259(ret_obj_563801)) {
-											Tmp57 = ret_obj_563801.thrown;
-											}
-											else {
-											Tmp57 = false;
-											}
-											
-										if (Tmp57) {
+										var top_564427 = (Tmp57 = HEX5BHEX5D_552217(val_stack_551095[0], 1), Tmp57[0])[Tmp57[1]];
+										F.line = 322;
+										var next_func_564428 = top_564427.pyType.magicMethods.Field37;
+										if ((next_func_564428 === null)) {
 										F.line = 324;
-										excp_obj_551322 = ret_obj_563801;
-										F.line = 324;
-										break L4;
-										}
-										else {
-											F.line = 127;
-											if (val_stack_551095[0] != null) { val_stack_551095[0].push(ret_obj_563801); } else { val_stack_551095[0] = [ret_obj_563801]; };
-										}
-										}
-										break;
-									case 67:
-										F.line = 329;
-										var name_564012 = names_551289[names_551289_Idx][chckIndx(op_arg_551406, 0, names_551289[names_551289_Idx].length+0-1)-0];
-										F.line = 330;
-										var owner_564022 = pop_518821(val_stack_551095, 0);
-										F.line = 331;
-										var v_564032 = pop_518821(val_stack_551095, 0);
-										F.line = 332;
-										F.line = 67;
-										if ((owner_564022.pyType === null)) {
+										rawEcho(top_564427.pyType.name);
 										F.line = 2895;
-										var e_564059 = null;
+										var e_564443 = null;
 										F.line = 2896;
-										e_564059 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
-										F.line = 26;
-										e_564059.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
+										e_564443 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
+										F.line = 25;
+										e_564443.message = nimCopy(null, makeNimstrLit("Shouldn\'t be here"), NTI138);
 										F.line = 2891;
-										e_564059.parent = null;
-										F.line = 26;
-										raiseException(e_564059, "InternalError");
+										e_564443.parent = null;
+										F.line = 325;
+										raiseException(e_564443, "InternalError");
 										}
 										
-										F.line = 27;
-										var fun_564202 = owner_564022.pyType.magicMethods.Field29;
-										if ((fun_564202 === null)) {
-										F.line = 29;
-										var obj_type_str_564211 = owner_564022.pyType.name;
-										F.line = 30;
-										var method_str_564213 = makeNimstrLit("setattr");
-										F.line = 31;
-										var msg_564215 = (makeNimstrLit("No ")).concat(method_str_564213,makeNimstrLit(" method for "),obj_type_str_564211,makeNimstrLit(" defined"));
-										F.line = 32;
-										F.line = 104;
-										var excp_564217 = new_py_type_error_simple_360601();
-										F.line = 105;
-										excp_564217.tk = 3;
-										F.line = 106;
-										excp_564217.thrown = true;
-										F.line = 107;
-										excp_564217.msg = new_py_string_176075(msg_564215);
-										var excp_564220 = excp_564217;
-										F.line = 34;
-										excp_obj_551322 = excp_564220;
-										F.line = 34;
-										break L4;
+										F.line = 326;
+										var ret_obj_564601 = next_func_564428(top_564427);
+										if (is_stop_iter_373851(ret_obj_564601)) {
+										F.line = 328;
+										pop_518821(val_stack_551095, 0);
+										F.line = 98;
+										last_i_551403 = subInt(op_arg_552006, 1);
 										}
-										
-										var fun_564402 = fun_564202;
-										F.line = 68;
-										var res_564404 = fun_564402(owner_564022, name_564012, v_564032);
-											if (of_py_exception_object_358259(res_564404)) {
-											Tmp58 = res_564404.thrown;
+										else {
+											if (of_py_exception_object_358259(ret_obj_564601)) {
+											Tmp58 = ret_obj_564601.thrown;
 											}
 											else {
 											Tmp58 = false;
 											}
 											
 										if (Tmp58) {
-										F.line = 71;
-										excp_obj_551322 = res_564404;
-										F.line = 71;
+										F.line = 331;
+										excp_obj_551827 = ret_obj_564601;
+										F.line = 331;
 										break L4;
 										}
-										
-										res_564404;
+										else {
+											F.line = 129;
+											if (val_stack_551095[0] != null) { val_stack_551095[0].push(ret_obj_564601); } else { val_stack_551095[0] = [ret_obj_564601]; };
+										}
+										}
 										break;
-									case 69:
-										F.line = 335;
-										var name_564602 = names_551289[names_551289_Idx][chckIndx(op_arg_551406, 0, names_551289[names_551289_Idx].length+0-1)-0];
+									case 67:
 										F.line = 336;
-										HEX5BHEX5DHEX3D_523842(f_551058.globals, name_564602, pop_518821(val_stack_551095, 0));
-										break;
-									case 71:
-										F.line = 127;
-										if (val_stack_551095[0] != null) { val_stack_551095[0].push(constants_551287[constants_551287_Idx][chckIndx(op_arg_551406, 0, constants_551287[constants_551287_Idx].length+0-1)-0]); } else { val_stack_551095[0] = [constants_551287[constants_551287_Idx][chckIndx(op_arg_551406, 0, constants_551287[constants_551287_Idx].length+0-1)-0]]; };
-										break;
-									case 72:
+										var name_564812 = names_551645[names_551645_Idx][chckIndx(op_arg_552006, 0, names_551645[names_551645_Idx].length+0-1)-0];
+										F.line = 337;
+										var owner_564822 = pop_518821(val_stack_551095, 0);
+										F.line = 338;
+										var v_564832 = pop_518821(val_stack_551095, 0);
+										F.line = 339;
+										F.line = 67;
+										if ((owner_564822.pyType === null)) {
 										F.line = 2895;
-										var e_564817 = null;
+										var e_564859 = null;
 										F.line = 2896;
-										e_564817 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
-										F.line = 342;
-										e_564817.message = nimCopy(null, makeNimstrLit("locals() scope not implemented"), NTI138);
-										F.line = 2891;
-										e_564817.parent = null;
-										F.line = 342;
-										raiseException(e_564817, "InternalError");
-										break;
-									case 73:
-										F.line = 345;
-										var args_565030 = new_seq_563054(chckRange(op_arg_551406, 0, 2147483647));
-										L59: do {
-											F.line = 346;
-											var i_565042 = 0;
-											F.line = 2107;
-											var res_582886 = 1;
-											L60: do {
-												F.line = 2108;
-													L61: while (true) {
-													if (!(res_582886 <= op_arg_551406)) break L61;
-														F.line = 2109;
-														i_565042 = res_582886;
-														F.line = 347;
-														HEX5BHEX5DHEX3D_552604(args_565030, i_565042, pop_518821(val_stack_551095, 0));
-														F.line = 2110;
-														res_582886 = addInt(res_582886, 1);
-													}
-											} while(false);
-										} while(false);
-										F.line = 348;
-										var new_tuple_565066 = new_py_tuple_465057(args_565030);
-										F.line = 127;
-										if (val_stack_551095[0] != null) { val_stack_551095[0].push(new_tuple_565066); } else { val_stack_551095[0] = [new_tuple_565066]; };
-										break;
-									case 74:
-										F.line = 352;
-										var args_565240 = new_seq_563054(chckRange(op_arg_551406, 0, 2147483647));
-										L62: do {
-											F.line = 353;
-											var i_565252 = 0;
-											F.line = 2107;
-											var res_582894 = 1;
-											L63: do {
-												F.line = 2108;
-													L64: while (true) {
-													if (!(res_582894 <= op_arg_551406)) break L64;
-														F.line = 2109;
-														i_565252 = res_582894;
-														F.line = 354;
-														HEX5BHEX5DHEX3D_552604(args_565240, i_565252, pop_518821(val_stack_551095, 0));
-														F.line = 2110;
-														res_582894 = addInt(res_582894, 1);
-													}
-											} while(false);
-										} while(false);
-										F.line = 356;
-										var new_list_565276 = new_py_list_506273(args_565240);
-										F.line = 127;
-										if (val_stack_551095[0] != null) { val_stack_551095[0].push(new_list_565276); } else { val_stack_551095[0] = [new_list_565276]; };
-										break;
-									case 76:
-										F.line = 360;
-										var d_565412 = new_py_dict_522257();
-										L65: do {
-											F.line = 361;
-											var i_565423 = 0;
-											F.line = 3617;
-											var i_582902 = 0;
-											L66: do {
-												F.line = 3618;
-													L67: while (true) {
-													if (!(i_582902 < op_arg_551406)) break L67;
-														F.line = 3619;
-														i_565423 = i_582902;
-														F.line = 362;
-														var key_565433 = pop_518821(val_stack_551095, 0);
-														F.line = 363;
-														var value_565443 = pop_518821(val_stack_551095, 0);
-														F.line = 364;
-														var ret_obj_565444 = setitem_pydict_object_magic_531581(d_565412, key_565433, value_565443);
-															if (of_py_exception_object_358259(ret_obj_565444)) {
-															Tmp68 = ret_obj_565444.thrown;
-															}
-															else {
-															Tmp68 = false;
-															}
-															
-														if (Tmp68) {
-														F.line = 366;
-														excp_obj_551322 = ret_obj_565444;
-														F.line = 366;
-														break L65;
-														}
-														
-														F.line = 3620;
-														i_582902 = addInt(i_582902, 1);
-													}
-											} while(false);
-										} while(false);
-										F.line = 127;
-										if (val_stack_551095[0] != null) { val_stack_551095[0].push(d_565412); } else { val_stack_551095[0] = [d_565412]; };
-										break;
-									case 77:
-										F.line = 370;
-										var name_565612 = names_551289[names_551289_Idx][chckIndx(op_arg_551406, 0, names_551289[names_551289_Idx].length+0-1)-0];
-										F.line = 371;
-										var obj_565628 = (Tmp69 = HEX5BHEX5D_551617(val_stack_551095[0], 1), Tmp69[0])[Tmp69[1]];
-										F.line = 372;
-										F.line = 56;
-										if ((obj_565628.pyType === null)) {
-										F.line = 2895;
-										var e_565655 = null;
-										F.line = 2896;
-										e_565655 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
+										e_564859 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
 										F.line = 26;
-										e_565655.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
+										e_564859.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
 										F.line = 2891;
-										e_565655.parent = null;
+										e_564859.parent = null;
 										F.line = 26;
-										raiseException(e_565655, "InternalError");
+										raiseException(e_564859, "InternalError");
 										}
 										
 										F.line = 27;
-										var fun_565802 = obj_565628.pyType.magicMethods.Field28;
-										if ((fun_565802 === null)) {
+										var fun_565002 = owner_564822.pyType.magicMethods.Field29;
+										if ((fun_565002 === null)) {
 										F.line = 29;
-										var obj_type_str_565811 = obj_565628.pyType.name;
+										var obj_type_str_565011 = owner_564822.pyType.name;
 										F.line = 30;
-										var method_str_565813 = makeNimstrLit("getattr");
+										var method_str_565013 = makeNimstrLit("setattr");
 										F.line = 31;
-										var msg_565815 = (makeNimstrLit("No ")).concat(method_str_565813,makeNimstrLit(" method for "),obj_type_str_565811,makeNimstrLit(" defined"));
+										var msg_565015 = (makeNimstrLit("No ")).concat(method_str_565013,makeNimstrLit(" method for "),obj_type_str_565011,makeNimstrLit(" defined"));
 										F.line = 32;
 										F.line = 104;
-										var excp_565817 = new_py_type_error_simple_360601();
+										var excp_565017 = new_py_type_error_simple_360601();
 										F.line = 105;
-										excp_565817.tk = 3;
+										excp_565017.tk = 3;
 										F.line = 106;
-										excp_565817.thrown = true;
+										excp_565017.thrown = true;
 										F.line = 107;
-										excp_565817.msg = new_py_string_176075(msg_565815);
-										var excp_565820 = excp_565817;
+										excp_565017.msg = new_py_string_176075(msg_565015);
+										var excp_565020 = excp_565017;
 										F.line = 34;
-										excp_obj_551322 = excp_565820;
+										excp_obj_551827 = excp_565020;
 										F.line = 34;
 										break L4;
 										}
 										
-										var fun_566002 = fun_565802;
-										F.line = 57;
-										var res_566004 = fun_566002(obj_565628, name_565612);
-											if (of_py_exception_object_358259(res_566004)) {
-											Tmp70 = res_566004.thrown;
+										var fun_565202 = fun_565002;
+										F.line = 68;
+										var res_565204 = fun_565202(owner_564822, name_564812, v_564832);
+											if (of_py_exception_object_358259(res_565204)) {
+											Tmp59 = res_565204.thrown;
 											}
 											else {
-											Tmp70 = false;
+											Tmp59 = false;
 											}
 											
-										if (Tmp70) {
+										if (Tmp59) {
+										F.line = 71;
+										excp_obj_551827 = res_565204;
+										F.line = 71;
+										break L4;
+										}
+										
+										res_565204;
+										break;
+									case 69:
+										F.line = 342;
+										var name_565402 = names_551645[names_551645_Idx][chckIndx(op_arg_552006, 0, names_551645[names_551645_Idx].length+0-1)-0];
+										F.line = 343;
+										HEX5BHEX5DHEX3D_523842(f_551058.globals, name_565402, pop_518821(val_stack_551095, 0));
+										break;
+									case 71:
+										F.line = 129;
+										if (val_stack_551095[0] != null) { val_stack_551095[0].push(constants_551643[constants_551643_Idx][chckIndx(op_arg_552006, 0, constants_551643[constants_551643_Idx].length+0-1)-0]); } else { val_stack_551095[0] = [constants_551643[constants_551643_Idx][chckIndx(op_arg_552006, 0, constants_551643[constants_551643_Idx].length+0-1)-0]]; };
+										break;
+									case 72:
+										F.line = 2895;
+										var e_565617 = null;
+										F.line = 2896;
+										e_565617 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
+										F.line = 349;
+										e_565617.message = nimCopy(null, makeNimstrLit("locals() scope not implemented"), NTI138);
+										F.line = 2891;
+										e_565617.parent = null;
+										F.line = 349;
+										raiseException(e_565617, "InternalError");
+										break;
+									case 73:
+										F.line = 352;
+										var args_565830 = new_seq_563854(chckRange(op_arg_552006, 0, 2147483647));
+										L60: do {
+											F.line = 353;
+											var i_565842 = 0;
+											F.line = 2107;
+											var res_584087 = 1;
+											L61: do {
+												F.line = 2108;
+													L62: while (true) {
+													if (!(res_584087 <= op_arg_552006)) break L62;
+														F.line = 2109;
+														i_565842 = res_584087;
+														F.line = 354;
+														HEX5BHEX5DHEX3D_553204(args_565830, i_565842, pop_518821(val_stack_551095, 0));
+														F.line = 2110;
+														res_584087 = addInt(res_584087, 1);
+													}
+											} while(false);
+										} while(false);
+										F.line = 355;
+										var new_tuple_565866 = new_py_tuple_465057(args_565830);
+										F.line = 129;
+										if (val_stack_551095[0] != null) { val_stack_551095[0].push(new_tuple_565866); } else { val_stack_551095[0] = [new_tuple_565866]; };
+										break;
+									case 74:
+										F.line = 359;
+										var args_566040 = new_seq_563854(chckRange(op_arg_552006, 0, 2147483647));
+										L63: do {
+											F.line = 360;
+											var i_566052 = 0;
+											F.line = 2107;
+											var res_584095 = 1;
+											L64: do {
+												F.line = 2108;
+													L65: while (true) {
+													if (!(res_584095 <= op_arg_552006)) break L65;
+														F.line = 2109;
+														i_566052 = res_584095;
+														F.line = 361;
+														HEX5BHEX5DHEX3D_553204(args_566040, i_566052, pop_518821(val_stack_551095, 0));
+														F.line = 2110;
+														res_584095 = addInt(res_584095, 1);
+													}
+											} while(false);
+										} while(false);
+										F.line = 363;
+										var new_list_566076 = new_py_list_506273(args_566040);
+										F.line = 129;
+										if (val_stack_551095[0] != null) { val_stack_551095[0].push(new_list_566076); } else { val_stack_551095[0] = [new_list_566076]; };
+										break;
+									case 76:
+										F.line = 367;
+										var d_566212 = new_py_dict_522257();
+										L66: do {
+											F.line = 368;
+											var i_566223 = 0;
+											F.line = 3617;
+											var i_584103 = 0;
+											L67: do {
+												F.line = 3618;
+													L68: while (true) {
+													if (!(i_584103 < op_arg_552006)) break L68;
+														F.line = 3619;
+														i_566223 = i_584103;
+														F.line = 369;
+														var key_566233 = pop_518821(val_stack_551095, 0);
+														F.line = 370;
+														var value_566243 = pop_518821(val_stack_551095, 0);
+														F.line = 371;
+														var ret_obj_566244 = setitem_pydict_object_magic_531581(d_566212, key_566233, value_566243);
+															if (of_py_exception_object_358259(ret_obj_566244)) {
+															Tmp69 = ret_obj_566244.thrown;
+															}
+															else {
+															Tmp69 = false;
+															}
+															
+														if (Tmp69) {
+														F.line = 373;
+														excp_obj_551827 = ret_obj_566244;
+														F.line = 373;
+														break L66;
+														}
+														
+														F.line = 3620;
+														i_584103 = addInt(i_584103, 1);
+													}
+											} while(false);
+										} while(false);
+										F.line = 129;
+										if (val_stack_551095[0] != null) { val_stack_551095[0].push(d_566212); } else { val_stack_551095[0] = [d_566212]; };
+										break;
+									case 77:
+										F.line = 377;
+										var name_566412 = names_551645[names_551645_Idx][chckIndx(op_arg_552006, 0, names_551645[names_551645_Idx].length+0-1)-0];
+										F.line = 378;
+										var obj_566428 = (Tmp70 = HEX5BHEX5D_552217(val_stack_551095[0], 1), Tmp70[0])[Tmp70[1]];
+										F.line = 379;
+										F.line = 56;
+										if ((obj_566428.pyType === null)) {
+										F.line = 2895;
+										var e_566455 = null;
+										F.line = 2896;
+										e_566455 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
+										F.line = 26;
+										e_566455.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
+										F.line = 2891;
+										e_566455.parent = null;
+										F.line = 26;
+										raiseException(e_566455, "InternalError");
+										}
+										
+										F.line = 27;
+										var fun_566602 = obj_566428.pyType.magicMethods.Field28;
+										if ((fun_566602 === null)) {
+										F.line = 29;
+										var obj_type_str_566611 = obj_566428.pyType.name;
+										F.line = 30;
+										var method_str_566613 = makeNimstrLit("getattr");
+										F.line = 31;
+										var msg_566615 = (makeNimstrLit("No ")).concat(method_str_566613,makeNimstrLit(" method for "),obj_type_str_566611,makeNimstrLit(" defined"));
+										F.line = 32;
+										F.line = 104;
+										var excp_566617 = new_py_type_error_simple_360601();
+										F.line = 105;
+										excp_566617.tk = 3;
+										F.line = 106;
+										excp_566617.thrown = true;
+										F.line = 107;
+										excp_566617.msg = new_py_string_176075(msg_566615);
+										var excp_566620 = excp_566617;
+										F.line = 34;
+										excp_obj_551827 = excp_566620;
+										F.line = 34;
+										break L4;
+										}
+										
+										var fun_566802 = fun_566602;
+										F.line = 57;
+										var res_566804 = fun_566802(obj_566428, name_566412);
+											if (of_py_exception_object_358259(res_566804)) {
+											Tmp71 = res_566804.thrown;
+											}
+											else {
+											Tmp71 = false;
+											}
+											
+										if (Tmp71) {
 										F.line = 60;
-										excp_obj_551322 = res_566004;
+										excp_obj_551827 = res_566804;
 										F.line = 60;
 										break L4;
 										}
 										
-										HEX5BHEX5DHEX3D_552604(val_stack_551095[0], 1, res_566004);
+										HEX5BHEX5DHEX3D_553204(val_stack_551095[0], 1, res_566804);
 										break;
 									case 78:
-										F.line = 375;
-										var cmp_op_566416 = chckRange(op_arg_551406, 0, 10);
-										F.line = 376;
-										switch (cmp_op_566416) {
+										F.line = 382;
+										var cmp_op_567216 = chckRange(op_arg_552006, 0, 10);
+										F.line = 383;
+										switch (cmp_op_567216) {
 										case 0:
 											F.line = 48;
-											var op2_566434 = pop_518821(val_stack_551095, 0);
+											var op2_567234 = pop_518821(val_stack_551095, 0);
 											F.line = 49;
-											var op1_566451 = (Tmp71 = HEX5BHEX5D_551617(val_stack_551095[0], 1), Tmp71[0])[Tmp71[1]];
+											var op1_567251 = (Tmp72 = HEX5BHEX5D_552217(val_stack_551095[0], 1), Tmp72[0])[Tmp72[1]];
 											F.line = 50;
 											F.line = 56;
-											if ((op1_566451.pyType === null)) {
+											if ((op1_567251.pyType === null)) {
 											F.line = 2895;
-											var e_566478 = null;
+											var e_567278 = null;
 											F.line = 2896;
-											e_566478 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
+											e_567278 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
 											F.line = 26;
-											e_566478.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
+											e_567278.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
 											F.line = 2891;
-											e_566478.parent = null;
+											e_567278.parent = null;
 											F.line = 26;
-											raiseException(e_566478, "InternalError");
+											raiseException(e_567278, "InternalError");
 											}
 											
 											F.line = 27;
-											var fun_566602 = op1_566451.pyType.magicMethods.Field16;
-											if ((fun_566602 === null)) {
-											F.line = 29;
-											var obj_type_str_566611 = op1_566451.pyType.name;
-											F.line = 30;
-											var method_str_566613 = makeNimstrLit("lt");
-											F.line = 31;
-											var msg_566615 = (makeNimstrLit("No ")).concat(method_str_566613,makeNimstrLit(" method for "),obj_type_str_566611,makeNimstrLit(" defined"));
-											F.line = 32;
-											F.line = 104;
-											var excp_566617 = new_py_type_error_simple_360601();
-											F.line = 105;
-											excp_566617.tk = 3;
-											F.line = 106;
-											excp_566617.thrown = true;
-											F.line = 107;
-											excp_566617.msg = new_py_string_176075(msg_566615);
-											var excp_566620 = excp_566617;
-											F.line = 34;
-											excp_obj_551322 = excp_566620;
-											F.line = 34;
-											break L4;
-											}
-											
-											var fun_566802 = fun_566602;
-											F.line = 57;
-											var res_566804 = fun_566802(op1_566451, op2_566434);
-												if (of_py_exception_object_358259(res_566804)) {
-												Tmp72 = res_566804.thrown;
-												}
-												else {
-												Tmp72 = false;
-												}
-												
-											if (Tmp72) {
-											F.line = 60;
-											excp_obj_551322 = res_566804;
-											F.line = 60;
-											break L4;
-											}
-											
-											var res_567002 = res_566804;
-											F.line = 378;
-											HEX5BHEX5DHEX3D_552604(val_stack_551095[0], 1, res_567002);
-											break;
-										case 1:
-											F.line = 48;
-											var op2_567232 = pop_518821(val_stack_551095, 0);
-											F.line = 49;
-											var op1_567249 = (Tmp73 = HEX5BHEX5D_551617(val_stack_551095[0], 1), Tmp73[0])[Tmp73[1]];
-											F.line = 50;
-											F.line = 56;
-											if ((op1_567249.pyType === null)) {
-											F.line = 2895;
-											var e_567276 = null;
-											F.line = 2896;
-											e_567276 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
-											F.line = 26;
-											e_567276.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
-											F.line = 2891;
-											e_567276.parent = null;
-											F.line = 26;
-											raiseException(e_567276, "InternalError");
-											}
-											
-											F.line = 27;
-											var fun_567402 = op1_567249.pyType.magicMethods.Field17;
+											var fun_567402 = op1_567251.pyType.magicMethods.Field16;
 											if ((fun_567402 === null)) {
 											F.line = 29;
-											var obj_type_str_567411 = op1_567249.pyType.name;
+											var obj_type_str_567411 = op1_567251.pyType.name;
 											F.line = 30;
-											var method_str_567413 = makeNimstrLit("le");
+											var method_str_567413 = makeNimstrLit("lt");
 											F.line = 31;
 											var msg_567415 = (makeNimstrLit("No ")).concat(method_str_567413,makeNimstrLit(" method for "),obj_type_str_567411,makeNimstrLit(" defined"));
 											F.line = 32;
@@ -22799,37 +22748,37 @@ function eval_frame_551056(f_551058) {
 											excp_567417.msg = new_py_string_176075(msg_567415);
 											var excp_567420 = excp_567417;
 											F.line = 34;
-											excp_obj_551322 = excp_567420;
+											excp_obj_551827 = excp_567420;
 											F.line = 34;
 											break L4;
 											}
 											
 											var fun_567602 = fun_567402;
 											F.line = 57;
-											var res_567604 = fun_567602(op1_567249, op2_567232);
+											var res_567604 = fun_567602(op1_567251, op2_567234);
 												if (of_py_exception_object_358259(res_567604)) {
-												Tmp74 = res_567604.thrown;
+												Tmp73 = res_567604.thrown;
 												}
 												else {
-												Tmp74 = false;
+												Tmp73 = false;
 												}
 												
-											if (Tmp74) {
+											if (Tmp73) {
 											F.line = 60;
-											excp_obj_551322 = res_567604;
+											excp_obj_551827 = res_567604;
 											F.line = 60;
 											break L4;
 											}
 											
 											var res_567802 = res_567604;
-											F.line = 380;
-											HEX5BHEX5DHEX3D_552604(val_stack_551095[0], 1, res_567802);
+											F.line = 385;
+											HEX5BHEX5DHEX3D_553204(val_stack_551095[0], 1, res_567802);
 											break;
-										case 2:
+										case 1:
 											F.line = 48;
 											var op2_568032 = pop_518821(val_stack_551095, 0);
 											F.line = 49;
-											var op1_568049 = (Tmp75 = HEX5BHEX5D_551617(val_stack_551095[0], 1), Tmp75[0])[Tmp75[1]];
+											var op1_568049 = (Tmp74 = HEX5BHEX5D_552217(val_stack_551095[0], 1), Tmp74[0])[Tmp74[1]];
 											F.line = 50;
 											F.line = 56;
 											if ((op1_568049.pyType === null)) {
@@ -22846,12 +22795,12 @@ function eval_frame_551056(f_551058) {
 											}
 											
 											F.line = 27;
-											var fun_568202 = op1_568049.pyType.magicMethods.Field18;
+											var fun_568202 = op1_568049.pyType.magicMethods.Field17;
 											if ((fun_568202 === null)) {
 											F.line = 29;
 											var obj_type_str_568211 = op1_568049.pyType.name;
 											F.line = 30;
-											var method_str_568213 = makeNimstrLit("eq");
+											var method_str_568213 = makeNimstrLit("le");
 											F.line = 31;
 											var msg_568215 = (makeNimstrLit("No ")).concat(method_str_568213,makeNimstrLit(" method for "),obj_type_str_568211,makeNimstrLit(" defined"));
 											F.line = 32;
@@ -22865,7 +22814,7 @@ function eval_frame_551056(f_551058) {
 											excp_568217.msg = new_py_string_176075(msg_568215);
 											var excp_568220 = excp_568217;
 											F.line = 34;
-											excp_obj_551322 = excp_568220;
+											excp_obj_551827 = excp_568220;
 											F.line = 34;
 											break L4;
 											}
@@ -22874,28 +22823,28 @@ function eval_frame_551056(f_551058) {
 											F.line = 57;
 											var res_568404 = fun_568402(op1_568049, op2_568032);
 												if (of_py_exception_object_358259(res_568404)) {
-												Tmp76 = res_568404.thrown;
+												Tmp75 = res_568404.thrown;
 												}
 												else {
-												Tmp76 = false;
+												Tmp75 = false;
 												}
 												
-											if (Tmp76) {
+											if (Tmp75) {
 											F.line = 60;
-											excp_obj_551322 = res_568404;
+											excp_obj_551827 = res_568404;
 											F.line = 60;
 											break L4;
 											}
 											
 											var res_568602 = res_568404;
-											F.line = 382;
-											HEX5BHEX5DHEX3D_552604(val_stack_551095[0], 1, res_568602);
+											F.line = 387;
+											HEX5BHEX5DHEX3D_553204(val_stack_551095[0], 1, res_568602);
 											break;
-										case 3:
+										case 2:
 											F.line = 48;
 											var op2_568832 = pop_518821(val_stack_551095, 0);
 											F.line = 49;
-											var op1_568849 = (Tmp77 = HEX5BHEX5D_551617(val_stack_551095[0], 1), Tmp77[0])[Tmp77[1]];
+											var op1_568849 = (Tmp76 = HEX5BHEX5D_552217(val_stack_551095[0], 1), Tmp76[0])[Tmp76[1]];
 											F.line = 50;
 											F.line = 56;
 											if ((op1_568849.pyType === null)) {
@@ -22912,12 +22861,12 @@ function eval_frame_551056(f_551058) {
 											}
 											
 											F.line = 27;
-											var fun_569002 = op1_568849.pyType.magicMethods.Field19;
+											var fun_569002 = op1_568849.pyType.magicMethods.Field18;
 											if ((fun_569002 === null)) {
 											F.line = 29;
 											var obj_type_str_569011 = op1_568849.pyType.name;
 											F.line = 30;
-											var method_str_569013 = makeNimstrLit("ne");
+											var method_str_569013 = makeNimstrLit("eq");
 											F.line = 31;
 											var msg_569015 = (makeNimstrLit("No ")).concat(method_str_569013,makeNimstrLit(" method for "),obj_type_str_569011,makeNimstrLit(" defined"));
 											F.line = 32;
@@ -22931,7 +22880,7 @@ function eval_frame_551056(f_551058) {
 											excp_569017.msg = new_py_string_176075(msg_569015);
 											var excp_569020 = excp_569017;
 											F.line = 34;
-											excp_obj_551322 = excp_569020;
+											excp_obj_551827 = excp_569020;
 											F.line = 34;
 											break L4;
 											}
@@ -22940,28 +22889,28 @@ function eval_frame_551056(f_551058) {
 											F.line = 57;
 											var res_569204 = fun_569202(op1_568849, op2_568832);
 												if (of_py_exception_object_358259(res_569204)) {
-												Tmp78 = res_569204.thrown;
+												Tmp77 = res_569204.thrown;
 												}
 												else {
-												Tmp78 = false;
+												Tmp77 = false;
 												}
 												
-											if (Tmp78) {
+											if (Tmp77) {
 											F.line = 60;
-											excp_obj_551322 = res_569204;
+											excp_obj_551827 = res_569204;
 											F.line = 60;
 											break L4;
 											}
 											
 											var res_569402 = res_569204;
-											F.line = 384;
-											HEX5BHEX5DHEX3D_552604(val_stack_551095[0], 1, res_569402);
+											F.line = 389;
+											HEX5BHEX5DHEX3D_553204(val_stack_551095[0], 1, res_569402);
 											break;
-										case 4:
+										case 3:
 											F.line = 48;
 											var op2_569632 = pop_518821(val_stack_551095, 0);
 											F.line = 49;
-											var op1_569649 = (Tmp79 = HEX5BHEX5D_551617(val_stack_551095[0], 1), Tmp79[0])[Tmp79[1]];
+											var op1_569649 = (Tmp78 = HEX5BHEX5D_552217(val_stack_551095[0], 1), Tmp78[0])[Tmp78[1]];
 											F.line = 50;
 											F.line = 56;
 											if ((op1_569649.pyType === null)) {
@@ -22978,12 +22927,12 @@ function eval_frame_551056(f_551058) {
 											}
 											
 											F.line = 27;
-											var fun_569802 = op1_569649.pyType.magicMethods.Field20;
+											var fun_569802 = op1_569649.pyType.magicMethods.Field19;
 											if ((fun_569802 === null)) {
 											F.line = 29;
 											var obj_type_str_569811 = op1_569649.pyType.name;
 											F.line = 30;
-											var method_str_569813 = makeNimstrLit("gt");
+											var method_str_569813 = makeNimstrLit("ne");
 											F.line = 31;
 											var msg_569815 = (makeNimstrLit("No ")).concat(method_str_569813,makeNimstrLit(" method for "),obj_type_str_569811,makeNimstrLit(" defined"));
 											F.line = 32;
@@ -22997,7 +22946,7 @@ function eval_frame_551056(f_551058) {
 											excp_569817.msg = new_py_string_176075(msg_569815);
 											var excp_569820 = excp_569817;
 											F.line = 34;
-											excp_obj_551322 = excp_569820;
+											excp_obj_551827 = excp_569820;
 											F.line = 34;
 											break L4;
 											}
@@ -23006,28 +22955,28 @@ function eval_frame_551056(f_551058) {
 											F.line = 57;
 											var res_570004 = fun_570002(op1_569649, op2_569632);
 												if (of_py_exception_object_358259(res_570004)) {
-												Tmp80 = res_570004.thrown;
+												Tmp79 = res_570004.thrown;
 												}
 												else {
-												Tmp80 = false;
+												Tmp79 = false;
 												}
 												
-											if (Tmp80) {
+											if (Tmp79) {
 											F.line = 60;
-											excp_obj_551322 = res_570004;
+											excp_obj_551827 = res_570004;
 											F.line = 60;
 											break L4;
 											}
 											
 											var res_570202 = res_570004;
-											F.line = 386;
-											HEX5BHEX5DHEX3D_552604(val_stack_551095[0], 1, res_570202);
+											F.line = 391;
+											HEX5BHEX5DHEX3D_553204(val_stack_551095[0], 1, res_570202);
 											break;
-										case 5:
+										case 4:
 											F.line = 48;
 											var op2_570432 = pop_518821(val_stack_551095, 0);
 											F.line = 49;
-											var op1_570449 = (Tmp81 = HEX5BHEX5D_551617(val_stack_551095[0], 1), Tmp81[0])[Tmp81[1]];
+											var op1_570449 = (Tmp80 = HEX5BHEX5D_552217(val_stack_551095[0], 1), Tmp80[0])[Tmp80[1]];
 											F.line = 50;
 											F.line = 56;
 											if ((op1_570449.pyType === null)) {
@@ -23044,12 +22993,12 @@ function eval_frame_551056(f_551058) {
 											}
 											
 											F.line = 27;
-											var fun_570602 = op1_570449.pyType.magicMethods.Field21;
+											var fun_570602 = op1_570449.pyType.magicMethods.Field20;
 											if ((fun_570602 === null)) {
 											F.line = 29;
 											var obj_type_str_570611 = op1_570449.pyType.name;
 											F.line = 30;
-											var method_str_570613 = makeNimstrLit("ge");
+											var method_str_570613 = makeNimstrLit("gt");
 											F.line = 31;
 											var msg_570615 = (makeNimstrLit("No ")).concat(method_str_570613,makeNimstrLit(" method for "),obj_type_str_570611,makeNimstrLit(" defined"));
 											F.line = 32;
@@ -23063,7 +23012,7 @@ function eval_frame_551056(f_551058) {
 											excp_570617.msg = new_py_string_176075(msg_570615);
 											var excp_570620 = excp_570617;
 											F.line = 34;
-											excp_obj_551322 = excp_570620;
+											excp_obj_551827 = excp_570620;
 											F.line = 34;
 											break L4;
 											}
@@ -23072,32 +23021,31 @@ function eval_frame_551056(f_551058) {
 											F.line = 57;
 											var res_570804 = fun_570802(op1_570449, op2_570432);
 												if (of_py_exception_object_358259(res_570804)) {
-												Tmp82 = res_570804.thrown;
+												Tmp81 = res_570804.thrown;
 												}
 												else {
-												Tmp82 = false;
+												Tmp81 = false;
 												}
 												
-											if (Tmp82) {
+											if (Tmp81) {
 											F.line = 60;
-											excp_obj_551322 = res_570804;
+											excp_obj_551827 = res_570804;
 											F.line = 60;
 											break L4;
 											}
 											
 											var res_571002 = res_570804;
-											F.line = 388;
-											HEX5BHEX5DHEX3D_552604(val_stack_551095[0], 1, res_571002);
+											F.line = 393;
+											HEX5BHEX5DHEX3D_553204(val_stack_551095[0], 1, res_571002);
 											break;
-										case 6:
-											F.line = 127;
-											F.line = 55;
-											var op1_571232 = pop_518821(val_stack_551095, 0);
+										case 5:
+											F.line = 48;
+											var op2_571232 = pop_518821(val_stack_551095, 0);
+											F.line = 49;
+											var op1_571249 = (Tmp82 = HEX5BHEX5D_552217(val_stack_551095[0], 1), Tmp82[0])[Tmp82[1]];
+											F.line = 50;
 											F.line = 56;
-											var op2_571249 = (Tmp83 = HEX5BHEX5D_551617(val_stack_551095[0], 1), Tmp83[0])[Tmp83[1]];
-											F.line = 57;
-											F.line = 56;
-											if ((op1_571232.pyType === null)) {
+											if ((op1_571249.pyType === null)) {
 											F.line = 2895;
 											var e_571276 = null;
 											F.line = 2896;
@@ -23111,12 +23059,12 @@ function eval_frame_551056(f_551058) {
 											}
 											
 											F.line = 27;
-											var fun_571402 = op1_571232.pyType.magicMethods.Field22;
+											var fun_571402 = op1_571249.pyType.magicMethods.Field21;
 											if ((fun_571402 === null)) {
 											F.line = 29;
-											var obj_type_str_571411 = op1_571232.pyType.name;
+											var obj_type_str_571411 = op1_571249.pyType.name;
 											F.line = 30;
-											var method_str_571413 = makeNimstrLit("contains");
+											var method_str_571413 = makeNimstrLit("ge");
 											F.line = 31;
 											var msg_571415 = (makeNimstrLit("No ")).concat(method_str_571413,makeNimstrLit(" method for "),obj_type_str_571411,makeNimstrLit(" defined"));
 											F.line = 32;
@@ -23130,57 +23078,58 @@ function eval_frame_551056(f_551058) {
 											excp_571417.msg = new_py_string_176075(msg_571415);
 											var excp_571420 = excp_571417;
 											F.line = 34;
-											excp_obj_551322 = excp_571420;
+											excp_obj_551827 = excp_571420;
 											F.line = 34;
 											break L4;
 											}
 											
 											var fun_571602 = fun_571402;
 											F.line = 57;
-											var res_571604 = fun_571602(op1_571232, op2_571249);
+											var res_571604 = fun_571602(op1_571249, op2_571232);
 												if (of_py_exception_object_358259(res_571604)) {
-												Tmp84 = res_571604.thrown;
+												Tmp83 = res_571604.thrown;
 												}
 												else {
-												Tmp84 = false;
+												Tmp83 = false;
 												}
 												
-											if (Tmp84) {
+											if (Tmp83) {
 											F.line = 60;
-											excp_obj_551322 = res_571604;
+											excp_obj_551827 = res_571604;
 											F.line = 60;
 											break L4;
 											}
 											
 											var res_571802 = res_571604;
-											if (val_stack_551095[0] != null) { val_stack_551095[0].push(res_571802); } else { val_stack_551095[0] = [res_571802]; };
+											F.line = 395;
+											HEX5BHEX5DHEX3D_553204(val_stack_551095[0], 1, res_571802);
 											break;
-										case 7:
-											F.line = 392;
+										case 6:
+											F.line = 129;
 											F.line = 55;
-											var op1_572028 = pop_518821(val_stack_551095, 0);
+											var op1_572032 = pop_518821(val_stack_551095, 0);
 											F.line = 56;
-											var op2_572045 = (Tmp85 = HEX5BHEX5D_551617(val_stack_551095[0], 1), Tmp85[0])[Tmp85[1]];
+											var op2_572049 = (Tmp84 = HEX5BHEX5D_552217(val_stack_551095[0], 1), Tmp84[0])[Tmp84[1]];
 											F.line = 57;
 											F.line = 56;
-											if ((op1_572028.pyType === null)) {
+											if ((op1_572032.pyType === null)) {
 											F.line = 2895;
-											var e_572072 = null;
+											var e_572076 = null;
 											F.line = 2896;
-											e_572072 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
+											e_572076 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
 											F.line = 26;
-											e_572072.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
+											e_572076.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
 											F.line = 2891;
-											e_572072.parent = null;
+											e_572076.parent = null;
 											F.line = 26;
-											raiseException(e_572072, "InternalError");
+											raiseException(e_572076, "InternalError");
 											}
 											
 											F.line = 27;
-											var fun_572202 = op1_572028.pyType.magicMethods.Field22;
+											var fun_572202 = op1_572032.pyType.magicMethods.Field22;
 											if ((fun_572202 === null)) {
 											F.line = 29;
-											var obj_type_str_572211 = op1_572028.pyType.name;
+											var obj_type_str_572211 = op1_572032.pyType.name;
 											F.line = 30;
 											var method_str_572213 = makeNimstrLit("contains");
 											F.line = 31;
@@ -23196,184 +23145,179 @@ function eval_frame_551056(f_551058) {
 											excp_572217.msg = new_py_string_176075(msg_572215);
 											var excp_572220 = excp_572217;
 											F.line = 34;
-											excp_obj_551322 = excp_572220;
+											excp_obj_551827 = excp_572220;
 											F.line = 34;
 											break L4;
 											}
 											
 											var fun_572402 = fun_572202;
 											F.line = 57;
-											var res_572404 = fun_572402(op1_572028, op2_572045);
+											var res_572404 = fun_572402(op1_572032, op2_572049);
 												if (of_py_exception_object_358259(res_572404)) {
-												Tmp86 = res_572404.thrown;
+												Tmp85 = res_572404.thrown;
 												}
 												else {
-												Tmp86 = false;
+												Tmp85 = false;
 												}
 												
-											if (Tmp86) {
+											if (Tmp85) {
 											F.line = 60;
-											excp_obj_551322 = res_572404;
+											excp_obj_551827 = res_572404;
 											F.line = 60;
 											break L4;
 											}
 											
 											var res_572602 = res_572404;
-											var obj_572603 = res_572602;
-											if (of_py_bool_object_353106(obj_572603)) {
-											F.line = 127;
-											F.line = 45;
-											if ((obj_572603.pyType === null)) {
+											if (val_stack_551095[0] != null) { val_stack_551095[0].push(res_572602); } else { val_stack_551095[0] = [res_572602]; };
+											break;
+										case 7:
+											F.line = 399;
+											F.line = 55;
+											var op1_572828 = pop_518821(val_stack_551095, 0);
+											F.line = 56;
+											var op2_572845 = (Tmp86 = HEX5BHEX5D_552217(val_stack_551095[0], 1), Tmp86[0])[Tmp86[1]];
+											F.line = 57;
+											F.line = 56;
+											if ((op1_572828.pyType === null)) {
 											F.line = 2895;
-											var e_572630 = null;
+											var e_572872 = null;
 											F.line = 2896;
-											e_572630 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
+											e_572872 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
 											F.line = 26;
-											e_572630.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
+											e_572872.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
 											F.line = 2891;
-											e_572630.parent = null;
+											e_572872.parent = null;
 											F.line = 26;
-											raiseException(e_572630, "InternalError");
+											raiseException(e_572872, "InternalError");
 											}
 											
 											F.line = 27;
-											var fun_572802 = obj_572603.pyType.magicMethods.Field7;
-											if ((fun_572802 === null)) {
+											var fun_573002 = op1_572828.pyType.magicMethods.Field22;
+											if ((fun_573002 === null)) {
 											F.line = 29;
-											var obj_type_str_572811 = obj_572603.pyType.name;
+											var obj_type_str_573011 = op1_572828.pyType.name;
 											F.line = 30;
-											var method_str_572813 = makeNimstrLit("Not");
+											var method_str_573013 = makeNimstrLit("contains");
 											F.line = 31;
-											var msg_572815 = (makeNimstrLit("No ")).concat(method_str_572813,makeNimstrLit(" method for "),obj_type_str_572811,makeNimstrLit(" defined"));
+											var msg_573015 = (makeNimstrLit("No ")).concat(method_str_573013,makeNimstrLit(" method for "),obj_type_str_573011,makeNimstrLit(" defined"));
 											F.line = 32;
 											F.line = 104;
-											var excp_572817 = new_py_type_error_simple_360601();
+											var excp_573017 = new_py_type_error_simple_360601();
 											F.line = 105;
-											excp_572817.tk = 3;
+											excp_573017.tk = 3;
 											F.line = 106;
-											excp_572817.thrown = true;
+											excp_573017.thrown = true;
 											F.line = 107;
-											excp_572817.msg = new_py_string_176075(msg_572815);
-											var excp_572820 = excp_572817;
+											excp_573017.msg = new_py_string_176075(msg_573015);
+											var excp_573020 = excp_573017;
 											F.line = 34;
-											excp_obj_551322 = excp_572820;
+											excp_obj_551827 = excp_573020;
 											F.line = 34;
 											break L4;
 											}
 											
-											var fun_573002 = fun_572802;
-											F.line = 46;
-											var res_573004 = fun_573002(obj_572603);
-												if (of_py_exception_object_358259(res_573004)) {
-												Tmp87 = res_573004.thrown;
+											var fun_573202 = fun_573002;
+											F.line = 57;
+											var res_573204 = fun_573202(op1_572828, op2_572845);
+												if (of_py_exception_object_358259(res_573204)) {
+												Tmp87 = res_573204.thrown;
 												}
 												else {
 												Tmp87 = false;
 												}
 												
 											if (Tmp87) {
+											F.line = 60;
+											excp_obj_551827 = res_573204;
+											F.line = 60;
+											break L4;
+											}
+											
+											var res_573402 = res_573204;
+											var obj_573403 = res_573402;
+											if (of_py_bool_object_353106(obj_573403)) {
+											F.line = 129;
+											F.line = 45;
+											if ((obj_573403.pyType === null)) {
+											F.line = 2895;
+											var e_573430 = null;
+											F.line = 2896;
+											e_573430 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
+											F.line = 26;
+											e_573430.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
+											F.line = 2891;
+											e_573430.parent = null;
+											F.line = 26;
+											raiseException(e_573430, "InternalError");
+											}
+											
+											F.line = 27;
+											var fun_573602 = obj_573403.pyType.magicMethods.Field7;
+											if ((fun_573602 === null)) {
+											F.line = 29;
+											var obj_type_str_573611 = obj_573403.pyType.name;
+											F.line = 30;
+											var method_str_573613 = makeNimstrLit("Not");
+											F.line = 31;
+											var msg_573615 = (makeNimstrLit("No ")).concat(method_str_573613,makeNimstrLit(" method for "),obj_type_str_573611,makeNimstrLit(" defined"));
+											F.line = 32;
+											F.line = 104;
+											var excp_573617 = new_py_type_error_simple_360601();
+											F.line = 105;
+											excp_573617.tk = 3;
+											F.line = 106;
+											excp_573617.thrown = true;
+											F.line = 107;
+											excp_573617.msg = new_py_string_176075(msg_573615);
+											var excp_573620 = excp_573617;
+											F.line = 34;
+											excp_obj_551827 = excp_573620;
+											F.line = 34;
+											break L4;
+											}
+											
+											var fun_573802 = fun_573602;
+											F.line = 46;
+											var res_573804 = fun_573802(obj_573403);
+												if (of_py_exception_object_358259(res_573804)) {
+												Tmp88 = res_573804.thrown;
+												}
+												else {
+												Tmp88 = false;
+												}
+												
+											if (Tmp88) {
 											F.line = 49;
-											excp_obj_551322 = res_573004;
+											excp_obj_551827 = res_573804;
 											F.line = 49;
 											break L4;
 											}
 											
-											if (val_stack_551095[0] != null) { val_stack_551095[0].push(res_573004); } else { val_stack_551095[0] = [res_573004]; };
+											if (val_stack_551095[0] != null) { val_stack_551095[0].push(res_573804); } else { val_stack_551095[0] = [res_573804]; };
 											}
 											else {
-												F.line = 396;
+												F.line = 403;
 												F.line = 45;
-												if ((obj_572603.pyType === null)) {
+												if ((obj_573403.pyType === null)) {
 												F.line = 2895;
-												var e_573437 = null;
+												var e_574237 = null;
 												F.line = 2896;
-												e_573437 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
+												e_574237 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
 												F.line = 26;
-												e_573437.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
+												e_574237.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
 												F.line = 2891;
-												e_573437.parent = null;
+												e_574237.parent = null;
 												F.line = 26;
-												raiseException(e_573437, "InternalError");
+												raiseException(e_574237, "InternalError");
 												}
 												
 												F.line = 27;
-												var fun_573602 = obj_572603.pyType.magicMethods.Field12;
-												if ((fun_573602 === null)) {
-												F.line = 29;
-												var obj_type_str_573611 = obj_572603.pyType.name;
-												F.line = 30;
-												var method_str_573613 = makeNimstrLit("bool");
-												F.line = 31;
-												var msg_573615 = (makeNimstrLit("No ")).concat(method_str_573613,makeNimstrLit(" method for "),obj_type_str_573611,makeNimstrLit(" defined"));
-												F.line = 32;
-												F.line = 104;
-												var excp_573617 = new_py_type_error_simple_360601();
-												F.line = 105;
-												excp_573617.tk = 3;
-												F.line = 106;
-												excp_573617.thrown = true;
-												F.line = 107;
-												excp_573617.msg = new_py_string_176075(msg_573615);
-												var excp_573620 = excp_573617;
-												F.line = 34;
-												excp_obj_551322 = excp_573620;
-												F.line = 34;
-												break L4;
-												}
-												
-												var fun_573802 = fun_573602;
-												F.line = 46;
-												var res_573804 = fun_573802(obj_572603);
-													if (of_py_exception_object_358259(res_573804)) {
-													Tmp88 = res_573804.thrown;
-													}
-													else {
-													Tmp88 = false;
-													}
-													
-												if (Tmp88) {
-												F.line = 49;
-												excp_obj_551322 = res_573804;
-												F.line = 49;
-												break L4;
-												}
-												
-												var bool_obj_574001 = res_573804;
-												if (!(of_py_bool_object_353106(bool_obj_574001))) {
-												F.line = 2895;
-												var e_574007 = null;
-												F.line = 2896;
-												e_574007 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
-												F.line = 25;
-												e_574007.message = nimCopy(null, makeNimstrLit("Shouldn\'t be here"), NTI138);
-												F.line = 2891;
-												e_574007.parent = null;
-												F.line = 398;
-												raiseException(e_574007, "InternalError");
-												}
-												
-												F.line = 127;
-												F.line = 45;
-												if ((bool_obj_574001.pyType === null)) {
-												F.line = 2895;
-												var e_574227 = null;
-												F.line = 2896;
-												e_574227 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
-												F.line = 26;
-												e_574227.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
-												F.line = 2891;
-												e_574227.parent = null;
-												F.line = 26;
-												raiseException(e_574227, "InternalError");
-												}
-												
-												F.line = 27;
-												var fun_574402 = bool_obj_574001.pyType.magicMethods.Field7;
+												var fun_574402 = obj_573403.pyType.magicMethods.Field12;
 												if ((fun_574402 === null)) {
 												F.line = 29;
-												var obj_type_str_574411 = bool_obj_574001.pyType.name;
+												var obj_type_str_574411 = obj_573403.pyType.name;
 												F.line = 30;
-												var method_str_574413 = makeNimstrLit("Not");
+												var method_str_574413 = makeNimstrLit("bool");
 												F.line = 31;
 												var msg_574415 = (makeNimstrLit("No ")).concat(method_str_574413,makeNimstrLit(" method for "),obj_type_str_574411,makeNimstrLit(" defined"));
 												F.line = 32;
@@ -23387,14 +23331,14 @@ function eval_frame_551056(f_551058) {
 												excp_574417.msg = new_py_string_176075(msg_574415);
 												var excp_574420 = excp_574417;
 												F.line = 34;
-												excp_obj_551322 = excp_574420;
+												excp_obj_551827 = excp_574420;
 												F.line = 34;
 												break L4;
 												}
 												
 												var fun_574602 = fun_574402;
 												F.line = 46;
-												var res_574604 = fun_574602(bool_obj_574001);
+												var res_574604 = fun_574602(obj_573403);
 													if (of_py_exception_object_358259(res_574604)) {
 													Tmp89 = res_574604.thrown;
 													}
@@ -23404,225 +23348,218 @@ function eval_frame_551056(f_551058) {
 													
 												if (Tmp89) {
 												F.line = 49;
-												excp_obj_551322 = res_574604;
+												excp_obj_551827 = res_574604;
 												F.line = 49;
 												break L4;
 												}
 												
-												if (val_stack_551095[0] != null) { val_stack_551095[0].push(res_574604); } else { val_stack_551095[0] = [res_574604]; };
+												var bool_obj_574801 = res_574604;
+												if (!(of_py_bool_object_353106(bool_obj_574801))) {
+												F.line = 2895;
+												var e_574807 = null;
+												F.line = 2896;
+												e_574807 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
+												F.line = 25;
+												e_574807.message = nimCopy(null, makeNimstrLit("Shouldn\'t be here"), NTI138);
+												F.line = 2891;
+												e_574807.parent = null;
+												F.line = 405;
+												raiseException(e_574807, "InternalError");
+												}
+												
+												F.line = 129;
+												F.line = 45;
+												if ((bool_obj_574801.pyType === null)) {
+												F.line = 2895;
+												var e_575027 = null;
+												F.line = 2896;
+												e_575027 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
+												F.line = 26;
+												e_575027.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
+												F.line = 2891;
+												e_575027.parent = null;
+												F.line = 26;
+												raiseException(e_575027, "InternalError");
+												}
+												
+												F.line = 27;
+												var fun_575202 = bool_obj_574801.pyType.magicMethods.Field7;
+												if ((fun_575202 === null)) {
+												F.line = 29;
+												var obj_type_str_575211 = bool_obj_574801.pyType.name;
+												F.line = 30;
+												var method_str_575213 = makeNimstrLit("Not");
+												F.line = 31;
+												var msg_575215 = (makeNimstrLit("No ")).concat(method_str_575213,makeNimstrLit(" method for "),obj_type_str_575211,makeNimstrLit(" defined"));
+												F.line = 32;
+												F.line = 104;
+												var excp_575217 = new_py_type_error_simple_360601();
+												F.line = 105;
+												excp_575217.tk = 3;
+												F.line = 106;
+												excp_575217.thrown = true;
+												F.line = 107;
+												excp_575217.msg = new_py_string_176075(msg_575215);
+												var excp_575220 = excp_575217;
+												F.line = 34;
+												excp_obj_551827 = excp_575220;
+												F.line = 34;
+												break L4;
+												}
+												
+												var fun_575402 = fun_575202;
+												F.line = 46;
+												var res_575404 = fun_575402(bool_obj_574801);
+													if (of_py_exception_object_358259(res_575404)) {
+													Tmp90 = res_575404.thrown;
+													}
+													else {
+													Tmp90 = false;
+													}
+													
+												if (Tmp90) {
+												F.line = 49;
+												excp_obj_551827 = res_575404;
+												F.line = 49;
+												break L4;
+												}
+												
+												if (val_stack_551095[0] != null) { val_stack_551095[0].push(res_575404); } else { val_stack_551095[0] = [res_575404]; };
 											}
 											
 											break;
 										case 10:
-											F.line = 401;
-											var target_excp_575021 = pop_518821(val_stack_551095, 0);
-											if (!(is_exception_type_486113(target_excp_575021))) {
-											F.line = 403;
-											var msg_575022 = makeNimstrLit("catching classes that do not inherit from BaseException is not allowed");
-											F.line = 405;
+											F.line = 408;
+											var target_excp_575821 = pop_518821(val_stack_551095, 0);
+											if (!(is_exception_type_486113(target_excp_575821))) {
+											F.line = 410;
+											var msg_575822 = makeNimstrLit("catching classes that do not inherit from BaseException is not allowed");
+											F.line = 412;
 											F.line = 104;
-											var excp_575024 = new_py_type_error_simple_360601();
+											var excp_575824 = new_py_type_error_simple_360601();
 											F.line = 105;
-											excp_575024.tk = 3;
+											excp_575824.tk = 3;
 											F.line = 106;
-											excp_575024.thrown = true;
+											excp_575824.thrown = true;
 											F.line = 107;
-											excp_575024.msg = new_py_string_176075(msg_575022);
-											excp_obj_551322 = excp_575024;
-											F.line = 405;
+											excp_575824.msg = new_py_string_176075(msg_575822);
+											excp_obj_551827 = excp_575824;
+											F.line = 412;
 											break L4;
 											}
 											
-											F.line = 406;
-											var current_excp_575041 = (Tmp90 = HEX5BHEX5D_551617(val_stack_551095[0], 1), Tmp90[0])[Tmp90[1]];
-											F.line = 127;
-											if (val_stack_551095[0] != null) { val_stack_551095[0].push(match_excp_486072(target_excp_575021, current_excp_575041)); } else { val_stack_551095[0] = [match_excp_486072(target_excp_575021, current_excp_575041)]; };
+											F.line = 413;
+											var current_excp_575841 = (Tmp91 = HEX5BHEX5D_552217(val_stack_551095[0], 1), Tmp91[0])[Tmp91[1]];
+											F.line = 129;
+											if (val_stack_551095[0] != null) { val_stack_551095[0].push(match_excp_486072(target_excp_575821, current_excp_575841)); } else { val_stack_551095[0] = [match_excp_486072(target_excp_575821, current_excp_575841)]; };
 											break;
 										default: 
 											F.line = 2895;
-											var e_575216 = null;
+											var e_576016 = null;
 											F.line = 2896;
-											e_575216 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
+											e_576016 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
 											F.line = 25;
-											e_575216.message = nimCopy(null, makeNimstrLit("Shouldn\'t be here"), NTI138);
+											e_576016.message = nimCopy(null, makeNimstrLit("Shouldn\'t be here"), NTI138);
 											F.line = 2891;
-											e_575216.parent = null;
-											F.line = 409;
-											raiseException(e_575216, "InternalError");
+											e_576016.parent = null;
+											F.line = 416;
+											raiseException(e_576016, "InternalError");
 											break;
 										}
 										break;
 									case 79:
-										F.line = 412;
-										var name_575402 = names_551289[names_551289_Idx][chckIndx(op_arg_551406, 0, names_551289[names_551289_Idx].length+0-1)-0];
-										F.line = 413;
-										var ret_obj_575403 = py_import_551059(name_575402);
-											if (of_py_exception_object_358259(ret_obj_575403)) {
-											Tmp91 = ret_obj_575403.thrown;
+										F.line = 419;
+										var name_576202 = names_551645[names_551645_Idx][chckIndx(op_arg_552006, 0, names_551645[names_551645_Idx].length+0-1)-0];
+										F.line = 420;
+										var ret_obj_576203 = py_import_551059(name_576202);
+											if (of_py_exception_object_358259(ret_obj_576203)) {
+											Tmp92 = ret_obj_576203.thrown;
 											}
 											else {
-											Tmp91 = false;
+											Tmp92 = false;
 											}
 											
-										if (Tmp91) {
-										F.line = 415;
-										excp_obj_551322 = ret_obj_575403;
-										F.line = 415;
+										if (Tmp92) {
+										F.line = 422;
+										excp_obj_551827 = ret_obj_576203;
+										F.line = 422;
 										break L4;
 										}
 										
-										F.line = 127;
-										if (val_stack_551095[0] != null) { val_stack_551095[0].push(ret_obj_575403); } else { val_stack_551095[0] = [ret_obj_575403]; };
+										F.line = 129;
+										if (val_stack_551095[0] != null) { val_stack_551095[0].push(ret_obj_576203); } else { val_stack_551095[0] = [ret_obj_576203]; };
 										break;
 									case 82:
-										F.line = 419;
-										var top_575627 = (Tmp92 = HEX5BHEX5D_551617(val_stack_551095[0], 1), Tmp92[0])[Tmp92[1]];
-											F.line = 62;
-											var ret_575633 = false;
-											if (of_py_bool_object_353106(top_575627)) {
-											F.line = 64;
-											ret_575633 = top_575627.b;
-											}
-											
-											F.line = 67;
-											F.line = 45;
-											if ((top_575627.pyType === null)) {
-											F.line = 2895;
-											var e_575660 = null;
-											F.line = 2896;
-											e_575660 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
-											F.line = 26;
-											e_575660.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
-											F.line = 2891;
-											e_575660.parent = null;
-											F.line = 26;
-											raiseException(e_575660, "InternalError");
-											}
-											
-											F.line = 27;
-											var fun_575802 = top_575627.pyType.magicMethods.Field12;
-											if ((fun_575802 === null)) {
-											F.line = 29;
-											var obj_type_str_575811 = top_575627.pyType.name;
-											F.line = 30;
-											var method_str_575813 = makeNimstrLit("bool");
-											F.line = 31;
-											var msg_575815 = (makeNimstrLit("No ")).concat(method_str_575813,makeNimstrLit(" method for "),obj_type_str_575811,makeNimstrLit(" defined"));
-											F.line = 32;
-											F.line = 104;
-											var excp_575817 = new_py_type_error_simple_360601();
-											F.line = 105;
-											excp_575817.tk = 3;
-											F.line = 106;
-											excp_575817.thrown = true;
-											F.line = 107;
-											excp_575817.msg = new_py_string_176075(msg_575815);
-											var excp_575820 = excp_575817;
-											F.line = 34;
-											excp_obj_551322 = excp_575820;
-											F.line = 34;
-											break L4;
-											}
-											
-											var fun_576002 = fun_575802;
-											F.line = 46;
-											var res_576004 = fun_576002(top_575627);
-												if (of_py_exception_object_358259(res_576004)) {
-												Tmp93 = res_576004.thrown;
-												}
-												else {
-												Tmp93 = false;
-												}
-												
-											if (Tmp93) {
-											F.line = 49;
-											excp_obj_551322 = res_576004;
-											F.line = 49;
-											break L4;
-											}
-											
-											var bool_obj_576202 = res_576004;
-										if ((bool_obj_576202.b == false)) {
-										F.line = 96;
-										last_i_551203 = subInt(op_arg_551406, 1);
-										}
-										else {
-											F.line = 423;
-										pop_518821(val_stack_551095, 0);
-										}
-										
-										break;
-									case 83:
 										F.line = 426;
-										var top_576228 = (Tmp94 = HEX5BHEX5D_551617(val_stack_551095[0], 1), Tmp94[0])[Tmp94[1]];
+										var top_576427 = (Tmp93 = HEX5BHEX5D_552217(val_stack_551095[0], 1), Tmp93[0])[Tmp93[1]];
 											F.line = 62;
-											var ret_576234 = false;
-											if (of_py_bool_object_353106(top_576228)) {
+											var ret_576433 = false;
+											if (of_py_bool_object_353106(top_576427)) {
 											F.line = 64;
-											ret_576234 = top_576228.b;
+											ret_576433 = top_576427.b;
 											}
 											
 											F.line = 67;
 											F.line = 45;
-											if ((top_576228.pyType === null)) {
+											if ((top_576427.pyType === null)) {
 											F.line = 2895;
-											var e_576261 = null;
+											var e_576460 = null;
 											F.line = 2896;
-											e_576261 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
+											e_576460 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
 											F.line = 26;
-											e_576261.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
+											e_576460.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
 											F.line = 2891;
-											e_576261.parent = null;
+											e_576460.parent = null;
 											F.line = 26;
-											raiseException(e_576261, "InternalError");
+											raiseException(e_576460, "InternalError");
 											}
 											
 											F.line = 27;
-											var fun_576402 = top_576228.pyType.magicMethods.Field12;
-											if ((fun_576402 === null)) {
+											var fun_576602 = top_576427.pyType.magicMethods.Field12;
+											if ((fun_576602 === null)) {
 											F.line = 29;
-											var obj_type_str_576411 = top_576228.pyType.name;
+											var obj_type_str_576611 = top_576427.pyType.name;
 											F.line = 30;
-											var method_str_576413 = makeNimstrLit("bool");
+											var method_str_576613 = makeNimstrLit("bool");
 											F.line = 31;
-											var msg_576415 = (makeNimstrLit("No ")).concat(method_str_576413,makeNimstrLit(" method for "),obj_type_str_576411,makeNimstrLit(" defined"));
+											var msg_576615 = (makeNimstrLit("No ")).concat(method_str_576613,makeNimstrLit(" method for "),obj_type_str_576611,makeNimstrLit(" defined"));
 											F.line = 32;
 											F.line = 104;
-											var excp_576417 = new_py_type_error_simple_360601();
+											var excp_576617 = new_py_type_error_simple_360601();
 											F.line = 105;
-											excp_576417.tk = 3;
+											excp_576617.tk = 3;
 											F.line = 106;
-											excp_576417.thrown = true;
+											excp_576617.thrown = true;
 											F.line = 107;
-											excp_576417.msg = new_py_string_176075(msg_576415);
-											var excp_576420 = excp_576417;
+											excp_576617.msg = new_py_string_176075(msg_576615);
+											var excp_576620 = excp_576617;
 											F.line = 34;
-											excp_obj_551322 = excp_576420;
+											excp_obj_551827 = excp_576620;
 											F.line = 34;
 											break L4;
 											}
 											
-											var fun_576602 = fun_576402;
+											var fun_576802 = fun_576602;
 											F.line = 46;
-											var res_576604 = fun_576602(top_576228);
-												if (of_py_exception_object_358259(res_576604)) {
-												Tmp95 = res_576604.thrown;
+											var res_576804 = fun_576802(top_576427);
+												if (of_py_exception_object_358259(res_576804)) {
+												Tmp94 = res_576804.thrown;
 												}
 												else {
-												Tmp95 = false;
+												Tmp94 = false;
 												}
 												
-											if (Tmp95) {
+											if (Tmp94) {
 											F.line = 49;
-											excp_obj_551322 = res_576604;
+											excp_obj_551827 = res_576804;
 											F.line = 49;
 											break L4;
 											}
 											
-											var bool_obj_576802 = res_576604;
-										if ((bool_obj_576802.b == true)) {
-										F.line = 96;
-										last_i_551203 = subInt(op_arg_551406, 1);
+											var bool_obj_577002 = res_576804;
+										if ((bool_obj_577002.b == false)) {
+										F.line = 98;
+										last_i_551403 = subInt(op_arg_552006, 1);
 										}
 										else {
 											F.line = 430;
@@ -23630,66 +23567,61 @@ function eval_frame_551056(f_551058) {
 										}
 										
 										break;
-									case 81:
-									case 84:
-										F.line = 96;
-										last_i_551203 = subInt(op_arg_551406, 1);
-										break;
-									case 85:
-										F.line = 436;
-										var top_576824 = pop_518821(val_stack_551095, 0);
+									case 83:
+										F.line = 433;
+										var top_577028 = (Tmp95 = HEX5BHEX5D_552217(val_stack_551095[0], 1), Tmp95[0])[Tmp95[1]];
 											F.line = 62;
-											var ret_576830 = false;
-											if (of_py_bool_object_353106(top_576824)) {
+											var ret_577034 = false;
+											if (of_py_bool_object_353106(top_577028)) {
 											F.line = 64;
-											ret_576830 = top_576824.b;
+											ret_577034 = top_577028.b;
 											}
 											
 											F.line = 67;
 											F.line = 45;
-											if ((top_576824.pyType === null)) {
+											if ((top_577028.pyType === null)) {
 											F.line = 2895;
-											var e_576857 = null;
+											var e_577061 = null;
 											F.line = 2896;
-											e_576857 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
+											e_577061 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
 											F.line = 26;
-											e_576857.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
+											e_577061.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
 											F.line = 2891;
-											e_576857.parent = null;
+											e_577061.parent = null;
 											F.line = 26;
-											raiseException(e_576857, "InternalError");
+											raiseException(e_577061, "InternalError");
 											}
 											
 											F.line = 27;
-											var fun_577002 = top_576824.pyType.magicMethods.Field12;
-											if ((fun_577002 === null)) {
+											var fun_577202 = top_577028.pyType.magicMethods.Field12;
+											if ((fun_577202 === null)) {
 											F.line = 29;
-											var obj_type_str_577011 = top_576824.pyType.name;
+											var obj_type_str_577211 = top_577028.pyType.name;
 											F.line = 30;
-											var method_str_577013 = makeNimstrLit("bool");
+											var method_str_577213 = makeNimstrLit("bool");
 											F.line = 31;
-											var msg_577015 = (makeNimstrLit("No ")).concat(method_str_577013,makeNimstrLit(" method for "),obj_type_str_577011,makeNimstrLit(" defined"));
+											var msg_577215 = (makeNimstrLit("No ")).concat(method_str_577213,makeNimstrLit(" method for "),obj_type_str_577211,makeNimstrLit(" defined"));
 											F.line = 32;
 											F.line = 104;
-											var excp_577017 = new_py_type_error_simple_360601();
+											var excp_577217 = new_py_type_error_simple_360601();
 											F.line = 105;
-											excp_577017.tk = 3;
+											excp_577217.tk = 3;
 											F.line = 106;
-											excp_577017.thrown = true;
+											excp_577217.thrown = true;
 											F.line = 107;
-											excp_577017.msg = new_py_string_176075(msg_577015);
-											var excp_577020 = excp_577017;
+											excp_577217.msg = new_py_string_176075(msg_577215);
+											var excp_577220 = excp_577217;
 											F.line = 34;
-											excp_obj_551322 = excp_577020;
+											excp_obj_551827 = excp_577220;
 											F.line = 34;
 											break L4;
 											}
 											
-											var fun_577202 = fun_577002;
+											var fun_577402 = fun_577202;
 											F.line = 46;
-											var res_577204 = fun_577202(top_576824);
-												if (of_py_exception_object_358259(res_577204)) {
-												Tmp96 = res_577204.thrown;
+											var res_577404 = fun_577402(top_577028);
+												if (of_py_exception_object_358259(res_577404)) {
+												Tmp96 = res_577404.thrown;
 												}
 												else {
 												Tmp96 = false;
@@ -23697,73 +23629,82 @@ function eval_frame_551056(f_551058) {
 												
 											if (Tmp96) {
 											F.line = 49;
-											excp_obj_551322 = res_577204;
+											excp_obj_551827 = res_577404;
 											F.line = 49;
 											break L4;
 											}
 											
-											var bool_obj_577402 = res_577204;
-										if ((bool_obj_577402.b == false)) {
-										F.line = 96;
-										last_i_551203 = subInt(op_arg_551406, 1);
+											var bool_obj_577602 = res_577404;
+										if ((bool_obj_577602.b == true)) {
+										F.line = 98;
+										last_i_551403 = subInt(op_arg_552006, 1);
+										}
+										else {
+											F.line = 437;
+										pop_518821(val_stack_551095, 0);
 										}
 										
 										break;
-									case 86:
-										F.line = 441;
-										var top_577413 = pop_518821(val_stack_551095, 0);
+									case 81:
+									case 84:
+										F.line = 98;
+										last_i_551403 = subInt(op_arg_552006, 1);
+										break;
+									case 85:
+										F.line = 443;
+										var top_577624 = pop_518821(val_stack_551095, 0);
 											F.line = 62;
-											var ret_577419 = false;
-											if (of_py_bool_object_353106(top_577413)) {
+											var ret_577630 = false;
+											if (of_py_bool_object_353106(top_577624)) {
 											F.line = 64;
-											ret_577419 = top_577413.b;
+											ret_577630 = top_577624.b;
 											}
 											
 											F.line = 67;
 											F.line = 45;
-											if ((top_577413.pyType === null)) {
+											if ((top_577624.pyType === null)) {
 											F.line = 2895;
-											var e_577446 = null;
+											var e_577657 = null;
 											F.line = 2896;
-											e_577446 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
+											e_577657 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
 											F.line = 26;
-											e_577446.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
+											e_577657.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
 											F.line = 2891;
-											e_577446.parent = null;
+											e_577657.parent = null;
 											F.line = 26;
-											raiseException(e_577446, "InternalError");
+											raiseException(e_577657, "InternalError");
 											}
 											
 											F.line = 27;
-											var fun_577602 = top_577413.pyType.magicMethods.Field12;
-											if ((fun_577602 === null)) {
+											var fun_577802 = top_577624.pyType.magicMethods.Field12;
+											if ((fun_577802 === null)) {
 											F.line = 29;
-											var obj_type_str_577611 = top_577413.pyType.name;
+											var obj_type_str_577811 = top_577624.pyType.name;
 											F.line = 30;
-											var method_str_577613 = makeNimstrLit("bool");
+											var method_str_577813 = makeNimstrLit("bool");
 											F.line = 31;
-											var msg_577615 = (makeNimstrLit("No ")).concat(method_str_577613,makeNimstrLit(" method for "),obj_type_str_577611,makeNimstrLit(" defined"));
+											var msg_577815 = (makeNimstrLit("No ")).concat(method_str_577813,makeNimstrLit(" method for "),obj_type_str_577811,makeNimstrLit(" defined"));
 											F.line = 32;
 											F.line = 104;
-											var excp_577617 = new_py_type_error_simple_360601();
+											var excp_577817 = new_py_type_error_simple_360601();
 											F.line = 105;
-											excp_577617.tk = 3;
+											excp_577817.tk = 3;
 											F.line = 106;
-											excp_577617.thrown = true;
+											excp_577817.thrown = true;
 											F.line = 107;
-											excp_577617.msg = new_py_string_176075(msg_577615);
-											var excp_577620 = excp_577617;
+											excp_577817.msg = new_py_string_176075(msg_577815);
+											var excp_577820 = excp_577817;
 											F.line = 34;
-											excp_obj_551322 = excp_577620;
+											excp_obj_551827 = excp_577820;
 											F.line = 34;
 											break L4;
 											}
 											
-											var fun_577802 = fun_577602;
+											var fun_578002 = fun_577802;
 											F.line = 46;
-											var res_577804 = fun_577802(top_577413);
-												if (of_py_exception_object_358259(res_577804)) {
-												Tmp97 = res_577804.thrown;
+											var res_578004 = fun_578002(top_577624);
+												if (of_py_exception_object_358259(res_578004)) {
+												Tmp97 = res_578004.thrown;
 												}
 												else {
 												Tmp97 = false;
@@ -23771,519 +23712,617 @@ function eval_frame_551056(f_551058) {
 												
 											if (Tmp97) {
 											F.line = 49;
-											excp_obj_551322 = res_577804;
+											excp_obj_551827 = res_578004;
 											F.line = 49;
 											break L4;
 											}
 											
-											var bool_obj_578002 = res_577804;
-										if ((bool_obj_578002.b == true)) {
-										F.line = 96;
-										last_i_551203 = subInt(op_arg_551406, 1);
+											var bool_obj_578202 = res_578004;
+										if ((bool_obj_578202.b == false)) {
+										F.line = 98;
+										last_i_551403 = subInt(op_arg_552006, 1);
+										}
+										
+										break;
+									case 86:
+										F.line = 448;
+										var top_578213 = pop_518821(val_stack_551095, 0);
+											F.line = 62;
+											var ret_578219 = false;
+											if (of_py_bool_object_353106(top_578213)) {
+											F.line = 64;
+											ret_578219 = top_578213.b;
+											}
+											
+											F.line = 67;
+											F.line = 45;
+											if ((top_578213.pyType === null)) {
+											F.line = 2895;
+											var e_578246 = null;
+											F.line = 2896;
+											e_578246 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
+											F.line = 26;
+											e_578246.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
+											F.line = 2891;
+											e_578246.parent = null;
+											F.line = 26;
+											raiseException(e_578246, "InternalError");
+											}
+											
+											F.line = 27;
+											var fun_578402 = top_578213.pyType.magicMethods.Field12;
+											if ((fun_578402 === null)) {
+											F.line = 29;
+											var obj_type_str_578411 = top_578213.pyType.name;
+											F.line = 30;
+											var method_str_578413 = makeNimstrLit("bool");
+											F.line = 31;
+											var msg_578415 = (makeNimstrLit("No ")).concat(method_str_578413,makeNimstrLit(" method for "),obj_type_str_578411,makeNimstrLit(" defined"));
+											F.line = 32;
+											F.line = 104;
+											var excp_578417 = new_py_type_error_simple_360601();
+											F.line = 105;
+											excp_578417.tk = 3;
+											F.line = 106;
+											excp_578417.thrown = true;
+											F.line = 107;
+											excp_578417.msg = new_py_string_176075(msg_578415);
+											var excp_578420 = excp_578417;
+											F.line = 34;
+											excp_obj_551827 = excp_578420;
+											F.line = 34;
+											break L4;
+											}
+											
+											var fun_578602 = fun_578402;
+											F.line = 46;
+											var res_578604 = fun_578602(top_578213);
+												if (of_py_exception_object_358259(res_578604)) {
+												Tmp98 = res_578604.thrown;
+												}
+												else {
+												Tmp98 = false;
+												}
+												
+											if (Tmp98) {
+											F.line = 49;
+											excp_obj_551827 = res_578604;
+											F.line = 49;
+											break L4;
+											}
+											
+											var bool_obj_578802 = res_578604;
+										if ((bool_obj_578802.b == true)) {
+										F.line = 98;
+										last_i_551403 = subInt(op_arg_552006, 1);
 										}
 										
 										break;
 									case 87:
-										F.line = 446;
-										var name_578004 = names_551289[names_551289_Idx][chckIndx(op_arg_551406, 0, names_551289[names_551289_Idx].length+0-1)-0];
-										F.line = 447;
-										var obj_578005 = null;
-										if (has_key_522437(f_551058.globals, name_578004)) {
-										F.line = 449;
-										obj_578005 = HEX5BHEX5D_523323(f_551058.globals, name_578004);
+										F.line = 453;
+										var name_578804 = names_551645[names_551645_Idx][chckIndx(op_arg_552006, 0, names_551645[names_551645_Idx].length+0-1)-0];
+										F.line = 454;
+										var obj_578805 = null;
+										if (has_key_522437(f_551058.globals, name_578804)) {
+										F.line = 456;
+										obj_578805 = HEX5BHEX5D_523323(f_551058.globals, name_578804);
 										}
 										else {
-										if (has_key_522437(bltin_dict_534014, name_578004)) {
-										F.line = 451;
-										obj_578005 = HEX5BHEX5D_523323(bltin_dict_534014, name_578004);
+										if (has_key_522437(bltin_dict_534014, name_578804)) {
+										F.line = 458;
+										obj_578805 = HEX5BHEX5D_523323(bltin_dict_534014, name_578804);
 										}
 										else {
-											F.line = 453;
-											F.line = 453;
-											var fmt_res_578008 = mnewString(0);
-											F.line = 453;
-											if (fmt_res_578008 != null) { fmt_res_578008 = (fmt_res_578008).concat(makeNimstrLit("name \'")); } else { fmt_res_578008 = makeNimstrLit("name \'"); };
+											F.line = 460;
+											F.line = 460;
+											var fmt_res_578808 = mnewString(0);
+											F.line = 460;
+											if (fmt_res_578808 != null) { fmt_res_578808 = (fmt_res_578808).concat(makeNimstrLit("name \'")); } else { fmt_res_578808 = makeNimstrLit("name \'"); };
 											F.line = 260;
-											if (fmt_res_578008 != null) { fmt_res_578008 = (fmt_res_578008).concat(name_578004.str); } else { fmt_res_578008 = name_578004.str.slice(); };
-											F.line = 453;
-											if (fmt_res_578008 != null) { fmt_res_578008 = (fmt_res_578008).concat(makeNimstrLit("\' is not defined")); } else { fmt_res_578008 = makeNimstrLit("\' is not defined"); };
-											var msg_578201 = nimCopy(null, fmt_res_578008, NTI138);
-											F.line = 454;
+											if (fmt_res_578808 != null) { fmt_res_578808 = (fmt_res_578808).concat(name_578804.str); } else { fmt_res_578808 = name_578804.str.slice(); };
+											F.line = 460;
+											if (fmt_res_578808 != null) { fmt_res_578808 = (fmt_res_578808).concat(makeNimstrLit("\' is not defined")); } else { fmt_res_578808 = makeNimstrLit("\' is not defined"); };
+											var msg_579001 = nimCopy(null, fmt_res_578808, NTI138);
+											F.line = 461;
 											F.line = 104;
-											var excp_578203 = new_py_name_error_simple_358601();
+											var excp_579003 = new_py_name_error_simple_358601();
 											F.line = 105;
-											excp_578203.tk = 1;
+											excp_579003.tk = 1;
 											F.line = 106;
-											excp_578203.thrown = true;
+											excp_579003.thrown = true;
 											F.line = 107;
-											excp_578203.msg = new_py_string_176075(msg_578201);
-											excp_obj_551322 = excp_578203;
-											F.line = 454;
+											excp_579003.msg = new_py_string_176075(msg_579001);
+											excp_obj_551827 = excp_579003;
+											F.line = 461;
 											break L4;
 										}
 										}
-										F.line = 127;
-										if (val_stack_551095[0] != null) { val_stack_551095[0].push(obj_578005); } else { val_stack_551095[0] = [obj_578005]; };
+										F.line = 129;
+										if (val_stack_551095[0] != null) { val_stack_551095[0].push(obj_578805); } else { val_stack_551095[0] = [obj_578805]; };
 										break;
 									case 88:
-										if ((0 < (block_stack_551295 != null ? block_stack_551295.length : 0))) {
-										F.line = 459;
-										if (block_stack_551295 != null) { block_stack_551295.push({handler: op_arg_551406, sPtr: (val_stack_551095[0] != null ? val_stack_551095[0].length : 0), context: (Tmp98 = HEX5BHEX5D_561636(block_stack_551295, 1), Tmp98[0])[Tmp98[1]].context, status: 0}); } else { block_stack_551295 = [{handler: op_arg_551406, sPtr: (val_stack_551095[0] != null ? val_stack_551095[0].length : 0), context: (Tmp98 = HEX5BHEX5D_561636(block_stack_551295, 1), Tmp98[0])[Tmp98[1]].context, status: 0}]; };
+										if ((0 < (block_stack_551097[0] != null ? block_stack_551097[0].length : 0))) {
+										F.line = 466;
+										if (block_stack_551097[0] != null) { block_stack_551097[0].push({handler: op_arg_552006, sPtr: (val_stack_551095[0] != null ? val_stack_551095[0].length : 0), context: (Tmp99 = HEX5BHEX5D_562236(block_stack_551097[0], 1), Tmp99[0])[Tmp99[1]].context, status: 0}); } else { block_stack_551097[0] = [{handler: op_arg_552006, sPtr: (val_stack_551095[0] != null ? val_stack_551095[0].length : 0), context: (Tmp99 = HEX5BHEX5D_562236(block_stack_551097[0], 1), Tmp99[0])[Tmp99[1]].context, status: 0}]; };
 										}
 										else {
-											F.line = 461;
-										if (block_stack_551295 != null) { block_stack_551295.push({handler: op_arg_551406, sPtr: (val_stack_551095[0] != null ? val_stack_551095[0].length : 0), context: null, status: 0}); } else { block_stack_551295 = [{handler: op_arg_551406, sPtr: (val_stack_551095[0] != null ? val_stack_551095[0].length : 0), context: null, status: 0}]; };
+											F.line = 468;
+										if (block_stack_551097[0] != null) { block_stack_551097[0].push({handler: op_arg_552006, sPtr: (val_stack_551095[0] != null ? val_stack_551095[0].length : 0), context: null, status: 0}); } else { block_stack_551097[0] = [{handler: op_arg_552006, sPtr: (val_stack_551095[0] != null ? val_stack_551095[0].length : 0), context: null, status: 0}]; };
 										}
 										
 										break;
 									case 89:
-										F.line = 464;
-										var obj_578471 = fast_locals_551291[fast_locals_551291_Idx][chckIndx(op_arg_551406, 0, fast_locals_551291[fast_locals_551291_Idx].length+0-1)-0];
-										if ((obj_578471 === null)) {
-										F.line = 466;
-										var name_578479 = f_551058.code.localVars[chckIndx(op_arg_551406, 0, f_551058.code.localVars.length+0-1)-0];
-										F.line = 467;
-										F.line = 467;
-										var fmt_res_578482 = mnewString(0);
-										F.line = 467;
-										if (fmt_res_578482 != null) { fmt_res_578482 = (fmt_res_578482).concat(makeNimstrLit("local variable ")); } else { fmt_res_578482 = makeNimstrLit("local variable "); };
+										F.line = 471;
+										var obj_579271 = fast_locals_551647[fast_locals_551647_Idx][chckIndx(op_arg_552006, 0, fast_locals_551647[fast_locals_551647_Idx].length+0-1)-0];
+										if ((obj_579271 === null)) {
+										F.line = 473;
+										var name_579279 = f_551058.code.localVars[chckIndx(op_arg_552006, 0, f_551058.code.localVars.length+0-1)-0];
+										F.line = 474;
+										F.line = 474;
+										var fmt_res_579282 = mnewString(0);
+										F.line = 474;
+										if (fmt_res_579282 != null) { fmt_res_579282 = (fmt_res_579282).concat(makeNimstrLit("local variable ")); } else { fmt_res_579282 = makeNimstrLit("local variable "); };
 										F.line = 270;
-										if (fmt_res_578482 != null) { fmt_res_578482 = (fmt_res_578482).concat(HEX24_157579(name_578479)); } else { fmt_res_578482 = HEX24_157579(name_578479).slice(); };
-										F.line = 467;
-										if (fmt_res_578482 != null) { fmt_res_578482 = (fmt_res_578482).concat(makeNimstrLit(" referenced before assignment")); } else { fmt_res_578482 = makeNimstrLit(" referenced before assignment"); };
-										var msg_578601 = nimCopy(null, fmt_res_578482, NTI138);
-										F.line = 468;
+										if (fmt_res_579282 != null) { fmt_res_579282 = (fmt_res_579282).concat(HEX24_157579(name_579279)); } else { fmt_res_579282 = HEX24_157579(name_579279).slice(); };
+										F.line = 474;
+										if (fmt_res_579282 != null) { fmt_res_579282 = (fmt_res_579282).concat(makeNimstrLit(" referenced before assignment")); } else { fmt_res_579282 = makeNimstrLit(" referenced before assignment"); };
+										var msg_579401 = nimCopy(null, fmt_res_579282, NTI138);
+										F.line = 475;
 										F.line = 104;
-										var excp_578603 = new_py_unbound_local_error_simple_367601();
+										var excp_579403 = new_py_unbound_local_error_simple_367601();
 										F.line = 105;
-										excp_578603.tk = 10;
+										excp_579403.tk = 10;
 										F.line = 106;
-										excp_578603.thrown = true;
+										excp_579403.thrown = true;
 										F.line = 107;
-										excp_578603.msg = new_py_string_176075(msg_578601);
-										var excp_578605 = excp_578603;
-										F.line = 469;
-										excp_obj_551322 = excp_578605;
-										F.line = 469;
+										excp_579403.msg = new_py_string_176075(msg_579401);
+										var excp_579405 = excp_579403;
+										F.line = 476;
+										excp_obj_551827 = excp_579405;
+										F.line = 476;
 										break L4;
 										}
 										
-										F.line = 127;
-										if (val_stack_551095[0] != null) { val_stack_551095[0].push(obj_578471); } else { val_stack_551095[0] = [obj_578471]; };
+										F.line = 129;
+										if (val_stack_551095[0] != null) { val_stack_551095[0].push(obj_579271); } else { val_stack_551095[0] = [obj_579271]; };
 										break;
 									case 90:
-										F.line = 473;
-										fast_locals_551291[fast_locals_551291_Idx][chckIndx(op_arg_551406, 0, fast_locals_551291[fast_locals_551291_Idx].length+0-1)-0] = pop_518821(val_stack_551095, 0);
+										F.line = 480;
+										fast_locals_551647[fast_locals_551647_Idx][chckIndx(op_arg_552006, 0, fast_locals_551647[fast_locals_551647_Idx].length+0-1)-0] = pop_518821(val_stack_551095, 0);
 										break;
 									case 92:
-										F.line = 476;
-										switch (op_arg_551406) {
+										F.line = 483;
+										switch (op_arg_552006) {
 										case 0:
-												if (!((0 < (block_stack_551295 != null ? block_stack_551295.length : 0)))) Tmp99 = true; else {													Tmp99 = ((Tmp100 = HEX5BHEX5D_561636(block_stack_551295, 1), Tmp100[0])[Tmp100[1]].context === null);												}											if (Tmp99) {
-											F.line = 479;
+												if (!((0 < (block_stack_551097[0] != null ? block_stack_551097[0].length : 0)))) Tmp100 = true; else {													Tmp100 = ((Tmp101 = HEX5BHEX5D_562236(block_stack_551097[0], 1), Tmp101[0])[Tmp101[1]].context === null);												}											if (Tmp100) {
+											F.line = 486;
 											F.line = 104;
-											var excp_578854 = new_py_runtime_error_simple_371601();
+											var excp_579654 = new_py_runtime_error_simple_371601();
 											F.line = 105;
-											excp_578854.tk = 14;
+											excp_579654.tk = 14;
 											F.line = 106;
-											excp_578854.thrown = true;
+											excp_579654.thrown = true;
 											F.line = 107;
-											excp_578854.msg = new_py_string_176075(makeNimstrLit("No active exception to reraise"));
-											var excp_578856 = excp_578854;
-											F.line = 480;
-											excp_obj_551322 = excp_578856;
-											F.line = 480;
+											excp_579654.msg = new_py_string_176075(makeNimstrLit("No active exception to reraise"));
+											var excp_579656 = excp_579654;
+											F.line = 487;
+											excp_obj_551827 = excp_579656;
+											F.line = 487;
 											break L4;
 											}
 											else {
-												F.line = 482;
-												excp_obj_551322 = (Tmp101 = HEX5BHEX5D_561636(block_stack_551295, 1), Tmp101[0])[Tmp101[1]].context;
-												F.line = 482;
+												F.line = 489;
+												excp_obj_551827 = (Tmp102 = HEX5BHEX5D_562236(block_stack_551097[0], 1), Tmp102[0])[Tmp102[1]].context;
+												F.line = 489;
 												break L4;
 											}
 											
 											break;
 										case 1:
-											F.line = 484;
-											var obj_578881 = pop_518821(val_stack_551095, 0);
-											F.line = 485;
-											var excp_578882 = null;
-											if (is_class_159414(obj_578881)) {
-											F.line = 487;
-											var new_func_578883 = obj_578881.magicMethods.Field26;
-											if ((new_func_578883 === null)) {
+											F.line = 491;
+											var obj_579681 = pop_518821(val_stack_551095, 0);
+											F.line = 492;
+											var excp_579682 = null;
+											if (is_class_159414(obj_579681)) {
+											F.line = 494;
+											var new_func_579683 = obj_579681.magicMethods.Field26;
+											if ((new_func_579683 === null)) {
 											F.line = 2895;
-											var e_578895 = null;
+											var e_579695 = null;
 											F.line = 2896;
-											e_578895 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
-											F.line = 489;
-											e_578895.message = nimCopy(null, makeNimstrLit("__new__ of exceptions should be initialized"), NTI138);
+											e_579695 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
+											F.line = 496;
+											e_579695.message = nimCopy(null, makeNimstrLit("__new__ of exceptions should be initialized"), NTI138);
 											F.line = 2891;
-											e_578895.parent = null;
-											F.line = 489;
-											raiseException(e_578895, "InternalError");
+											e_579695.parent = null;
+											F.line = 496;
+											raiseException(e_579695, "InternalError");
 											}
 											
-											F.line = 490;
-											excp_578882 = new_func_578883([]);
+											F.line = 497;
+											excp_579682 = new_func_579683([]);
 											}
 											else {
-												F.line = 492;
-												excp_578882 = obj_578881;
+												F.line = 499;
+												excp_579682 = obj_579681;
 											}
 											
-											if (!(of_py_exception_object_358259(excp_578882))) {
+											if (!(of_py_exception_object_358259(excp_579682))) {
 											F.line = 2895;
-											var e_579020 = null;
+											var e_579820 = null;
 											F.line = 2896;
-											e_579020 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
+											e_579820 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
 											F.line = 25;
-											e_579020.message = nimCopy(null, makeNimstrLit("Shouldn\'t be here"), NTI138);
+											e_579820.message = nimCopy(null, makeNimstrLit("Shouldn\'t be here"), NTI138);
 											F.line = 2891;
-											e_579020.parent = null;
-											F.line = 494;
-											raiseException(e_579020, "InternalError");
+											e_579820.parent = null;
+											F.line = 501;
+											raiseException(e_579820, "InternalError");
 											}
 											
-											F.line = 495;
-											excp_578882.thrown = true;
-											F.line = 496;
-											excp_obj_551322 = excp_578882;
-											F.line = 496;
+											F.line = 502;
+											excp_579682.thrown = true;
+											F.line = 503;
+											excp_obj_551827 = excp_579682;
+											F.line = 503;
 											break L4;
 											break;
 										default: 
 											F.line = 2895;
-											var e_579406 = null;
+											var e_580206 = null;
 											F.line = 2896;
-											e_579406 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
-											F.line = 498;
-											F.line = 498;
-											var fmt_res_579416 = mnewString(0);
-											F.line = 498;
-											if (fmt_res_579416 != null) { fmt_res_579416 = (fmt_res_579416).concat(makeNimstrLit("RaiseVarargs has opArg ")); } else { fmt_res_579416 = makeNimstrLit("RaiseVarargs has opArg "); };
+											e_580206 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
+											F.line = 505;
+											F.line = 505;
+											var fmt_res_580216 = mnewString(0);
+											F.line = 505;
+											if (fmt_res_580216 != null) { fmt_res_580216 = (fmt_res_580216).concat(makeNimstrLit("RaiseVarargs has opArg ")); } else { fmt_res_580216 = makeNimstrLit("RaiseVarargs has opArg "); };
 											F.line = 270;
-											if (fmt_res_579416 != null) { fmt_res_579416 = (fmt_res_579416).concat(cstrToNimstr((op_arg_551406)+"")); } else { fmt_res_579416 = cstrToNimstr((op_arg_551406)+"").slice(); };
-											e_579406.message = nimCopy(null, fmt_res_579416, NTI138);
+											if (fmt_res_580216 != null) { fmt_res_580216 = (fmt_res_580216).concat(cstrToNimstr((op_arg_552006)+"")); } else { fmt_res_580216 = cstrToNimstr((op_arg_552006)+"").slice(); };
+											e_580206.message = nimCopy(null, fmt_res_580216, NTI138);
 											F.line = 2891;
-											e_579406.parent = null;
-											F.line = 498;
-											raiseException(e_579406, "InternalError");
+											e_580206.parent = null;
+											F.line = 505;
+											raiseException(e_580206, "InternalError");
 											break;
 										}
 										break;
 									case 93:
-										F.line = 501;
-										var args_579630 = new_seq_563054(chckRange(op_arg_551406, 0, 2147483647));
-										L102: do {
-											F.line = 502;
-											var i_579642 = 0;
+										F.line = 508;
+										var args_580430 = new_seq_563854(chckRange(op_arg_552006, 0, 2147483647));
+										L103: do {
+											F.line = 509;
+											var i_580442 = 0;
 											F.line = 2107;
-											var res_582949 = 1;
-											L103: do {
+											var res_584150 = 1;
+											L104: do {
 												F.line = 2108;
-													L104: while (true) {
-													if (!(res_582949 <= op_arg_551406)) break L104;
+													L105: while (true) {
+													if (!(res_584150 <= op_arg_552006)) break L105;
 														F.line = 2109;
-														i_579642 = res_582949;
-														F.line = 503;
-														HEX5BHEX5DHEX3D_552604(args_579630, i_579642, pop_518821(val_stack_551095, 0));
+														i_580442 = res_584150;
+														F.line = 510;
+														HEX5BHEX5DHEX3D_553204(args_580430, i_580442, pop_518821(val_stack_551095, 0));
 														F.line = 2110;
-														res_582949 = addInt(res_582949, 1);
+														res_584150 = addInt(res_584150, 1);
 													}
 											} while(false);
 										} while(false);
-										F.line = 504;
-										var func_obj_no_cast_579675 = pop_518821(val_stack_551095, 0);
-										F.line = 505;
-										var ret_obj_579676 = null;
-										if (of_py_function_object_540137(func_obj_no_cast_579675)) {
-										F.line = 508;
-										var func_obj_579677 = func_obj_no_cast_579675;
-										F.line = 510;
-										var new_f_579678 = new_py_frame_551050(func_obj_579677, args_579630, f_551058);
-											if (of_py_exception_object_358259(new_f_579678)) {
-											Tmp105 = new_f_579678.thrown;
-											}
-											else {
-											Tmp105 = false;
-											}
-											
-										if (Tmp105) {
+										F.line = 511;
+										var func_obj_no_cast_580475 = pop_518821(val_stack_551095, 0);
 										F.line = 512;
-										excp_obj_551322 = new_f_579678;
-										F.line = 512;
-										break L4;
-										}
-										
-										F.line = 513;
-										ret_obj_579676 = eval_frame_551056(new_f_579678);
-										}
-										else {
-											F.line = 517;
-											var call_func_579679 = func_obj_no_cast_579675.pyType.magicMethods.Field31;
-											if ((call_func_579679 === null)) {
-											F.line = 519;
-											F.line = 519;
-											var fmt_res_579688 = mnewString(0);
-											F.line = 260;
-											if (fmt_res_579688 != null) { fmt_res_579688 = (fmt_res_579688).concat(func_obj_no_cast_579675.pyType.name); } else { fmt_res_579688 = func_obj_no_cast_579675.pyType.name.slice(); };
-											F.line = 519;
-											if (fmt_res_579688 != null) { fmt_res_579688 = (fmt_res_579688).concat(makeNimstrLit(" is not callable")); } else { fmt_res_579688 = makeNimstrLit(" is not callable"); };
-											var msg_579801 = nimCopy(null, fmt_res_579688, NTI138);
-											F.line = 520;
-											F.line = 104;
-											var excp_579803 = new_py_type_error_simple_360601();
-											F.line = 105;
-											excp_579803.tk = 3;
-											F.line = 106;
-											excp_579803.thrown = true;
-											F.line = 107;
-											excp_579803.msg = new_py_string_176075(msg_579801);
-											ret_obj_579676 = excp_579803;
-											}
-											else {
-												F.line = 522;
-												ret_obj_579676 = call_func_579679(func_obj_no_cast_579675, args_579630);
-											}
-											
-										}
-										
-											if (of_py_exception_object_358259(ret_obj_579676)) {
-											Tmp106 = ret_obj_579676.thrown;
+										var ret_obj_580476 = null;
+										if (of_py_function_object_540137(func_obj_no_cast_580475)) {
+										F.line = 515;
+										var func_obj_580477 = func_obj_no_cast_580475;
+										F.line = 517;
+										var new_f_580478 = new_py_frame_551050(func_obj_580477, args_580430, f_551058);
+											if (of_py_exception_object_358259(new_f_580478)) {
+											Tmp106 = new_f_580478.thrown;
 											}
 											else {
 											Tmp106 = false;
 											}
 											
 										if (Tmp106) {
-										F.line = 524;
-										excp_obj_551322 = ret_obj_579676;
-										F.line = 524;
+										F.line = 519;
+										excp_obj_551827 = new_f_580478;
+										F.line = 519;
 										break L4;
 										}
 										
-										F.line = 127;
-										if (val_stack_551095[0] != null) { val_stack_551095[0].push(ret_obj_579676); } else { val_stack_551095[0] = [ret_obj_579676]; };
-										break;
-									case 94:
-										if (!(((op_arg_551406 == 0) || (op_arg_551406 == 8)))) {
-										F.line = 529;
-										failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Python/neval.nim(529, 18) `opArg == 0 or opArg == 8` "));
-										}
-										
-										F.line = 530;
-										var name_580210 = pop_518821(val_stack_551095, 0);
-										F.line = 531;
-										var code_580220 = pop_518821(val_stack_551095, 0);
-										F.line = 532;
-										var closure_580221 = null;
-										if (!(((op_arg_551406 & 8) == 0))) {
-										F.line = 534;
-										closure_580221 = pop_518821(val_stack_551095, 0);
-										}
-										
-										F.line = 127;
-										if (val_stack_551095[0] != null) { val_stack_551095[0].push(new_py_func_542057(name_580210, code_580220, f_551058.globals, closure_580221)); } else { val_stack_551095[0] = [new_py_func_542057(name_580210, code_580220, f_551058.globals, closure_580221)]; };
-										break;
-									case 95:
-										F.line = 538;
-										var lower_580412 = null;
-										F.line = 538;
-										var upper_580413 = null;
-										F.line = 538;
-										var step_580414 = null;
-										if ((op_arg_551406 == 3)) {
-										F.line = 540;
-										step_580414 = pop_518821(val_stack_551095, 0);
+										F.line = 520;
+										ret_obj_580476 = eval_frame_551056(new_f_580478);
 										}
 										else {
-											if (!((op_arg_551406 == 2))) {
-											F.line = 542;
-											failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Python/neval.nim(542, 20) `opArg == 2` "));
-											}
-											
-											F.line = 543;
-											step_580414 = py_none_356044;
-										}
-										
-										F.line = 544;
-										upper_580413 = pop_518821(val_stack_551095, 0);
-										F.line = 545;
-										lower_580412 = (Tmp107 = HEX5BHEX5D_551617(val_stack_551095[0], 1), Tmp107[0])[Tmp107[1]];
-										F.line = 546;
-										var slice_580625 = new_py_slice_463057(lower_580412, upper_580413, step_580414);
-											if (of_py_exception_object_358259(slice_580625)) {
-											Tmp108 = slice_580625.thrown;
+											F.line = 524;
+											var call_func_580479 = func_obj_no_cast_580475.pyType.magicMethods.Field31;
+											if ((call_func_580479 === null)) {
+											F.line = 526;
+											F.line = 526;
+											var fmt_res_580488 = mnewString(0);
+											F.line = 260;
+											if (fmt_res_580488 != null) { fmt_res_580488 = (fmt_res_580488).concat(func_obj_no_cast_580475.pyType.name); } else { fmt_res_580488 = func_obj_no_cast_580475.pyType.name.slice(); };
+											F.line = 526;
+											if (fmt_res_580488 != null) { fmt_res_580488 = (fmt_res_580488).concat(makeNimstrLit(" is not callable")); } else { fmt_res_580488 = makeNimstrLit(" is not callable"); };
+											var msg_580601 = nimCopy(null, fmt_res_580488, NTI138);
+											F.line = 527;
+											F.line = 104;
+											var excp_580603 = new_py_type_error_simple_360601();
+											F.line = 105;
+											excp_580603.tk = 3;
+											F.line = 106;
+											excp_580603.thrown = true;
+											F.line = 107;
+											excp_580603.msg = new_py_string_176075(msg_580601);
+											ret_obj_580476 = excp_580603;
 											}
 											else {
-											Tmp108 = false;
+												F.line = 529;
+												ret_obj_580476 = call_func_580479(func_obj_no_cast_580475, args_580430);
 											}
 											
-										if (Tmp108) {
-										F.line = 548;
-										excp_obj_551322 = slice_580625;
-										F.line = 548;
+										}
+										
+											if (of_py_exception_object_358259(ret_obj_580476)) {
+											Tmp107 = ret_obj_580476.thrown;
+											}
+											else {
+											Tmp107 = false;
+											}
+											
+										if (Tmp107) {
+										F.line = 531;
+										excp_obj_551827 = ret_obj_580476;
+										F.line = 531;
 										break L4;
 										}
 										
-										F.line = 549;
-										HEX5BHEX5DHEX3D_552604(val_stack_551095[0], 1, slice_580625);
+										F.line = 129;
+										if (val_stack_551095[0] != null) { val_stack_551095[0].push(ret_obj_580476); } else { val_stack_551095[0] = [ret_obj_580476]; };
+										break;
+									case 94:
+										if (!(((op_arg_552006 == 0) || (op_arg_552006 == 8)))) {
+										F.line = 536;
+										failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Python/neval.nim(536, 18) `opArg == 0 or opArg == 8` "));
+										}
+										
+										F.line = 537;
+										var name_581010 = pop_518821(val_stack_551095, 0);
+										F.line = 538;
+										var code_581020 = pop_518821(val_stack_551095, 0);
+										F.line = 539;
+										var closure_581021 = null;
+										if (!(((op_arg_552006 & 8) == 0))) {
+										F.line = 541;
+										closure_581021 = pop_518821(val_stack_551095, 0);
+										}
+										
+										F.line = 129;
+										if (val_stack_551095[0] != null) { val_stack_551095[0].push(new_py_func_542057(name_581010, code_581020, f_551058.globals, closure_581021)); } else { val_stack_551095[0] = [new_py_func_542057(name_581010, code_581020, f_551058.globals, closure_581021)]; };
+										break;
+									case 95:
+										F.line = 545;
+										var lower_581212 = null;
+										F.line = 545;
+										var upper_581213 = null;
+										F.line = 545;
+										var step_581214 = null;
+										if ((op_arg_552006 == 3)) {
+										F.line = 547;
+										step_581214 = pop_518821(val_stack_551095, 0);
+										}
+										else {
+											if (!((op_arg_552006 == 2))) {
+											F.line = 549;
+											failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Python/neval.nim(549, 20) `opArg == 2` "));
+											}
+											
+											F.line = 550;
+											step_581214 = py_none_356044;
+										}
+										
+										F.line = 551;
+										upper_581213 = pop_518821(val_stack_551095, 0);
+										F.line = 552;
+										lower_581212 = (Tmp108 = HEX5BHEX5D_552217(val_stack_551095[0], 1), Tmp108[0])[Tmp108[1]];
+										F.line = 553;
+										var slice_581425 = new_py_slice_463057(lower_581212, upper_581213, step_581214);
+											if (of_py_exception_object_358259(slice_581425)) {
+											Tmp109 = slice_581425.thrown;
+											}
+											else {
+											Tmp109 = false;
+											}
+											
+										if (Tmp109) {
+										F.line = 555;
+										excp_obj_551827 = slice_581425;
+										F.line = 555;
+										break L4;
+										}
+										
+										F.line = 556;
+										HEX5BHEX5DHEX3D_553204(val_stack_551095[0], 1, slice_581425);
 										break;
 									case 96:
-										F.line = 127;
-										if (val_stack_551095[0] != null) { val_stack_551095[0].push(cell_vars_551293[cell_vars_551293_Idx][chckIndx(op_arg_551406, 0, cell_vars_551293[cell_vars_551293_Idx].length+0-1)-0]); } else { val_stack_551095[0] = [cell_vars_551293[cell_vars_551293_Idx][chckIndx(op_arg_551406, 0, cell_vars_551293[cell_vars_551293_Idx].length+0-1)-0]]; };
+										F.line = 129;
+										if (val_stack_551095[0] != null) { val_stack_551095[0].push(cell_vars_551649[cell_vars_551649_Idx][chckIndx(op_arg_552006, 0, cell_vars_551649[cell_vars_551649_Idx].length+0-1)-0]); } else { val_stack_551095[0] = [cell_vars_551649[cell_vars_551649_Idx][chckIndx(op_arg_552006, 0, cell_vars_551649[cell_vars_551649_Idx].length+0-1)-0]]; };
 										break;
 									case 97:
-										F.line = 555;
-										var c_581012 = cell_vars_551293[cell_vars_551293_Idx][chckIndx(op_arg_551406, 0, cell_vars_551293[cell_vars_551293_Idx].length+0-1)-0];
-										if ((c_581012.refObj === null)) {
-										F.line = 557;
-										var name_581020 = f_551058.code.cellVars[chckIndx(op_arg_551406, 0, f_551058.code.cellVars.length+0-1)-0];
-										F.line = 558;
-										F.line = 558;
-										var fmt_res_581023 = mnewString(0);
-										F.line = 558;
-										if (fmt_res_581023 != null) { fmt_res_581023 = (fmt_res_581023).concat(makeNimstrLit("local variable ")); } else { fmt_res_581023 = makeNimstrLit("local variable "); };
+										F.line = 562;
+										var c_581812 = cell_vars_551649[cell_vars_551649_Idx][chckIndx(op_arg_552006, 0, cell_vars_551649[cell_vars_551649_Idx].length+0-1)-0];
+										if ((c_581812.refObj === null)) {
+										F.line = 564;
+										var name_581820 = f_551058.code.cellVars[chckIndx(op_arg_552006, 0, f_551058.code.cellVars.length+0-1)-0];
+										F.line = 565;
+										F.line = 565;
+										var fmt_res_581823 = mnewString(0);
+										F.line = 565;
+										if (fmt_res_581823 != null) { fmt_res_581823 = (fmt_res_581823).concat(makeNimstrLit("local variable ")); } else { fmt_res_581823 = makeNimstrLit("local variable "); };
 										F.line = 270;
-										if (fmt_res_581023 != null) { fmt_res_581023 = (fmt_res_581023).concat(HEX24_157579(name_581020)); } else { fmt_res_581023 = HEX24_157579(name_581020).slice(); };
-										F.line = 558;
-										if (fmt_res_581023 != null) { fmt_res_581023 = (fmt_res_581023).concat(makeNimstrLit(" referenced before assignment")); } else { fmt_res_581023 = makeNimstrLit(" referenced before assignment"); };
-										var msg_581201 = nimCopy(null, fmt_res_581023, NTI138);
-										F.line = 559;
+										if (fmt_res_581823 != null) { fmt_res_581823 = (fmt_res_581823).concat(HEX24_157579(name_581820)); } else { fmt_res_581823 = HEX24_157579(name_581820).slice(); };
+										F.line = 565;
+										if (fmt_res_581823 != null) { fmt_res_581823 = (fmt_res_581823).concat(makeNimstrLit(" referenced before assignment")); } else { fmt_res_581823 = makeNimstrLit(" referenced before assignment"); };
+										var msg_582001 = nimCopy(null, fmt_res_581823, NTI138);
+										F.line = 566;
 										F.line = 104;
-										var excp_581203 = new_py_unbound_local_error_simple_367601();
+										var excp_582003 = new_py_unbound_local_error_simple_367601();
 										F.line = 105;
-										excp_581203.tk = 10;
+										excp_582003.tk = 10;
 										F.line = 106;
-										excp_581203.thrown = true;
+										excp_582003.thrown = true;
 										F.line = 107;
-										excp_581203.msg = new_py_string_176075(msg_581201);
-										var excp_581205 = excp_581203;
-										F.line = 560;
-										excp_obj_551322 = excp_581205;
-										F.line = 560;
+										excp_582003.msg = new_py_string_176075(msg_582001);
+										var excp_582005 = excp_582003;
+										F.line = 567;
+										excp_obj_551827 = excp_582005;
+										F.line = 567;
 										break L4;
 										}
 										
-										F.line = 127;
-										if (val_stack_551095[0] != null) { val_stack_551095[0].push(c_581012.refObj); } else { val_stack_551095[0] = [c_581012.refObj]; };
+										F.line = 129;
+										if (val_stack_551095[0] != null) { val_stack_551095[0].push(c_581812.refObj); } else { val_stack_551095[0] = [c_581812.refObj]; };
 										break;
 									case 98:
-										F.line = 564;
-										cell_vars_551293[cell_vars_551293_Idx][chckIndx(op_arg_551406, 0, cell_vars_551293[cell_vars_551293_Idx].length+0-1)-0].refObj = pop_518821(val_stack_551095, 0);
+										F.line = 571;
+										cell_vars_551649[cell_vars_551649_Idx][chckIndx(op_arg_552006, 0, cell_vars_551649[cell_vars_551649_Idx].length+0-1)-0].refObj = pop_518821(val_stack_551095, 0);
 										break;
 									case 104:
-										F.line = 567;
-										var top_581431 = pop_518821(val_stack_551095, 0);
-										F.line = 568;
-										var l_581447 = (Tmp109 = HEX5BHEX5D_551617(val_stack_551095[0], op_arg_551406), Tmp109[0])[Tmp109[1]];
-										if (!(of_py_list_object_505271(l_581447))) {
-										F.line = 569;
-										failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Python/neval.nim(569, 18) `ofPyListObject(l)` "));
+										F.line = 574;
+										var top_582231 = pop_518821(val_stack_551095, 0);
+										F.line = 575;
+										var l_582247 = (Tmp110 = HEX5BHEX5D_552217(val_stack_551095[0], op_arg_552006), Tmp110[0])[Tmp110[1]];
+										if (!(of_py_list_object_505271(l_582247))) {
+										F.line = 576;
+										failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Python/neval.nim(576, 18) `ofPyListObject(l)` "));
 										}
 										
-										F.line = 570;
-										if (l_581447.items != null) { l_581447.items.push(top_581431); } else { l_581447.items = [top_581431]; };
+										F.line = 577;
+										if (l_582247.items != null) { l_582247.items.push(top_582231); } else { l_582247.items = [top_582231]; };
 										break;
 									default: 
-										F.line = 573;
-										F.line = 573;
-										var fmt_res_581613 = mnewString(0);
-										F.line = 573;
-										if (fmt_res_581613 != null) { fmt_res_581613 = (fmt_res_581613).concat(makeNimstrLit("!!! NOT IMPLEMENTED OPCODE ")); } else { fmt_res_581613 = makeNimstrLit("!!! NOT IMPLEMENTED OPCODE "); };
+										F.line = 580;
+										F.line = 580;
+										var fmt_res_582413 = mnewString(0);
+										F.line = 580;
+										if (fmt_res_582413 != null) { fmt_res_582413 = (fmt_res_582413).concat(makeNimstrLit("!!! NOT IMPLEMENTED OPCODE ")); } else { fmt_res_582413 = makeNimstrLit("!!! NOT IMPLEMENTED OPCODE "); };
 										F.line = 270;
-										if (fmt_res_581613 != null) { fmt_res_581613 = (fmt_res_581613).concat(reprEnum(op_code_551405, NTI459016)); } else { fmt_res_581613 = reprEnum(op_code_551405, NTI459016).slice(); };
-										F.line = 573;
-										if (fmt_res_581613 != null) { fmt_res_581613 = (fmt_res_581613).concat(makeNimstrLit(" IN EVAL FRAME !!!")); } else { fmt_res_581613 = makeNimstrLit(" IN EVAL FRAME !!!"); };
-										var msg_581807 = nimCopy(null, fmt_res_581613, NTI138);
-										F.line = 574;
+										if (fmt_res_582413 != null) { fmt_res_582413 = (fmt_res_582413).concat(reprEnum(op_code_552005, NTI459016)); } else { fmt_res_582413 = reprEnum(op_code_552005, NTI459016).slice(); };
+										F.line = 580;
+										if (fmt_res_582413 != null) { fmt_res_582413 = (fmt_res_582413).concat(makeNimstrLit(" IN EVAL FRAME !!!")); } else { fmt_res_582413 = makeNimstrLit(" IN EVAL FRAME !!!"); };
+										var msg_582607 = nimCopy(null, fmt_res_582413, NTI138);
+										F.line = 581;
 										F.line = 104;
-										var excp_581809 = new_py_not_implemented_error_simple_359601();
+										var excp_582609 = new_py_not_implemented_error_simple_359601();
 										F.line = 105;
-										excp_581809.tk = 2;
+										excp_582609.tk = 2;
 										F.line = 106;
-										excp_581809.thrown = true;
+										excp_582609.thrown = true;
 										F.line = 107;
-										excp_581809.msg = new_py_string_176075(msg_581807);
-										result_551112 = excp_581809;
+										excp_582609.msg = new_py_string_176075(msg_582607);
+										result_551217 = excp_582609;
 										break BeforeRet;
 										break;
 									}
 								} while(false);
 							}
 					} while(false);
-					L110: do {
-						if (!(!((excp_obj_551322 === null)))) {
-						F.line = 578;
-						failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Python/neval.nim(578, 9) `not isNil(excpObj)` "));
+					L111: do {
+						if (!(!((excp_obj_551827 === null)))) {
+						F.line = 585;
+						failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Python/neval.nim(585, 9) `not isNil(excpObj)` "));
 						}
 						
-						if (!(of_py_exception_object_358259(excp_obj_551322))) {
-						F.line = 579;
-						failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Python/neval.nim(579, 16) `ofPyExceptionObject(excpObj)` "));
+						if (!(of_py_exception_object_358259(excp_obj_551827))) {
+						F.line = 586;
+						failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Python/neval.nim(586, 16) `ofPyExceptionObject(excpObj)` "));
 						}
 						
-						F.line = 580;
-						var excp_582201 = excp_obj_551322;
-						F.line = 581;
-						set_trace_back_551218(excp_582201);
-						L111: do {
-							F.line = 582;
-								L112: while (true) {
-								if (!(0 < (block_stack_551295 != null ? block_stack_551295.length : 0))) break L112;
-									F.line = 583;
-									var top_block_582226 = (Tmp113 = HEX5BHEX5D_561636(block_stack_551295, 1), Tmp113[0])[Tmp113[1]];
-									F.line = 584;
-									switch (top_block_582226.status) {
+						F.line = 587;
+						var excp_583001 = excp_obj_551827;
+						F.line = 588;
+						set_trace_back_551418(excp_583001);
+						L112: do {
+							F.line = 589;
+								L113: while (true) {
+								if (!(0 < (block_stack_551097[0] != null ? block_stack_551097[0].length : 0))) break L113;
+									F.line = 590;
+									var top_block_583026 = (Tmp114 = HEX5BHEX5D_562236(block_stack_551097[0], 1), Tmp114[0])[Tmp114[1]];
+									F.line = 591;
+									switch (top_block_583026.status) {
 									case 0:
-										F.line = 586;
-										excp_582201.context = top_block_582226.context;
-										F.line = 587;
-										top_block_582226.context = excp_582201;
-										F.line = 588;
-										top_block_582226.status = 1;
-										F.line = 589;
-										if (val_stack_551095[0].length < chckRange(top_block_582226.sPtr, 0, 2147483647)) { for (var i=val_stack_551095[0].length;i<chckRange(top_block_582226.sPtr, 0, 2147483647);++i) val_stack_551095[0].push(null); }
-               else { val_stack_551095[0].length = chckRange(top_block_582226.sPtr, 0, 2147483647); };
-										F.line = 127;
-										if (val_stack_551095[0] != null) { val_stack_551095[0].push(excp_582201); } else { val_stack_551095[0] = [excp_582201]; };
-										F.line = 96;
-										last_i_551203 = subInt(top_block_582226.handler, 1);
+										F.line = 593;
+										excp_583001.context = top_block_583026.context;
 										F.line = 594;
-										break L110;
-										break;
-									case 1:
-										if ((excp_582201.context === null)) {
-										F.line = 597;
-										excp_582201.context = top_block_582226.context;
+										top_block_583026.context = excp_583001;
+										F.line = 595;
+										top_block_583026.status = 1;
+										if (((val_stack_551095[0] != null ? val_stack_551095[0].length : 0) == 0)) {
+										if (!((top_block_583026.sPtr == 0))) {
+										F.line = 140;
+										failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Python/neval.nim(140, 14) `topBlock.sPtr == 0` "));
 										}
 										
-										F.line = 599;
-										F.line = 166;
-										var ret_582627 = (Tmp114 = HEX5BHEX5D_561636(block_stack_551295, 1), Tmp114[0])[Tmp114[1]].sPtr;
-										F.line = 167;
-										pop_561671(block_stack_551295, 0);
-										if (val_stack_551095[0].length < chckRange(ret_582627, 0, 2147483647)) { for (var i=val_stack_551095[0].length;i<chckRange(ret_582627, 0, 2147483647);++i) val_stack_551095[0].push(null); }
-               else { val_stack_551095[0].length = chckRange(ret_582627, 0, 2147483647); };
+										}
+										else {
+											F.line = 142;
+										if (val_stack_551095[0].length < chckRange(top_block_583026.sPtr, 0, 2147483647)) { for (var i=val_stack_551095[0].length;i<chckRange(top_block_583026.sPtr, 0, 2147483647);++i) val_stack_551095[0].push(null); }
+               else { val_stack_551095[0].length = chckRange(top_block_583026.sPtr, 0, 2147483647); };
+										}
+										
+										F.line = 129;
+										if (val_stack_551095[0] != null) { val_stack_551095[0].push(excp_583001); } else { val_stack_551095[0] = [excp_583001]; };
+										F.line = 98;
+										last_i_551403 = subInt(top_block_583026.handler, 1);
+										F.line = 601;
+										break L111;
+										break;
+									case 1:
+										if ((excp_583001.context === null)) {
+										F.line = 604;
+										excp_583001.context = top_block_583026.context;
+										}
+										
+										if (((val_stack_551095[0] != null ? val_stack_551095[0].length : 0) == 0)) {
+											F.line = 140;
+											var ret_583627 = (Tmp115 = HEX5BHEX5D_562236(block_stack_551097[0], 1), Tmp115[0])[Tmp115[1]].sPtr;
+											F.line = 140;
+											pop_562271(block_stack_551097, 0);
+										if (!((ret_583627 == 0))) {
+										F.line = 140;
+										failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Python/neval.nim(140, 14) `\x0A  let ret583627 = blockStack[BackwardsIndex(1)].sPtr\x0A  discard pop(blockStack)\x0A  ret583627 == 0` "));
+										}
+										
+										}
+										else {
+											F.line = 142;
+											F.line = 173;
+											var ret_583627 = (Tmp116 = HEX5BHEX5D_562236(block_stack_551097[0], 1), Tmp116[0])[Tmp116[1]].sPtr;
+											F.line = 174;
+											pop_562271(block_stack_551097, 0);
+										if (val_stack_551095[0].length < chckRange(ret_583627, 0, 2147483647)) { for (var i=val_stack_551095[0].length;i<chckRange(ret_583627, 0, 2147483647);++i) val_stack_551095[0].push(null); }
+               else { val_stack_551095[0].length = chckRange(ret_583627, 0, 2147483647); };
+										}
+										
 										break;
 									default: 
 										F.line = 2895;
-										var e_582652 = null;
+										var e_583816 = null;
 										F.line = 2896;
-										e_582652 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
+										e_583816 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
 										F.line = 25;
-										e_582652.message = nimCopy(null, makeNimstrLit("Shouldn\'t be here"), NTI138);
+										e_583816.message = nimCopy(null, makeNimstrLit("Shouldn\'t be here"), NTI138);
 										F.line = 2891;
-										e_582652.parent = null;
-										F.line = 601;
-										raiseException(e_582652, "InternalError");
+										e_583816.parent = null;
+										F.line = 608;
+										raiseException(e_583816, "InternalError");
 										break;
 									}
 								}
 						} while(false);
-						F.line = 602;
-						result_551112 = excp_582201;
+						F.line = 609;
+						result_551217 = excp_583001;
 						break BeforeRet;
 					} while(false);
 				}
@@ -24294,30 +24333,30 @@ function eval_frame_551056(f_551058) {
 	} while (false);
 	framePtr = F.prev;
 
-	return result_551112;
+	return result_551217;
 
 }
 
-function call_py_function_object_magic_597735(self_no_cast_597737, args_597751) {
+function call_py_function_object_magic_599735(self_no_cast_599737, args_599751) {
 			var Tmp1;
 
-	var result_597752 = null;
+	var result_599752 = null;
 
 	var F={procname:"funcobjectImpl.callPyFunctionObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
 	framePtr = F;
 	BeforeRet: do {
 		F.line = 438;
-		if (!(isObj(self_no_cast_597737.m_type, NTI540123))) {
+		if (!(isObj(self_no_cast_599737.m_type, NTI540123))) {
 		F.line = 438;
 		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Objects/pyobject.nim(438, 33) `selfNoCast of PyFunctionObject` "));
 		}
 		
 		F.line = 438;
-		var self_597801 = self_no_cast_597737;
+		var self_599801 = self_no_cast_599737;
 		F.line = 16;
-		var f_597802 = new_py_frame_551050(self_597801, args_597751, null);
-			if (of_py_exception_object_358259(f_597802)) {
-			Tmp1 = f_597802.thrown;
+		var f_599802 = new_py_frame_551050(self_599801, args_599751, null);
+			if (of_py_exception_object_358259(f_599802)) {
+			Tmp1 = f_599802.thrown;
 			}
 			else {
 			Tmp1 = false;
@@ -24325,94 +24364,94 @@ function call_py_function_object_magic_597735(self_no_cast_597737, args_597751) 
 			
 		if (Tmp1) {
 		F.line = 18;
-		result_597752 = f_597802;
+		result_599752 = f_599802;
 		break BeforeRet;
 		}
 		
-		result_597752 = eval_frame_551056(f_597802);
+		result_599752 = eval_frame_551056(f_599802);
 	} while (false);
 	framePtr = F.prev;
 
-	return result_597752;
+	return result_599752;
 
 }
 
-function HEX26_598015(x_598020, y_598023) {
-	var result_598025 = null;
+function HEX26_600015(x_600020, y_600023) {
+	var result_600025 = null;
 
 	var F={procname:"&.&",prev:framePtr,filename:"../../../../.choosenim/toolchains/nim-0.19.4/lib/system.nim",line:0};
 	framePtr = F;
 		F.line = 2446;
-		result_598025 = new Array(chckRange(addInt((x_598020 != null ? x_598020.length : 0), (y_598023 != null ? y_598023.length : 0)), 0, 2147483647)); for (var i=0;i<chckRange(addInt((x_598020 != null ? x_598020.length : 0), (y_598023 != null ? y_598023.length : 0)), 0, 2147483647);++i) {result_598025[i]=null;}		L1: do {
+		result_600025 = new Array(chckRange(addInt((x_600020 != null ? x_600020.length : 0), (y_600023 != null ? y_600023.length : 0)), 0, 2147483647)); for (var i=0;i<chckRange(addInt((x_600020 != null ? x_600020.length : 0), (y_600023 != null ? y_600023.length : 0)), 0, 2147483647);++i) {result_600025[i]=null;}		L1: do {
 			F.line = 2447;
-			var i_598068 = 0;
+			var i_600068 = 0;
 			F.line = 2104;
-			var colontmp__598096 = 0;
+			var colontmp__600096 = 0;
 			F.line = 2447;
-			colontmp__598096 = subInt((x_598020 != null ? x_598020.length : 0), 1);
+			colontmp__600096 = subInt((x_600020 != null ? x_600020.length : 0), 1);
 			F.line = 2107;
-			var res_598099 = 0;
+			var res_600099 = 0;
 			L2: do {
 				F.line = 2108;
 					L3: while (true) {
-					if (!(res_598099 <= colontmp__598096)) break L3;
+					if (!(res_600099 <= colontmp__600096)) break L3;
 						F.line = 2109;
-						i_598068 = res_598099;
+						i_600068 = res_600099;
 						F.line = 2448;
-						result_598025[chckIndx(i_598068, 0, result_598025.length+0-1)-0] = x_598020[chckIndx(i_598068, 0, x_598020.length+0-1)-0];
+						result_600025[chckIndx(i_600068, 0, result_600025.length+0-1)-0] = x_600020[chckIndx(i_600068, 0, x_600020.length+0-1)-0];
 						F.line = 2110;
-						res_598099 = addInt(res_598099, 1);
+						res_600099 = addInt(res_600099, 1);
 					}
 			} while(false);
 		} while(false);
 		L4: do {
 			F.line = 2449;
-			var i_598087 = 0;
+			var i_600087 = 0;
 			F.line = 2104;
-			var colontmp__598104 = 0;
+			var colontmp__600104 = 0;
 			F.line = 2449;
-			colontmp__598104 = subInt((y_598023 != null ? y_598023.length : 0), 1);
+			colontmp__600104 = subInt((y_600023 != null ? y_600023.length : 0), 1);
 			F.line = 2107;
-			var res_598107 = 0;
+			var res_600107 = 0;
 			L5: do {
 				F.line = 2108;
 					L6: while (true) {
-					if (!(res_598107 <= colontmp__598104)) break L6;
+					if (!(res_600107 <= colontmp__600104)) break L6;
 						F.line = 2109;
-						i_598087 = res_598107;
+						i_600087 = res_600107;
 						F.line = 2450;
-						result_598025[chckIndx(addInt(i_598087, (x_598020 != null ? x_598020.length : 0)), 0, result_598025.length+0-1)-0] = y_598023[chckIndx(i_598087, 0, y_598023.length+0-1)-0];
+						result_600025[chckIndx(addInt(i_600087, (x_600020 != null ? x_600020.length : 0)), 0, result_600025.length+0-1)-0] = y_600023[chckIndx(i_600087, 0, y_600023.length+0-1)-0];
 						F.line = 2110;
-						res_598107 = addInt(res_598107, 1);
+						res_600107 = addInt(res_600107, 1);
 					}
 			} while(false);
 		} while(false);
 	framePtr = F.prev;
 
-	return result_598025;
+	return result_600025;
 
 }
 
-function call_py_bound_method_object_magic_597818(self_no_cast_597820, args_597834) {
+function call_py_bound_method_object_magic_599818(self_no_cast_599820, args_599834) {
 			var Tmp1;
 
-	var result_597835 = null;
+	var result_599835 = null;
 
 	var F={procname:"funcobjectImpl.callPyBoundMethodObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
 	framePtr = F;
 	BeforeRet: do {
 		F.line = 438;
-		if (!(isObj(self_no_cast_597820.m_type, NTI541100))) {
+		if (!(isObj(self_no_cast_599820.m_type, NTI541100))) {
 		F.line = 438;
 		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Objects/pyobject.nim(438, 33) `selfNoCast of PyBoundMethodObject` "));
 		}
 		
 		F.line = 438;
-		var self_598001 = self_no_cast_597820;
+		var self_600001 = self_no_cast_599820;
 		F.line = 24;
-		var f_598124 = new_py_frame_551050(self_598001.fun, HEX26_598015([self_598001.self], args_597834), null);
-			if (of_py_exception_object_358259(f_598124)) {
-			Tmp1 = f_598124.thrown;
+		var f_600124 = new_py_frame_551050(self_600001.fun, HEX26_600015([self_600001.self], args_599834), null);
+			if (of_py_exception_object_358259(f_600124)) {
+			Tmp1 = f_600124.thrown;
 			}
 			else {
 			Tmp1 = false;
@@ -24420,73 +24459,73 @@ function call_py_bound_method_object_magic_597818(self_no_cast_597820, args_5978
 			
 		if (Tmp1) {
 		F.line = 26;
-		result_597835 = f_598124;
+		result_599835 = f_600124;
 		break BeforeRet;
 		}
 		
-		result_597835 = eval_frame_551056(f_598124);
+		result_599835 = eval_frame_551056(f_600124);
 	} while (false);
 	framePtr = F.prev;
 
-	return result_597835;
+	return result_599835;
 
 }
-py_function_object_type_540135.magicMethods.Field31 = call_py_function_object_magic_597735;
-py_bound_method_object_type_541108.magicMethods.Field31 = call_py_bound_method_object_magic_597818;
+py_function_object_type_540135.magicMethods.Field31 = call_py_function_object_magic_599735;
+py_bound_method_object_type_541108.magicMethods.Field31 = call_py_bound_method_object_magic_599818;
 
-function new_600206() {
-	var result_600211 = null;
+function new_602206() {
+	var result_602211 = null;
 
 	var F={procname:"new.new",prev:framePtr,filename:"../../../../.choosenim/toolchains/nim-0.19.4/lib/system.nim",line:0};
 	framePtr = F;
 	BeforeRet: do {
 		F.line = 208;
-		var r_600401 = null;
+		var r_602401 = null;
 		F.line = 211;
-		r_600401 = {m_type: NTI600083, name: null, dType: null, kind: 0, meth: 0, id: 0, pyType: null};
+		r_602401 = {m_type: NTI602083, name: null, dType: null, kind: 0, meth: 0, id: 0, pyType: null};
 		F.line = 212;
-		result_600211 = r_600401;
+		result_602211 = r_602401;
 		break BeforeRet;
 	} while (false);
 	framePtr = F.prev;
 
-	return result_600211;
+	return result_602211;
 
 }
 
-function new_py_method_descr_simple_600201() {
-	var result_600203 = null;
+function new_py_method_descr_simple_602201() {
+	var result_602203 = null;
 
 	var F={procname:"descrobject.newPyMethodDescrSimple",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
 	framePtr = F;
 		F.line = 560;
 		F.line = 560;
-		var obj_600424 = new_600206();
+		var obj_602424 = new_602206();
 		F.line = 561;
-		obj_600424.pyType = py_method_descr_object_type_600095;
+		obj_602424.pyType = py_method_descr_object_type_602095;
 		F.line = 563;
-		give_id_157814(obj_600424);
-		result_600203 = obj_600424;
+		give_id_157814(obj_602424);
+		result_602203 = obj_602424;
 	framePtr = F.prev;
 
-	return result_600203;
+	return result_602203;
 
 }
 
-function new_py_method_descr_default_600821(args_600038) {
-	var result_600824 = null;
+function new_py_method_descr_default_602821(args_602038) {
+	var result_602824 = null;
 
 	var F={procname:"descrobject.newPyMethodDescrDefault",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
 	framePtr = F;
 		F.line = 581;
-		result_600824 = new_py_method_descr_simple_600201();
+		result_602824 = new_py_method_descr_simple_602201();
 	framePtr = F.prev;
 
-	return result_600824;
+	return result_602824;
 
 }
-var py_method_descr_object_type_600095 = new_py_type_159261(makeNimstrLit("MethodDescr"));
-py_method_descr_object_type_600095.magicMethods.Field26 = new_py_method_descr_default_600821;
+var py_method_descr_object_type_602095 = new_py_type_159261(makeNimstrLit("MethodDescr"));
+py_method_descr_object_type_602095.magicMethods.Field26 = new_py_method_descr_default_602821;
 
 function new_py_nim_func_549444(fun_549446, name_549447) {
 	var result_549448 = null;
@@ -24611,303 +24650,303 @@ function new_py_nim_func_550022(fun_550017, name_550019, self_550021) {
 
 }
 
-function get_py_method_descr_object_magic_602014(self_no_cast_602016, other_602017) {
-	var result_602018 = null;
+function get_py_method_descr_object_magic_604014(self_no_cast_604016, other_604017) {
+	var result_604018 = null;
 
 	var F={procname:"descrobject.getPyMethodDescrObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
 	framePtr = F;
 	BeforeRet: do {
-		if (!(isObj(self_no_cast_602016.m_type, NTI600083))) {
+		if (!(isObj(self_no_cast_604016.m_type, NTI602083))) {
 		F.line = 438;
 		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Objects/pyobject.nim(438, 33) `selfNoCast of PyMethodDescrObject` "));
 		}
 		
 		F.line = 438;
-		var self_602201 = self_no_cast_602016;
-		if (!((other_602017.pyType == self_602201.dType))) {
+		var self_604201 = self_no_cast_604016;
+		if (!((other_604017.pyType == self_604201.dType))) {
 		F.line = 49;
 		F.line = 49;
-		var fmt_res_602215 = mnewString(0);
+		var fmt_res_604215 = mnewString(0);
 		F.line = 49;
-		if (fmt_res_602215 != null) { fmt_res_602215 = (fmt_res_602215).concat(makeNimstrLit("descriptor ")); } else { fmt_res_602215 = makeNimstrLit("descriptor "); };
+		if (fmt_res_604215 != null) { fmt_res_604215 = (fmt_res_604215).concat(makeNimstrLit("descriptor ")); } else { fmt_res_604215 = makeNimstrLit("descriptor "); };
 		F.line = 270;
-		if (fmt_res_602215 != null) { fmt_res_602215 = (fmt_res_602215).concat(HEX24_157579(self_602201.name)); } else { fmt_res_602215 = HEX24_157579(self_602201.name).slice(); };
+		if (fmt_res_604215 != null) { fmt_res_604215 = (fmt_res_604215).concat(HEX24_157579(self_604201.name)); } else { fmt_res_604215 = HEX24_157579(self_604201.name).slice(); };
 		F.line = 49;
-		if (fmt_res_602215 != null) { fmt_res_602215 = (fmt_res_602215).concat(makeNimstrLit(" for ")); } else { fmt_res_602215 = makeNimstrLit(" for "); };
+		if (fmt_res_604215 != null) { fmt_res_604215 = (fmt_res_604215).concat(makeNimstrLit(" for ")); } else { fmt_res_604215 = makeNimstrLit(" for "); };
 		F.line = 260;
-		if (fmt_res_602215 != null) { fmt_res_602215 = (fmt_res_602215).concat(self_602201.dType.name); } else { fmt_res_602215 = self_602201.dType.name.slice(); };
+		if (fmt_res_604215 != null) { fmt_res_604215 = (fmt_res_604215).concat(self_604201.dType.name); } else { fmt_res_604215 = self_604201.dType.name.slice(); };
 		F.line = 49;
-		if (fmt_res_602215 != null) { fmt_res_602215 = (fmt_res_602215).concat(makeNimstrLit(" objects ")); } else { fmt_res_602215 = makeNimstrLit(" objects "); };
+		if (fmt_res_604215 != null) { fmt_res_604215 = (fmt_res_604215).concat(makeNimstrLit(" objects ")); } else { fmt_res_604215 = makeNimstrLit(" objects "); };
 		F.line = 50;
-		var fmt_res_602603 = mnewString(0);
+		var fmt_res_604603 = mnewString(0);
 		F.line = 50;
-		if (fmt_res_602603 != null) { fmt_res_602603 = (fmt_res_602603).concat(makeNimstrLit("doesn\'t apply to ")); } else { fmt_res_602603 = makeNimstrLit("doesn\'t apply to "); };
+		if (fmt_res_604603 != null) { fmt_res_604603 = (fmt_res_604603).concat(makeNimstrLit("doesn\'t apply to ")); } else { fmt_res_604603 = makeNimstrLit("doesn\'t apply to "); };
 		F.line = 260;
-		if (fmt_res_602603 != null) { fmt_res_602603 = (fmt_res_602603).concat(other_602017.pyType.name); } else { fmt_res_602603 = other_602017.pyType.name.slice(); };
+		if (fmt_res_604603 != null) { fmt_res_604603 = (fmt_res_604603).concat(other_604017.pyType.name); } else { fmt_res_604603 = other_604017.pyType.name.slice(); };
 		F.line = 50;
-		if (fmt_res_602603 != null) { fmt_res_602603 = (fmt_res_602603).concat(makeNimstrLit(" object")); } else { fmt_res_602603 = makeNimstrLit(" object"); };
-		var msg_602801 = (fmt_res_602215).concat(fmt_res_602603);
+		if (fmt_res_604603 != null) { fmt_res_604603 = (fmt_res_604603).concat(makeNimstrLit(" object")); } else { fmt_res_604603 = makeNimstrLit(" object"); };
+		var msg_604801 = (fmt_res_604215).concat(fmt_res_604603);
 		F.line = 51;
 		F.line = 104;
-		var excp_602803 = new_py_type_error_simple_360601();
+		var excp_604803 = new_py_type_error_simple_360601();
 		F.line = 105;
-		excp_602803.tk = 3;
+		excp_604803.tk = 3;
 		F.line = 106;
-		excp_602803.thrown = true;
+		excp_604803.thrown = true;
 		F.line = 107;
-		excp_602803.msg = new_py_string_176075(msg_602801);
-		result_602018 = excp_602803;
+		excp_604803.msg = new_py_string_176075(msg_604801);
+		result_604018 = excp_604803;
 		break BeforeRet;
 		}
 		
 		F.line = 52;
-		var owner_602805 = other_602017;
+		var owner_604805 = other_604017;
 		F.line = 53;
-		switch (self_602201.kind) {
+		switch (self_604201.kind) {
 		case 0:
 			F.line = 55;
-			result_602018 = new_py_nim_func_549444(self_602201.meth, self_602201.name);
+			result_604018 = new_py_nim_func_549444(self_604201.meth, self_604201.name);
 			break BeforeRet;
 			break;
 		case 1:
 			F.line = 57;
-			result_602018 = new_py_nim_func_549485(self_602201.meth, self_602201.name, owner_602805);
+			result_604018 = new_py_nim_func_549485(self_604201.meth, self_604201.name, owner_604805);
 			break BeforeRet;
 			break;
 		case 2:
 			F.line = 59;
-			result_602018 = new_py_nim_func_549622(self_602201.meth, self_602201.name, owner_602805);
+			result_604018 = new_py_nim_func_549622(self_604201.meth, self_604201.name, owner_604805);
 			break BeforeRet;
 			break;
 		case 3:
 			F.line = 61;
-			result_602018 = new_py_nim_func_549822(self_602201.meth, self_602201.name, owner_602805);
+			result_604018 = new_py_nim_func_549822(self_604201.meth, self_604201.name, owner_604805);
 			break BeforeRet;
 			break;
 		case 4:
 			F.line = 63;
-			result_602018 = new_py_nim_func_550022(self_602201.meth, self_602201.name, owner_602805);
+			result_604018 = new_py_nim_func_550022(self_604201.meth, self_604201.name, owner_604805);
 			break BeforeRet;
 			break;
 		}
 	} while (false);
 	framePtr = F.prev;
 
-	return result_602018;
+	return result_604018;
 
 }
 
-function new_603006() {
-	var result_603011 = null;
+function new_605006() {
+	var result_605011 = null;
 
 	var F={procname:"new.new",prev:framePtr,filename:"../../../../.choosenim/toolchains/nim-0.19.4/lib/system.nim",line:0};
 	framePtr = F;
 	BeforeRet: do {
 		F.line = 208;
-		var r_603201 = null;
+		var r_605201 = null;
 		F.line = 211;
-		r_603201 = {m_type: NTI602891, getter: null, setter: null, id: 0, pyType: null};
+		r_605201 = {m_type: NTI604891, getter: null, setter: null, id: 0, pyType: null};
 		F.line = 212;
-		result_603011 = r_603201;
+		result_605011 = r_605201;
 		break BeforeRet;
 	} while (false);
 	framePtr = F.prev;
 
-	return result_603011;
+	return result_605011;
 
 }
 
-function new_py_get_set_descr_simple_603001() {
-	var result_603003 = null;
+function new_py_get_set_descr_simple_605001() {
+	var result_605003 = null;
 
 	var F={procname:"descrobject.newPyGetSetDescrSimple",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
 	framePtr = F;
 		F.line = 560;
 		F.line = 560;
-		var obj_603224 = new_603006();
+		var obj_605224 = new_605006();
 		F.line = 561;
-		obj_603224.pyType = py_get_set_descr_object_type_602899;
+		obj_605224.pyType = py_get_set_descr_object_type_604899;
 		F.line = 563;
-		give_id_157814(obj_603224);
-		result_603003 = obj_603224;
+		give_id_157814(obj_605224);
+		result_605003 = obj_605224;
 	framePtr = F.prev;
 
-	return result_603003;
+	return result_605003;
 
 }
 
-function new_py_get_set_descr_default_603621(args_602846) {
-	var result_603624 = null;
+function new_py_get_set_descr_default_605621(args_604846) {
+	var result_605624 = null;
 
 	var F={procname:"descrobject.newPyGetSetDescrDefault",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
 	framePtr = F;
 		F.line = 581;
-		result_603624 = new_py_get_set_descr_simple_603001();
+		result_605624 = new_py_get_set_descr_simple_605001();
 	framePtr = F.prev;
 
-	return result_603624;
+	return result_605624;
 
 }
 
-function get_py_get_set_descr_object_magic_603844(self_no_cast_603846, other_603847) {
-	var result_603848 = null;
+function get_py_get_set_descr_object_magic_605844(self_no_cast_605846, other_605847) {
+	var result_605848 = null;
 
 	var F={procname:"descrobject.getPyGetSetDescrObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
 	framePtr = F;
 		F.line = 438;
-		if (!(isObj(self_no_cast_603846.m_type, NTI602891))) {
+		if (!(isObj(self_no_cast_605846.m_type, NTI604891))) {
 		F.line = 438;
 		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Objects/pyobject.nim(438, 33) `selfNoCast of PyGetSetDescrObject` "));
 		}
 		
 		F.line = 438;
-		var self_604001 = self_no_cast_603846;
-		result_603848 = self_604001.getter(other_603847);
+		var self_606001 = self_no_cast_605846;
+		result_605848 = self_606001.getter(other_605847);
 	framePtr = F.prev;
 
-	return result_603848;
+	return result_605848;
 
 }
 
-function set_py_get_set_descr_object_magic_604016(self_no_cast_604018, arg1_604019, arg2_604020) {
-	var result_604021 = null;
+function set_py_get_set_descr_object_magic_606016(self_no_cast_606018, arg1_606019, arg2_606020) {
+	var result_606021 = null;
 
 	var F={procname:"descrobject.setPyGetSetDescrObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
 	framePtr = F;
 		F.line = 438;
-		if (!(isObj(self_no_cast_604018.m_type, NTI602891))) {
+		if (!(isObj(self_no_cast_606018.m_type, NTI604891))) {
 		F.line = 438;
 		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Objects/pyobject.nim(438, 33) `selfNoCast of PyGetSetDescrObject` "));
 		}
 		
 		F.line = 438;
-		var self_604201 = self_no_cast_604018;
-		result_604021 = self_604201.setter(arg1_604019, arg2_604020);
+		var self_606201 = self_no_cast_606018;
+		result_606021 = self_606201.setter(arg1_606019, arg2_606020);
 	framePtr = F.prev;
 
-	return result_604021;
+	return result_606021;
 
 }
-py_method_descr_object_type_600095.magicMethods.Field34 = get_py_method_descr_object_magic_602014;
-var py_get_set_descr_object_type_602899 = new_py_type_159261(makeNimstrLit("GetSetDescr"));
-py_get_set_descr_object_type_602899.magicMethods.Field26 = new_py_get_set_descr_default_603621;
-py_get_set_descr_object_type_602899.magicMethods.Field34 = get_py_get_set_descr_object_magic_603844;
-py_get_set_descr_object_type_602899.magicMethods.Field35 = set_py_get_set_descr_object_magic_604016;
+py_method_descr_object_type_602095.magicMethods.Field34 = get_py_method_descr_object_magic_604014;
+var py_get_set_descr_object_type_604899 = new_py_type_159261(makeNimstrLit("GetSetDescr"));
+py_get_set_descr_object_type_604899.magicMethods.Field26 = new_py_get_set_descr_default_605621;
+py_get_set_descr_object_type_604899.magicMethods.Field34 = get_py_get_set_descr_object_magic_605844;
+py_get_set_descr_object_type_604899.magicMethods.Field35 = set_py_get_set_descr_object_magic_606016;
 
-function new_604406() {
-	var result_604411 = null;
+function new_606406() {
+	var result_606411 = null;
 
 	var F={procname:"new.new",prev:framePtr,filename:"../../../../.choosenim/toolchains/nim-0.19.4/lib/system.nim",line:0};
 	framePtr = F;
 	BeforeRet: do {
 		F.line = 208;
-		var r_604601 = null;
+		var r_606601 = null;
 		F.line = 211;
-		r_604601 = {m_type: NTI604304, getter: null, id: 0, pyType: null};
+		r_606601 = {m_type: NTI606304, getter: null, id: 0, pyType: null};
 		F.line = 212;
-		result_604411 = r_604601;
+		result_606411 = r_606601;
 		break BeforeRet;
 	} while (false);
 	framePtr = F.prev;
 
-	return result_604411;
+	return result_606411;
 
 }
 
-function new_py_property_simple_604401() {
-	var result_604403 = null;
+function new_py_property_simple_606401() {
+	var result_606403 = null;
 
 	var F={procname:"descrobject.newPyPropertySimple",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
 	framePtr = F;
 		F.line = 560;
 		F.line = 560;
-		var obj_604624 = new_604406();
+		var obj_606624 = new_606406();
 		F.line = 561;
-		obj_604624.pyType = py_property_object_type_604310;
+		obj_606624.pyType = py_property_object_type_606310;
 		F.line = 563;
-		give_id_157814(obj_604624);
-		result_604403 = obj_604624;
+		give_id_157814(obj_606624);
+		result_606403 = obj_606624;
 	framePtr = F.prev;
 
-	return result_604403;
+	return result_606403;
 
 }
 
-function new_py_property_default_605021(args_604259) {
-	var result_605024 = null;
+function new_py_property_default_607021(args_606259) {
+	var result_607024 = null;
 
 	var F={procname:"descrobject.newPyPropertyDefault",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
 	framePtr = F;
 		F.line = 581;
-		result_605024 = new_py_property_simple_604401();
+		result_607024 = new_py_property_simple_606401();
 	framePtr = F.prev;
 
-	return result_605024;
+	return result_607024;
 
 }
 
-function init_py_property_object_magic_605244(self_no_cast_605246, args_605260) {
-	var result_605261 = null;
+function init_py_property_object_magic_607244(self_no_cast_607246, args_607260) {
+	var result_607261 = null;
 
 	var F={procname:"descrobject.initPyPropertyObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
 	framePtr = F;
 	BeforeRet: do {
 		F.line = 438;
-		if (!(isObj(self_no_cast_605246.m_type, NTI604304))) {
+		if (!(isObj(self_no_cast_607246.m_type, NTI606304))) {
 		F.line = 438;
 		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Objects/pyobject.nim(438, 33) `selfNoCast of PyPropertyObject` "));
 		}
 		
 		F.line = 438;
-		var self_605401 = self_no_cast_605246;
-		if (!(((args_605260 != null ? args_605260.length : 0) == 1))) {
+		var self_607401 = self_no_cast_607246;
+		if (!(((args_607260 != null ? args_607260.length : 0) == 1))) {
 		F.line = 183;
-		var msg_605413 = null;
+		var msg_607413 = null;
 		if (false) {
 		F.line = 185;
 		F.line = 185;
-		var fmt_res_605418 = mnewString(0);
+		var fmt_res_607418 = mnewString(0);
 		F.line = 185;
-		if (fmt_res_605418 != null) { fmt_res_605418 = (fmt_res_605418).concat(makeNimstrLit(" argument (")); } else { fmt_res_605418 = makeNimstrLit(" argument ("); };
+		if (fmt_res_607418 != null) { fmt_res_607418 = (fmt_res_607418).concat(makeNimstrLit(" argument (")); } else { fmt_res_607418 = makeNimstrLit(" argument ("); };
 		F.line = 270;
-		if (fmt_res_605418 != null) { fmt_res_605418 = (fmt_res_605418).concat(cstrToNimstr(((args_605260 != null ? args_605260.length : 0))+"")); } else { fmt_res_605418 = cstrToNimstr(((args_605260 != null ? args_605260.length : 0))+"").slice(); };
+		if (fmt_res_607418 != null) { fmt_res_607418 = (fmt_res_607418).concat(cstrToNimstr(((args_607260 != null ? args_607260.length : 0))+"")); } else { fmt_res_607418 = cstrToNimstr(((args_607260 != null ? args_607260.length : 0))+"").slice(); };
 		F.line = 185;
-		if (fmt_res_605418 != null) { fmt_res_605418 = (fmt_res_605418).concat(makeNimstrLit(" given)")); } else { fmt_res_605418 = makeNimstrLit(" given)"); };
-		msg_605413 = nimCopy(null, (makeNimstrLit(" takes exactly 1")).concat(fmt_res_605418), NTI138);
+		if (fmt_res_607418 != null) { fmt_res_607418 = (fmt_res_607418).concat(makeNimstrLit(" given)")); } else { fmt_res_607418 = makeNimstrLit(" given)"); };
+		msg_607413 = nimCopy(null, (makeNimstrLit(" takes exactly 1")).concat(fmt_res_607418), NTI138);
 		}
 		else {
 			F.line = 187;
 			F.line = 187;
-			var fmt_res_605610 = mnewString(0);
+			var fmt_res_607610 = mnewString(0);
 			F.line = 187;
-			if (fmt_res_605610 != null) { fmt_res_605610 = (fmt_res_605610).concat(makeNimstrLit(" argument (")); } else { fmt_res_605610 = makeNimstrLit(" argument ("); };
+			if (fmt_res_607610 != null) { fmt_res_607610 = (fmt_res_607610).concat(makeNimstrLit(" argument (")); } else { fmt_res_607610 = makeNimstrLit(" argument ("); };
 			F.line = 270;
-			if (fmt_res_605610 != null) { fmt_res_605610 = (fmt_res_605610).concat(cstrToNimstr(((args_605260 != null ? args_605260.length : 0))+"")); } else { fmt_res_605610 = cstrToNimstr(((args_605260 != null ? args_605260.length : 0))+"").slice(); };
+			if (fmt_res_607610 != null) { fmt_res_607610 = (fmt_res_607610).concat(cstrToNimstr(((args_607260 != null ? args_607260.length : 0))+"")); } else { fmt_res_607610 = cstrToNimstr(((args_607260 != null ? args_607260.length : 0))+"").slice(); };
 			F.line = 187;
-			if (fmt_res_605610 != null) { fmt_res_605610 = (fmt_res_605610).concat(makeNimstrLit(" given)")); } else { fmt_res_605610 = makeNimstrLit(" given)"); };
-			msg_605413 = nimCopy(null, (makeNimstrLit("expected 1")).concat(fmt_res_605610), NTI138);
+			if (fmt_res_607610 != null) { fmt_res_607610 = (fmt_res_607610).concat(makeNimstrLit(" given)")); } else { fmt_res_607610 = makeNimstrLit(" given)"); };
+			msg_607413 = nimCopy(null, (makeNimstrLit("expected 1")).concat(fmt_res_607610), NTI138);
 		}
 		
 		F.line = 188;
 		F.line = 104;
-		var excp_605809 = new_py_type_error_simple_360601();
+		var excp_607809 = new_py_type_error_simple_360601();
 		F.line = 105;
-		excp_605809.tk = 3;
+		excp_607809.tk = 3;
 		F.line = 106;
-		excp_605809.thrown = true;
+		excp_607809.thrown = true;
 		F.line = 107;
-		excp_605809.msg = new_py_string_176075(msg_605413);
-		result_605261 = excp_605809;
+		excp_607809.msg = new_py_string_176075(msg_607413);
+		result_607261 = excp_607809;
 		break BeforeRet;
 		}
 		
 		F.line = 93;
-		self_605401.getter = args_605260[chckIndx(0, 0, args_605260.length+0-1)-0];
-		result_605261 = py_none_356044;
+		self_607401.getter = args_607260[chckIndx(0, 0, args_607260.length+0-1)-0];
+		result_607261 = py_none_356044;
 	} while (false);
 	framePtr = F.prev;
 
-	return result_605261;
+	return result_607261;
 
 }
 
@@ -24924,620 +24963,620 @@ function of_py_nim_func_object_547157(obj_547088) {
 
 }
 
-function fast_call_599133(callable_599135, args_599137) {
-	var result_599138 = null;
+function fast_call_601133(callable_601135, args_601137) {
+	var result_601138 = null;
 
 	var F={procname:"call.fastCall",prev:framePtr,filename:"call.nim",line:0};
 	framePtr = F;
 	BeforeRet: do {
-		if (of_py_nim_func_object_547157(callable_599135)) {
+		if (of_py_nim_func_object_547157(callable_601135)) {
 		F.line = 7;
-		result_599138 = call_py_nim_func_object_magic_548044(callable_599135, args_599137);
+		result_601138 = call_py_nim_func_object_magic_548044(callable_601135, args_601137);
 		break BeforeRet;
 		}
 		else {
-		if (of_py_function_object_540137(callable_599135)) {
+		if (of_py_function_object_540137(callable_601135)) {
 		F.line = 9;
-		result_599138 = call_py_function_object_magic_597735(callable_599135, args_599137);
+		result_601138 = call_py_function_object_magic_599735(callable_601135, args_601137);
 		break BeforeRet;
 		}
 		else {
 			F.line = 11;
-			if ((callable_599135.pyType === null)) {
+			if ((callable_601135.pyType === null)) {
 			F.line = 2895;
-			var e_599161 = null;
+			var e_601161 = null;
 			F.line = 2896;
-			e_599161 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
+			e_601161 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
 			F.line = 26;
-			e_599161.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
+			e_601161.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
 			F.line = 2891;
-			e_599161.parent = null;
+			e_601161.parent = null;
 			F.line = 26;
-			raiseException(e_599161, "InternalError");
+			raiseException(e_601161, "InternalError");
 			}
 			
 			F.line = 27;
-			var fun_599202 = callable_599135.pyType.magicMethods.Field31;
-			if ((fun_599202 === null)) {
+			var fun_601202 = callable_601135.pyType.magicMethods.Field31;
+			if ((fun_601202 === null)) {
 			F.line = 29;
-			var obj_type_str_599211 = callable_599135.pyType.name;
+			var obj_type_str_601211 = callable_601135.pyType.name;
 			F.line = 30;
-			var method_str_599213 = makeNimstrLit("call");
+			var method_str_601213 = makeNimstrLit("call");
 			F.line = 31;
-			var msg_599215 = (makeNimstrLit("No ")).concat(method_str_599213,makeNimstrLit(" method for "),obj_type_str_599211,makeNimstrLit(" defined"));
+			var msg_601215 = (makeNimstrLit("No ")).concat(method_str_601213,makeNimstrLit(" method for "),obj_type_str_601211,makeNimstrLit(" defined"));
 			F.line = 32;
 			F.line = 104;
-			var excp_599217 = new_py_type_error_simple_360601();
+			var excp_601217 = new_py_type_error_simple_360601();
 			F.line = 105;
-			excp_599217.tk = 3;
+			excp_601217.tk = 3;
 			F.line = 106;
-			excp_599217.thrown = true;
+			excp_601217.thrown = true;
 			F.line = 107;
-			excp_599217.msg = new_py_string_176075(msg_599215);
-			var excp_599220 = excp_599217;
+			excp_601217.msg = new_py_string_176075(msg_601215);
+			var excp_601220 = excp_601217;
 			F.line = 36;
-			result_599138 = excp_599220;
+			result_601138 = excp_601220;
 			break BeforeRet;
 			}
 			
-			var fun_599401 = fun_599202;
+			var fun_601401 = fun_601202;
 			F.line = 12;
-			result_599138 = fun_599401(callable_599135, args_599137);
+			result_601138 = fun_601401(callable_601135, args_601137);
 			break BeforeRet;
 		}
 		}
 	} while (false);
 	framePtr = F.prev;
 
-	return result_599138;
+	return result_601138;
 
 }
 
-function get_py_property_object_magic_605825(self_no_cast_605827, other_605828) {
-	var result_605829 = null;
+function get_py_property_object_magic_607825(self_no_cast_607827, other_607828) {
+	var result_607829 = null;
 
 	var F={procname:"descrobject.getPyPropertyObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
 	framePtr = F;
 		F.line = 438;
-		if (!(isObj(self_no_cast_605827.m_type, NTI604304))) {
+		if (!(isObj(self_no_cast_607827.m_type, NTI606304))) {
 		F.line = 438;
 		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Objects/pyobject.nim(438, 33) `selfNoCast of PyPropertyObject` "));
 		}
 		
 		F.line = 438;
-		var self_606001 = self_no_cast_605827;
-		result_605829 = fast_call_599133(self_606001.getter, [other_605828]);
+		var self_608001 = self_no_cast_607827;
+		result_607829 = fast_call_601133(self_608001.getter, [other_607828]);
 	framePtr = F.prev;
 
-	return result_605829;
+	return result_607829;
 
 }
-var py_property_object_type_604310 = new_py_type_159261(makeNimstrLit("Property"));
-py_property_object_type_604310.magicMethods.Field26 = new_py_property_default_605021;
-py_property_object_type_604310.magicMethods.Field27 = init_py_property_object_magic_605244;
-py_property_object_type_604310.magicMethods.Field34 = get_py_property_object_magic_605825;
+var py_property_object_type_606310 = new_py_type_159261(makeNimstrLit("Property"));
+py_property_object_type_606310.magicMethods.Field26 = new_py_property_default_607021;
+py_property_object_type_606310.magicMethods.Field27 = init_py_property_object_magic_607244;
+py_property_object_type_606310.magicMethods.Field34 = get_py_property_object_magic_607825;
 
-function new_607206() {
-	var result_607211 = null;
+function new_609206() {
+	var result_609211 = null;
 
 	var F={procname:"new.new",prev:framePtr,filename:"../../../../.choosenim/toolchains/nim-0.19.4/lib/system.nim",line:0};
 	framePtr = F;
 	BeforeRet: do {
 		F.line = 208;
-		var r_607401 = null;
+		var r_609401 = null;
 		F.line = 211;
-		r_607401 = {m_type: NTI607110, dict: null, id: 0, pyType: null};
+		r_609401 = {m_type: NTI609110, dict: null, id: 0, pyType: null};
 		F.line = 212;
-		result_607211 = r_607401;
+		result_609211 = r_609401;
 		break BeforeRet;
 	} while (false);
 	framePtr = F.prev;
 
-	return result_607211;
+	return result_609211;
 
 }
 
-function new_py_dict_proxy_simple_607201() {
-	var result_607203 = null;
+function new_py_dict_proxy_simple_609201() {
+	var result_609203 = null;
 
 	var F={procname:"dictproxyobject.newPyDictProxySimple",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
 	framePtr = F;
 		F.line = 560;
 		F.line = 560;
-		var obj_607424 = new_607206();
+		var obj_609424 = new_609206();
 		F.line = 561;
-		obj_607424.pyType = py_dict_proxy_object_type_607116;
+		obj_609424.pyType = py_dict_proxy_object_type_609116;
 		F.line = 563;
-		give_id_157814(obj_607424);
-		result_607203 = obj_607424;
+		give_id_157814(obj_609424);
+		result_609203 = obj_609424;
 	framePtr = F.prev;
 
-	return result_607203;
+	return result_609203;
 
 }
 
-function new_py_dict_proxy_default_607821(args_607065) {
-	var result_607824 = null;
+function new_py_dict_proxy_default_609821(args_609065) {
+	var result_609824 = null;
 
 	var F={procname:"dictproxyobject.newPyDictProxyDefault",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
 	framePtr = F;
 		F.line = 581;
-		result_607824 = new_py_dict_proxy_simple_607201();
+		result_609824 = new_py_dict_proxy_simple_609201();
 	framePtr = F.prev;
 
-	return result_607824;
+	return result_609824;
 
 }
 
-function repr_py_dict_proxy_object_magic_608044(self_no_cast_608046) {
-	var result_608047 = null;
+function repr_py_dict_proxy_object_magic_610044(self_no_cast_610046) {
+	var result_610047 = null;
 
 	var F={procname:"dictproxyobject.reprPyDictProxyObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
 	framePtr = F;
 	BeforeRet: do {
 		F.line = 438;
-		if (!(isObj(self_no_cast_608046.m_type, NTI607110))) {
+		if (!(isObj(self_no_cast_610046.m_type, NTI609110))) {
 		F.line = 438;
 		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Objects/pyobject.nim(438, 33) `selfNoCast of PyDictProxyObject` "));
 		}
 		
 		F.line = 438;
-		var self_608201 = self_no_cast_608046;
+		var self_610201 = self_no_cast_610046;
 		F.line = 45;
-		if ((self_608201.dict.pyType === null)) {
+		if ((self_610201.dict.pyType === null)) {
 		F.line = 2895;
-		var e_608228 = null;
+		var e_610228 = null;
 		F.line = 2896;
-		e_608228 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
+		e_610228 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
 		F.line = 26;
-		e_608228.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
+		e_610228.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
 		F.line = 2891;
-		e_608228.parent = null;
+		e_610228.parent = null;
 		F.line = 26;
-		raiseException(e_608228, "InternalError");
+		raiseException(e_610228, "InternalError");
 		}
 		
 		F.line = 27;
-		var fun_608402 = self_608201.dict.pyType.magicMethods.Field25;
-		if ((fun_608402 === null)) {
+		var fun_610402 = self_610201.dict.pyType.magicMethods.Field25;
+		if ((fun_610402 === null)) {
 		F.line = 29;
-		var obj_type_str_608411 = self_608201.dict.pyType.name;
+		var obj_type_str_610411 = self_610201.dict.pyType.name;
 		F.line = 30;
-		var method_str_608413 = makeNimstrLit("repr");
+		var method_str_610413 = makeNimstrLit("repr");
 		F.line = 31;
-		var msg_608415 = (makeNimstrLit("No ")).concat(method_str_608413,makeNimstrLit(" method for "),obj_type_str_608411,makeNimstrLit(" defined"));
+		var msg_610415 = (makeNimstrLit("No ")).concat(method_str_610413,makeNimstrLit(" method for "),obj_type_str_610411,makeNimstrLit(" defined"));
 		F.line = 32;
 		F.line = 104;
-		var excp_608417 = new_py_type_error_simple_360601();
+		var excp_610417 = new_py_type_error_simple_360601();
 		F.line = 105;
-		excp_608417.tk = 3;
+		excp_610417.tk = 3;
 		F.line = 106;
-		excp_608417.thrown = true;
+		excp_610417.thrown = true;
 		F.line = 107;
-		excp_608417.msg = new_py_string_176075(msg_608415);
-		var excp_608420 = excp_608417;
+		excp_610417.msg = new_py_string_176075(msg_610415);
+		var excp_610420 = excp_610417;
 		F.line = 36;
-		result_608047 = excp_608420;
+		result_610047 = excp_610420;
 		break BeforeRet;
 		}
 		
-		var fun_608602 = fun_608402;
+		var fun_610602 = fun_610402;
 		F.line = 46;
-		var res_608604 = fun_608602(self_608201.dict);
-		result_608047 = res_608604;
+		var res_610604 = fun_610602(self_610201.dict);
+		result_610047 = res_610604;
 	} while (false);
 	framePtr = F.prev;
 
-	return result_608047;
+	return result_610047;
 
 }
 
-function str_py_dict_proxy_object_magic_608815(self_no_cast_608817) {
-	var result_608818 = null;
+function str_py_dict_proxy_object_magic_610815(self_no_cast_610817) {
+	var result_610818 = null;
 
 	var F={procname:"dictproxyobject.strPyDictProxyObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
 	framePtr = F;
 	BeforeRet: do {
 		F.line = 438;
-		if (!(isObj(self_no_cast_608817.m_type, NTI607110))) {
+		if (!(isObj(self_no_cast_610817.m_type, NTI609110))) {
 		F.line = 438;
 		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Objects/pyobject.nim(438, 33) `selfNoCast of PyDictProxyObject` "));
 		}
 		
 		F.line = 438;
-		var self_609001 = self_no_cast_608817;
+		var self_611001 = self_no_cast_610817;
 		F.line = 45;
-		if ((self_609001.dict.pyType === null)) {
+		if ((self_611001.dict.pyType === null)) {
 		F.line = 2895;
-		var e_609028 = null;
+		var e_611028 = null;
 		F.line = 2896;
-		e_609028 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
+		e_611028 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
 		F.line = 26;
-		e_609028.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
+		e_611028.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
 		F.line = 2891;
-		e_609028.parent = null;
+		e_611028.parent = null;
 		F.line = 26;
-		raiseException(e_609028, "InternalError");
+		raiseException(e_611028, "InternalError");
 		}
 		
 		F.line = 27;
-		var fun_609202 = self_609001.dict.pyType.magicMethods.Field24;
-		if ((fun_609202 === null)) {
+		var fun_611202 = self_611001.dict.pyType.magicMethods.Field24;
+		if ((fun_611202 === null)) {
 		F.line = 29;
-		var obj_type_str_609211 = self_609001.dict.pyType.name;
+		var obj_type_str_611211 = self_611001.dict.pyType.name;
 		F.line = 30;
-		var method_str_609213 = makeNimstrLit("str");
+		var method_str_611213 = makeNimstrLit("str");
 		F.line = 31;
-		var msg_609215 = (makeNimstrLit("No ")).concat(method_str_609213,makeNimstrLit(" method for "),obj_type_str_609211,makeNimstrLit(" defined"));
+		var msg_611215 = (makeNimstrLit("No ")).concat(method_str_611213,makeNimstrLit(" method for "),obj_type_str_611211,makeNimstrLit(" defined"));
 		F.line = 32;
 		F.line = 104;
-		var excp_609217 = new_py_type_error_simple_360601();
+		var excp_611217 = new_py_type_error_simple_360601();
 		F.line = 105;
-		excp_609217.tk = 3;
+		excp_611217.tk = 3;
 		F.line = 106;
-		excp_609217.thrown = true;
+		excp_611217.thrown = true;
 		F.line = 107;
-		excp_609217.msg = new_py_string_176075(msg_609215);
-		var excp_609220 = excp_609217;
+		excp_611217.msg = new_py_string_176075(msg_611215);
+		var excp_611220 = excp_611217;
 		F.line = 36;
-		result_608818 = excp_609220;
+		result_610818 = excp_611220;
 		break BeforeRet;
 		}
 		
-		var fun_609402 = fun_609202;
+		var fun_611402 = fun_611202;
 		F.line = 46;
-		var res_609404 = fun_609402(self_609001.dict);
-		result_608818 = res_609404;
+		var res_611404 = fun_611402(self_611001.dict);
+		result_610818 = res_611404;
 	} while (false);
 	framePtr = F.prev;
 
-	return result_608818;
+	return result_610818;
 
 }
 
-function getitem_py_dict_proxy_object_magic_609615(self_no_cast_609617, other_609618) {
-	var result_609619 = null;
+function getitem_py_dict_proxy_object_magic_611615(self_no_cast_611617, other_611618) {
+	var result_611619 = null;
 
 	var F={procname:"dictproxyobject.getitemPyDictProxyObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
 	framePtr = F;
 	BeforeRet: do {
 		F.line = 438;
-		if (!(isObj(self_no_cast_609617.m_type, NTI607110))) {
+		if (!(isObj(self_no_cast_611617.m_type, NTI609110))) {
 		F.line = 438;
 		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Objects/pyobject.nim(438, 33) `selfNoCast of PyDictProxyObject` "));
 		}
 		
 		F.line = 438;
-		var self_609801 = self_no_cast_609617;
+		var self_611801 = self_no_cast_611617;
 		F.line = 56;
-		if ((self_609801.dict.pyType === null)) {
+		if ((self_611801.dict.pyType === null)) {
 		F.line = 2895;
-		var e_609828 = null;
+		var e_611828 = null;
 		F.line = 2896;
-		e_609828 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
+		e_611828 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
 		F.line = 26;
-		e_609828.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
+		e_611828.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
 		F.line = 2891;
-		e_609828.parent = null;
+		e_611828.parent = null;
 		F.line = 26;
-		raiseException(e_609828, "InternalError");
+		raiseException(e_611828, "InternalError");
 		}
 		
 		F.line = 27;
-		var fun_610002 = self_609801.dict.pyType.magicMethods.Field32;
-		if ((fun_610002 === null)) {
+		var fun_612002 = self_611801.dict.pyType.magicMethods.Field32;
+		if ((fun_612002 === null)) {
 		F.line = 29;
-		var obj_type_str_610011 = self_609801.dict.pyType.name;
+		var obj_type_str_612011 = self_611801.dict.pyType.name;
 		F.line = 30;
-		var method_str_610013 = makeNimstrLit("getitem");
+		var method_str_612013 = makeNimstrLit("getitem");
 		F.line = 31;
-		var msg_610015 = (makeNimstrLit("No ")).concat(method_str_610013,makeNimstrLit(" method for "),obj_type_str_610011,makeNimstrLit(" defined"));
+		var msg_612015 = (makeNimstrLit("No ")).concat(method_str_612013,makeNimstrLit(" method for "),obj_type_str_612011,makeNimstrLit(" defined"));
 		F.line = 32;
 		F.line = 104;
-		var excp_610017 = new_py_type_error_simple_360601();
+		var excp_612017 = new_py_type_error_simple_360601();
 		F.line = 105;
-		excp_610017.tk = 3;
+		excp_612017.tk = 3;
 		F.line = 106;
-		excp_610017.thrown = true;
+		excp_612017.thrown = true;
 		F.line = 107;
-		excp_610017.msg = new_py_string_176075(msg_610015);
-		var excp_610020 = excp_610017;
+		excp_612017.msg = new_py_string_176075(msg_612015);
+		var excp_612020 = excp_612017;
 		F.line = 36;
-		result_609619 = excp_610020;
+		result_611619 = excp_612020;
 		break BeforeRet;
 		}
 		
-		var fun_610202 = fun_610002;
+		var fun_612202 = fun_612002;
 		F.line = 57;
-		var res_610204 = fun_610202(self_609801.dict, other_609618);
-		result_609619 = res_610204;
+		var res_612204 = fun_612202(self_611801.dict, other_611618);
+		result_611619 = res_612204;
 	} while (false);
 	framePtr = F.prev;
 
-	return result_609619;
+	return result_611619;
 
 }
 
-function len_py_dict_proxy_object_magic_610415(self_no_cast_610417) {
-	var result_610418 = null;
+function len_py_dict_proxy_object_magic_612415(self_no_cast_612417) {
+	var result_612418 = null;
 
 	var F={procname:"dictproxyobject.lenPyDictProxyObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
 	framePtr = F;
 	BeforeRet: do {
 		F.line = 438;
-		if (!(isObj(self_no_cast_610417.m_type, NTI607110))) {
+		if (!(isObj(self_no_cast_612417.m_type, NTI609110))) {
 		F.line = 438;
 		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Objects/pyobject.nim(438, 33) `selfNoCast of PyDictProxyObject` "));
 		}
 		
 		F.line = 438;
-		var self_610601 = self_no_cast_610417;
+		var self_612601 = self_no_cast_612417;
 		F.line = 45;
-		if ((self_610601.dict.pyType === null)) {
+		if ((self_612601.dict.pyType === null)) {
 		F.line = 2895;
-		var e_610628 = null;
+		var e_612628 = null;
 		F.line = 2896;
-		e_610628 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
+		e_612628 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
 		F.line = 26;
-		e_610628.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
+		e_612628.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
 		F.line = 2891;
-		e_610628.parent = null;
+		e_612628.parent = null;
 		F.line = 26;
-		raiseException(e_610628, "InternalError");
+		raiseException(e_612628, "InternalError");
 		}
 		
 		F.line = 27;
-		var fun_610802 = self_610601.dict.pyType.magicMethods.Field23;
-		if ((fun_610802 === null)) {
+		var fun_612802 = self_612601.dict.pyType.magicMethods.Field23;
+		if ((fun_612802 === null)) {
 		F.line = 29;
-		var obj_type_str_610811 = self_610601.dict.pyType.name;
+		var obj_type_str_612811 = self_612601.dict.pyType.name;
 		F.line = 30;
-		var method_str_610813 = makeNimstrLit("len");
+		var method_str_612813 = makeNimstrLit("len");
 		F.line = 31;
-		var msg_610815 = (makeNimstrLit("No ")).concat(method_str_610813,makeNimstrLit(" method for "),obj_type_str_610811,makeNimstrLit(" defined"));
+		var msg_612815 = (makeNimstrLit("No ")).concat(method_str_612813,makeNimstrLit(" method for "),obj_type_str_612811,makeNimstrLit(" defined"));
 		F.line = 32;
 		F.line = 104;
-		var excp_610817 = new_py_type_error_simple_360601();
+		var excp_612817 = new_py_type_error_simple_360601();
 		F.line = 105;
-		excp_610817.tk = 3;
+		excp_612817.tk = 3;
 		F.line = 106;
-		excp_610817.thrown = true;
+		excp_612817.thrown = true;
 		F.line = 107;
-		excp_610817.msg = new_py_string_176075(msg_610815);
-		var excp_610820 = excp_610817;
+		excp_612817.msg = new_py_string_176075(msg_612815);
+		var excp_612820 = excp_612817;
 		F.line = 36;
-		result_610418 = excp_610820;
+		result_612418 = excp_612820;
 		break BeforeRet;
 		}
 		
-		var fun_611002 = fun_610802;
+		var fun_613002 = fun_612802;
 		F.line = 46;
-		var res_611004 = fun_611002(self_610601.dict);
-		result_610418 = res_611004;
+		var res_613004 = fun_613002(self_612601.dict);
+		result_612418 = res_613004;
 	} while (false);
 	framePtr = F.prev;
 
-	return result_610418;
+	return result_612418;
 
 }
 
-function init_py_dict_proxy_object_magic_611215(self_no_cast_611217, args_611231) {
-	var result_611232 = null;
+function init_py_dict_proxy_object_magic_613215(self_no_cast_613217, args_613231) {
+	var result_613232 = null;
 
 	var F={procname:"dictproxyobject.initPyDictProxyObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
 	framePtr = F;
 	BeforeRet: do {
 		F.line = 438;
-		if (!(((args_611231 != null ? args_611231.length : 0) == 1))) {
+		if (!(((args_613231 != null ? args_613231.length : 0) == 1))) {
 		F.line = 183;
-		var msg_611244 = null;
+		var msg_613244 = null;
 		if (true) {
 		F.line = 185;
 		F.line = 185;
-		var fmt_res_611249 = mnewString(0);
+		var fmt_res_613249 = mnewString(0);
 		F.line = 185;
-		if (fmt_res_611249 != null) { fmt_res_611249 = (fmt_res_611249).concat(makeNimstrLit(" argument (")); } else { fmt_res_611249 = makeNimstrLit(" argument ("); };
+		if (fmt_res_613249 != null) { fmt_res_613249 = (fmt_res_613249).concat(makeNimstrLit(" argument (")); } else { fmt_res_613249 = makeNimstrLit(" argument ("); };
 		F.line = 270;
-		if (fmt_res_611249 != null) { fmt_res_611249 = (fmt_res_611249).concat(cstrToNimstr(((args_611231 != null ? args_611231.length : 0))+"")); } else { fmt_res_611249 = cstrToNimstr(((args_611231 != null ? args_611231.length : 0))+"").slice(); };
+		if (fmt_res_613249 != null) { fmt_res_613249 = (fmt_res_613249).concat(cstrToNimstr(((args_613231 != null ? args_613231.length : 0))+"")); } else { fmt_res_613249 = cstrToNimstr(((args_613231 != null ? args_613231.length : 0))+"").slice(); };
 		F.line = 185;
-		if (fmt_res_611249 != null) { fmt_res_611249 = (fmt_res_611249).concat(makeNimstrLit(" given)")); } else { fmt_res_611249 = makeNimstrLit(" given)"); };
-		msg_611244 = nimCopy(null, (makeNimstrLit("init takes exactly 1")).concat(fmt_res_611249), NTI138);
+		if (fmt_res_613249 != null) { fmt_res_613249 = (fmt_res_613249).concat(makeNimstrLit(" given)")); } else { fmt_res_613249 = makeNimstrLit(" given)"); };
+		msg_613244 = nimCopy(null, (makeNimstrLit("init takes exactly 1")).concat(fmt_res_613249), NTI138);
 		}
 		else {
 			F.line = 187;
 			F.line = 187;
-			var fmt_res_611410 = mnewString(0);
+			var fmt_res_613410 = mnewString(0);
 			F.line = 187;
-			if (fmt_res_611410 != null) { fmt_res_611410 = (fmt_res_611410).concat(makeNimstrLit(" argument (")); } else { fmt_res_611410 = makeNimstrLit(" argument ("); };
+			if (fmt_res_613410 != null) { fmt_res_613410 = (fmt_res_613410).concat(makeNimstrLit(" argument (")); } else { fmt_res_613410 = makeNimstrLit(" argument ("); };
 			F.line = 270;
-			if (fmt_res_611410 != null) { fmt_res_611410 = (fmt_res_611410).concat(cstrToNimstr(((args_611231 != null ? args_611231.length : 0))+"")); } else { fmt_res_611410 = cstrToNimstr(((args_611231 != null ? args_611231.length : 0))+"").slice(); };
+			if (fmt_res_613410 != null) { fmt_res_613410 = (fmt_res_613410).concat(cstrToNimstr(((args_613231 != null ? args_613231.length : 0))+"")); } else { fmt_res_613410 = cstrToNimstr(((args_613231 != null ? args_613231.length : 0))+"").slice(); };
 			F.line = 187;
-			if (fmt_res_611410 != null) { fmt_res_611410 = (fmt_res_611410).concat(makeNimstrLit(" given)")); } else { fmt_res_611410 = makeNimstrLit(" given)"); };
-			msg_611244 = nimCopy(null, (makeNimstrLit("expected 1")).concat(fmt_res_611410), NTI138);
+			if (fmt_res_613410 != null) { fmt_res_613410 = (fmt_res_613410).concat(makeNimstrLit(" given)")); } else { fmt_res_613410 = makeNimstrLit(" given)"); };
+			msg_613244 = nimCopy(null, (makeNimstrLit("expected 1")).concat(fmt_res_613410), NTI138);
 		}
 		
 		F.line = 188;
 		F.line = 104;
-		var excp_611609 = new_py_type_error_simple_360601();
+		var excp_613609 = new_py_type_error_simple_360601();
 		F.line = 105;
-		excp_611609.tk = 3;
+		excp_613609.tk = 3;
 		F.line = 106;
-		excp_611609.thrown = true;
+		excp_613609.thrown = true;
 		F.line = 107;
-		excp_611609.msg = new_py_string_176075(msg_611244);
-		result_611232 = excp_611609;
+		excp_613609.msg = new_py_string_176075(msg_613244);
+		result_613232 = excp_613609;
 		break BeforeRet;
 		}
 		
 		F.line = 230;
-		var mapping_611611 = args_611231[chckIndx(0, 0, args_611231.length+0-1)-0];
-		if (!(isObj(self_no_cast_611217.m_type, NTI607110))) {
+		var mapping_613611 = args_613231[chckIndx(0, 0, args_613231.length+0-1)-0];
+		if (!(isObj(self_no_cast_613217.m_type, NTI609110))) {
 		F.line = 438;
 		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Objects/pyobject.nim(438, 33) `selfNoCast of PyDictProxyObject` "));
 		}
 		
 		F.line = 438;
-		var self_611801 = self_no_cast_611217;
+		var self_613801 = self_no_cast_613217;
 		F.line = 23;
-		self_611801.dict = mapping_611611;
-		result_611232 = py_none_356044;
+		self_613801.dict = mapping_613611;
+		result_613232 = py_none_356044;
 	} while (false);
 	framePtr = F.prev;
 
-	return result_611232;
+	return result_613232;
 
 }
-var py_dict_proxy_object_type_607116 = new_py_type_159261(makeNimstrLit("DictProxy"));
-py_dict_proxy_object_type_607116.magicMethods.Field26 = new_py_dict_proxy_default_607821;
-py_dict_proxy_object_type_607116.magicMethods.Field25 = repr_py_dict_proxy_object_magic_608044;
-py_dict_proxy_object_type_607116.magicMethods.Field24 = str_py_dict_proxy_object_magic_608815;
-py_dict_proxy_object_type_607116.magicMethods.Field32 = getitem_py_dict_proxy_object_magic_609615;
-py_dict_proxy_object_type_607116.magicMethods.Field23 = len_py_dict_proxy_object_magic_610415;
-py_dict_proxy_object_type_607116.magicMethods.Field27 = init_py_dict_proxy_object_magic_611215;
+var py_dict_proxy_object_type_609116 = new_py_type_159261(makeNimstrLit("DictProxy"));
+py_dict_proxy_object_type_609116.magicMethods.Field26 = new_py_dict_proxy_default_609821;
+py_dict_proxy_object_type_609116.magicMethods.Field25 = repr_py_dict_proxy_object_magic_610044;
+py_dict_proxy_object_type_609116.magicMethods.Field24 = str_py_dict_proxy_object_magic_610815;
+py_dict_proxy_object_type_609116.magicMethods.Field32 = getitem_py_dict_proxy_object_magic_611615;
+py_dict_proxy_object_type_609116.magicMethods.Field23 = len_py_dict_proxy_object_magic_612415;
+py_dict_proxy_object_type_609116.magicMethods.Field27 = init_py_dict_proxy_object_magic_613215;
 
-function repr_py_type_object_magic_612363(self_no_cast_612365) {
-	var result_612366 = null;
+function repr_py_type_object_magic_614363(self_no_cast_614365) {
+	var result_614366 = null;
 
 	var F={procname:"typeobject.reprPyTypeObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
 	framePtr = F;
 		F.line = 438;
-		if (!(isObj(self_no_cast_612365.m_type, NTI157280))) {
+		if (!(isObj(self_no_cast_614365.m_type, NTI157280))) {
 		F.line = 438;
 		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Objects/pyobject.nim(438, 33) `selfNoCast of PyTypeObject` "));
 		}
 		
 		F.line = 438;
-		var self_612401 = self_no_cast_612365;
-		result_612366 = new_py_string_176075(self_612401.name);
+		var self_614401 = self_no_cast_614365;
+		result_614366 = new_py_string_176075(self_614401.name);
 	framePtr = F.prev;
 
-	return result_612366;
+	return result_614366;
 
 }
 
-function str_py_type_object_magic_612416(self_no_cast_612418) {
-	var result_612419 = null;
+function str_py_type_object_magic_614416(self_no_cast_614418) {
+	var result_614419 = null;
 
 	var F={procname:"typeobject.strPyTypeObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
 	framePtr = F;
 		F.line = 438;
-		if (!(isObj(self_no_cast_612418.m_type, NTI157280))) {
+		if (!(isObj(self_no_cast_614418.m_type, NTI157280))) {
 		F.line = 438;
 		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Objects/pyobject.nim(438, 33) `selfNoCast of PyTypeObject` "));
 		}
 		
 		F.line = 438;
-		var self_612601 = self_no_cast_612418;
+		var self_614601 = self_no_cast_614418;
 		F.line = 34;
-		var fmt_res_612604 = mnewString(0);
+		var fmt_res_614604 = mnewString(0);
 		F.line = 34;
-		if (fmt_res_612604 != null) { fmt_res_612604 = (fmt_res_612604).concat(makeNimstrLit("<class \'")); } else { fmt_res_612604 = makeNimstrLit("<class \'"); };
+		if (fmt_res_614604 != null) { fmt_res_614604 = (fmt_res_614604).concat(makeNimstrLit("<class \'")); } else { fmt_res_614604 = makeNimstrLit("<class \'"); };
 		F.line = 260;
-		if (fmt_res_612604 != null) { fmt_res_612604 = (fmt_res_612604).concat(self_612601.name); } else { fmt_res_612604 = self_612601.name.slice(); };
+		if (fmt_res_614604 != null) { fmt_res_614604 = (fmt_res_614604).concat(self_614601.name); } else { fmt_res_614604 = self_614601.name.slice(); };
 		F.line = 34;
-		if (fmt_res_612604 != null) { fmt_res_612604 = (fmt_res_612604).concat(makeNimstrLit("\'>")); } else { fmt_res_612604 = makeNimstrLit("\'>"); };
-		result_612419 = new_py_string_176075(fmt_res_612604);
+		if (fmt_res_614604 != null) { fmt_res_614604 = (fmt_res_614604).concat(makeNimstrLit("\'>")); } else { fmt_res_614604 = makeNimstrLit("\'>"); };
+		result_614419 = new_py_string_176075(fmt_res_614604);
 	framePtr = F.prev;
 
-	return result_612419;
+	return result_614419;
 
 }
 
-function raw_get_613579(t_613584, key_613586, hc_613588, hc_613588_Idx) {
+function raw_get_615579(t_615584, key_615586, hc_615588, hc_615588_Idx) {
 						var Tmp3;
 
-	var result_613589 = 0;
+	var result_615589 = 0;
 
 	var F={procname:"rawGet.rawGet",prev:framePtr,filename:"../../../../.choosenim/toolchains/nim-0.19.4/lib/pure/collections/tableimpl.nim",line:0};
 	framePtr = F;
 	BeforeRet: do {
 		F.line = 43;
-		hc_613588[hc_613588_Idx] = hash_143900(key_613586);
-		if ((hc_613588[hc_613588_Idx] == 0)) {
+		hc_615588[hc_615588_Idx] = hash_143900(key_615586);
+		if ((hc_615588[hc_615588_Idx] == 0)) {
 		F.line = 45;
-		hc_613588[hc_613588_Idx] = 314159265;
+		hc_615588[hc_615588_Idx] = 314159265;
 		}
 		
 		F.line = 31;
-		var h_613601 = (hc_613588[hc_613588_Idx] & (t_613584.data != null ? (t_613584.data.length-1) : -1));
+		var h_615601 = (hc_615588[hc_615588_Idx] & (t_615584.data != null ? (t_615584.data.length-1) : -1));
 		L1: do {
 			F.line = 32;
 				L2: while (true) {
-				if (!is_filled_146491(t_613584.data[chckIndx(h_613601, 0, t_613584.data.length+0-1)-0].Field0)) break L2;
-						if (!(t_613584.data[chckIndx(h_613601, 0, t_613584.data.length+0-1)-0].Field0 == hc_613588[hc_613588_Idx])) Tmp3 = false; else {							Tmp3 = eqStrings(t_613584.data[chckIndx(h_613601, 0, t_613584.data.length+0-1)-0].Field1, key_613586);						}					if (Tmp3) {
+				if (!is_filled_146491(t_615584.data[chckIndx(h_615601, 0, t_615584.data.length+0-1)-0].Field0)) break L2;
+						if (!(t_615584.data[chckIndx(h_615601, 0, t_615584.data.length+0-1)-0].Field0 == hc_615588[hc_615588_Idx])) Tmp3 = false; else {							Tmp3 = eqStrings(t_615584.data[chckIndx(h_615601, 0, t_615584.data.length+0-1)-0].Field1, key_615586);						}					if (Tmp3) {
 					F.line = 38;
-					result_613589 = h_613601;
+					result_615589 = h_615601;
 					break BeforeRet;
 					}
 					
 					F.line = 39;
-					h_613601 = next_try_146614(h_613601, (t_613584.data != null ? (t_613584.data.length-1) : -1));
+					h_615601 = next_try_146614(h_615601, (t_615584.data != null ? (t_615584.data.length-1) : -1));
 				}
 		} while(false);
 		F.line = 40;
-		result_613589 = subInt(-1, h_613601);
+		result_615589 = subInt(-1, h_615601);
 	} while (false);
 	framePtr = F.prev;
 
-	return result_613589;
+	return result_615589;
 
 }
 
-function raw_insert_615823(t_615830, data_615834, data_615834_Idx, key_615836, val_615838, hc_615840, h_615842) {
+function raw_insert_617823(t_617830, data_617834, data_617834_Idx, key_617836, val_617838, hc_617840, h_617842) {
 	var F={procname:"rawInsert.rawInsert",prev:framePtr,filename:"../../../../.choosenim/toolchains/nim-0.19.4/lib/pure/collections/tableimpl.nim",line:0};
 	framePtr = F;
 		F.line = 64;
-		data_615834[data_615834_Idx][chckIndx(h_615842, 0, data_615834[data_615834_Idx].length+0-1)-0].Field1 = nimCopy(null, key_615836, NTI138);
+		data_617834[data_617834_Idx][chckIndx(h_617842, 0, data_617834[data_617834_Idx].length+0-1)-0].Field1 = nimCopy(null, key_617836, NTI138);
 		F.line = 65;
-		nimCopy(data_615834[data_615834_Idx][chckIndx(h_615842, 0, data_615834[data_615834_Idx].length+0-1)-0].Field2, val_615838, NTI157318);
+		nimCopy(data_617834[data_617834_Idx][chckIndx(h_617842, 0, data_617834[data_617834_Idx].length+0-1)-0].Field2, val_617838, NTI157318);
 		F.line = 66;
-		data_615834[data_615834_Idx][chckIndx(h_615842, 0, data_615834[data_615834_Idx].length+0-1)-0].Field0 = hc_615840;
+		data_617834[data_617834_Idx][chckIndx(h_617842, 0, data_617834[data_617834_Idx].length+0-1)-0].Field0 = hc_617840;
 	framePtr = F.prev;
 
 	
 }
 
-function enlarge_614693(t_614700) {
+function enlarge_616693(t_616700) {
 	var F={procname:"enlarge.enlarge",prev:framePtr,filename:"../../../../.choosenim/toolchains/nim-0.19.4/lib/pure/collections/tables.nim",line:0};
 	framePtr = F;
 		F.line = 313;
-		var n_614708 = null;
+		var n_616708 = null;
 		F.line = 314;
-		n_614708 = new Array(chckRange(mulInt((t_614700.data != null ? t_614700.data.length : 0), 2), 0, 2147483647)); for (var i=0;i<chckRange(mulInt((t_614700.data != null ? t_614700.data.length : 0), 2), 0, 2147483647);++i) {n_614708[i]={Field0: 0, Field1: null, Field2: {Field0: null, Field1: null}};}		F.line = 315;
-		var Tmp1 = t_614700.data; t_614700.data = n_614708; n_614708 = Tmp1;		L2: do {
+		n_616708 = new Array(chckRange(mulInt((t_616700.data != null ? t_616700.data.length : 0), 2), 0, 2147483647)); for (var i=0;i<chckRange(mulInt((t_616700.data != null ? t_616700.data.length : 0), 2), 0, 2147483647);++i) {n_616708[i]={Field0: 0, Field1: null, Field2: {Field0: null, Field1: null}};}		F.line = 315;
+		var Tmp1 = t_616700.data; t_616700.data = n_616708; n_616708 = Tmp1;		L2: do {
 			F.line = 316;
-			var i_614921 = 0;
+			var i_616921 = 0;
 			F.line = 2088;
-			var colontmp__616510 = 0;
+			var colontmp__618510 = 0;
 			F.line = 316;
-			colontmp__616510 = (n_614708 != null ? (n_614708.length-1) : -1);
+			colontmp__618510 = (n_616708 != null ? (n_616708.length-1) : -1);
 			F.line = 2094;
-			var res_616513 = 0;
+			var res_618513 = 0;
 			L3: do {
 				F.line = 2095;
 					L4: while (true) {
-					if (!(res_616513 <= colontmp__616510)) break L4;
+					if (!(res_618513 <= colontmp__618510)) break L4;
 						F.line = 2096;
-						i_614921 = res_616513;
+						i_616921 = res_618513;
 						F.line = 317;
-						var eh_615139 = n_614708[chckIndx(i_614921, 0, n_614708.length+0-1)-0].Field0;
-						if (is_filled_146491(eh_615139)) {
+						var eh_617139 = n_616708[chckIndx(i_616921, 0, n_616708.length+0-1)-0].Field0;
+						if (is_filled_146491(eh_617139)) {
 						F.line = 319;
-						var j_615148 = (eh_615139 & (t_614700.data != null ? (t_614700.data.length-1) : -1));
+						var j_617148 = (eh_617139 & (t_616700.data != null ? (t_616700.data.length-1) : -1));
 						L5: do {
 							F.line = 320;
 								L6: while (true) {
-								if (!is_filled_146491(t_614700.data[chckIndx(j_615148, 0, t_614700.data.length+0-1)-0].Field0)) break L6;
+								if (!is_filled_146491(t_616700.data[chckIndx(j_617148, 0, t_616700.data.length+0-1)-0].Field0)) break L6;
 									F.line = 321;
-									j_615148 = next_try_146614(j_615148, (t_614700.data != null ? (t_614700.data.length-1) : -1));
+									j_617148 = next_try_146614(j_617148, (t_616700.data != null ? (t_616700.data.length-1) : -1));
 								}
 						} while(false);
 						F.line = 322;
-						raw_insert_615823(t_614700, t_614700, "data", n_614708[chckIndx(i_614921, 0, n_614708.length+0-1)-0].Field1, n_614708[chckIndx(i_614921, 0, n_614708.length+0-1)-0].Field2, eh_615139, j_615148);
+						raw_insert_617823(t_616700, t_616700, "data", n_616708[chckIndx(i_616921, 0, n_616708.length+0-1)-0].Field1, n_616708[chckIndx(i_616921, 0, n_616708.length+0-1)-0].Field2, eh_617139, j_617148);
 						}
 						
 						F.line = 2097;
-						res_616513 = addInt(res_616513, 1);
+						res_618513 = addInt(res_618513, 1);
 					}
 			} while(false);
 		} while(false);
@@ -25546,62 +25585,62 @@ function enlarge_614693(t_614700) {
 	
 }
 
-function raw_get_known_hc_616531(t_616536, key_616538, hc_616540) {
-	var result_616541 = 0;
+function raw_get_known_hc_618531(t_618536, key_618538, hc_618540) {
+	var result_618541 = 0;
 
 	var F={procname:"rawGetKnownHC.rawGetKnownHC",prev:framePtr,filename:"../../../../.choosenim/toolchains/nim-0.19.4/lib/pure/collections/tableimpl.nim",line:0};
 	framePtr = F;
 	BeforeRet: do {
 		F.line = 31;
-		var h_616550 = (hc_616540 & (t_616536.data != null ? (t_616536.data.length-1) : -1));
+		var h_618550 = (hc_618540 & (t_618536.data != null ? (t_618536.data.length-1) : -1));
 		L1: do {
 			F.line = 32;
 				L2: while (true) {
-				if (!is_filled_146491(t_616536.data[chckIndx(h_616550, 0, t_616536.data.length+0-1)-0].Field0)) break L2;
-					if (((t_616536.data[chckIndx(h_616550, 0, t_616536.data.length+0-1)-0].Field0 == hc_616540) && eqStrings(t_616536.data[chckIndx(h_616550, 0, t_616536.data.length+0-1)-0].Field1, key_616538))) {
+				if (!is_filled_146491(t_618536.data[chckIndx(h_618550, 0, t_618536.data.length+0-1)-0].Field0)) break L2;
+					if (((t_618536.data[chckIndx(h_618550, 0, t_618536.data.length+0-1)-0].Field0 == hc_618540) && eqStrings(t_618536.data[chckIndx(h_618550, 0, t_618536.data.length+0-1)-0].Field1, key_618538))) {
 					F.line = 38;
-					result_616541 = h_616550;
+					result_618541 = h_618550;
 					break BeforeRet;
 					}
 					
 					F.line = 39;
-					h_616550 = next_try_146614(h_616550, (t_616536.data != null ? (t_616536.data.length-1) : -1));
+					h_618550 = next_try_146614(h_618550, (t_618536.data != null ? (t_618536.data.length-1) : -1));
 				}
 		} while(false);
 		F.line = 40;
-		result_616541 = subInt(-1, h_616550);
+		result_618541 = subInt(-1, h_618550);
 	} while (false);
 	framePtr = F.prev;
 
-	return result_616541;
+	return result_618541;
 
 }
 
-function HEX5BHEX5DHEX3D_613565(t_613572, key_613574, val_613576) {
+function HEX5BHEX5DHEX3D_615565(t_615572, key_615574, val_615576) {
 	var F={procname:"[]=.[]=",prev:framePtr,filename:"../../../../.choosenim/toolchains/nim-0.19.4/lib/pure/collections/tables.nim",line:0};
 	framePtr = F;
 		F.line = 97;
-		var hc_613577 = [0];
+		var hc_615577 = [0];
 		F.line = 98;
-		var index_614279 = raw_get_613579(t_613572, key_613574, hc_613577, 0);
-		if ((0 <= index_614279)) {
+		var index_616279 = raw_get_615579(t_615572, key_615574, hc_615577, 0);
+		if ((0 <= index_616279)) {
 		F.line = 99;
-		nimCopy(t_613572.data[chckIndx(index_614279, 0, t_613572.data.length+0-1)-0].Field2, val_613576, NTI157318);
+		nimCopy(t_615572.data[chckIndx(index_616279, 0, t_615572.data.length+0-1)-0].Field2, val_615576, NTI157318);
 		}
 		else {
-			if (must_rehash_146509((t_613572.data != null ? t_613572.data.length : 0), t_613572.counter)) {
+			if (must_rehash_146509((t_615572.data != null ? t_615572.data.length : 0), t_615572.counter)) {
 			F.line = 90;
-			enlarge_614693(t_613572);
+			enlarge_616693(t_615572);
 			F.line = 91;
-			index_614279 = raw_get_known_hc_616531(t_613572, key_613574, hc_613577[0]);
+			index_616279 = raw_get_known_hc_618531(t_615572, key_615574, hc_615577[0]);
 			}
 			
 			F.line = 92;
-			index_614279 = subInt(-1, index_614279);
+			index_616279 = subInt(-1, index_616279);
 			F.line = 93;
-			raw_insert_615823(t_613572, t_613572, "data", key_613574, val_613576, hc_613577[0], index_614279);
+			raw_insert_617823(t_615572, t_615572, "data", key_615574, val_615576, hc_615577[0], index_616279);
 			F.line = 100;
-			t_613572.counter = addInt(t_613572.counter, 1);
+			t_615572.counter = addInt(t_615572.counter, 1);
 		}
 		
 	framePtr = F.prev;
@@ -25609,104 +25648,104 @@ function HEX5BHEX5DHEX3D_613565(t_613572, key_613574, val_613576) {
 	
 }
 
-function new_py_dict_proxy_611829(mapping_611831) {
-	var result_611832 = null;
+function new_py_dict_proxy_613829(mapping_613831) {
+	var result_613832 = null;
 
 	var F={procname:"dictproxyobject.newPyDictProxy",prev:framePtr,filename:"../Objects/dictproxyobject.nim",line:0};
 	framePtr = F;
 		F.line = 27;
 		F.line = 27;
-		var d_611833 = new_py_dict_proxy_simple_607201();
+		var d_613833 = new_py_dict_proxy_simple_609201();
 		F.line = 28;
-		d_611833.dict = mapping_611831;
-		result_611832 = d_611833;
+		d_613833.dict = mapping_613831;
+		result_613832 = d_613833;
 	framePtr = F.prev;
 
-	return result_611832;
+	return result_613832;
 
 }
 
-function dict_py_type_object_getter_612815(self_no_cast_612817) {
-	var result_612818 = null;
+function dict_py_type_object_getter_614815(self_no_cast_614817) {
+	var result_614818 = null;
 
 	var F={procname:"typeobject.dictPyTypeObjectGetter",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
 	framePtr = F;
 		F.line = 450;
-		if (!(isObj(self_no_cast_612817.m_type, NTI157280))) {
+		if (!(isObj(self_no_cast_614817.m_type, NTI157280))) {
 		F.line = 450;
 		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Objects/pyobject.nim(450, 32) `selfNoCast of PyTypeObject` "));
 		}
 		
 		F.line = 450;
-		var self_613001 = self_no_cast_612817;
-		result_612818 = new_py_dict_proxy_611829(self_613001.dict);
+		var self_615001 = self_no_cast_614817;
+		result_614818 = new_py_dict_proxy_613829(self_615001.dict);
 	framePtr = F.prev;
 
-	return result_612818;
+	return result_614818;
 
 }
 
-function dict_py_type_object_setter_613016(self_no_cast_613018, other_613019) {
-	var result_613020 = null;
+function dict_py_type_object_setter_615016(self_no_cast_615018, other_615019) {
+	var result_615020 = null;
 
 	var F={procname:"typeobject.dictPyTypeObjectSetter",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
 	framePtr = F;
 		F.line = 456;
-		if (!(isObj(self_no_cast_613018.m_type, NTI157280))) {
+		if (!(isObj(self_no_cast_615018.m_type, NTI157280))) {
 		F.line = 456;
 		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Objects/pyobject.nim(456, 32) `selfNoCast of PyTypeObject` "));
 		}
 		
 		F.line = 456;
-		var self_613201 = self_no_cast_613018;
+		var self_615201 = self_no_cast_615018;
 		F.line = 104;
-		var excp_613402 = new_py_type_error_simple_360601();
+		var excp_615402 = new_py_type_error_simple_360601();
 		F.line = 105;
-		excp_613402.tk = 3;
+		excp_615402.tk = 3;
 		F.line = 106;
-		excp_613402.thrown = true;
+		excp_615402.thrown = true;
 		F.line = 107;
 		F.line = 40;
-		var fmt_res_613205 = mnewString(0);
+		var fmt_res_615205 = mnewString(0);
 		F.line = 40;
-		if (fmt_res_613205 != null) { fmt_res_613205 = (fmt_res_613205).concat(makeNimstrLit("can\'t set attributes of built-in/extension type ")); } else { fmt_res_613205 = makeNimstrLit("can\'t set attributes of built-in/extension type "); };
+		if (fmt_res_615205 != null) { fmt_res_615205 = (fmt_res_615205).concat(makeNimstrLit("can\'t set attributes of built-in/extension type ")); } else { fmt_res_615205 = makeNimstrLit("can\'t set attributes of built-in/extension type "); };
 		F.line = 260;
-		if (fmt_res_613205 != null) { fmt_res_613205 = (fmt_res_613205).concat(self_613201.name); } else { fmt_res_613205 = self_613201.name.slice(); };
-		excp_613402.msg = new_py_string_176075(fmt_res_613205);
-		result_613020 = excp_613402;
+		if (fmt_res_615205 != null) { fmt_res_615205 = (fmt_res_615205).concat(self_615201.name); } else { fmt_res_615205 = self_615201.name.slice(); };
+		excp_615402.msg = new_py_string_176075(fmt_res_615205);
+		result_615020 = excp_615402;
 	framePtr = F.prev;
 
-	return result_613020;
+	return result_615020;
 
 }
-var magic_name_strs_612041 = [null];
+var magic_name_strs_614041 = [null];
 L20: do {
-	var name_612102 = [null];
-	var i_617290 = 0;
-	if ((i_617290 <= 37)) {
+	var name_614102 = [null];
+	var i_619290 = 0;
+	if ((i_619290 <= 37)) {
 	L21: do {
 			L22: while (true) {
 			if (!true) break L22;
-				name_612102[0] = magic_names_157558[i_617290];
-				if (magic_name_strs_612041[0] != null) { magic_name_strs_612041[0].push(new_py_str_176092(name_612102[0])); } else { magic_name_strs_612041[0] = [new_py_str_176092(name_612102[0])]; };
-				if ((37 <= i_617290)) {
+				name_614102[0] = magic_names_157558[i_619290];
+				if (magic_name_strs_614041[0] != null) { magic_name_strs_614041[0].push(new_py_str_176092(name_614102[0])); } else { magic_name_strs_614041[0] = [new_py_str_176092(name_614102[0])]; };
+				if ((37 <= i_619290)) {
 				break L21;
 				}
 				
-				i_617290 += 1;
+				i_619290 += 1;
 			}
 	} while(false);
 	}
 	
 } while(false);
-var py_type_object_type_612361 = new_py_type_159261(makeNimstrLit("type"));
-py_type_object_type_612361.kind = 7;
-py_type_object_type_612361.magicMethods.Field25 = repr_py_type_object_magic_612363;
-py_type_object_type_612361.magicMethods.Field24 = str_py_type_object_magic_612416;
-HEX5BHEX5DHEX3D_613565(py_type_object_type_612361.getsetDescr, makeNimstrLit("__dict__"), {Field0: dict_py_type_object_getter_612815, Field1: dict_py_type_object_setter_613016});
+var py_type_object_type_614361 = new_py_type_159261(makeNimstrLit("type"));
+py_type_object_type_614361.kind = 7;
+py_type_object_type_614361.magicMethods.Field25 = repr_py_type_object_magic_614363;
+py_type_object_type_614361.magicMethods.Field24 = str_py_type_object_magic_614416;
+HEX5BHEX5DHEX3D_615565(py_type_object_type_614361.getsetDescr, makeNimstrLit("__dict__"), {Field0: dict_py_type_object_getter_614815, Field1: dict_py_type_object_setter_615016});
 
-function default_le_617321(o1_617323, o2_617324) {
-	var result_617325 = null;
+function default_le_619321(o1_619323, o2_619324) {
+	var result_619325 = null;
 
 	var F={procname:"typeobject.defaultLe",prev:framePtr,filename:"../Objects/typeobject.nim",line:0};
 	framePtr = F;
@@ -25714,141 +25753,141 @@ function default_le_617321(o1_617323, o2_617324) {
 		F.line = 49;
 		F.line = 49;
 		F.line = 56;
-		if ((o1_617323.pyType === null)) {
+		if ((o1_619323.pyType === null)) {
 		F.line = 2895;
-		var e_617352 = null;
+		var e_619352 = null;
 		F.line = 2896;
-		e_617352 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
+		e_619352 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
 		F.line = 26;
-		e_617352.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
+		e_619352.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
 		F.line = 2891;
-		e_617352.parent = null;
+		e_619352.parent = null;
 		F.line = 26;
-		raiseException(e_617352, "InternalError");
+		raiseException(e_619352, "InternalError");
 		}
 		
 		F.line = 27;
-		var fun_617402 = o1_617323.pyType.magicMethods.Field16;
-		if ((fun_617402 === null)) {
+		var fun_619402 = o1_619323.pyType.magicMethods.Field16;
+		if ((fun_619402 === null)) {
 		F.line = 29;
-		var obj_type_str_617411 = o1_617323.pyType.name;
+		var obj_type_str_619411 = o1_619323.pyType.name;
 		F.line = 30;
-		var method_str_617413 = makeNimstrLit("lt");
+		var method_str_619413 = makeNimstrLit("lt");
 		F.line = 31;
-		var msg_617415 = (makeNimstrLit("No ")).concat(method_str_617413,makeNimstrLit(" method for "),obj_type_str_617411,makeNimstrLit(" defined"));
+		var msg_619415 = (makeNimstrLit("No ")).concat(method_str_619413,makeNimstrLit(" method for "),obj_type_str_619411,makeNimstrLit(" defined"));
 		F.line = 32;
 		F.line = 104;
-		var excp_617417 = new_py_type_error_simple_360601();
+		var excp_619417 = new_py_type_error_simple_360601();
 		F.line = 105;
-		excp_617417.tk = 3;
+		excp_619417.tk = 3;
 		F.line = 106;
-		excp_617417.thrown = true;
+		excp_619417.thrown = true;
 		F.line = 107;
-		excp_617417.msg = new_py_string_176075(msg_617415);
-		var excp_617420 = excp_617417;
+		excp_619417.msg = new_py_string_176075(msg_619415);
+		var excp_619420 = excp_619417;
 		F.line = 36;
-		result_617325 = excp_617420;
+		result_619325 = excp_619420;
 		break BeforeRet;
 		}
 		
-		var fun_617602 = fun_617402;
+		var fun_619602 = fun_619402;
 		F.line = 57;
-		var res_617604 = fun_617602(o1_617323, o2_617324);
-		var lt_617801 = res_617604;
+		var res_619604 = fun_619602(o1_619323, o2_619324);
+		var lt_619801 = res_619604;
 		F.line = 50;
 		F.line = 56;
-		if ((o1_617323.pyType === null)) {
+		if ((o1_619323.pyType === null)) {
 		F.line = 2895;
-		var e_617828 = null;
+		var e_619828 = null;
 		F.line = 2896;
-		e_617828 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
+		e_619828 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
 		F.line = 26;
-		e_617828.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
+		e_619828.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
 		F.line = 2891;
-		e_617828.parent = null;
+		e_619828.parent = null;
 		F.line = 26;
-		raiseException(e_617828, "InternalError");
+		raiseException(e_619828, "InternalError");
 		}
 		
 		F.line = 27;
-		var fun_618002 = o1_617323.pyType.magicMethods.Field18;
-		if ((fun_618002 === null)) {
+		var fun_620002 = o1_619323.pyType.magicMethods.Field18;
+		if ((fun_620002 === null)) {
 		F.line = 29;
-		var obj_type_str_618011 = o1_617323.pyType.name;
+		var obj_type_str_620011 = o1_619323.pyType.name;
 		F.line = 30;
-		var method_str_618013 = makeNimstrLit("eq");
+		var method_str_620013 = makeNimstrLit("eq");
 		F.line = 31;
-		var msg_618015 = (makeNimstrLit("No ")).concat(method_str_618013,makeNimstrLit(" method for "),obj_type_str_618011,makeNimstrLit(" defined"));
+		var msg_620015 = (makeNimstrLit("No ")).concat(method_str_620013,makeNimstrLit(" method for "),obj_type_str_620011,makeNimstrLit(" defined"));
 		F.line = 32;
 		F.line = 104;
-		var excp_618017 = new_py_type_error_simple_360601();
+		var excp_620017 = new_py_type_error_simple_360601();
 		F.line = 105;
-		excp_618017.tk = 3;
+		excp_620017.tk = 3;
 		F.line = 106;
-		excp_618017.thrown = true;
+		excp_620017.thrown = true;
 		F.line = 107;
-		excp_618017.msg = new_py_string_176075(msg_618015);
-		var excp_618020 = excp_618017;
+		excp_620017.msg = new_py_string_176075(msg_620015);
+		var excp_620020 = excp_620017;
 		F.line = 36;
-		result_617325 = excp_618020;
+		result_619325 = excp_620020;
 		break BeforeRet;
 		}
 		
-		var fun_618202 = fun_618002;
+		var fun_620202 = fun_620002;
 		F.line = 57;
-		var res_618204 = fun_618202(o1_617323, o2_617324);
-		var eq_618401 = res_618204;
+		var res_620204 = fun_620202(o1_619323, o2_619324);
+		var eq_620401 = res_620204;
 		F.line = 56;
-		if ((lt_617801.pyType === null)) {
+		if ((lt_619801.pyType === null)) {
 		F.line = 2895;
-		var e_618428 = null;
+		var e_620428 = null;
 		F.line = 2896;
-		e_618428 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
+		e_620428 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
 		F.line = 26;
-		e_618428.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
+		e_620428.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
 		F.line = 2891;
-		e_618428.parent = null;
+		e_620428.parent = null;
 		F.line = 26;
-		raiseException(e_618428, "InternalError");
+		raiseException(e_620428, "InternalError");
 		}
 		
 		F.line = 27;
-		var fun_618602 = lt_617801.pyType.magicMethods.Field15;
-		if ((fun_618602 === null)) {
+		var fun_620602 = lt_619801.pyType.magicMethods.Field15;
+		if ((fun_620602 === null)) {
 		F.line = 29;
-		var obj_type_str_618611 = lt_617801.pyType.name;
+		var obj_type_str_620611 = lt_619801.pyType.name;
 		F.line = 30;
-		var method_str_618613 = makeNimstrLit("Or");
+		var method_str_620613 = makeNimstrLit("Or");
 		F.line = 31;
-		var msg_618615 = (makeNimstrLit("No ")).concat(method_str_618613,makeNimstrLit(" method for "),obj_type_str_618611,makeNimstrLit(" defined"));
+		var msg_620615 = (makeNimstrLit("No ")).concat(method_str_620613,makeNimstrLit(" method for "),obj_type_str_620611,makeNimstrLit(" defined"));
 		F.line = 32;
 		F.line = 104;
-		var excp_618617 = new_py_type_error_simple_360601();
+		var excp_620617 = new_py_type_error_simple_360601();
 		F.line = 105;
-		excp_618617.tk = 3;
+		excp_620617.tk = 3;
 		F.line = 106;
-		excp_618617.thrown = true;
+		excp_620617.thrown = true;
 		F.line = 107;
-		excp_618617.msg = new_py_string_176075(msg_618615);
-		var excp_618620 = excp_618617;
+		excp_620617.msg = new_py_string_176075(msg_620615);
+		var excp_620620 = excp_620617;
 		F.line = 36;
-		result_617325 = excp_618620;
+		result_619325 = excp_620620;
 		break BeforeRet;
 		}
 		
-		var fun_618802 = fun_618602;
+		var fun_620802 = fun_620602;
 		F.line = 57;
-		var res_618804 = fun_618802(lt_617801, eq_618401);
-		result_617325 = res_618804;
+		var res_620804 = fun_620802(lt_619801, eq_620401);
+		result_619325 = res_620804;
 	} while (false);
 	framePtr = F.prev;
 
-	return result_617325;
+	return result_619325;
 
 }
 
-function default_ne_619014(o1_619016, o2_619017) {
-	var result_619018 = null;
+function default_ne_621014(o1_621016, o2_621017) {
+	var result_621018 = null;
 
 	var F={procname:"typeobject.defaultNe",prev:framePtr,filename:"../Objects/typeobject.nim",line:0};
 	framePtr = F;
@@ -25856,98 +25895,98 @@ function default_ne_619014(o1_619016, o2_619017) {
 		F.line = 54;
 		F.line = 54;
 		F.line = 56;
-		if ((o1_619016.pyType === null)) {
+		if ((o1_621016.pyType === null)) {
 		F.line = 2895;
-		var e_619045 = null;
+		var e_621045 = null;
 		F.line = 2896;
-		e_619045 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
+		e_621045 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
 		F.line = 26;
-		e_619045.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
+		e_621045.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
 		F.line = 2891;
-		e_619045.parent = null;
+		e_621045.parent = null;
 		F.line = 26;
-		raiseException(e_619045, "InternalError");
+		raiseException(e_621045, "InternalError");
 		}
 		
 		F.line = 27;
-		var fun_619202 = o1_619016.pyType.magicMethods.Field18;
-		if ((fun_619202 === null)) {
+		var fun_621202 = o1_621016.pyType.magicMethods.Field18;
+		if ((fun_621202 === null)) {
 		F.line = 29;
-		var obj_type_str_619211 = o1_619016.pyType.name;
+		var obj_type_str_621211 = o1_621016.pyType.name;
 		F.line = 30;
-		var method_str_619213 = makeNimstrLit("eq");
+		var method_str_621213 = makeNimstrLit("eq");
 		F.line = 31;
-		var msg_619215 = (makeNimstrLit("No ")).concat(method_str_619213,makeNimstrLit(" method for "),obj_type_str_619211,makeNimstrLit(" defined"));
+		var msg_621215 = (makeNimstrLit("No ")).concat(method_str_621213,makeNimstrLit(" method for "),obj_type_str_621211,makeNimstrLit(" defined"));
 		F.line = 32;
 		F.line = 104;
-		var excp_619217 = new_py_type_error_simple_360601();
+		var excp_621217 = new_py_type_error_simple_360601();
 		F.line = 105;
-		excp_619217.tk = 3;
+		excp_621217.tk = 3;
 		F.line = 106;
-		excp_619217.thrown = true;
+		excp_621217.thrown = true;
 		F.line = 107;
-		excp_619217.msg = new_py_string_176075(msg_619215);
-		var excp_619220 = excp_619217;
+		excp_621217.msg = new_py_string_176075(msg_621215);
+		var excp_621220 = excp_621217;
 		F.line = 36;
-		result_619018 = excp_619220;
+		result_621018 = excp_621220;
 		break BeforeRet;
 		}
 		
-		var fun_619402 = fun_619202;
+		var fun_621402 = fun_621202;
 		F.line = 57;
-		var res_619404 = fun_619402(o1_619016, o2_619017);
-		var eq_619601 = res_619404;
+		var res_621404 = fun_621402(o1_621016, o2_621017);
+		var eq_621601 = res_621404;
 		F.line = 45;
-		if ((eq_619601.pyType === null)) {
+		if ((eq_621601.pyType === null)) {
 		F.line = 2895;
-		var e_619628 = null;
+		var e_621628 = null;
 		F.line = 2896;
-		e_619628 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
+		e_621628 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
 		F.line = 26;
-		e_619628.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
+		e_621628.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
 		F.line = 2891;
-		e_619628.parent = null;
+		e_621628.parent = null;
 		F.line = 26;
-		raiseException(e_619628, "InternalError");
+		raiseException(e_621628, "InternalError");
 		}
 		
 		F.line = 27;
-		var fun_619802 = eq_619601.pyType.magicMethods.Field7;
-		if ((fun_619802 === null)) {
+		var fun_621802 = eq_621601.pyType.magicMethods.Field7;
+		if ((fun_621802 === null)) {
 		F.line = 29;
-		var obj_type_str_619811 = eq_619601.pyType.name;
+		var obj_type_str_621811 = eq_621601.pyType.name;
 		F.line = 30;
-		var method_str_619813 = makeNimstrLit("Not");
+		var method_str_621813 = makeNimstrLit("Not");
 		F.line = 31;
-		var msg_619815 = (makeNimstrLit("No ")).concat(method_str_619813,makeNimstrLit(" method for "),obj_type_str_619811,makeNimstrLit(" defined"));
+		var msg_621815 = (makeNimstrLit("No ")).concat(method_str_621813,makeNimstrLit(" method for "),obj_type_str_621811,makeNimstrLit(" defined"));
 		F.line = 32;
 		F.line = 104;
-		var excp_619817 = new_py_type_error_simple_360601();
+		var excp_621817 = new_py_type_error_simple_360601();
 		F.line = 105;
-		excp_619817.tk = 3;
+		excp_621817.tk = 3;
 		F.line = 106;
-		excp_619817.thrown = true;
+		excp_621817.thrown = true;
 		F.line = 107;
-		excp_619817.msg = new_py_string_176075(msg_619815);
-		var excp_619820 = excp_619817;
+		excp_621817.msg = new_py_string_176075(msg_621815);
+		var excp_621820 = excp_621817;
 		F.line = 36;
-		result_619018 = excp_619820;
+		result_621018 = excp_621820;
 		break BeforeRet;
 		}
 		
-		var fun_620002 = fun_619802;
+		var fun_622002 = fun_621802;
 		F.line = 46;
-		var res_620004 = fun_620002(eq_619601);
-		result_619018 = res_620004;
+		var res_622004 = fun_622002(eq_621601);
+		result_621018 = res_622004;
 	} while (false);
 	framePtr = F.prev;
 
-	return result_619018;
+	return result_621018;
 
 }
 
-function default_ge_620214(o1_620216, o2_620217) {
-	var result_620218 = null;
+function default_ge_622214(o1_622216, o2_622217) {
+	var result_622218 = null;
 
 	var F={procname:"typeobject.defaultGe",prev:framePtr,filename:"../Objects/typeobject.nim",line:0};
 	framePtr = F;
@@ -25955,149 +25994,149 @@ function default_ge_620214(o1_620216, o2_620217) {
 		F.line = 58;
 		F.line = 58;
 		F.line = 56;
-		if ((o1_620216.pyType === null)) {
+		if ((o1_622216.pyType === null)) {
 		F.line = 2895;
-		var e_620245 = null;
+		var e_622245 = null;
 		F.line = 2896;
-		e_620245 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
+		e_622245 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
 		F.line = 26;
-		e_620245.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
+		e_622245.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
 		F.line = 2891;
-		e_620245.parent = null;
+		e_622245.parent = null;
 		F.line = 26;
-		raiseException(e_620245, "InternalError");
+		raiseException(e_622245, "InternalError");
 		}
 		
 		F.line = 27;
-		var fun_620402 = o1_620216.pyType.magicMethods.Field20;
-		if ((fun_620402 === null)) {
+		var fun_622402 = o1_622216.pyType.magicMethods.Field20;
+		if ((fun_622402 === null)) {
 		F.line = 29;
-		var obj_type_str_620411 = o1_620216.pyType.name;
+		var obj_type_str_622411 = o1_622216.pyType.name;
 		F.line = 30;
-		var method_str_620413 = makeNimstrLit("gt");
+		var method_str_622413 = makeNimstrLit("gt");
 		F.line = 31;
-		var msg_620415 = (makeNimstrLit("No ")).concat(method_str_620413,makeNimstrLit(" method for "),obj_type_str_620411,makeNimstrLit(" defined"));
+		var msg_622415 = (makeNimstrLit("No ")).concat(method_str_622413,makeNimstrLit(" method for "),obj_type_str_622411,makeNimstrLit(" defined"));
 		F.line = 32;
 		F.line = 104;
-		var excp_620417 = new_py_type_error_simple_360601();
+		var excp_622417 = new_py_type_error_simple_360601();
 		F.line = 105;
-		excp_620417.tk = 3;
+		excp_622417.tk = 3;
 		F.line = 106;
-		excp_620417.thrown = true;
+		excp_622417.thrown = true;
 		F.line = 107;
-		excp_620417.msg = new_py_string_176075(msg_620415);
-		var excp_620420 = excp_620417;
+		excp_622417.msg = new_py_string_176075(msg_622415);
+		var excp_622420 = excp_622417;
 		F.line = 36;
-		result_620218 = excp_620420;
+		result_622218 = excp_622420;
 		break BeforeRet;
 		}
 		
-		var fun_620602 = fun_620402;
+		var fun_622602 = fun_622402;
 		F.line = 57;
-		var res_620604 = fun_620602(o1_620216, o2_620217);
-		var gt_620801 = res_620604;
+		var res_622604 = fun_622602(o1_622216, o2_622217);
+		var gt_622801 = res_622604;
 		F.line = 59;
 		F.line = 56;
-		if ((o1_620216.pyType === null)) {
+		if ((o1_622216.pyType === null)) {
 		F.line = 2895;
-		var e_620828 = null;
+		var e_622828 = null;
 		F.line = 2896;
-		e_620828 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
+		e_622828 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
 		F.line = 26;
-		e_620828.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
+		e_622828.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
 		F.line = 2891;
-		e_620828.parent = null;
+		e_622828.parent = null;
 		F.line = 26;
-		raiseException(e_620828, "InternalError");
+		raiseException(e_622828, "InternalError");
 		}
 		
 		F.line = 27;
-		var fun_621002 = o1_620216.pyType.magicMethods.Field18;
-		if ((fun_621002 === null)) {
+		var fun_623002 = o1_622216.pyType.magicMethods.Field18;
+		if ((fun_623002 === null)) {
 		F.line = 29;
-		var obj_type_str_621011 = o1_620216.pyType.name;
+		var obj_type_str_623011 = o1_622216.pyType.name;
 		F.line = 30;
-		var method_str_621013 = makeNimstrLit("eq");
+		var method_str_623013 = makeNimstrLit("eq");
 		F.line = 31;
-		var msg_621015 = (makeNimstrLit("No ")).concat(method_str_621013,makeNimstrLit(" method for "),obj_type_str_621011,makeNimstrLit(" defined"));
+		var msg_623015 = (makeNimstrLit("No ")).concat(method_str_623013,makeNimstrLit(" method for "),obj_type_str_623011,makeNimstrLit(" defined"));
 		F.line = 32;
 		F.line = 104;
-		var excp_621017 = new_py_type_error_simple_360601();
+		var excp_623017 = new_py_type_error_simple_360601();
 		F.line = 105;
-		excp_621017.tk = 3;
+		excp_623017.tk = 3;
 		F.line = 106;
-		excp_621017.thrown = true;
+		excp_623017.thrown = true;
 		F.line = 107;
-		excp_621017.msg = new_py_string_176075(msg_621015);
-		var excp_621020 = excp_621017;
+		excp_623017.msg = new_py_string_176075(msg_623015);
+		var excp_623020 = excp_623017;
 		F.line = 36;
-		result_620218 = excp_621020;
+		result_622218 = excp_623020;
 		break BeforeRet;
 		}
 		
-		var fun_621202 = fun_621002;
+		var fun_623202 = fun_623002;
 		F.line = 57;
-		var res_621204 = fun_621202(o1_620216, o2_620217);
-		var eq_621401 = res_621204;
+		var res_623204 = fun_623202(o1_622216, o2_622217);
+		var eq_623401 = res_623204;
 		F.line = 56;
-		if ((gt_620801.pyType === null)) {
+		if ((gt_622801.pyType === null)) {
 		F.line = 2895;
-		var e_621428 = null;
+		var e_623428 = null;
 		F.line = 2896;
-		e_621428 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
+		e_623428 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
 		F.line = 26;
-		e_621428.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
+		e_623428.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
 		F.line = 2891;
-		e_621428.parent = null;
+		e_623428.parent = null;
 		F.line = 26;
-		raiseException(e_621428, "InternalError");
+		raiseException(e_623428, "InternalError");
 		}
 		
 		F.line = 27;
-		var fun_621602 = gt_620801.pyType.magicMethods.Field15;
-		if ((fun_621602 === null)) {
+		var fun_623602 = gt_622801.pyType.magicMethods.Field15;
+		if ((fun_623602 === null)) {
 		F.line = 29;
-		var obj_type_str_621611 = gt_620801.pyType.name;
+		var obj_type_str_623611 = gt_622801.pyType.name;
 		F.line = 30;
-		var method_str_621613 = makeNimstrLit("Or");
+		var method_str_623613 = makeNimstrLit("Or");
 		F.line = 31;
-		var msg_621615 = (makeNimstrLit("No ")).concat(method_str_621613,makeNimstrLit(" method for "),obj_type_str_621611,makeNimstrLit(" defined"));
+		var msg_623615 = (makeNimstrLit("No ")).concat(method_str_623613,makeNimstrLit(" method for "),obj_type_str_623611,makeNimstrLit(" defined"));
 		F.line = 32;
 		F.line = 104;
-		var excp_621617 = new_py_type_error_simple_360601();
+		var excp_623617 = new_py_type_error_simple_360601();
 		F.line = 105;
-		excp_621617.tk = 3;
+		excp_623617.tk = 3;
 		F.line = 106;
-		excp_621617.thrown = true;
+		excp_623617.thrown = true;
 		F.line = 107;
-		excp_621617.msg = new_py_string_176075(msg_621615);
-		var excp_621620 = excp_621617;
+		excp_623617.msg = new_py_string_176075(msg_623615);
+		var excp_623620 = excp_623617;
 		F.line = 36;
-		result_620218 = excp_621620;
+		result_622218 = excp_623620;
 		break BeforeRet;
 		}
 		
-		var fun_621802 = fun_621602;
+		var fun_623802 = fun_623602;
 		F.line = 57;
-		var res_621804 = fun_621802(gt_620801, eq_621401);
-		result_620218 = res_621804;
+		var res_623804 = fun_623802(gt_622801, eq_623401);
+		result_622218 = res_623804;
 	} while (false);
 	framePtr = F.prev;
 
-	return result_620218;
+	return result_622218;
 
 }
 
-function get_type_dict_617304(obj_617306) {
-	var result_617307 = null;
+function get_type_dict_619304(obj_619306) {
+	var result_619307 = null;
 
 	var F={procname:"typeobject.getTypeDict",prev:framePtr,filename:"../Objects/typeobject.nim",line:0};
 	framePtr = F;
 		F.line = 45;
-		result_617307 = obj_617306.pyType.dict;
+		result_619307 = obj_619306.pyType.dict;
 	framePtr = F.prev;
 
-	return result_617307;
+	return result_619307;
 
 }
 
@@ -26140,270 +26179,270 @@ function get_dict_159307(obj_159309) {
 
 }
 
-function get_attr_622414(self_622416, name_obj_622417) {
-	var result_622418 = null;
+function get_attr_624414(self_624416, name_obj_624417) {
+	var result_624418 = null;
 
 	var F={procname:"typeobject.getAttr",prev:framePtr,filename:"../Objects/typeobject.nim",line:0};
 	framePtr = F;
 	BeforeRet: do {
-		if (!(of_py_str_object_175092(name_obj_622417))) {
+		if (!(of_py_str_object_175092(name_obj_624417))) {
 		F.line = 68;
-		var type_str_622419 = nimCopy(null, name_obj_622417.pyType.name, NTI138);
+		var type_str_624419 = nimCopy(null, name_obj_624417.pyType.name, NTI138);
 		F.line = 69;
 		F.line = 69;
-		var fmt_res_622422 = mnewString(0);
+		var fmt_res_624422 = mnewString(0);
 		F.line = 69;
-		if (fmt_res_622422 != null) { fmt_res_622422 = (fmt_res_622422).concat(makeNimstrLit("attribute name must be string, not ")); } else { fmt_res_622422 = makeNimstrLit("attribute name must be string, not "); };
+		if (fmt_res_624422 != null) { fmt_res_624422 = (fmt_res_624422).concat(makeNimstrLit("attribute name must be string, not ")); } else { fmt_res_624422 = makeNimstrLit("attribute name must be string, not "); };
 		F.line = 260;
-		if (fmt_res_622422 != null) { fmt_res_622422 = (fmt_res_622422).concat(type_str_622419); } else { fmt_res_622422 = type_str_622419.slice(); };
-		var msg_622601 = nimCopy(null, fmt_res_622422, NTI138);
+		if (fmt_res_624422 != null) { fmt_res_624422 = (fmt_res_624422).concat(type_str_624419); } else { fmt_res_624422 = type_str_624419.slice(); };
+		var msg_624601 = nimCopy(null, fmt_res_624422, NTI138);
 		F.line = 70;
 		F.line = 104;
-		var excp_622603 = new_py_type_error_simple_360601();
+		var excp_624603 = new_py_type_error_simple_360601();
 		F.line = 105;
-		excp_622603.tk = 3;
+		excp_624603.tk = 3;
 		F.line = 106;
-		excp_622603.thrown = true;
+		excp_624603.thrown = true;
 		F.line = 107;
-		excp_622603.msg = new_py_string_176075(msg_622601);
-		result_622418 = excp_622603;
+		excp_624603.msg = new_py_string_176075(msg_624601);
+		result_624418 = excp_624603;
 		break BeforeRet;
 		}
 		
 		F.line = 71;
-		var name_622605 = name_obj_622417;
+		var name_624605 = name_obj_624417;
 		F.line = 72;
-		var type_dict_622606 = get_type_dict_617304(self_622416);
-		if ((type_dict_622606 === null)) {
+		var type_dict_624606 = get_type_dict_619304(self_624416);
+		if ((type_dict_624606 === null)) {
 		F.line = 2895;
-		var e_622619 = null;
+		var e_624619 = null;
 		F.line = 2896;
-		e_622619 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
+		e_624619 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
 		F.line = 74;
-		e_622619.message = nimCopy(null, makeNimstrLit("for type object dict must not be nil"), NTI138);
+		e_624619.message = nimCopy(null, makeNimstrLit("for type object dict must not be nil"), NTI138);
 		F.line = 2891;
-		e_622619.parent = null;
+		e_624619.parent = null;
 		F.line = 74;
-		raiseException(e_622619, "InternalError");
+		raiseException(e_624619, "InternalError");
 		}
 		
 		F.line = 75;
-		var descr_622801 = null;
-		if (has_key_522437(type_dict_622606, name_622605)) {
+		var descr_624801 = null;
+		if (has_key_522437(type_dict_624606, name_624605)) {
 		F.line = 77;
-		descr_622801 = HEX5BHEX5D_523323(type_dict_622606, name_622605);
+		descr_624801 = HEX5BHEX5D_523323(type_dict_624606, name_624605);
 		F.line = 78;
-		var descr_get_622802 = descr_622801.pyType.magicMethods.Field34;
-		if (!((descr_get_622802 === null))) {
+		var descr_get_624802 = descr_624801.pyType.magicMethods.Field34;
+		if (!((descr_get_624802 === null))) {
 		F.line = 80;
-		result_622418 = descr_get_622802(descr_622801, self_622416);
+		result_624418 = descr_get_624802(descr_624801, self_624416);
 		break BeforeRet;
 		}
 		
 		}
 		
-		if (has_dict_159278(self_622416)) {
+		if (has_dict_159278(self_624416)) {
 		F.line = 83;
-		var inst_dict_622809 = get_dict_159307(self_622416);
-		if (has_key_522437(inst_dict_622809, name_622605)) {
+		var inst_dict_624809 = get_dict_159307(self_624416);
+		if (has_key_522437(inst_dict_624809, name_624605)) {
 		F.line = 85;
-		result_622418 = HEX5BHEX5D_523323(inst_dict_622809, name_622605);
+		result_624418 = HEX5BHEX5D_523323(inst_dict_624809, name_624605);
 		break BeforeRet;
 		}
 		
 		}
 		
-		if (!((descr_622801 === null))) {
+		if (!((descr_624801 === null))) {
 		F.line = 88;
-		result_622418 = descr_622801;
+		result_624418 = descr_624801;
 		break BeforeRet;
 		}
 		
 		F.line = 90;
 		F.line = 123;
-		var msg_622821 = (self_622416.pyType.name).concat(makeNimstrLit(" has no attribute "),HEX24_157579(name_622605));
+		var msg_624821 = (self_624416.pyType.name).concat(makeNimstrLit(" has no attribute "),HEX24_157579(name_624605));
 		F.line = 104;
-		var excp_622823 = new_py_attribute_error_simple_361601();
+		var excp_624823 = new_py_attribute_error_simple_361601();
 		F.line = 105;
-		excp_622823.tk = 4;
+		excp_624823.tk = 4;
 		F.line = 106;
-		excp_622823.thrown = true;
+		excp_624823.thrown = true;
 		F.line = 107;
-		excp_622823.msg = new_py_string_176075(msg_622821);
-		result_622418 = excp_622823;
+		excp_624823.msg = new_py_string_176075(msg_624821);
+		result_624418 = excp_624823;
 		break BeforeRet;
 	} while (false);
 	framePtr = F.prev;
 
-	return result_622418;
+	return result_624418;
 
 }
 
-function set_attr_622838(self_622840, name_obj_622841, value_622842) {
-	var result_622843 = null;
+function set_attr_624838(self_624840, name_obj_624841, value_624842) {
+	var result_624843 = null;
 
 	var F={procname:"typeobject.setAttr",prev:framePtr,filename:"../Objects/typeobject.nim",line:0};
 	framePtr = F;
 	BeforeRet: do {
-		if (!(of_py_str_object_175092(name_obj_622841))) {
+		if (!(of_py_str_object_175092(name_obj_624841))) {
 		F.line = 95;
-		var type_str_622844 = nimCopy(null, name_obj_622841.pyType.name, NTI138);
+		var type_str_624844 = nimCopy(null, name_obj_624841.pyType.name, NTI138);
 		F.line = 96;
 		F.line = 96;
-		var fmt_res_622847 = mnewString(0);
+		var fmt_res_624847 = mnewString(0);
 		F.line = 96;
-		if (fmt_res_622847 != null) { fmt_res_622847 = (fmt_res_622847).concat(makeNimstrLit("attribute name must be string, not ")); } else { fmt_res_622847 = makeNimstrLit("attribute name must be string, not "); };
+		if (fmt_res_624847 != null) { fmt_res_624847 = (fmt_res_624847).concat(makeNimstrLit("attribute name must be string, not ")); } else { fmt_res_624847 = makeNimstrLit("attribute name must be string, not "); };
 		F.line = 260;
-		if (fmt_res_622847 != null) { fmt_res_622847 = (fmt_res_622847).concat(type_str_622844); } else { fmt_res_622847 = type_str_622844.slice(); };
-		var msg_623001 = nimCopy(null, fmt_res_622847, NTI138);
+		if (fmt_res_624847 != null) { fmt_res_624847 = (fmt_res_624847).concat(type_str_624844); } else { fmt_res_624847 = type_str_624844.slice(); };
+		var msg_625001 = nimCopy(null, fmt_res_624847, NTI138);
 		F.line = 97;
 		F.line = 104;
-		var excp_623003 = new_py_type_error_simple_360601();
+		var excp_625003 = new_py_type_error_simple_360601();
 		F.line = 105;
-		excp_623003.tk = 3;
+		excp_625003.tk = 3;
 		F.line = 106;
-		excp_623003.thrown = true;
+		excp_625003.thrown = true;
 		F.line = 107;
-		excp_623003.msg = new_py_string_176075(msg_623001);
-		result_622843 = excp_623003;
+		excp_625003.msg = new_py_string_176075(msg_625001);
+		result_624843 = excp_625003;
 		break BeforeRet;
 		}
 		
 		F.line = 98;
-		var name_623005 = name_obj_622841;
+		var name_625005 = name_obj_624841;
 		F.line = 99;
-		var type_dict_623006 = get_type_dict_617304(self_622840);
-		if ((type_dict_623006 === null)) {
+		var type_dict_625006 = get_type_dict_619304(self_624840);
+		if ((type_dict_625006 === null)) {
 		F.line = 2895;
-		var e_623019 = null;
+		var e_625019 = null;
 		F.line = 2896;
-		e_623019 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
+		e_625019 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
 		F.line = 101;
-		e_623019.message = nimCopy(null, makeNimstrLit("for type object dict must not be nil"), NTI138);
+		e_625019.message = nimCopy(null, makeNimstrLit("for type object dict must not be nil"), NTI138);
 		F.line = 2891;
-		e_623019.parent = null;
+		e_625019.parent = null;
 		F.line = 101;
-		raiseException(e_623019, "InternalError");
+		raiseException(e_625019, "InternalError");
 		}
 		
 		F.line = 102;
-		var descr_623201 = null;
-		if (has_key_522437(type_dict_623006, name_623005)) {
+		var descr_625201 = null;
+		if (has_key_522437(type_dict_625006, name_625005)) {
 		F.line = 104;
-		descr_623201 = HEX5BHEX5D_523323(type_dict_623006, name_623005);
+		descr_625201 = HEX5BHEX5D_523323(type_dict_625006, name_625005);
 		F.line = 105;
-		var descr_set_623202 = descr_623201.pyType.magicMethods.Field35;
-		if (!((descr_set_623202 === null))) {
+		var descr_set_625202 = descr_625201.pyType.magicMethods.Field35;
+		if (!((descr_set_625202 === null))) {
 		F.line = 107;
-		result_622843 = descr_set_623202(descr_623201, self_622840, value_622842);
+		result_624843 = descr_set_625202(descr_625201, self_624840, value_624842);
 		break BeforeRet;
 		}
 		
 		}
 		
-		if (has_dict_159278(self_622840)) {
+		if (has_dict_159278(self_624840)) {
 		F.line = 110;
-		var inst_dict_623209 = get_dict_159307(self_622840);
+		var inst_dict_625209 = get_dict_159307(self_624840);
 		F.line = 111;
-		HEX5BHEX5DHEX3D_523842(inst_dict_623209, name_623005, value_622842);
+		HEX5BHEX5DHEX3D_523842(inst_dict_625209, name_625005, value_624842);
 		F.line = 112;
-		result_622843 = py_none_356044;
+		result_624843 = py_none_356044;
 		break BeforeRet;
 		}
 		
 		F.line = 114;
 		F.line = 123;
-		var msg_623214 = (self_622840.pyType.name).concat(makeNimstrLit(" has no attribute "),HEX24_157579(name_623005));
+		var msg_625214 = (self_624840.pyType.name).concat(makeNimstrLit(" has no attribute "),HEX24_157579(name_625005));
 		F.line = 104;
-		var excp_623216 = new_py_attribute_error_simple_361601();
+		var excp_625216 = new_py_attribute_error_simple_361601();
 		F.line = 105;
-		excp_623216.tk = 4;
+		excp_625216.tk = 4;
 		F.line = 106;
-		excp_623216.thrown = true;
+		excp_625216.thrown = true;
 		F.line = 107;
-		excp_623216.msg = new_py_string_176075(msg_623214);
-		result_622843 = excp_623216;
+		excp_625216.msg = new_py_string_176075(msg_625214);
+		result_624843 = excp_625216;
 		break BeforeRet;
 	} while (false);
 	framePtr = F.prev;
 
-	return result_622843;
+	return result_624843;
 
 }
 
-function repr_default_622014(self_622016) {
-	var result_622017 = null;
+function repr_default_624014(self_624016) {
+	var result_624017 = null;
 
 	var F={procname:"typeobject.reprDefault",prev:framePtr,filename:"../Objects/typeobject.nim",line:0};
 	framePtr = F;
 		F.line = 63;
 		F.line = 63;
-		var fmt_res_622020 = mnewString(0);
+		var fmt_res_624020 = mnewString(0);
 		F.line = 63;
-		if (fmt_res_622020 != null) { fmt_res_622020 = (fmt_res_622020).concat(makeNimstrLit("<")); } else { fmt_res_622020 = makeNimstrLit("<"); };
+		if (fmt_res_624020 != null) { fmt_res_624020 = (fmt_res_624020).concat(makeNimstrLit("<")); } else { fmt_res_624020 = makeNimstrLit("<"); };
 		F.line = 260;
-		if (fmt_res_622020 != null) { fmt_res_622020 = (fmt_res_622020).concat(self_622016.pyType.name); } else { fmt_res_622020 = self_622016.pyType.name.slice(); };
+		if (fmt_res_624020 != null) { fmt_res_624020 = (fmt_res_624020).concat(self_624016.pyType.name); } else { fmt_res_624020 = self_624016.pyType.name.slice(); };
 		F.line = 63;
-		if (fmt_res_622020 != null) { fmt_res_622020 = (fmt_res_622020).concat(makeNimstrLit(" at ")); } else { fmt_res_622020 = makeNimstrLit(" at "); };
+		if (fmt_res_624020 != null) { fmt_res_624020 = (fmt_res_624020).concat(makeNimstrLit(" at ")); } else { fmt_res_624020 = makeNimstrLit(" at "); };
 		F.line = 260;
-		if (fmt_res_622020 != null) { fmt_res_622020 = (fmt_res_622020).concat(id_str_158001(self_622016)); } else { fmt_res_622020 = id_str_158001(self_622016).slice(); };
+		if (fmt_res_624020 != null) { fmt_res_624020 = (fmt_res_624020).concat(id_str_158001(self_624016)); } else { fmt_res_624020 = id_str_158001(self_624016).slice(); };
 		F.line = 63;
-		if (fmt_res_622020 != null) { fmt_res_622020 = (fmt_res_622020).concat(makeNimstrLit(">")); } else { fmt_res_622020 = makeNimstrLit(">"); };
-		result_622017 = new_py_string_176075(fmt_res_622020);
+		if (fmt_res_624020 != null) { fmt_res_624020 = (fmt_res_624020).concat(makeNimstrLit(">")); } else { fmt_res_624020 = makeNimstrLit(">"); };
+		result_624017 = new_py_string_176075(fmt_res_624020);
 	framePtr = F.prev;
 
-	return result_622017;
+	return result_624017;
 
 }
 
-function add_generic_623231(t_623233) {
+function add_generic_625231(t_625233) {
 			var Tmp1;
 			var Tmp2;
 
 	var F={procname:"typeobject.addGeneric",prev:framePtr,filename:"../Objects/typeobject.nim",line:0};
 	framePtr = F;
-			if (!!((t_623233.magicMethods.Field16 === null))) Tmp1 = false; else {				Tmp1 = !((t_623233.magicMethods.Field18 === null));			}		if (Tmp1) {
-		if ((t_623233.magicMethods.Field17 === null)) {
+			if (!!((t_625233.magicMethods.Field16 === null))) Tmp1 = false; else {				Tmp1 = !((t_625233.magicMethods.Field18 === null));			}		if (Tmp1) {
+		if ((t_625233.magicMethods.Field17 === null)) {
 		F.line = 126;
-		t_623233.magicMethods.Field17 = default_le_617321;
+		t_625233.magicMethods.Field17 = default_le_619321;
 		}
 		
 		}
 		
-		if (!((t_623233.magicMethods.Field18 === null))) {
-		if ((t_623233.magicMethods.Field19 === null)) {
+		if (!((t_625233.magicMethods.Field18 === null))) {
+		if ((t_625233.magicMethods.Field19 === null)) {
 		F.line = 128;
-		t_623233.magicMethods.Field19 = default_ne_619014;
+		t_625233.magicMethods.Field19 = default_ne_621014;
 		}
 		
 		}
 		
-			if (!!((t_623233.magicMethods.Field21 === null))) Tmp2 = false; else {				Tmp2 = !((t_623233.magicMethods.Field18 === null));			}		if (Tmp2) {
-		if ((t_623233.magicMethods.Field21 === null)) {
+			if (!!((t_625233.magicMethods.Field21 === null))) Tmp2 = false; else {				Tmp2 = !((t_625233.magicMethods.Field18 === null));			}		if (Tmp2) {
+		if ((t_625233.magicMethods.Field21 === null)) {
 		F.line = 130;
-		t_623233.magicMethods.Field21 = default_ge_620214;
+		t_625233.magicMethods.Field21 = default_ge_622214;
 		}
 		
 		}
 		
-		if ((t_623233.magicMethods.Field28 === null)) {
+		if ((t_625233.magicMethods.Field28 === null)) {
 		F.line = 131;
-		t_623233.magicMethods.Field28 = get_attr_622414;
+		t_625233.magicMethods.Field28 = get_attr_624414;
 		}
 		
-		if ((t_623233.magicMethods.Field29 === null)) {
+		if ((t_625233.magicMethods.Field29 === null)) {
 		F.line = 132;
-		t_623233.magicMethods.Field29 = set_attr_622838;
+		t_625233.magicMethods.Field29 = set_attr_624838;
 		}
 		
-		if ((t_623233.magicMethods.Field25 === null)) {
+		if ((t_625233.magicMethods.Field25 === null)) {
 		F.line = 133;
-		t_623233.magicMethods.Field25 = repr_default_622014;
+		t_625233.magicMethods.Field25 = repr_default_624014;
 		}
 		
-		if ((t_623233.magicMethods.Field24 === null)) {
+		if ((t_625233.magicMethods.Field24 === null)) {
 		F.line = 134;
-		t_623233.magicMethods.Field24 = t_623233.magicMethods.Field25;
+		t_625233.magicMethods.Field24 = t_625233.magicMethods.Field25;
 		}
 		
 	framePtr = F.prev;
@@ -26426,875 +26465,875 @@ function new_py_static_method_544429(callable_544431) {
 
 }
 
-function new_py_method_descr_601221(t_601216, meth_601218, name_601220) {
-	var result_601223 = null;
+function new_py_method_descr_603221(t_603216, meth_603218, name_603220) {
+	var result_603223 = null;
 
 	var F={procname:"descrobject.newPyMethodDescr",prev:framePtr,filename:"../Objects/descrobject.nim",line:0};
 	framePtr = F;
 		F.line = 26;
-		result_601223 = new_py_method_descr_simple_600201();
+		result_603223 = new_py_method_descr_simple_602201();
 		F.line = 27;
-		result_601223.dType = t_601216;
+		result_603223.dType = t_603216;
 		F.line = 28;
-		result_601223.kind = 2;
-		if (!(!((result_601223.kind == 0)))) {
+		result_603223.kind = 2;
+		if (!(!((result_603223.kind == 0)))) {
 		F.line = 29;
 		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Objects/descrobject.nim(29, 12) `\x0Anot (result.kind == BltinFunc)` "));
 		}
 		
 		F.line = 30;
-		result_601223.meth = meth_601218;
+		result_603223.meth = meth_603218;
 		F.line = 31;
-		result_601223.name = name_601220;
+		result_603223.name = name_603220;
 	framePtr = F.prev;
 
-	return result_601223;
+	return result_603223;
 
 }
 
-function new_py_method_descr_601078(t_601073, meth_601075, name_601077) {
-	var result_601080 = null;
+function new_py_method_descr_603078(t_603073, meth_603075, name_603077) {
+	var result_603080 = null;
 
 	var F={procname:"descrobject.newPyMethodDescr",prev:framePtr,filename:"../Objects/descrobject.nim",line:0};
 	framePtr = F;
 		F.line = 26;
-		result_601080 = new_py_method_descr_simple_600201();
+		result_603080 = new_py_method_descr_simple_602201();
 		F.line = 27;
-		result_601080.dType = t_601073;
+		result_603080.dType = t_603073;
 		F.line = 28;
-		result_601080.kind = 1;
-		if (!(!((result_601080.kind == 0)))) {
+		result_603080.kind = 1;
+		if (!(!((result_603080.kind == 0)))) {
 		F.line = 29;
 		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Objects/descrobject.nim(29, 12) `\x0Anot (result.kind == BltinFunc)` "));
 		}
 		
 		F.line = 30;
-		result_601080.meth = meth_601075;
+		result_603080.meth = meth_603075;
 		F.line = 31;
-		result_601080.name = name_601077;
+		result_603080.name = name_603077;
 	framePtr = F.prev;
 
-	return result_601080;
+	return result_603080;
 
 }
 
-function new_py_method_descr_601828(t_601830, meth_601831, name_601832) {
-	var result_601833 = null;
+function new_py_method_descr_603828(t_603830, meth_603831, name_603832) {
+	var result_603833 = null;
 
 	var F={procname:"descrobject.newPyMethodDescr",prev:framePtr,filename:"../Objects/descrobject.nim",line:0};
 	framePtr = F;
 		F.line = 2895;
-		var e_601839 = null;
+		var e_603839 = null;
 		F.line = 2896;
-		e_601839 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
+		e_603839 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
 		F.line = 43;
-		e_601839.message = nimCopy(null, makeNimstrLit("bltin function shouldn\'t be method. This is a placeholder to fool the compiler"), NTI138);
+		e_603839.message = nimCopy(null, makeNimstrLit("bltin function shouldn\'t be method. This is a placeholder to fool the compiler"), NTI138);
 		F.line = 2891;
-		e_601839.parent = null;
+		e_603839.parent = null;
 		F.line = 43;
-		raiseException(e_601839, "InternalError");
+		raiseException(e_603839, "InternalError");
 	framePtr = F.prev;
 
-	return result_601833;
+	return result_603833;
 
 }
 
-function new_py_method_descr_601621(t_601616, meth_601618, name_601620) {
-	var result_601623 = null;
+function new_py_method_descr_603621(t_603616, meth_603618, name_603620) {
+	var result_603623 = null;
 
 	var F={procname:"descrobject.newPyMethodDescr",prev:framePtr,filename:"../Objects/descrobject.nim",line:0};
 	framePtr = F;
 		F.line = 26;
-		result_601623 = new_py_method_descr_simple_600201();
+		result_603623 = new_py_method_descr_simple_602201();
 		F.line = 27;
-		result_601623.dType = t_601616;
+		result_603623.dType = t_603616;
 		F.line = 28;
-		result_601623.kind = 4;
-		if (!(!((result_601623.kind == 0)))) {
+		result_603623.kind = 4;
+		if (!(!((result_603623.kind == 0)))) {
 		F.line = 29;
 		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Objects/descrobject.nim(29, 12) `\x0Anot (result.kind == BltinFunc)` "));
 		}
 		
 		F.line = 30;
-		result_601623.meth = meth_601618;
+		result_603623.meth = meth_603618;
 		F.line = 31;
-		result_601623.name = name_601620;
+		result_603623.name = name_603620;
 	framePtr = F.prev;
 
-	return result_601623;
+	return result_603623;
 
 }
 
-function new_py_method_descr_601421(t_601416, meth_601418, name_601420) {
-	var result_601423 = null;
+function new_py_method_descr_603421(t_603416, meth_603418, name_603420) {
+	var result_603423 = null;
 
 	var F={procname:"descrobject.newPyMethodDescr",prev:framePtr,filename:"../Objects/descrobject.nim",line:0};
 	framePtr = F;
 		F.line = 26;
-		result_601423 = new_py_method_descr_simple_600201();
+		result_603423 = new_py_method_descr_simple_602201();
 		F.line = 27;
-		result_601423.dType = t_601416;
+		result_603423.dType = t_603416;
 		F.line = 28;
-		result_601423.kind = 3;
-		if (!(!((result_601423.kind == 0)))) {
+		result_603423.kind = 3;
+		if (!(!((result_603423.kind == 0)))) {
 		F.line = 29;
 		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Objects/descrobject.nim(29, 12) `\x0Anot (result.kind == BltinFunc)` "));
 		}
 		
 		F.line = 30;
-		result_601423.meth = meth_601418;
+		result_603423.meth = meth_603418;
 		F.line = 31;
-		result_601423.name = name_601420;
+		result_603423.name = name_603420;
 	framePtr = F.prev;
 
-	return result_601423;
+	return result_603423;
 
 }
 
-function new_py_get_set_descr_604229(getter_604231, setter_604232) {
-	var result_604233 = null;
+function new_py_get_set_descr_606229(getter_606231, setter_606232) {
+	var result_606233 = null;
 
 	var F={procname:"descrobject.newPyGetSetDescr",prev:framePtr,filename:"../Objects/descrobject.nim",line:0};
 	framePtr = F;
 		F.line = 79;
 		F.line = 79;
-		var descr_604234 = new_py_get_set_descr_simple_603001();
+		var descr_606234 = new_py_get_set_descr_simple_605001();
 		F.line = 80;
-		descr_604234.getter = getter_604231;
+		descr_606234.getter = getter_606231;
 		F.line = 81;
-		descr_604234.setter = setter_604232;
-		result_604233 = descr_604234;
+		descr_606234.setter = setter_606232;
+		result_606233 = descr_606234;
 	framePtr = F.prev;
 
-	return result_604233;
+	return result_606233;
 
 }
 
-function init_type_dict_623342(tp_623344) {
+function init_type_dict_625342(tp_625344) {
 	var F={procname:"typeobject.initTypeDict",prev:framePtr,filename:"../Objects/typeobject.nim",line:0};
 	framePtr = F;
-		if (!((tp_623344.dict === null))) {
+		if (!((tp_625344.dict === null))) {
 		F.line = 139;
 		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Objects/typeobject.nim(139, 10) `isNil(tp.dict)` "));
 		}
 		
 		F.line = 140;
-		var d_623401 = new_py_dict_522257();
+		var d_625401 = new_py_dict_522257();
 		F.line = 143;
-		var i_623404 = -1;
+		var i_625404 = -1;
 		F.line = 145;
-		i_623404 = addInt(i_623404, 1);
-		if (!((tp_623344.magicMethods["Field0"] === null))) {
+		i_625404 = addInt(i_625404, 1);
+		if (!((tp_625344.magicMethods["Field0"] === null))) {
 		F.line = 147;
-		var name_py_str_623426 = magic_name_strs_612041[0][chckIndx(i_623404, 0, magic_name_strs_612041[0].length+0-1)-0];
+		var name_py_str_625426 = magic_name_strs_614041[0][chckIndx(i_625404, 0, magic_name_strs_614041[0].length+0-1)-0];
 		if (false) {
 		F.line = 149;
-		HEX5BHEX5DHEX3D_523842(d_623401, name_py_str_623426, new_py_static_method_544429(new_py_nim_func_549622(tp_623344.magicMethods["Field0"], name_py_str_623426, null)));
+		HEX5BHEX5DHEX3D_523842(d_625401, name_py_str_625426, new_py_static_method_544429(new_py_nim_func_549622(tp_625344.magicMethods["Field0"], name_py_str_625426, null)));
 		}
 		else {
 			F.line = 151;
-		HEX5BHEX5DHEX3D_523842(d_623401, name_py_str_623426, new_py_method_descr_601221(tp_623344, tp_623344.magicMethods["Field0"], name_py_str_623426));
+		HEX5BHEX5DHEX3D_523842(d_625401, name_py_str_625426, new_py_method_descr_603221(tp_625344, tp_625344.magicMethods["Field0"], name_py_str_625426));
 		}
 		
 		}
 		
 		F.line = 145;
-		i_623404 = addInt(i_623404, 1);
-		if (!((tp_623344.magicMethods["Field1"] === null))) {
+		i_625404 = addInt(i_625404, 1);
+		if (!((tp_625344.magicMethods["Field1"] === null))) {
 		F.line = 147;
-		var name_py_str_623444 = magic_name_strs_612041[0][chckIndx(i_623404, 0, magic_name_strs_612041[0].length+0-1)-0];
+		var name_py_str_625444 = magic_name_strs_614041[0][chckIndx(i_625404, 0, magic_name_strs_614041[0].length+0-1)-0];
 		if (false) {
 		F.line = 149;
-		HEX5BHEX5DHEX3D_523842(d_623401, name_py_str_623444, new_py_static_method_544429(new_py_nim_func_549622(tp_623344.magicMethods["Field1"], name_py_str_623444, null)));
+		HEX5BHEX5DHEX3D_523842(d_625401, name_py_str_625444, new_py_static_method_544429(new_py_nim_func_549622(tp_625344.magicMethods["Field1"], name_py_str_625444, null)));
 		}
 		else {
 			F.line = 151;
-		HEX5BHEX5DHEX3D_523842(d_623401, name_py_str_623444, new_py_method_descr_601221(tp_623344, tp_623344.magicMethods["Field1"], name_py_str_623444));
+		HEX5BHEX5DHEX3D_523842(d_625401, name_py_str_625444, new_py_method_descr_603221(tp_625344, tp_625344.magicMethods["Field1"], name_py_str_625444));
 		}
 		
 		}
 		
 		F.line = 145;
-		i_623404 = addInt(i_623404, 1);
-		if (!((tp_623344.magicMethods["Field2"] === null))) {
+		i_625404 = addInt(i_625404, 1);
+		if (!((tp_625344.magicMethods["Field2"] === null))) {
 		F.line = 147;
-		var name_py_str_623462 = magic_name_strs_612041[0][chckIndx(i_623404, 0, magic_name_strs_612041[0].length+0-1)-0];
+		var name_py_str_625462 = magic_name_strs_614041[0][chckIndx(i_625404, 0, magic_name_strs_614041[0].length+0-1)-0];
 		if (false) {
 		F.line = 149;
-		HEX5BHEX5DHEX3D_523842(d_623401, name_py_str_623462, new_py_static_method_544429(new_py_nim_func_549622(tp_623344.magicMethods["Field2"], name_py_str_623462, null)));
+		HEX5BHEX5DHEX3D_523842(d_625401, name_py_str_625462, new_py_static_method_544429(new_py_nim_func_549622(tp_625344.magicMethods["Field2"], name_py_str_625462, null)));
 		}
 		else {
 			F.line = 151;
-		HEX5BHEX5DHEX3D_523842(d_623401, name_py_str_623462, new_py_method_descr_601221(tp_623344, tp_623344.magicMethods["Field2"], name_py_str_623462));
+		HEX5BHEX5DHEX3D_523842(d_625401, name_py_str_625462, new_py_method_descr_603221(tp_625344, tp_625344.magicMethods["Field2"], name_py_str_625462));
 		}
 		
 		}
 		
 		F.line = 145;
-		i_623404 = addInt(i_623404, 1);
-		if (!((tp_623344.magicMethods["Field3"] === null))) {
+		i_625404 = addInt(i_625404, 1);
+		if (!((tp_625344.magicMethods["Field3"] === null))) {
 		F.line = 147;
-		var name_py_str_623480 = magic_name_strs_612041[0][chckIndx(i_623404, 0, magic_name_strs_612041[0].length+0-1)-0];
+		var name_py_str_625480 = magic_name_strs_614041[0][chckIndx(i_625404, 0, magic_name_strs_614041[0].length+0-1)-0];
 		if (false) {
 		F.line = 149;
-		HEX5BHEX5DHEX3D_523842(d_623401, name_py_str_623480, new_py_static_method_544429(new_py_nim_func_549622(tp_623344.magicMethods["Field3"], name_py_str_623480, null)));
+		HEX5BHEX5DHEX3D_523842(d_625401, name_py_str_625480, new_py_static_method_544429(new_py_nim_func_549622(tp_625344.magicMethods["Field3"], name_py_str_625480, null)));
 		}
 		else {
 			F.line = 151;
-		HEX5BHEX5DHEX3D_523842(d_623401, name_py_str_623480, new_py_method_descr_601221(tp_623344, tp_623344.magicMethods["Field3"], name_py_str_623480));
+		HEX5BHEX5DHEX3D_523842(d_625401, name_py_str_625480, new_py_method_descr_603221(tp_625344, tp_625344.magicMethods["Field3"], name_py_str_625480));
 		}
 		
 		}
 		
 		F.line = 145;
-		i_623404 = addInt(i_623404, 1);
-		if (!((tp_623344.magicMethods["Field4"] === null))) {
+		i_625404 = addInt(i_625404, 1);
+		if (!((tp_625344.magicMethods["Field4"] === null))) {
 		F.line = 147;
-		var name_py_str_623498 = magic_name_strs_612041[0][chckIndx(i_623404, 0, magic_name_strs_612041[0].length+0-1)-0];
+		var name_py_str_625498 = magic_name_strs_614041[0][chckIndx(i_625404, 0, magic_name_strs_614041[0].length+0-1)-0];
 		if (false) {
 		F.line = 149;
-		HEX5BHEX5DHEX3D_523842(d_623401, name_py_str_623498, new_py_static_method_544429(new_py_nim_func_549622(tp_623344.magicMethods["Field4"], name_py_str_623498, null)));
+		HEX5BHEX5DHEX3D_523842(d_625401, name_py_str_625498, new_py_static_method_544429(new_py_nim_func_549622(tp_625344.magicMethods["Field4"], name_py_str_625498, null)));
 		}
 		else {
 			F.line = 151;
-		HEX5BHEX5DHEX3D_523842(d_623401, name_py_str_623498, new_py_method_descr_601221(tp_623344, tp_623344.magicMethods["Field4"], name_py_str_623498));
+		HEX5BHEX5DHEX3D_523842(d_625401, name_py_str_625498, new_py_method_descr_603221(tp_625344, tp_625344.magicMethods["Field4"], name_py_str_625498));
 		}
 		
 		}
 		
 		F.line = 145;
-		i_623404 = addInt(i_623404, 1);
-		if (!((tp_623344.magicMethods["Field5"] === null))) {
+		i_625404 = addInt(i_625404, 1);
+		if (!((tp_625344.magicMethods["Field5"] === null))) {
 		F.line = 147;
-		var name_py_str_623516 = magic_name_strs_612041[0][chckIndx(i_623404, 0, magic_name_strs_612041[0].length+0-1)-0];
+		var name_py_str_625516 = magic_name_strs_614041[0][chckIndx(i_625404, 0, magic_name_strs_614041[0].length+0-1)-0];
 		if (false) {
 		F.line = 149;
-		HEX5BHEX5DHEX3D_523842(d_623401, name_py_str_623516, new_py_static_method_544429(new_py_nim_func_549622(tp_623344.magicMethods["Field5"], name_py_str_623516, null)));
+		HEX5BHEX5DHEX3D_523842(d_625401, name_py_str_625516, new_py_static_method_544429(new_py_nim_func_549622(tp_625344.magicMethods["Field5"], name_py_str_625516, null)));
 		}
 		else {
 			F.line = 151;
-		HEX5BHEX5DHEX3D_523842(d_623401, name_py_str_623516, new_py_method_descr_601221(tp_623344, tp_623344.magicMethods["Field5"], name_py_str_623516));
+		HEX5BHEX5DHEX3D_523842(d_625401, name_py_str_625516, new_py_method_descr_603221(tp_625344, tp_625344.magicMethods["Field5"], name_py_str_625516));
 		}
 		
 		}
 		
 		F.line = 145;
-		i_623404 = addInt(i_623404, 1);
-		if (!((tp_623344.magicMethods["Field6"] === null))) {
+		i_625404 = addInt(i_625404, 1);
+		if (!((tp_625344.magicMethods["Field6"] === null))) {
 		F.line = 147;
-		var name_py_str_623534 = magic_name_strs_612041[0][chckIndx(i_623404, 0, magic_name_strs_612041[0].length+0-1)-0];
+		var name_py_str_625534 = magic_name_strs_614041[0][chckIndx(i_625404, 0, magic_name_strs_614041[0].length+0-1)-0];
 		if (false) {
 		F.line = 149;
-		HEX5BHEX5DHEX3D_523842(d_623401, name_py_str_623534, new_py_static_method_544429(new_py_nim_func_549622(tp_623344.magicMethods["Field6"], name_py_str_623534, null)));
+		HEX5BHEX5DHEX3D_523842(d_625401, name_py_str_625534, new_py_static_method_544429(new_py_nim_func_549622(tp_625344.magicMethods["Field6"], name_py_str_625534, null)));
 		}
 		else {
 			F.line = 151;
-		HEX5BHEX5DHEX3D_523842(d_623401, name_py_str_623534, new_py_method_descr_601221(tp_623344, tp_623344.magicMethods["Field6"], name_py_str_623534));
+		HEX5BHEX5DHEX3D_523842(d_625401, name_py_str_625534, new_py_method_descr_603221(tp_625344, tp_625344.magicMethods["Field6"], name_py_str_625534));
 		}
 		
 		}
 		
 		F.line = 145;
-		i_623404 = addInt(i_623404, 1);
-		if (!((tp_623344.magicMethods["Field7"] === null))) {
+		i_625404 = addInt(i_625404, 1);
+		if (!((tp_625344.magicMethods["Field7"] === null))) {
 		F.line = 147;
-		var name_py_str_623552 = magic_name_strs_612041[0][chckIndx(i_623404, 0, magic_name_strs_612041[0].length+0-1)-0];
+		var name_py_str_625552 = magic_name_strs_614041[0][chckIndx(i_625404, 0, magic_name_strs_614041[0].length+0-1)-0];
 		if (false) {
 		F.line = 149;
-		HEX5BHEX5DHEX3D_523842(d_623401, name_py_str_623552, new_py_static_method_544429(new_py_nim_func_549485(tp_623344.magicMethods["Field7"], name_py_str_623552, null)));
+		HEX5BHEX5DHEX3D_523842(d_625401, name_py_str_625552, new_py_static_method_544429(new_py_nim_func_549485(tp_625344.magicMethods["Field7"], name_py_str_625552, null)));
 		}
 		else {
 			F.line = 151;
-		HEX5BHEX5DHEX3D_523842(d_623401, name_py_str_623552, new_py_method_descr_601078(tp_623344, tp_623344.magicMethods["Field7"], name_py_str_623552));
+		HEX5BHEX5DHEX3D_523842(d_625401, name_py_str_625552, new_py_method_descr_603078(tp_625344, tp_625344.magicMethods["Field7"], name_py_str_625552));
 		}
 		
 		}
 		
 		F.line = 145;
-		i_623404 = addInt(i_623404, 1);
-		if (!((tp_623344.magicMethods["Field8"] === null))) {
+		i_625404 = addInt(i_625404, 1);
+		if (!((tp_625344.magicMethods["Field8"] === null))) {
 		F.line = 147;
-		var name_py_str_623570 = magic_name_strs_612041[0][chckIndx(i_623404, 0, magic_name_strs_612041[0].length+0-1)-0];
+		var name_py_str_625570 = magic_name_strs_614041[0][chckIndx(i_625404, 0, magic_name_strs_614041[0].length+0-1)-0];
 		if (false) {
 		F.line = 149;
-		HEX5BHEX5DHEX3D_523842(d_623401, name_py_str_623570, new_py_static_method_544429(new_py_nim_func_549485(tp_623344.magicMethods["Field8"], name_py_str_623570, null)));
+		HEX5BHEX5DHEX3D_523842(d_625401, name_py_str_625570, new_py_static_method_544429(new_py_nim_func_549485(tp_625344.magicMethods["Field8"], name_py_str_625570, null)));
 		}
 		else {
 			F.line = 151;
-		HEX5BHEX5DHEX3D_523842(d_623401, name_py_str_623570, new_py_method_descr_601078(tp_623344, tp_623344.magicMethods["Field8"], name_py_str_623570));
+		HEX5BHEX5DHEX3D_523842(d_625401, name_py_str_625570, new_py_method_descr_603078(tp_625344, tp_625344.magicMethods["Field8"], name_py_str_625570));
 		}
 		
 		}
 		
 		F.line = 145;
-		i_623404 = addInt(i_623404, 1);
-		if (!((tp_623344.magicMethods["Field9"] === null))) {
+		i_625404 = addInt(i_625404, 1);
+		if (!((tp_625344.magicMethods["Field9"] === null))) {
 		F.line = 147;
-		var name_py_str_623588 = magic_name_strs_612041[0][chckIndx(i_623404, 0, magic_name_strs_612041[0].length+0-1)-0];
+		var name_py_str_625588 = magic_name_strs_614041[0][chckIndx(i_625404, 0, magic_name_strs_614041[0].length+0-1)-0];
 		if (false) {
 		F.line = 149;
-		HEX5BHEX5DHEX3D_523842(d_623401, name_py_str_623588, new_py_static_method_544429(new_py_nim_func_549485(tp_623344.magicMethods["Field9"], name_py_str_623588, null)));
+		HEX5BHEX5DHEX3D_523842(d_625401, name_py_str_625588, new_py_static_method_544429(new_py_nim_func_549485(tp_625344.magicMethods["Field9"], name_py_str_625588, null)));
 		}
 		else {
 			F.line = 151;
-		HEX5BHEX5DHEX3D_523842(d_623401, name_py_str_623588, new_py_method_descr_601078(tp_623344, tp_623344.magicMethods["Field9"], name_py_str_623588));
+		HEX5BHEX5DHEX3D_523842(d_625401, name_py_str_625588, new_py_method_descr_603078(tp_625344, tp_625344.magicMethods["Field9"], name_py_str_625588));
 		}
 		
 		}
 		
 		F.line = 145;
-		i_623404 = addInt(i_623404, 1);
-		if (!((tp_623344.magicMethods["Field10"] === null))) {
+		i_625404 = addInt(i_625404, 1);
+		if (!((tp_625344.magicMethods["Field10"] === null))) {
 		F.line = 147;
-		var name_py_str_623606 = magic_name_strs_612041[0][chckIndx(i_623404, 0, magic_name_strs_612041[0].length+0-1)-0];
+		var name_py_str_625606 = magic_name_strs_614041[0][chckIndx(i_625404, 0, magic_name_strs_614041[0].length+0-1)-0];
 		if (false) {
 		F.line = 149;
-		HEX5BHEX5DHEX3D_523842(d_623401, name_py_str_623606, new_py_static_method_544429(new_py_nim_func_549485(tp_623344.magicMethods["Field10"], name_py_str_623606, null)));
+		HEX5BHEX5DHEX3D_523842(d_625401, name_py_str_625606, new_py_static_method_544429(new_py_nim_func_549485(tp_625344.magicMethods["Field10"], name_py_str_625606, null)));
 		}
 		else {
 			F.line = 151;
-		HEX5BHEX5DHEX3D_523842(d_623401, name_py_str_623606, new_py_method_descr_601078(tp_623344, tp_623344.magicMethods["Field10"], name_py_str_623606));
+		HEX5BHEX5DHEX3D_523842(d_625401, name_py_str_625606, new_py_method_descr_603078(tp_625344, tp_625344.magicMethods["Field10"], name_py_str_625606));
 		}
 		
 		}
 		
 		F.line = 145;
-		i_623404 = addInt(i_623404, 1);
-		if (!((tp_623344.magicMethods["Field11"] === null))) {
+		i_625404 = addInt(i_625404, 1);
+		if (!((tp_625344.magicMethods["Field11"] === null))) {
 		F.line = 147;
-		var name_py_str_623624 = magic_name_strs_612041[0][chckIndx(i_623404, 0, magic_name_strs_612041[0].length+0-1)-0];
+		var name_py_str_625624 = magic_name_strs_614041[0][chckIndx(i_625404, 0, magic_name_strs_614041[0].length+0-1)-0];
 		if (false) {
 		F.line = 149;
-		HEX5BHEX5DHEX3D_523842(d_623401, name_py_str_623624, new_py_static_method_544429(new_py_nim_func_549485(tp_623344.magicMethods["Field11"], name_py_str_623624, null)));
+		HEX5BHEX5DHEX3D_523842(d_625401, name_py_str_625624, new_py_static_method_544429(new_py_nim_func_549485(tp_625344.magicMethods["Field11"], name_py_str_625624, null)));
 		}
 		else {
 			F.line = 151;
-		HEX5BHEX5DHEX3D_523842(d_623401, name_py_str_623624, new_py_method_descr_601078(tp_623344, tp_623344.magicMethods["Field11"], name_py_str_623624));
+		HEX5BHEX5DHEX3D_523842(d_625401, name_py_str_625624, new_py_method_descr_603078(tp_625344, tp_625344.magicMethods["Field11"], name_py_str_625624));
 		}
 		
 		}
 		
 		F.line = 145;
-		i_623404 = addInt(i_623404, 1);
-		if (!((tp_623344.magicMethods["Field12"] === null))) {
+		i_625404 = addInt(i_625404, 1);
+		if (!((tp_625344.magicMethods["Field12"] === null))) {
 		F.line = 147;
-		var name_py_str_623642 = magic_name_strs_612041[0][chckIndx(i_623404, 0, magic_name_strs_612041[0].length+0-1)-0];
+		var name_py_str_625642 = magic_name_strs_614041[0][chckIndx(i_625404, 0, magic_name_strs_614041[0].length+0-1)-0];
 		if (false) {
 		F.line = 149;
-		HEX5BHEX5DHEX3D_523842(d_623401, name_py_str_623642, new_py_static_method_544429(new_py_nim_func_549485(tp_623344.magicMethods["Field12"], name_py_str_623642, null)));
+		HEX5BHEX5DHEX3D_523842(d_625401, name_py_str_625642, new_py_static_method_544429(new_py_nim_func_549485(tp_625344.magicMethods["Field12"], name_py_str_625642, null)));
 		}
 		else {
 			F.line = 151;
-		HEX5BHEX5DHEX3D_523842(d_623401, name_py_str_623642, new_py_method_descr_601078(tp_623344, tp_623344.magicMethods["Field12"], name_py_str_623642));
+		HEX5BHEX5DHEX3D_523842(d_625401, name_py_str_625642, new_py_method_descr_603078(tp_625344, tp_625344.magicMethods["Field12"], name_py_str_625642));
 		}
 		
 		}
 		
 		F.line = 145;
-		i_623404 = addInt(i_623404, 1);
-		if (!((tp_623344.magicMethods["Field13"] === null))) {
+		i_625404 = addInt(i_625404, 1);
+		if (!((tp_625344.magicMethods["Field13"] === null))) {
 		F.line = 147;
-		var name_py_str_623660 = magic_name_strs_612041[0][chckIndx(i_623404, 0, magic_name_strs_612041[0].length+0-1)-0];
+		var name_py_str_625660 = magic_name_strs_614041[0][chckIndx(i_625404, 0, magic_name_strs_614041[0].length+0-1)-0];
 		if (false) {
 		F.line = 149;
-		HEX5BHEX5DHEX3D_523842(d_623401, name_py_str_623660, new_py_static_method_544429(new_py_nim_func_549622(tp_623344.magicMethods["Field13"], name_py_str_623660, null)));
+		HEX5BHEX5DHEX3D_523842(d_625401, name_py_str_625660, new_py_static_method_544429(new_py_nim_func_549622(tp_625344.magicMethods["Field13"], name_py_str_625660, null)));
 		}
 		else {
 			F.line = 151;
-		HEX5BHEX5DHEX3D_523842(d_623401, name_py_str_623660, new_py_method_descr_601221(tp_623344, tp_623344.magicMethods["Field13"], name_py_str_623660));
+		HEX5BHEX5DHEX3D_523842(d_625401, name_py_str_625660, new_py_method_descr_603221(tp_625344, tp_625344.magicMethods["Field13"], name_py_str_625660));
 		}
 		
 		}
 		
 		F.line = 145;
-		i_623404 = addInt(i_623404, 1);
-		if (!((tp_623344.magicMethods["Field14"] === null))) {
+		i_625404 = addInt(i_625404, 1);
+		if (!((tp_625344.magicMethods["Field14"] === null))) {
 		F.line = 147;
-		var name_py_str_623678 = magic_name_strs_612041[0][chckIndx(i_623404, 0, magic_name_strs_612041[0].length+0-1)-0];
+		var name_py_str_625678 = magic_name_strs_614041[0][chckIndx(i_625404, 0, magic_name_strs_614041[0].length+0-1)-0];
 		if (false) {
 		F.line = 149;
-		HEX5BHEX5DHEX3D_523842(d_623401, name_py_str_623678, new_py_static_method_544429(new_py_nim_func_549622(tp_623344.magicMethods["Field14"], name_py_str_623678, null)));
+		HEX5BHEX5DHEX3D_523842(d_625401, name_py_str_625678, new_py_static_method_544429(new_py_nim_func_549622(tp_625344.magicMethods["Field14"], name_py_str_625678, null)));
 		}
 		else {
 			F.line = 151;
-		HEX5BHEX5DHEX3D_523842(d_623401, name_py_str_623678, new_py_method_descr_601221(tp_623344, tp_623344.magicMethods["Field14"], name_py_str_623678));
+		HEX5BHEX5DHEX3D_523842(d_625401, name_py_str_625678, new_py_method_descr_603221(tp_625344, tp_625344.magicMethods["Field14"], name_py_str_625678));
 		}
 		
 		}
 		
 		F.line = 145;
-		i_623404 = addInt(i_623404, 1);
-		if (!((tp_623344.magicMethods["Field15"] === null))) {
+		i_625404 = addInt(i_625404, 1);
+		if (!((tp_625344.magicMethods["Field15"] === null))) {
 		F.line = 147;
-		var name_py_str_623696 = magic_name_strs_612041[0][chckIndx(i_623404, 0, magic_name_strs_612041[0].length+0-1)-0];
+		var name_py_str_625696 = magic_name_strs_614041[0][chckIndx(i_625404, 0, magic_name_strs_614041[0].length+0-1)-0];
 		if (false) {
 		F.line = 149;
-		HEX5BHEX5DHEX3D_523842(d_623401, name_py_str_623696, new_py_static_method_544429(new_py_nim_func_549622(tp_623344.magicMethods["Field15"], name_py_str_623696, null)));
+		HEX5BHEX5DHEX3D_523842(d_625401, name_py_str_625696, new_py_static_method_544429(new_py_nim_func_549622(tp_625344.magicMethods["Field15"], name_py_str_625696, null)));
 		}
 		else {
 			F.line = 151;
-		HEX5BHEX5DHEX3D_523842(d_623401, name_py_str_623696, new_py_method_descr_601221(tp_623344, tp_623344.magicMethods["Field15"], name_py_str_623696));
+		HEX5BHEX5DHEX3D_523842(d_625401, name_py_str_625696, new_py_method_descr_603221(tp_625344, tp_625344.magicMethods["Field15"], name_py_str_625696));
 		}
 		
 		}
 		
 		F.line = 145;
-		i_623404 = addInt(i_623404, 1);
-		if (!((tp_623344.magicMethods["Field16"] === null))) {
+		i_625404 = addInt(i_625404, 1);
+		if (!((tp_625344.magicMethods["Field16"] === null))) {
 		F.line = 147;
-		var name_py_str_623714 = magic_name_strs_612041[0][chckIndx(i_623404, 0, magic_name_strs_612041[0].length+0-1)-0];
+		var name_py_str_625714 = magic_name_strs_614041[0][chckIndx(i_625404, 0, magic_name_strs_614041[0].length+0-1)-0];
 		if (false) {
 		F.line = 149;
-		HEX5BHEX5DHEX3D_523842(d_623401, name_py_str_623714, new_py_static_method_544429(new_py_nim_func_549622(tp_623344.magicMethods["Field16"], name_py_str_623714, null)));
+		HEX5BHEX5DHEX3D_523842(d_625401, name_py_str_625714, new_py_static_method_544429(new_py_nim_func_549622(tp_625344.magicMethods["Field16"], name_py_str_625714, null)));
 		}
 		else {
 			F.line = 151;
-		HEX5BHEX5DHEX3D_523842(d_623401, name_py_str_623714, new_py_method_descr_601221(tp_623344, tp_623344.magicMethods["Field16"], name_py_str_623714));
+		HEX5BHEX5DHEX3D_523842(d_625401, name_py_str_625714, new_py_method_descr_603221(tp_625344, tp_625344.magicMethods["Field16"], name_py_str_625714));
 		}
 		
 		}
 		
 		F.line = 145;
-		i_623404 = addInt(i_623404, 1);
-		if (!((tp_623344.magicMethods["Field17"] === null))) {
+		i_625404 = addInt(i_625404, 1);
+		if (!((tp_625344.magicMethods["Field17"] === null))) {
 		F.line = 147;
-		var name_py_str_623732 = magic_name_strs_612041[0][chckIndx(i_623404, 0, magic_name_strs_612041[0].length+0-1)-0];
+		var name_py_str_625732 = magic_name_strs_614041[0][chckIndx(i_625404, 0, magic_name_strs_614041[0].length+0-1)-0];
 		if (false) {
 		F.line = 149;
-		HEX5BHEX5DHEX3D_523842(d_623401, name_py_str_623732, new_py_static_method_544429(new_py_nim_func_549622(tp_623344.magicMethods["Field17"], name_py_str_623732, null)));
+		HEX5BHEX5DHEX3D_523842(d_625401, name_py_str_625732, new_py_static_method_544429(new_py_nim_func_549622(tp_625344.magicMethods["Field17"], name_py_str_625732, null)));
 		}
 		else {
 			F.line = 151;
-		HEX5BHEX5DHEX3D_523842(d_623401, name_py_str_623732, new_py_method_descr_601221(tp_623344, tp_623344.magicMethods["Field17"], name_py_str_623732));
+		HEX5BHEX5DHEX3D_523842(d_625401, name_py_str_625732, new_py_method_descr_603221(tp_625344, tp_625344.magicMethods["Field17"], name_py_str_625732));
 		}
 		
 		}
 		
 		F.line = 145;
-		i_623404 = addInt(i_623404, 1);
-		if (!((tp_623344.magicMethods["Field18"] === null))) {
+		i_625404 = addInt(i_625404, 1);
+		if (!((tp_625344.magicMethods["Field18"] === null))) {
 		F.line = 147;
-		var name_py_str_623750 = magic_name_strs_612041[0][chckIndx(i_623404, 0, magic_name_strs_612041[0].length+0-1)-0];
+		var name_py_str_625750 = magic_name_strs_614041[0][chckIndx(i_625404, 0, magic_name_strs_614041[0].length+0-1)-0];
 		if (false) {
 		F.line = 149;
-		HEX5BHEX5DHEX3D_523842(d_623401, name_py_str_623750, new_py_static_method_544429(new_py_nim_func_549622(tp_623344.magicMethods["Field18"], name_py_str_623750, null)));
+		HEX5BHEX5DHEX3D_523842(d_625401, name_py_str_625750, new_py_static_method_544429(new_py_nim_func_549622(tp_625344.magicMethods["Field18"], name_py_str_625750, null)));
 		}
 		else {
 			F.line = 151;
-		HEX5BHEX5DHEX3D_523842(d_623401, name_py_str_623750, new_py_method_descr_601221(tp_623344, tp_623344.magicMethods["Field18"], name_py_str_623750));
+		HEX5BHEX5DHEX3D_523842(d_625401, name_py_str_625750, new_py_method_descr_603221(tp_625344, tp_625344.magicMethods["Field18"], name_py_str_625750));
 		}
 		
 		}
 		
 		F.line = 145;
-		i_623404 = addInt(i_623404, 1);
-		if (!((tp_623344.magicMethods["Field19"] === null))) {
+		i_625404 = addInt(i_625404, 1);
+		if (!((tp_625344.magicMethods["Field19"] === null))) {
 		F.line = 147;
-		var name_py_str_623768 = magic_name_strs_612041[0][chckIndx(i_623404, 0, magic_name_strs_612041[0].length+0-1)-0];
+		var name_py_str_625768 = magic_name_strs_614041[0][chckIndx(i_625404, 0, magic_name_strs_614041[0].length+0-1)-0];
 		if (false) {
 		F.line = 149;
-		HEX5BHEX5DHEX3D_523842(d_623401, name_py_str_623768, new_py_static_method_544429(new_py_nim_func_549622(tp_623344.magicMethods["Field19"], name_py_str_623768, null)));
+		HEX5BHEX5DHEX3D_523842(d_625401, name_py_str_625768, new_py_static_method_544429(new_py_nim_func_549622(tp_625344.magicMethods["Field19"], name_py_str_625768, null)));
 		}
 		else {
 			F.line = 151;
-		HEX5BHEX5DHEX3D_523842(d_623401, name_py_str_623768, new_py_method_descr_601221(tp_623344, tp_623344.magicMethods["Field19"], name_py_str_623768));
+		HEX5BHEX5DHEX3D_523842(d_625401, name_py_str_625768, new_py_method_descr_603221(tp_625344, tp_625344.magicMethods["Field19"], name_py_str_625768));
 		}
 		
 		}
 		
 		F.line = 145;
-		i_623404 = addInt(i_623404, 1);
-		if (!((tp_623344.magicMethods["Field20"] === null))) {
+		i_625404 = addInt(i_625404, 1);
+		if (!((tp_625344.magicMethods["Field20"] === null))) {
 		F.line = 147;
-		var name_py_str_623786 = magic_name_strs_612041[0][chckIndx(i_623404, 0, magic_name_strs_612041[0].length+0-1)-0];
+		var name_py_str_625786 = magic_name_strs_614041[0][chckIndx(i_625404, 0, magic_name_strs_614041[0].length+0-1)-0];
 		if (false) {
 		F.line = 149;
-		HEX5BHEX5DHEX3D_523842(d_623401, name_py_str_623786, new_py_static_method_544429(new_py_nim_func_549622(tp_623344.magicMethods["Field20"], name_py_str_623786, null)));
+		HEX5BHEX5DHEX3D_523842(d_625401, name_py_str_625786, new_py_static_method_544429(new_py_nim_func_549622(tp_625344.magicMethods["Field20"], name_py_str_625786, null)));
 		}
 		else {
 			F.line = 151;
-		HEX5BHEX5DHEX3D_523842(d_623401, name_py_str_623786, new_py_method_descr_601221(tp_623344, tp_623344.magicMethods["Field20"], name_py_str_623786));
+		HEX5BHEX5DHEX3D_523842(d_625401, name_py_str_625786, new_py_method_descr_603221(tp_625344, tp_625344.magicMethods["Field20"], name_py_str_625786));
 		}
 		
 		}
 		
 		F.line = 145;
-		i_623404 = addInt(i_623404, 1);
-		if (!((tp_623344.magicMethods["Field21"] === null))) {
+		i_625404 = addInt(i_625404, 1);
+		if (!((tp_625344.magicMethods["Field21"] === null))) {
 		F.line = 147;
-		var name_py_str_623804 = magic_name_strs_612041[0][chckIndx(i_623404, 0, magic_name_strs_612041[0].length+0-1)-0];
+		var name_py_str_625804 = magic_name_strs_614041[0][chckIndx(i_625404, 0, magic_name_strs_614041[0].length+0-1)-0];
 		if (false) {
 		F.line = 149;
-		HEX5BHEX5DHEX3D_523842(d_623401, name_py_str_623804, new_py_static_method_544429(new_py_nim_func_549622(tp_623344.magicMethods["Field21"], name_py_str_623804, null)));
+		HEX5BHEX5DHEX3D_523842(d_625401, name_py_str_625804, new_py_static_method_544429(new_py_nim_func_549622(tp_625344.magicMethods["Field21"], name_py_str_625804, null)));
 		}
 		else {
 			F.line = 151;
-		HEX5BHEX5DHEX3D_523842(d_623401, name_py_str_623804, new_py_method_descr_601221(tp_623344, tp_623344.magicMethods["Field21"], name_py_str_623804));
+		HEX5BHEX5DHEX3D_523842(d_625401, name_py_str_625804, new_py_method_descr_603221(tp_625344, tp_625344.magicMethods["Field21"], name_py_str_625804));
 		}
 		
 		}
 		
 		F.line = 145;
-		i_623404 = addInt(i_623404, 1);
-		if (!((tp_623344.magicMethods["Field22"] === null))) {
+		i_625404 = addInt(i_625404, 1);
+		if (!((tp_625344.magicMethods["Field22"] === null))) {
 		F.line = 147;
-		var name_py_str_623822 = magic_name_strs_612041[0][chckIndx(i_623404, 0, magic_name_strs_612041[0].length+0-1)-0];
+		var name_py_str_625822 = magic_name_strs_614041[0][chckIndx(i_625404, 0, magic_name_strs_614041[0].length+0-1)-0];
 		if (false) {
 		F.line = 149;
-		HEX5BHEX5DHEX3D_523842(d_623401, name_py_str_623822, new_py_static_method_544429(new_py_nim_func_549622(tp_623344.magicMethods["Field22"], name_py_str_623822, null)));
+		HEX5BHEX5DHEX3D_523842(d_625401, name_py_str_625822, new_py_static_method_544429(new_py_nim_func_549622(tp_625344.magicMethods["Field22"], name_py_str_625822, null)));
 		}
 		else {
 			F.line = 151;
-		HEX5BHEX5DHEX3D_523842(d_623401, name_py_str_623822, new_py_method_descr_601221(tp_623344, tp_623344.magicMethods["Field22"], name_py_str_623822));
+		HEX5BHEX5DHEX3D_523842(d_625401, name_py_str_625822, new_py_method_descr_603221(tp_625344, tp_625344.magicMethods["Field22"], name_py_str_625822));
 		}
 		
 		}
 		
 		F.line = 145;
-		i_623404 = addInt(i_623404, 1);
-		if (!((tp_623344.magicMethods["Field23"] === null))) {
+		i_625404 = addInt(i_625404, 1);
+		if (!((tp_625344.magicMethods["Field23"] === null))) {
 		F.line = 147;
-		var name_py_str_623840 = magic_name_strs_612041[0][chckIndx(i_623404, 0, magic_name_strs_612041[0].length+0-1)-0];
+		var name_py_str_625840 = magic_name_strs_614041[0][chckIndx(i_625404, 0, magic_name_strs_614041[0].length+0-1)-0];
 		if (false) {
 		F.line = 149;
-		HEX5BHEX5DHEX3D_523842(d_623401, name_py_str_623840, new_py_static_method_544429(new_py_nim_func_549485(tp_623344.magicMethods["Field23"], name_py_str_623840, null)));
+		HEX5BHEX5DHEX3D_523842(d_625401, name_py_str_625840, new_py_static_method_544429(new_py_nim_func_549485(tp_625344.magicMethods["Field23"], name_py_str_625840, null)));
 		}
 		else {
 			F.line = 151;
-		HEX5BHEX5DHEX3D_523842(d_623401, name_py_str_623840, new_py_method_descr_601078(tp_623344, tp_623344.magicMethods["Field23"], name_py_str_623840));
+		HEX5BHEX5DHEX3D_523842(d_625401, name_py_str_625840, new_py_method_descr_603078(tp_625344, tp_625344.magicMethods["Field23"], name_py_str_625840));
 		}
 		
 		}
 		
 		F.line = 145;
-		i_623404 = addInt(i_623404, 1);
-		if (!((tp_623344.magicMethods["Field24"] === null))) {
+		i_625404 = addInt(i_625404, 1);
+		if (!((tp_625344.magicMethods["Field24"] === null))) {
 		F.line = 147;
-		var name_py_str_623858 = magic_name_strs_612041[0][chckIndx(i_623404, 0, magic_name_strs_612041[0].length+0-1)-0];
+		var name_py_str_625858 = magic_name_strs_614041[0][chckIndx(i_625404, 0, magic_name_strs_614041[0].length+0-1)-0];
 		if (false) {
 		F.line = 149;
-		HEX5BHEX5DHEX3D_523842(d_623401, name_py_str_623858, new_py_static_method_544429(new_py_nim_func_549485(tp_623344.magicMethods["Field24"], name_py_str_623858, null)));
+		HEX5BHEX5DHEX3D_523842(d_625401, name_py_str_625858, new_py_static_method_544429(new_py_nim_func_549485(tp_625344.magicMethods["Field24"], name_py_str_625858, null)));
 		}
 		else {
 			F.line = 151;
-		HEX5BHEX5DHEX3D_523842(d_623401, name_py_str_623858, new_py_method_descr_601078(tp_623344, tp_623344.magicMethods["Field24"], name_py_str_623858));
+		HEX5BHEX5DHEX3D_523842(d_625401, name_py_str_625858, new_py_method_descr_603078(tp_625344, tp_625344.magicMethods["Field24"], name_py_str_625858));
 		}
 		
 		}
 		
 		F.line = 145;
-		i_623404 = addInt(i_623404, 1);
-		if (!((tp_623344.magicMethods["Field25"] === null))) {
+		i_625404 = addInt(i_625404, 1);
+		if (!((tp_625344.magicMethods["Field25"] === null))) {
 		F.line = 147;
-		var name_py_str_623876 = magic_name_strs_612041[0][chckIndx(i_623404, 0, magic_name_strs_612041[0].length+0-1)-0];
+		var name_py_str_625876 = magic_name_strs_614041[0][chckIndx(i_625404, 0, magic_name_strs_614041[0].length+0-1)-0];
 		if (false) {
 		F.line = 149;
-		HEX5BHEX5DHEX3D_523842(d_623401, name_py_str_623876, new_py_static_method_544429(new_py_nim_func_549485(tp_623344.magicMethods["Field25"], name_py_str_623876, null)));
+		HEX5BHEX5DHEX3D_523842(d_625401, name_py_str_625876, new_py_static_method_544429(new_py_nim_func_549485(tp_625344.magicMethods["Field25"], name_py_str_625876, null)));
 		}
 		else {
 			F.line = 151;
-		HEX5BHEX5DHEX3D_523842(d_623401, name_py_str_623876, new_py_method_descr_601078(tp_623344, tp_623344.magicMethods["Field25"], name_py_str_623876));
+		HEX5BHEX5DHEX3D_523842(d_625401, name_py_str_625876, new_py_method_descr_603078(tp_625344, tp_625344.magicMethods["Field25"], name_py_str_625876));
 		}
 		
 		}
 		
 		F.line = 145;
-		i_623404 = addInt(i_623404, 1);
-		if (!((tp_623344.magicMethods["Field26"] === null))) {
+		i_625404 = addInt(i_625404, 1);
+		if (!((tp_625344.magicMethods["Field26"] === null))) {
 		F.line = 147;
-		var name_py_str_623894 = magic_name_strs_612041[0][chckIndx(i_623404, 0, magic_name_strs_612041[0].length+0-1)-0];
+		var name_py_str_625894 = magic_name_strs_614041[0][chckIndx(i_625404, 0, magic_name_strs_614041[0].length+0-1)-0];
 		if (true) {
 		F.line = 149;
-		HEX5BHEX5DHEX3D_523842(d_623401, name_py_str_623894, new_py_static_method_544429(new_py_nim_func_549444(tp_623344.magicMethods["Field26"], name_py_str_623894)));
+		HEX5BHEX5DHEX3D_523842(d_625401, name_py_str_625894, new_py_static_method_544429(new_py_nim_func_549444(tp_625344.magicMethods["Field26"], name_py_str_625894)));
 		}
 		else {
 			F.line = 151;
-		HEX5BHEX5DHEX3D_523842(d_623401, name_py_str_623894, new_py_method_descr_601828(tp_623344, tp_623344.magicMethods["Field26"], name_py_str_623894));
+		HEX5BHEX5DHEX3D_523842(d_625401, name_py_str_625894, new_py_method_descr_603828(tp_625344, tp_625344.magicMethods["Field26"], name_py_str_625894));
 		}
 		
 		}
 		
 		F.line = 145;
-		i_623404 = addInt(i_623404, 1);
-		if (!((tp_623344.magicMethods["Field27"] === null))) {
+		i_625404 = addInt(i_625404, 1);
+		if (!((tp_625344.magicMethods["Field27"] === null))) {
 		F.line = 147;
-		var name_py_str_623912 = magic_name_strs_612041[0][chckIndx(i_623404, 0, magic_name_strs_612041[0].length+0-1)-0];
+		var name_py_str_625912 = magic_name_strs_614041[0][chckIndx(i_625404, 0, magic_name_strs_614041[0].length+0-1)-0];
 		if (false) {
 		F.line = 149;
-		HEX5BHEX5DHEX3D_523842(d_623401, name_py_str_623912, new_py_static_method_544429(new_py_nim_func_550022(tp_623344.magicMethods["Field27"], name_py_str_623912, null)));
+		HEX5BHEX5DHEX3D_523842(d_625401, name_py_str_625912, new_py_static_method_544429(new_py_nim_func_550022(tp_625344.magicMethods["Field27"], name_py_str_625912, null)));
 		}
 		else {
 			F.line = 151;
-		HEX5BHEX5DHEX3D_523842(d_623401, name_py_str_623912, new_py_method_descr_601621(tp_623344, tp_623344.magicMethods["Field27"], name_py_str_623912));
+		HEX5BHEX5DHEX3D_523842(d_625401, name_py_str_625912, new_py_method_descr_603621(tp_625344, tp_625344.magicMethods["Field27"], name_py_str_625912));
 		}
 		
 		}
 		
 		F.line = 145;
-		i_623404 = addInt(i_623404, 1);
-		if (!((tp_623344.magicMethods["Field28"] === null))) {
+		i_625404 = addInt(i_625404, 1);
+		if (!((tp_625344.magicMethods["Field28"] === null))) {
 		F.line = 147;
-		var name_py_str_623930 = magic_name_strs_612041[0][chckIndx(i_623404, 0, magic_name_strs_612041[0].length+0-1)-0];
+		var name_py_str_625930 = magic_name_strs_614041[0][chckIndx(i_625404, 0, magic_name_strs_614041[0].length+0-1)-0];
 		if (false) {
 		F.line = 149;
-		HEX5BHEX5DHEX3D_523842(d_623401, name_py_str_623930, new_py_static_method_544429(new_py_nim_func_549622(tp_623344.magicMethods["Field28"], name_py_str_623930, null)));
+		HEX5BHEX5DHEX3D_523842(d_625401, name_py_str_625930, new_py_static_method_544429(new_py_nim_func_549622(tp_625344.magicMethods["Field28"], name_py_str_625930, null)));
 		}
 		else {
 			F.line = 151;
-		HEX5BHEX5DHEX3D_523842(d_623401, name_py_str_623930, new_py_method_descr_601221(tp_623344, tp_623344.magicMethods["Field28"], name_py_str_623930));
+		HEX5BHEX5DHEX3D_523842(d_625401, name_py_str_625930, new_py_method_descr_603221(tp_625344, tp_625344.magicMethods["Field28"], name_py_str_625930));
 		}
 		
 		}
 		
 		F.line = 145;
-		i_623404 = addInt(i_623404, 1);
-		if (!((tp_623344.magicMethods["Field29"] === null))) {
+		i_625404 = addInt(i_625404, 1);
+		if (!((tp_625344.magicMethods["Field29"] === null))) {
 		F.line = 147;
-		var name_py_str_623948 = magic_name_strs_612041[0][chckIndx(i_623404, 0, magic_name_strs_612041[0].length+0-1)-0];
+		var name_py_str_625948 = magic_name_strs_614041[0][chckIndx(i_625404, 0, magic_name_strs_614041[0].length+0-1)-0];
 		if (false) {
 		F.line = 149;
-		HEX5BHEX5DHEX3D_523842(d_623401, name_py_str_623948, new_py_static_method_544429(new_py_nim_func_549822(tp_623344.magicMethods["Field29"], name_py_str_623948, null)));
+		HEX5BHEX5DHEX3D_523842(d_625401, name_py_str_625948, new_py_static_method_544429(new_py_nim_func_549822(tp_625344.magicMethods["Field29"], name_py_str_625948, null)));
 		}
 		else {
 			F.line = 151;
-		HEX5BHEX5DHEX3D_523842(d_623401, name_py_str_623948, new_py_method_descr_601421(tp_623344, tp_623344.magicMethods["Field29"], name_py_str_623948));
+		HEX5BHEX5DHEX3D_523842(d_625401, name_py_str_625948, new_py_method_descr_603421(tp_625344, tp_625344.magicMethods["Field29"], name_py_str_625948));
 		}
 		
 		}
 		
 		F.line = 145;
-		i_623404 = addInt(i_623404, 1);
-		if (!((tp_623344.magicMethods["Field30"] === null))) {
+		i_625404 = addInt(i_625404, 1);
+		if (!((tp_625344.magicMethods["Field30"] === null))) {
 		F.line = 147;
-		var name_py_str_623966 = magic_name_strs_612041[0][chckIndx(i_623404, 0, magic_name_strs_612041[0].length+0-1)-0];
+		var name_py_str_625966 = magic_name_strs_614041[0][chckIndx(i_625404, 0, magic_name_strs_614041[0].length+0-1)-0];
 		if (false) {
 		F.line = 149;
-		HEX5BHEX5DHEX3D_523842(d_623401, name_py_str_623966, new_py_static_method_544429(new_py_nim_func_549485(tp_623344.magicMethods["Field30"], name_py_str_623966, null)));
+		HEX5BHEX5DHEX3D_523842(d_625401, name_py_str_625966, new_py_static_method_544429(new_py_nim_func_549485(tp_625344.magicMethods["Field30"], name_py_str_625966, null)));
 		}
 		else {
 			F.line = 151;
-		HEX5BHEX5DHEX3D_523842(d_623401, name_py_str_623966, new_py_method_descr_601078(tp_623344, tp_623344.magicMethods["Field30"], name_py_str_623966));
+		HEX5BHEX5DHEX3D_523842(d_625401, name_py_str_625966, new_py_method_descr_603078(tp_625344, tp_625344.magicMethods["Field30"], name_py_str_625966));
 		}
 		
 		}
 		
 		F.line = 145;
-		i_623404 = addInt(i_623404, 1);
-		if (!((tp_623344.magicMethods["Field31"] === null))) {
+		i_625404 = addInt(i_625404, 1);
+		if (!((tp_625344.magicMethods["Field31"] === null))) {
 		F.line = 147;
-		var name_py_str_623984 = magic_name_strs_612041[0][chckIndx(i_623404, 0, magic_name_strs_612041[0].length+0-1)-0];
+		var name_py_str_625984 = magic_name_strs_614041[0][chckIndx(i_625404, 0, magic_name_strs_614041[0].length+0-1)-0];
 		if (false) {
 		F.line = 149;
-		HEX5BHEX5DHEX3D_523842(d_623401, name_py_str_623984, new_py_static_method_544429(new_py_nim_func_550022(tp_623344.magicMethods["Field31"], name_py_str_623984, null)));
+		HEX5BHEX5DHEX3D_523842(d_625401, name_py_str_625984, new_py_static_method_544429(new_py_nim_func_550022(tp_625344.magicMethods["Field31"], name_py_str_625984, null)));
 		}
 		else {
 			F.line = 151;
-		HEX5BHEX5DHEX3D_523842(d_623401, name_py_str_623984, new_py_method_descr_601621(tp_623344, tp_623344.magicMethods["Field31"], name_py_str_623984));
+		HEX5BHEX5DHEX3D_523842(d_625401, name_py_str_625984, new_py_method_descr_603621(tp_625344, tp_625344.magicMethods["Field31"], name_py_str_625984));
 		}
 		
 		}
 		
 		F.line = 145;
-		i_623404 = addInt(i_623404, 1);
-		if (!((tp_623344.magicMethods["Field32"] === null))) {
+		i_625404 = addInt(i_625404, 1);
+		if (!((tp_625344.magicMethods["Field32"] === null))) {
 		F.line = 147;
-		var name_py_str_624002 = magic_name_strs_612041[0][chckIndx(i_623404, 0, magic_name_strs_612041[0].length+0-1)-0];
+		var name_py_str_626002 = magic_name_strs_614041[0][chckIndx(i_625404, 0, magic_name_strs_614041[0].length+0-1)-0];
 		if (false) {
 		F.line = 149;
-		HEX5BHEX5DHEX3D_523842(d_623401, name_py_str_624002, new_py_static_method_544429(new_py_nim_func_549622(tp_623344.magicMethods["Field32"], name_py_str_624002, null)));
+		HEX5BHEX5DHEX3D_523842(d_625401, name_py_str_626002, new_py_static_method_544429(new_py_nim_func_549622(tp_625344.magicMethods["Field32"], name_py_str_626002, null)));
 		}
 		else {
 			F.line = 151;
-		HEX5BHEX5DHEX3D_523842(d_623401, name_py_str_624002, new_py_method_descr_601221(tp_623344, tp_623344.magicMethods["Field32"], name_py_str_624002));
+		HEX5BHEX5DHEX3D_523842(d_625401, name_py_str_626002, new_py_method_descr_603221(tp_625344, tp_625344.magicMethods["Field32"], name_py_str_626002));
 		}
 		
 		}
 		
 		F.line = 145;
-		i_623404 = addInt(i_623404, 1);
-		if (!((tp_623344.magicMethods["Field33"] === null))) {
+		i_625404 = addInt(i_625404, 1);
+		if (!((tp_625344.magicMethods["Field33"] === null))) {
 		F.line = 147;
-		var name_py_str_624020 = magic_name_strs_612041[0][chckIndx(i_623404, 0, magic_name_strs_612041[0].length+0-1)-0];
+		var name_py_str_626020 = magic_name_strs_614041[0][chckIndx(i_625404, 0, magic_name_strs_614041[0].length+0-1)-0];
 		if (false) {
 		F.line = 149;
-		HEX5BHEX5DHEX3D_523842(d_623401, name_py_str_624020, new_py_static_method_544429(new_py_nim_func_549822(tp_623344.magicMethods["Field33"], name_py_str_624020, null)));
+		HEX5BHEX5DHEX3D_523842(d_625401, name_py_str_626020, new_py_static_method_544429(new_py_nim_func_549822(tp_625344.magicMethods["Field33"], name_py_str_626020, null)));
 		}
 		else {
 			F.line = 151;
-		HEX5BHEX5DHEX3D_523842(d_623401, name_py_str_624020, new_py_method_descr_601421(tp_623344, tp_623344.magicMethods["Field33"], name_py_str_624020));
+		HEX5BHEX5DHEX3D_523842(d_625401, name_py_str_626020, new_py_method_descr_603421(tp_625344, tp_625344.magicMethods["Field33"], name_py_str_626020));
 		}
 		
 		}
 		
 		F.line = 145;
-		i_623404 = addInt(i_623404, 1);
-		if (!((tp_623344.magicMethods["Field34"] === null))) {
+		i_625404 = addInt(i_625404, 1);
+		if (!((tp_625344.magicMethods["Field34"] === null))) {
 		F.line = 147;
-		var name_py_str_624038 = magic_name_strs_612041[0][chckIndx(i_623404, 0, magic_name_strs_612041[0].length+0-1)-0];
+		var name_py_str_626038 = magic_name_strs_614041[0][chckIndx(i_625404, 0, magic_name_strs_614041[0].length+0-1)-0];
 		if (false) {
 		F.line = 149;
-		HEX5BHEX5DHEX3D_523842(d_623401, name_py_str_624038, new_py_static_method_544429(new_py_nim_func_549622(tp_623344.magicMethods["Field34"], name_py_str_624038, null)));
+		HEX5BHEX5DHEX3D_523842(d_625401, name_py_str_626038, new_py_static_method_544429(new_py_nim_func_549622(tp_625344.magicMethods["Field34"], name_py_str_626038, null)));
 		}
 		else {
 			F.line = 151;
-		HEX5BHEX5DHEX3D_523842(d_623401, name_py_str_624038, new_py_method_descr_601221(tp_623344, tp_623344.magicMethods["Field34"], name_py_str_624038));
+		HEX5BHEX5DHEX3D_523842(d_625401, name_py_str_626038, new_py_method_descr_603221(tp_625344, tp_625344.magicMethods["Field34"], name_py_str_626038));
 		}
 		
 		}
 		
 		F.line = 145;
-		i_623404 = addInt(i_623404, 1);
-		if (!((tp_623344.magicMethods["Field35"] === null))) {
+		i_625404 = addInt(i_625404, 1);
+		if (!((tp_625344.magicMethods["Field35"] === null))) {
 		F.line = 147;
-		var name_py_str_624056 = magic_name_strs_612041[0][chckIndx(i_623404, 0, magic_name_strs_612041[0].length+0-1)-0];
+		var name_py_str_626056 = magic_name_strs_614041[0][chckIndx(i_625404, 0, magic_name_strs_614041[0].length+0-1)-0];
 		if (false) {
 		F.line = 149;
-		HEX5BHEX5DHEX3D_523842(d_623401, name_py_str_624056, new_py_static_method_544429(new_py_nim_func_549822(tp_623344.magicMethods["Field35"], name_py_str_624056, null)));
+		HEX5BHEX5DHEX3D_523842(d_625401, name_py_str_626056, new_py_static_method_544429(new_py_nim_func_549822(tp_625344.magicMethods["Field35"], name_py_str_626056, null)));
 		}
 		else {
 			F.line = 151;
-		HEX5BHEX5DHEX3D_523842(d_623401, name_py_str_624056, new_py_method_descr_601421(tp_623344, tp_623344.magicMethods["Field35"], name_py_str_624056));
+		HEX5BHEX5DHEX3D_523842(d_625401, name_py_str_626056, new_py_method_descr_603421(tp_625344, tp_625344.magicMethods["Field35"], name_py_str_626056));
 		}
 		
 		}
 		
 		F.line = 145;
-		i_623404 = addInt(i_623404, 1);
-		if (!((tp_623344.magicMethods["Field36"] === null))) {
+		i_625404 = addInt(i_625404, 1);
+		if (!((tp_625344.magicMethods["Field36"] === null))) {
 		F.line = 147;
-		var name_py_str_624074 = magic_name_strs_612041[0][chckIndx(i_623404, 0, magic_name_strs_612041[0].length+0-1)-0];
+		var name_py_str_626074 = magic_name_strs_614041[0][chckIndx(i_625404, 0, magic_name_strs_614041[0].length+0-1)-0];
 		if (false) {
 		F.line = 149;
-		HEX5BHEX5DHEX3D_523842(d_623401, name_py_str_624074, new_py_static_method_544429(new_py_nim_func_549485(tp_623344.magicMethods["Field36"], name_py_str_624074, null)));
+		HEX5BHEX5DHEX3D_523842(d_625401, name_py_str_626074, new_py_static_method_544429(new_py_nim_func_549485(tp_625344.magicMethods["Field36"], name_py_str_626074, null)));
 		}
 		else {
 			F.line = 151;
-		HEX5BHEX5DHEX3D_523842(d_623401, name_py_str_624074, new_py_method_descr_601078(tp_623344, tp_623344.magicMethods["Field36"], name_py_str_624074));
+		HEX5BHEX5DHEX3D_523842(d_625401, name_py_str_626074, new_py_method_descr_603078(tp_625344, tp_625344.magicMethods["Field36"], name_py_str_626074));
 		}
 		
 		}
 		
 		F.line = 145;
-		i_623404 = addInt(i_623404, 1);
-		if (!((tp_623344.magicMethods["Field37"] === null))) {
+		i_625404 = addInt(i_625404, 1);
+		if (!((tp_625344.magicMethods["Field37"] === null))) {
 		F.line = 147;
-		var name_py_str_624092 = magic_name_strs_612041[0][chckIndx(i_623404, 0, magic_name_strs_612041[0].length+0-1)-0];
+		var name_py_str_626092 = magic_name_strs_614041[0][chckIndx(i_625404, 0, magic_name_strs_614041[0].length+0-1)-0];
 		if (false) {
 		F.line = 149;
-		HEX5BHEX5DHEX3D_523842(d_623401, name_py_str_624092, new_py_static_method_544429(new_py_nim_func_549485(tp_623344.magicMethods["Field37"], name_py_str_624092, null)));
+		HEX5BHEX5DHEX3D_523842(d_625401, name_py_str_626092, new_py_static_method_544429(new_py_nim_func_549485(tp_625344.magicMethods["Field37"], name_py_str_626092, null)));
 		}
 		else {
 			F.line = 151;
-		HEX5BHEX5DHEX3D_523842(d_623401, name_py_str_624092, new_py_method_descr_601078(tp_623344, tp_623344.magicMethods["Field37"], name_py_str_624092));
+		HEX5BHEX5DHEX3D_523842(d_625401, name_py_str_626092, new_py_method_descr_603078(tp_625344, tp_625344.magicMethods["Field37"], name_py_str_626092));
 		}
 		
 		}
 		
 		L1: do {
 			F.line = 153;
-			var key_624797 = null;
+			var key_626797 = null;
 			F.line = 153;
-			var value_624798 = {Field0: null, Field1: null};
+			var value_626798 = {Field0: null, Field1: null};
 			F.line = 270;
-			var colontmp__625509 = {data: null, counter: 0};
+			var colontmp__627509 = {data: null, counter: 0};
 			F.line = 153;
-			nimCopy(colontmp__625509, tp_623344.getsetDescr, NTI157326);
+			nimCopy(colontmp__627509, tp_625344.getsetDescr, NTI157326);
 			L2: do {
 				F.line = 272;
-				var h_625513 = 0;
+				var h_627513 = 0;
 				F.line = 2104;
-				var colontmp__625515 = 0;
+				var colontmp__627515 = 0;
 				F.line = 272;
-				colontmp__625515 = (colontmp__625509.data != null ? (colontmp__625509.data.length-1) : -1);
+				colontmp__627515 = (colontmp__627509.data != null ? (colontmp__627509.data.length-1) : -1);
 				F.line = 2107;
-				var res_625517 = 0;
+				var res_627517 = 0;
 				L3: do {
 					F.line = 2108;
 						L4: while (true) {
-						if (!(res_625517 <= colontmp__625515)) break L4;
+						if (!(res_627517 <= colontmp__627515)) break L4;
 							F.line = 2109;
-							h_625513 = res_625517;
-							if (is_filled_146491(colontmp__625509.data[chckIndx(h_625513, 0, colontmp__625509.data.length+0-1)-0].Field0)) {
+							h_627513 = res_627517;
+							if (is_filled_146491(colontmp__627509.data[chckIndx(h_627513, 0, colontmp__627509.data.length+0-1)-0].Field0)) {
 							F.line = 273;
-							key_624797 = colontmp__625509.data[chckIndx(h_625513, 0, colontmp__625509.data.length+0-1)-0].Field1;
+							key_626797 = colontmp__627509.data[chckIndx(h_627513, 0, colontmp__627509.data.length+0-1)-0].Field1;
 							F.line = 273;
-							nimCopy(value_624798, colontmp__625509.data[chckIndx(h_625513, 0, colontmp__625509.data.length+0-1)-0].Field2, NTI157318);
+							nimCopy(value_626798, colontmp__627509.data[chckIndx(h_627513, 0, colontmp__627509.data.length+0-1)-0].Field2, NTI157318);
 							F.line = 154;
-							var getter_624799 = value_624798["Field0"];
+							var getter_626799 = value_626798["Field0"];
 							F.line = 155;
-							var setter_624800 = value_624798["Field1"];
+							var setter_626800 = value_626798["Field1"];
 							F.line = 156;
-							var descr_624801 = new_py_get_set_descr_604229(getter_624799, setter_624800);
+							var descr_626801 = new_py_get_set_descr_606229(getter_626799, setter_626800);
 							F.line = 157;
-							var name_py_str_624802 = new_py_str_176092(key_624797);
+							var name_py_str_626802 = new_py_str_176092(key_626797);
 							F.line = 158;
-							HEX5BHEX5DHEX3D_523842(d_623401, name_py_str_624802, descr_624801);
+							HEX5BHEX5DHEX3D_523842(d_625401, name_py_str_626802, descr_626801);
 							}
 							
 							F.line = 2110;
-							res_625517 = addInt(res_625517, 1);
+							res_627517 = addInt(res_627517, 1);
 						}
 				} while(false);
 			} while(false);
 		} while(false);
 		L5: do {
 			F.line = 161;
-			var name_625505 = null;
+			var name_627505 = null;
 			F.line = 161;
-			var meth_625506 = null;
+			var meth_627506 = null;
 			F.line = 270;
-			var colontmp__625521 = {data: null, counter: 0};
+			var colontmp__627521 = {data: null, counter: 0};
 			F.line = 161;
-			nimCopy(colontmp__625521, tp_623344.bltinMethods, NTI157294);
+			nimCopy(colontmp__627521, tp_625344.bltinMethods, NTI157294);
 			L6: do {
 				F.line = 272;
-				var h_625525 = 0;
+				var h_627525 = 0;
 				F.line = 2104;
-				var colontmp__625527 = 0;
+				var colontmp__627527 = 0;
 				F.line = 272;
-				colontmp__625527 = (colontmp__625521.data != null ? (colontmp__625521.data.length-1) : -1);
+				colontmp__627527 = (colontmp__627521.data != null ? (colontmp__627521.data.length-1) : -1);
 				F.line = 2107;
-				var res_625529 = 0;
+				var res_627529 = 0;
 				L7: do {
 					F.line = 2108;
 						L8: while (true) {
-						if (!(res_625529 <= colontmp__625527)) break L8;
+						if (!(res_627529 <= colontmp__627527)) break L8;
 							F.line = 2109;
-							h_625525 = res_625529;
-							if (is_filled_146491(colontmp__625521.data[chckIndx(h_625525, 0, colontmp__625521.data.length+0-1)-0].Field0)) {
+							h_627525 = res_627529;
+							if (is_filled_146491(colontmp__627521.data[chckIndx(h_627525, 0, colontmp__627521.data.length+0-1)-0].Field0)) {
 							F.line = 273;
-							name_625505 = colontmp__625521.data[chckIndx(h_625525, 0, colontmp__625521.data.length+0-1)-0].Field1;
+							name_627505 = colontmp__627521.data[chckIndx(h_627525, 0, colontmp__627521.data.length+0-1)-0].Field1;
 							F.line = 273;
-							meth_625506 = colontmp__625521.data[chckIndx(h_625525, 0, colontmp__625521.data.length+0-1)-0].Field2;
+							meth_627506 = colontmp__627521.data[chckIndx(h_627525, 0, colontmp__627521.data.length+0-1)-0].Field2;
 							F.line = 162;
-							var name_py_str_625507 = new_py_string_176075(name_625505);
+							var name_py_str_627507 = new_py_string_176075(name_627505);
 							F.line = 163;
-							HEX5BHEX5DHEX3D_523842(d_623401, name_py_str_625507, new_py_method_descr_601621(tp_623344, meth_625506, name_py_str_625507));
+							HEX5BHEX5DHEX3D_523842(d_625401, name_py_str_627507, new_py_method_descr_603621(tp_625344, meth_627506, name_py_str_627507));
 							}
 							
 							F.line = 2110;
-							res_625529 = addInt(res_625529, 1);
+							res_627529 = addInt(res_627529, 1);
 						}
 				} while(false);
 			} while(false);
 		} while(false);
 		F.line = 165;
-		tp_623344.dict = d_623401;
+		tp_625344.dict = d_625401;
 	framePtr = F.prev;
 
 	
 }
 
-function type_ready_625659(tp_625661) {
+function type_ready_627659(tp_627661) {
 	var F={procname:"typeobject.typeReady",prev:framePtr,filename:"../Objects/typeobject.nim",line:0};
 	framePtr = F;
 		F.line = 168;
-		tp_625661.pyType = py_type_object_type_612361;
+		tp_627661.pyType = py_type_object_type_614361;
 		F.line = 169;
-		add_generic_623231(tp_625661);
-		if ((tp_625661.dict === null)) {
+		add_generic_625231(tp_627661);
+		if ((tp_627661.dict === null)) {
 		F.line = 171;
-		init_type_dict_623342(tp_625661);
+		init_type_dict_625342(tp_627661);
 		}
 		
 	framePtr = F.prev;
@@ -27302,58 +27341,58 @@ function type_ready_625659(tp_625661) {
 	
 }
 
-function call_py_type_object_magic_625682(self_no_cast_625684, args_625698) {
+function call_py_type_object_magic_627682(self_no_cast_627684, args_627698) {
 			var Tmp1;
 			var Tmp2;
 
-	var result_625699 = null;
+	var result_627699 = null;
 
 	var F={procname:"typeobject.callPyTypeObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
 	framePtr = F;
 	BeforeRet: do {
-		if (!(isObj(self_no_cast_625684.m_type, NTI157280))) {
+		if (!(isObj(self_no_cast_627684.m_type, NTI157280))) {
 		F.line = 438;
 		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Objects/pyobject.nim(438, 33) `selfNoCast of PyTypeObject` "));
 		}
 		
 		F.line = 438;
-		var self_625801 = self_no_cast_625684;
-		if (((self_625801 == py_type_object_type_612361) && ((args_625698 != null ? args_625698.length : 0) == 1))) {
+		var self_627801 = self_no_cast_627684;
+		if (((self_627801 == py_type_object_type_614361) && ((args_627698 != null ? args_627698.length : 0) == 1))) {
 		F.line = 180;
-		result_625699 = args_625698[chckIndx(0, 0, args_625698.length+0-1)-0].pyType;
+		result_627699 = args_627698[chckIndx(0, 0, args_627698.length+0-1)-0].pyType;
 		break BeforeRet;
 		}
 		
 		F.line = 182;
-		var new_func_625819 = self_625801.magicMethods.Field26;
-		if ((new_func_625819 === null)) {
+		var new_func_627819 = self_627801.magicMethods.Field26;
+		if ((new_func_627819 === null)) {
 		F.line = 184;
 		F.line = 184;
-		var fmt_res_625829 = mnewString(0);
+		var fmt_res_627829 = mnewString(0);
 		F.line = 184;
-		if (fmt_res_625829 != null) { fmt_res_625829 = (fmt_res_625829).concat(makeNimstrLit("cannot create \'")); } else { fmt_res_625829 = makeNimstrLit("cannot create \'"); };
+		if (fmt_res_627829 != null) { fmt_res_627829 = (fmt_res_627829).concat(makeNimstrLit("cannot create \'")); } else { fmt_res_627829 = makeNimstrLit("cannot create \'"); };
 		F.line = 260;
-		if (fmt_res_625829 != null) { fmt_res_625829 = (fmt_res_625829).concat(self_625801.name); } else { fmt_res_625829 = self_625801.name.slice(); };
+		if (fmt_res_627829 != null) { fmt_res_627829 = (fmt_res_627829).concat(self_627801.name); } else { fmt_res_627829 = self_627801.name.slice(); };
 		F.line = 184;
-		if (fmt_res_625829 != null) { fmt_res_625829 = (fmt_res_625829).concat(makeNimstrLit("\' instances because __new__ is not set")); } else { fmt_res_625829 = makeNimstrLit("\' instances because __new__ is not set"); };
-		var msg_626001 = nimCopy(null, fmt_res_625829, NTI138);
+		if (fmt_res_627829 != null) { fmt_res_627829 = (fmt_res_627829).concat(makeNimstrLit("\' instances because __new__ is not set")); } else { fmt_res_627829 = makeNimstrLit("\' instances because __new__ is not set"); };
+		var msg_628001 = nimCopy(null, fmt_res_627829, NTI138);
 		F.line = 185;
 		F.line = 104;
-		var excp_626003 = new_py_type_error_simple_360601();
+		var excp_628003 = new_py_type_error_simple_360601();
 		F.line = 105;
-		excp_626003.tk = 3;
+		excp_628003.tk = 3;
 		F.line = 106;
-		excp_626003.thrown = true;
+		excp_628003.thrown = true;
 		F.line = 107;
-		excp_626003.msg = new_py_string_176075(msg_626001);
-		result_625699 = excp_626003;
+		excp_628003.msg = new_py_string_176075(msg_628001);
+		result_627699 = excp_628003;
 		break BeforeRet;
 		}
 		
 		F.line = 186;
-		var new_obj_626028 = new_func_625819(HEX26_598015([self_625801], args_625698));
-			if (of_py_exception_object_358259(new_obj_626028)) {
-			Tmp1 = new_obj_626028.thrown;
+		var new_obj_628028 = new_func_627819(HEX26_600015([self_627801], args_627698));
+			if (of_py_exception_object_358259(new_obj_628028)) {
+			Tmp1 = new_obj_628028.thrown;
 			}
 			else {
 			Tmp1 = false;
@@ -27361,17 +27400,17 @@ function call_py_type_object_magic_625682(self_no_cast_625684, args_625698) {
 			
 		if (Tmp1) {
 		F.line = 188;
-		result_625699 = new_obj_626028;
+		result_627699 = new_obj_628028;
 		break BeforeRet;
 		}
 		
 		F.line = 189;
-		var init_func_626029 = self_625801.magicMethods.Field27;
-		if (!((init_func_626029 === null))) {
+		var init_func_628029 = self_627801.magicMethods.Field27;
+		if (!((init_func_628029 === null))) {
 		F.line = 191;
-		var init_ret_626036 = init_func_626029(new_obj_626028, args_625698);
-			if (of_py_exception_object_358259(init_ret_626036)) {
-			Tmp2 = init_ret_626036.thrown;
+		var init_ret_628036 = init_func_628029(new_obj_628028, args_627698);
+			if (of_py_exception_object_358259(init_ret_628036)) {
+			Tmp2 = init_ret_628036.thrown;
 			}
 			else {
 			Tmp2 = false;
@@ -27379,571 +27418,301 @@ function call_py_type_object_magic_625682(self_no_cast_625684, args_625698) {
 			
 		if (Tmp2) {
 		F.line = 193;
-		result_625699 = init_ret_626036;
+		result_627699 = init_ret_628036;
 		break BeforeRet;
 		}
 		
 		}
 		
 		F.line = 195;
-		result_625699 = new_obj_626028;
+		result_627699 = new_obj_628028;
 		break BeforeRet;
 	} while (false);
 	framePtr = F.prev;
 
-	return result_625699;
+	return result_627699;
 
 }
 
-function new_626206() {
-	var result_626211 = null;
+function new_628206() {
+	var result_628211 = null;
 
 	var F={procname:"new.new",prev:framePtr,filename:"../../../../.choosenim/toolchains/nim-0.19.4/lib/system.nim",line:0};
 	framePtr = F;
 	BeforeRet: do {
 		F.line = 208;
-		var r_626401 = null;
+		var r_628401 = null;
 		F.line = 211;
-		r_626401 = {m_type: NTI626109, dict: null, id: 0, pyType: null};
+		r_628401 = {m_type: NTI628109, dict: null, id: 0, pyType: null};
 		F.line = 212;
-		result_626211 = r_626401;
+		result_628211 = r_628401;
 		break BeforeRet;
 	} while (false);
 	framePtr = F.prev;
 
-	return result_626211;
+	return result_628211;
 
 }
 
-function new_py_instance_simple_626201() {
-	var result_626203 = null;
+function new_py_instance_simple_628201() {
+	var result_628203 = null;
 
 	var F={procname:"typeobject.newPyInstanceSimple",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
 	framePtr = F;
 		F.line = 560;
 		F.line = 560;
-		var obj_626424 = new_626206();
+		var obj_628424 = new_628206();
 		F.line = 561;
-		obj_626424.pyType = py_instance_object_type_626113;
+		obj_628424.pyType = py_instance_object_type_628113;
 		F.line = 563;
-		give_id_157814(obj_626424);
+		give_id_157814(obj_628424);
 		F.line = 565;
-		obj_626424.dict = new_py_dict_522257();
-		result_626203 = obj_626424;
+		obj_628424.dict = new_py_dict_522257();
+		result_628203 = obj_628424;
 	framePtr = F.prev;
 
-	return result_626203;
+	return result_628203;
 
 }
 
-function new_py_instance_default_626821(args_626064) {
-	var result_626824 = null;
+function new_py_instance_default_628821(args_628064) {
+	var result_628824 = null;
 
 	var F={procname:"typeobject.newPyInstanceDefault",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
 	framePtr = F;
 		F.line = 581;
-		result_626824 = new_py_instance_simple_626201();
+		result_628824 = new_py_instance_simple_628201();
 	framePtr = F.prev;
 
-	return result_626824;
+	return result_628824;
 
 }
 
-function HEX5BHEX5D_627438(s_627445, x_627448) {
-	var result_627450 = null;
+function HEX5BHEX5D_629438(s_629445, x_629448) {
+	var result_629450 = null;
 
 	var F={procname:"[].[]",prev:framePtr,filename:"../../../../.choosenim/toolchains/nim-0.19.4/lib/system.nim",line:0};
 	framePtr = F;
 		F.line = 3706;
-		var a_627601 = x_627448.a;
+		var a_629601 = x_629448.a;
 		F.line = 3707;
-		var l_627807 = addInt(subInt(subInt((s_627445 != null ? s_627445.length : 0), x_627448.b), a_627601), 1);
+		var l_629807 = addInt(subInt(subInt((s_629445 != null ? s_629445.length : 0), x_629448.b), a_629601), 1);
 		F.line = 3708;
-		result_627450 = new Array(chckRange(l_627807, 0, 2147483647)); for (var i=0;i<chckRange(l_627807, 0, 2147483647);++i) {result_627450[i]=null;}		L1: do {
+		result_629450 = new Array(chckRange(l_629807, 0, 2147483647)); for (var i=0;i<chckRange(l_629807, 0, 2147483647);++i) {result_629450[i]=null;}		L1: do {
 			F.line = 3709;
-			var i_627827 = 0;
+			var i_629827 = 0;
 			F.line = 3617;
-			var i_627835 = 0;
+			var i_629835 = 0;
 			L2: do {
 				F.line = 3618;
 					L3: while (true) {
-					if (!(i_627835 < l_627807)) break L3;
+					if (!(i_629835 < l_629807)) break L3;
 						F.line = 3619;
-						i_627827 = i_627835;
+						i_629827 = i_629835;
 						F.line = 3709;
-						result_627450[chckIndx(i_627827, 0, result_627450.length+0-1)-0] = s_627445[chckIndx(addInt(i_627827, a_627601), 0, s_627445.length+0-1)-0];
+						result_629450[chckIndx(i_629827, 0, result_629450.length+0-1)-0] = s_629445[chckIndx(addInt(i_629827, a_629601), 0, s_629445.length+0-1)-0];
 						F.line = 3620;
-						i_627835 = addInt(i_627835, 1);
+						i_629835 = addInt(i_629835, 1);
 					}
 			} while(false);
 		} while(false);
 	framePtr = F.prev;
 
-	return result_627450;
+	return result_629450;
 
 }
 
-function new_py_instance_object_magic_627046(args_627061) {
-	var result_627062 = null;
+function new_py_instance_object_magic_629046(args_629061) {
+	var result_629062 = null;
 
 	var F={procname:"typeobject.newPyInstanceObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
 	framePtr = F;
 	BeforeRet: do {
-		if (((args_627061 != null ? args_627061.length : 0) < 1)) {
+		if (((args_629061 != null ? args_629061.length : 0) < 1)) {
 		F.line = 193;
-		var msg_627073 = null;
+		var msg_629073 = null;
 		if (true) {
 		F.line = 195;
 		F.line = 195;
-		var fmt_res_627078 = mnewString(0);
+		var fmt_res_629078 = mnewString(0);
 		F.line = 195;
-		if (fmt_res_627078 != null) { fmt_res_627078 = (fmt_res_627078).concat(makeNimstrLit(" argument (")); } else { fmt_res_627078 = makeNimstrLit(" argument ("); };
+		if (fmt_res_629078 != null) { fmt_res_629078 = (fmt_res_629078).concat(makeNimstrLit(" argument (")); } else { fmt_res_629078 = makeNimstrLit(" argument ("); };
 		F.line = 270;
-		if (fmt_res_627078 != null) { fmt_res_627078 = (fmt_res_627078).concat(cstrToNimstr(((args_627061 != null ? args_627061.length : 0))+"")); } else { fmt_res_627078 = cstrToNimstr(((args_627061 != null ? args_627061.length : 0))+"").slice(); };
+		if (fmt_res_629078 != null) { fmt_res_629078 = (fmt_res_629078).concat(cstrToNimstr(((args_629061 != null ? args_629061.length : 0))+"")); } else { fmt_res_629078 = cstrToNimstr(((args_629061 != null ? args_629061.length : 0))+"").slice(); };
 		F.line = 195;
-		if (fmt_res_627078 != null) { fmt_res_627078 = (fmt_res_627078).concat(makeNimstrLit(" given)")); } else { fmt_res_627078 = makeNimstrLit(" given)"); };
-		msg_627073 = nimCopy(null, (makeNimstrLit("New takes at least 1")).concat(fmt_res_627078), NTI138);
+		if (fmt_res_629078 != null) { fmt_res_629078 = (fmt_res_629078).concat(makeNimstrLit(" given)")); } else { fmt_res_629078 = makeNimstrLit(" given)"); };
+		msg_629073 = nimCopy(null, (makeNimstrLit("New takes at least 1")).concat(fmt_res_629078), NTI138);
 		}
 		else {
 			F.line = 197;
 			F.line = 197;
-			var fmt_res_627210 = mnewString(0);
+			var fmt_res_629210 = mnewString(0);
 			F.line = 197;
-			if (fmt_res_627210 != null) { fmt_res_627210 = (fmt_res_627210).concat(makeNimstrLit(" argument (")); } else { fmt_res_627210 = makeNimstrLit(" argument ("); };
+			if (fmt_res_629210 != null) { fmt_res_629210 = (fmt_res_629210).concat(makeNimstrLit(" argument (")); } else { fmt_res_629210 = makeNimstrLit(" argument ("); };
 			F.line = 270;
-			if (fmt_res_627210 != null) { fmt_res_627210 = (fmt_res_627210).concat(cstrToNimstr(((args_627061 != null ? args_627061.length : 0))+"")); } else { fmt_res_627210 = cstrToNimstr(((args_627061 != null ? args_627061.length : 0))+"").slice(); };
+			if (fmt_res_629210 != null) { fmt_res_629210 = (fmt_res_629210).concat(cstrToNimstr(((args_629061 != null ? args_629061.length : 0))+"")); } else { fmt_res_629210 = cstrToNimstr(((args_629061 != null ? args_629061.length : 0))+"").slice(); };
 			F.line = 197;
-			if (fmt_res_627210 != null) { fmt_res_627210 = (fmt_res_627210).concat(makeNimstrLit(" given)")); } else { fmt_res_627210 = makeNimstrLit(" given)"); };
-			msg_627073 = nimCopy(null, (makeNimstrLit("expected at least 1")).concat(fmt_res_627210), NTI138);
+			if (fmt_res_629210 != null) { fmt_res_629210 = (fmt_res_629210).concat(makeNimstrLit(" given)")); } else { fmt_res_629210 = makeNimstrLit(" given)"); };
+			msg_629073 = nimCopy(null, (makeNimstrLit("expected at least 1")).concat(fmt_res_629210), NTI138);
 		}
 		
 		F.line = 198;
 		F.line = 104;
-		var excp_627409 = new_py_type_error_simple_360601();
+		var excp_629409 = new_py_type_error_simple_360601();
 		F.line = 105;
-		excp_627409.tk = 3;
+		excp_629409.tk = 3;
 		F.line = 106;
-		excp_627409.thrown = true;
+		excp_629409.thrown = true;
 		F.line = 107;
-		excp_627409.msg = new_py_string_176075(msg_627073);
-		result_627062 = excp_627409;
+		excp_629409.msg = new_py_string_176075(msg_629073);
+		result_629062 = excp_629409;
 		break BeforeRet;
 		}
 		
 		F.line = 215;
-		var actual_args_627850 = HEX5BHEX5D_627438(args_627061, HEX2EHEX2E_81053(1, 1));
-		if (!(isObj(args_627061[chckIndx(0, 0, args_627061.length+0-1)-0].m_type, NTI157280))) {
+		var actual_args_629850 = HEX5BHEX5D_629438(args_629061, HEX2EHEX2E_81053(1, 1));
+		if (!(isObj(args_629061[chckIndx(0, 0, args_629061.length+0-1)-0].m_type, NTI157280))) {
 		F.line = 185;
-		var expected_627862 = nimCopy(null, py_type_object_type_612361.name, NTI138);
+		var expected_629862 = nimCopy(null, py_type_object_type_614361.name, NTI138);
 		F.line = 186;
-		var got_627863 = nimCopy(null, args_627061[chckIndx(0, 0, args_627061.length+0-1)-0].pyType.name, NTI138);
+		var got_629863 = nimCopy(null, args_629061[chckIndx(0, 0, args_629061.length+0-1)-0].pyType.name, NTI138);
 		F.line = 187;
-		var m_name_627864 = makeNimstrLit("New");
+		var m_name_629864 = makeNimstrLit("New");
 		F.line = 188;
 		F.line = 188;
-		var fmt_res_627868 = mnewString(0);
+		var fmt_res_629868 = mnewString(0);
 		F.line = 260;
-		if (fmt_res_627868 != null) { fmt_res_627868 = (fmt_res_627868).concat(expected_627862); } else { fmt_res_627868 = expected_627862.slice(); };
+		if (fmt_res_629868 != null) { fmt_res_629868 = (fmt_res_629868).concat(expected_629862); } else { fmt_res_629868 = expected_629862.slice(); };
 		F.line = 188;
-		if (fmt_res_627868 != null) { fmt_res_627868 = (fmt_res_627868).concat(makeNimstrLit(" is requred for ")); } else { fmt_res_627868 = makeNimstrLit(" is requred for "); };
+		if (fmt_res_629868 != null) { fmt_res_629868 = (fmt_res_629868).concat(makeNimstrLit(" is requred for ")); } else { fmt_res_629868 = makeNimstrLit(" is requred for "); };
 		F.line = 260;
-		if (fmt_res_627868 != null) { fmt_res_627868 = (fmt_res_627868).concat(m_name_627864); } else { fmt_res_627868 = m_name_627864.slice(); };
+		if (fmt_res_629868 != null) { fmt_res_629868 = (fmt_res_629868).concat(m_name_629864); } else { fmt_res_629868 = m_name_629864.slice(); };
 		F.line = 188;
-		if (fmt_res_627868 != null) { fmt_res_627868 = (fmt_res_627868).concat(makeNimstrLit(" (got ")); } else { fmt_res_627868 = makeNimstrLit(" (got "); };
+		if (fmt_res_629868 != null) { fmt_res_629868 = (fmt_res_629868).concat(makeNimstrLit(" (got ")); } else { fmt_res_629868 = makeNimstrLit(" (got "); };
 		F.line = 260;
-		if (fmt_res_627868 != null) { fmt_res_627868 = (fmt_res_627868).concat(got_627863); } else { fmt_res_627868 = got_627863.slice(); };
+		if (fmt_res_629868 != null) { fmt_res_629868 = (fmt_res_629868).concat(got_629863); } else { fmt_res_629868 = got_629863.slice(); };
 		F.line = 188;
-		if (fmt_res_627868 != null) { fmt_res_627868 = (fmt_res_627868).concat(makeNimstrLit(")")); } else { fmt_res_627868 = makeNimstrLit(")"); };
-		var msg_628402 = nimCopy(null, fmt_res_627868, NTI138);
+		if (fmt_res_629868 != null) { fmt_res_629868 = (fmt_res_629868).concat(makeNimstrLit(")")); } else { fmt_res_629868 = makeNimstrLit(")"); };
+		var msg_630402 = nimCopy(null, fmt_res_629868, NTI138);
 		F.line = 189;
 		F.line = 104;
-		var excp_628404 = new_py_type_error_simple_360601();
+		var excp_630404 = new_py_type_error_simple_360601();
 		F.line = 105;
-		excp_628404.tk = 3;
+		excp_630404.tk = 3;
 		F.line = 106;
-		excp_628404.thrown = true;
+		excp_630404.thrown = true;
 		F.line = 107;
-		excp_628404.msg = new_py_string_176075(msg_628402);
-		result_627062 = excp_628404;
+		excp_630404.msg = new_py_string_176075(msg_630402);
+		result_629062 = excp_630404;
 		break BeforeRet;
 		}
 		
 		F.line = 237;
-		var tp_628406 = args_627061[chckIndx(0, 0, args_627061.length+0-1)-0];
+		var tp_630406 = args_629061[chckIndx(0, 0, args_629061.length+0-1)-0];
 		F.line = 210;
-		result_627062 = new_py_instance_simple_626201();
+		result_629062 = new_py_instance_simple_628201();
 		F.line = 211;
-		result_627062.pyType = tp_628406;
+		result_629062.pyType = tp_630406;
 	} while (false);
 	framePtr = F.prev;
 
-	return result_627062;
+	return result_629062;
 
 }
-type_ready_625659(py_type_object_type_612361);
-py_type_object_type_612361.magicMethods.Field31 = call_py_type_object_magic_625682;
-var py_instance_object_type_626113 = new_py_type_159261(makeNimstrLit("Instance"));
-py_instance_object_type_626113.magicMethods.Field26 = new_py_instance_default_626821;
-py_instance_object_type_626113.magicMethods.Field26 = new_py_instance_object_magic_627046;
+type_ready_627659(py_type_object_type_614361);
+py_type_object_type_614361.magicMethods.Field31 = call_py_type_object_magic_627682;
+var py_instance_object_type_628113 = new_py_type_159261(makeNimstrLit("Instance"));
+py_instance_object_type_628113.magicMethods.Field26 = new_py_instance_default_628821;
+py_instance_object_type_628113.magicMethods.Field26 = new_py_instance_object_magic_629046;
 
-function add_py_instance_object_magic_636163(self_no_cast_636165, other_636166) {
-	var result_636167 = null;
+function add_py_instance_object_magic_638163(self_no_cast_638165, other_638166) {
+	var result_638167 = null;
 
 	var F={procname:"typeobject.addPyInstanceObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
 	framePtr = F;
 	BeforeRet: do {
-		if (!(isObj(self_no_cast_636165.m_type, NTI626109))) {
+		if (!(isObj(self_no_cast_638165.m_type, NTI628109))) {
 		F.line = 438;
 		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Objects/pyobject.nim(438, 33) `selfNoCast of PyInstanceObject` "));
 		}
 		
 		F.line = 438;
-		var self_636201 = self_no_cast_636165;
+		var self_638201 = self_no_cast_638165;
 		F.line = 221;
-		var magic_name_str_636207 = magic_name_strs_612041[0][chckIndx(0, 0, magic_name_strs_612041[0].length+0-1)-0];
+		var magic_name_str_638207 = magic_name_strs_614041[0][chckIndx(0, 0, magic_name_strs_614041[0].length+0-1)-0];
 		F.line = 222;
-		var fun_636209 = HEX5BHEX5D_523323(get_type_dict_617304(self_636201), magic_name_str_636207);
+		var fun_638209 = HEX5BHEX5D_523323(get_type_dict_619304(self_638201), magic_name_str_638207);
 		F.line = 223;
-		result_636167 = fast_call_599133(fun_636209, [self_636201, other_636166]);
+		result_638167 = fast_call_601133(fun_638209, [self_638201, other_638166]);
 		break BeforeRet;
 	} while (false);
 	framePtr = F.prev;
 
-	return result_636167;
+	return result_638167;
 
 }
 
-function sub_py_instance_object_magic_636236(self_no_cast_636238, other_636239) {
-	var result_636240 = null;
+function sub_py_instance_object_magic_638236(self_no_cast_638238, other_638239) {
+	var result_638240 = null;
 
 	var F={procname:"typeobject.subPyInstanceObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
 	framePtr = F;
 	BeforeRet: do {
-		if (!(isObj(self_no_cast_636238.m_type, NTI626109))) {
-		F.line = 438;
-		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Objects/pyobject.nim(438, 33) `selfNoCast of PyInstanceObject` "));
-		}
-		
-		F.line = 438;
-		var self_636401 = self_no_cast_636238;
-		F.line = 221;
-		var magic_name_str_636407 = magic_name_strs_612041[0][chckIndx(1, 0, magic_name_strs_612041[0].length+0-1)-0];
-		F.line = 222;
-		var fun_636409 = HEX5BHEX5D_523323(get_type_dict_617304(self_636401), magic_name_str_636407);
-		F.line = 223;
-		result_636240 = fast_call_599133(fun_636409, [self_636401, other_636239]);
-		break BeforeRet;
-	} while (false);
-	framePtr = F.prev;
-
-	return result_636240;
-
-}
-
-function mul_py_instance_object_magic_636436(self_no_cast_636438, other_636439) {
-	var result_636440 = null;
-
-	var F={procname:"typeobject.mulPyInstanceObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
-	framePtr = F;
-	BeforeRet: do {
-		if (!(isObj(self_no_cast_636438.m_type, NTI626109))) {
-		F.line = 438;
-		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Objects/pyobject.nim(438, 33) `selfNoCast of PyInstanceObject` "));
-		}
-		
-		F.line = 438;
-		var self_636601 = self_no_cast_636438;
-		F.line = 221;
-		var magic_name_str_636607 = magic_name_strs_612041[0][chckIndx(2, 0, magic_name_strs_612041[0].length+0-1)-0];
-		F.line = 222;
-		var fun_636609 = HEX5BHEX5D_523323(get_type_dict_617304(self_636601), magic_name_str_636607);
-		F.line = 223;
-		result_636440 = fast_call_599133(fun_636609, [self_636601, other_636439]);
-		break BeforeRet;
-	} while (false);
-	framePtr = F.prev;
-
-	return result_636440;
-
-}
-
-function truediv_py_instance_object_magic_636636(self_no_cast_636638, other_636639) {
-	var result_636640 = null;
-
-	var F={procname:"typeobject.truedivPyInstanceObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
-	framePtr = F;
-	BeforeRet: do {
-		if (!(isObj(self_no_cast_636638.m_type, NTI626109))) {
-		F.line = 438;
-		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Objects/pyobject.nim(438, 33) `selfNoCast of PyInstanceObject` "));
-		}
-		
-		F.line = 438;
-		var self_636801 = self_no_cast_636638;
-		F.line = 221;
-		var magic_name_str_636807 = magic_name_strs_612041[0][chckIndx(3, 0, magic_name_strs_612041[0].length+0-1)-0];
-		F.line = 222;
-		var fun_636809 = HEX5BHEX5D_523323(get_type_dict_617304(self_636801), magic_name_str_636807);
-		F.line = 223;
-		result_636640 = fast_call_599133(fun_636809, [self_636801, other_636639]);
-		break BeforeRet;
-	} while (false);
-	framePtr = F.prev;
-
-	return result_636640;
-
-}
-
-function floordiv_py_instance_object_magic_636836(self_no_cast_636838, other_636839) {
-	var result_636840 = null;
-
-	var F={procname:"typeobject.floordivPyInstanceObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
-	framePtr = F;
-	BeforeRet: do {
-		if (!(isObj(self_no_cast_636838.m_type, NTI626109))) {
-		F.line = 438;
-		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Objects/pyobject.nim(438, 33) `selfNoCast of PyInstanceObject` "));
-		}
-		
-		F.line = 438;
-		var self_637001 = self_no_cast_636838;
-		F.line = 221;
-		var magic_name_str_637007 = magic_name_strs_612041[0][chckIndx(4, 0, magic_name_strs_612041[0].length+0-1)-0];
-		F.line = 222;
-		var fun_637009 = HEX5BHEX5D_523323(get_type_dict_617304(self_637001), magic_name_str_637007);
-		F.line = 223;
-		result_636840 = fast_call_599133(fun_637009, [self_637001, other_636839]);
-		break BeforeRet;
-	} while (false);
-	framePtr = F.prev;
-
-	return result_636840;
-
-}
-
-function mod_py_instance_object_magic_637036(self_no_cast_637038, other_637039) {
-	var result_637040 = null;
-
-	var F={procname:"typeobject.modPyInstanceObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
-	framePtr = F;
-	BeforeRet: do {
-		if (!(isObj(self_no_cast_637038.m_type, NTI626109))) {
-		F.line = 438;
-		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Objects/pyobject.nim(438, 33) `selfNoCast of PyInstanceObject` "));
-		}
-		
-		F.line = 438;
-		var self_637201 = self_no_cast_637038;
-		F.line = 221;
-		var magic_name_str_637207 = magic_name_strs_612041[0][chckIndx(5, 0, magic_name_strs_612041[0].length+0-1)-0];
-		F.line = 222;
-		var fun_637209 = HEX5BHEX5D_523323(get_type_dict_617304(self_637201), magic_name_str_637207);
-		F.line = 223;
-		result_637040 = fast_call_599133(fun_637209, [self_637201, other_637039]);
-		break BeforeRet;
-	} while (false);
-	framePtr = F.prev;
-
-	return result_637040;
-
-}
-
-function pow_py_instance_object_magic_637236(self_no_cast_637238, other_637239) {
-	var result_637240 = null;
-
-	var F={procname:"typeobject.powPyInstanceObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
-	framePtr = F;
-	BeforeRet: do {
-		if (!(isObj(self_no_cast_637238.m_type, NTI626109))) {
-		F.line = 438;
-		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Objects/pyobject.nim(438, 33) `selfNoCast of PyInstanceObject` "));
-		}
-		
-		F.line = 438;
-		var self_637401 = self_no_cast_637238;
-		F.line = 221;
-		var magic_name_str_637407 = magic_name_strs_612041[0][chckIndx(6, 0, magic_name_strs_612041[0].length+0-1)-0];
-		F.line = 222;
-		var fun_637409 = HEX5BHEX5D_523323(get_type_dict_617304(self_637401), magic_name_str_637407);
-		F.line = 223;
-		result_637240 = fast_call_599133(fun_637409, [self_637401, other_637239]);
-		break BeforeRet;
-	} while (false);
-	framePtr = F.prev;
-
-	return result_637240;
-
-}
-
-function not_py_instance_object_magic_637436(self_no_cast_637438) {
-	var result_637439 = null;
-
-	var F={procname:"typeobject.notPyInstanceObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
-	framePtr = F;
-	BeforeRet: do {
-		if (!(isObj(self_no_cast_637438.m_type, NTI626109))) {
-		F.line = 438;
-		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Objects/pyobject.nim(438, 33) `selfNoCast of PyInstanceObject` "));
-		}
-		
-		F.line = 438;
-		var self_637601 = self_no_cast_637438;
-		F.line = 215;
-		var magic_name_str_637607 = magic_name_strs_612041[0][chckIndx(7, 0, magic_name_strs_612041[0].length+0-1)-0];
-		F.line = 216;
-		var fun_637609 = HEX5BHEX5D_523323(get_type_dict_617304(self_637601), magic_name_str_637607);
-		F.line = 217;
-		result_637439 = fast_call_599133(fun_637609, [self_637601]);
-		break BeforeRet;
-	} while (false);
-	framePtr = F.prev;
-
-	return result_637439;
-
-}
-
-function negative_py_instance_object_magic_637636(self_no_cast_637638) {
-	var result_637639 = null;
-
-	var F={procname:"typeobject.negativePyInstanceObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
-	framePtr = F;
-	BeforeRet: do {
-		if (!(isObj(self_no_cast_637638.m_type, NTI626109))) {
-		F.line = 438;
-		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Objects/pyobject.nim(438, 33) `selfNoCast of PyInstanceObject` "));
-		}
-		
-		F.line = 438;
-		var self_637801 = self_no_cast_637638;
-		F.line = 215;
-		var magic_name_str_637807 = magic_name_strs_612041[0][chckIndx(8, 0, magic_name_strs_612041[0].length+0-1)-0];
-		F.line = 216;
-		var fun_637809 = HEX5BHEX5D_523323(get_type_dict_617304(self_637801), magic_name_str_637807);
-		F.line = 217;
-		result_637639 = fast_call_599133(fun_637809, [self_637801]);
-		break BeforeRet;
-	} while (false);
-	framePtr = F.prev;
-
-	return result_637639;
-
-}
-
-function positive_py_instance_object_magic_637836(self_no_cast_637838) {
-	var result_637839 = null;
-
-	var F={procname:"typeobject.positivePyInstanceObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
-	framePtr = F;
-	BeforeRet: do {
-		if (!(isObj(self_no_cast_637838.m_type, NTI626109))) {
-		F.line = 438;
-		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Objects/pyobject.nim(438, 33) `selfNoCast of PyInstanceObject` "));
-		}
-		
-		F.line = 438;
-		var self_638001 = self_no_cast_637838;
-		F.line = 215;
-		var magic_name_str_638007 = magic_name_strs_612041[0][chckIndx(9, 0, magic_name_strs_612041[0].length+0-1)-0];
-		F.line = 216;
-		var fun_638009 = HEX5BHEX5D_523323(get_type_dict_617304(self_638001), magic_name_str_638007);
-		F.line = 217;
-		result_637839 = fast_call_599133(fun_638009, [self_638001]);
-		break BeforeRet;
-	} while (false);
-	framePtr = F.prev;
-
-	return result_637839;
-
-}
-
-function abs_py_instance_object_magic_638036(self_no_cast_638038) {
-	var result_638039 = null;
-
-	var F={procname:"typeobject.absPyInstanceObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
-	framePtr = F;
-	BeforeRet: do {
-		if (!(isObj(self_no_cast_638038.m_type, NTI626109))) {
-		F.line = 438;
-		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Objects/pyobject.nim(438, 33) `selfNoCast of PyInstanceObject` "));
-		}
-		
-		F.line = 438;
-		var self_638201 = self_no_cast_638038;
-		F.line = 215;
-		var magic_name_str_638207 = magic_name_strs_612041[0][chckIndx(10, 0, magic_name_strs_612041[0].length+0-1)-0];
-		F.line = 216;
-		var fun_638209 = HEX5BHEX5D_523323(get_type_dict_617304(self_638201), magic_name_str_638207);
-		F.line = 217;
-		result_638039 = fast_call_599133(fun_638209, [self_638201]);
-		break BeforeRet;
-	} while (false);
-	framePtr = F.prev;
-
-	return result_638039;
-
-}
-
-function index_py_instance_object_magic_638236(self_no_cast_638238) {
-	var result_638239 = null;
-
-	var F={procname:"typeobject.indexPyInstanceObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
-	framePtr = F;
-	BeforeRet: do {
-		if (!(isObj(self_no_cast_638238.m_type, NTI626109))) {
+		if (!(isObj(self_no_cast_638238.m_type, NTI628109))) {
 		F.line = 438;
 		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Objects/pyobject.nim(438, 33) `selfNoCast of PyInstanceObject` "));
 		}
 		
 		F.line = 438;
 		var self_638401 = self_no_cast_638238;
-		F.line = 215;
-		var magic_name_str_638407 = magic_name_strs_612041[0][chckIndx(11, 0, magic_name_strs_612041[0].length+0-1)-0];
-		F.line = 216;
-		var fun_638409 = HEX5BHEX5D_523323(get_type_dict_617304(self_638401), magic_name_str_638407);
-		F.line = 217;
-		result_638239 = fast_call_599133(fun_638409, [self_638401]);
+		F.line = 221;
+		var magic_name_str_638407 = magic_name_strs_614041[0][chckIndx(1, 0, magic_name_strs_614041[0].length+0-1)-0];
+		F.line = 222;
+		var fun_638409 = HEX5BHEX5D_523323(get_type_dict_619304(self_638401), magic_name_str_638407);
+		F.line = 223;
+		result_638240 = fast_call_601133(fun_638409, [self_638401, other_638239]);
 		break BeforeRet;
 	} while (false);
 	framePtr = F.prev;
 
-	return result_638239;
+	return result_638240;
 
 }
 
-function bool_py_instance_object_magic_638436(self_no_cast_638438) {
-	var result_638439 = null;
+function mul_py_instance_object_magic_638436(self_no_cast_638438, other_638439) {
+	var result_638440 = null;
 
-	var F={procname:"typeobject.boolPyInstanceObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
+	var F={procname:"typeobject.mulPyInstanceObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
 	framePtr = F;
 	BeforeRet: do {
-		if (!(isObj(self_no_cast_638438.m_type, NTI626109))) {
+		if (!(isObj(self_no_cast_638438.m_type, NTI628109))) {
 		F.line = 438;
 		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Objects/pyobject.nim(438, 33) `selfNoCast of PyInstanceObject` "));
 		}
 		
 		F.line = 438;
 		var self_638601 = self_no_cast_638438;
-		F.line = 215;
-		var magic_name_str_638607 = magic_name_strs_612041[0][chckIndx(12, 0, magic_name_strs_612041[0].length+0-1)-0];
-		F.line = 216;
-		var fun_638609 = HEX5BHEX5D_523323(get_type_dict_617304(self_638601), magic_name_str_638607);
-		F.line = 217;
-		result_638439 = fast_call_599133(fun_638609, [self_638601]);
+		F.line = 221;
+		var magic_name_str_638607 = magic_name_strs_614041[0][chckIndx(2, 0, magic_name_strs_614041[0].length+0-1)-0];
+		F.line = 222;
+		var fun_638609 = HEX5BHEX5D_523323(get_type_dict_619304(self_638601), magic_name_str_638607);
+		F.line = 223;
+		result_638440 = fast_call_601133(fun_638609, [self_638601, other_638439]);
 		break BeforeRet;
 	} while (false);
 	framePtr = F.prev;
 
-	return result_638439;
+	return result_638440;
 
 }
 
-function and_py_instance_object_magic_638636(self_no_cast_638638, other_638639) {
+function truediv_py_instance_object_magic_638636(self_no_cast_638638, other_638639) {
 	var result_638640 = null;
 
-	var F={procname:"typeobject.andPyInstanceObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
+	var F={procname:"typeobject.truedivPyInstanceObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
 	framePtr = F;
 	BeforeRet: do {
-		if (!(isObj(self_no_cast_638638.m_type, NTI626109))) {
+		if (!(isObj(self_no_cast_638638.m_type, NTI628109))) {
 		F.line = 438;
 		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Objects/pyobject.nim(438, 33) `selfNoCast of PyInstanceObject` "));
 		}
@@ -27951,11 +27720,11 @@ function and_py_instance_object_magic_638636(self_no_cast_638638, other_638639) 
 		F.line = 438;
 		var self_638801 = self_no_cast_638638;
 		F.line = 221;
-		var magic_name_str_638807 = magic_name_strs_612041[0][chckIndx(13, 0, magic_name_strs_612041[0].length+0-1)-0];
+		var magic_name_str_638807 = magic_name_strs_614041[0][chckIndx(3, 0, magic_name_strs_614041[0].length+0-1)-0];
 		F.line = 222;
-		var fun_638809 = HEX5BHEX5D_523323(get_type_dict_617304(self_638801), magic_name_str_638807);
+		var fun_638809 = HEX5BHEX5D_523323(get_type_dict_619304(self_638801), magic_name_str_638807);
 		F.line = 223;
-		result_638640 = fast_call_599133(fun_638809, [self_638801, other_638639]);
+		result_638640 = fast_call_601133(fun_638809, [self_638801, other_638639]);
 		break BeforeRet;
 	} while (false);
 	framePtr = F.prev;
@@ -27964,13 +27733,13 @@ function and_py_instance_object_magic_638636(self_no_cast_638638, other_638639) 
 
 }
 
-function xor_py_instance_object_magic_638836(self_no_cast_638838, other_638839) {
+function floordiv_py_instance_object_magic_638836(self_no_cast_638838, other_638839) {
 	var result_638840 = null;
 
-	var F={procname:"typeobject.xorPyInstanceObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
+	var F={procname:"typeobject.floordivPyInstanceObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
 	framePtr = F;
 	BeforeRet: do {
-		if (!(isObj(self_no_cast_638838.m_type, NTI626109))) {
+		if (!(isObj(self_no_cast_638838.m_type, NTI628109))) {
 		F.line = 438;
 		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Objects/pyobject.nim(438, 33) `selfNoCast of PyInstanceObject` "));
 		}
@@ -27978,11 +27747,11 @@ function xor_py_instance_object_magic_638836(self_no_cast_638838, other_638839) 
 		F.line = 438;
 		var self_639001 = self_no_cast_638838;
 		F.line = 221;
-		var magic_name_str_639007 = magic_name_strs_612041[0][chckIndx(14, 0, magic_name_strs_612041[0].length+0-1)-0];
+		var magic_name_str_639007 = magic_name_strs_614041[0][chckIndx(4, 0, magic_name_strs_614041[0].length+0-1)-0];
 		F.line = 222;
-		var fun_639009 = HEX5BHEX5D_523323(get_type_dict_617304(self_639001), magic_name_str_639007);
+		var fun_639009 = HEX5BHEX5D_523323(get_type_dict_619304(self_639001), magic_name_str_639007);
 		F.line = 223;
-		result_638840 = fast_call_599133(fun_639009, [self_639001, other_638839]);
+		result_638840 = fast_call_601133(fun_639009, [self_639001, other_638839]);
 		break BeforeRet;
 	} while (false);
 	framePtr = F.prev;
@@ -27991,13 +27760,13 @@ function xor_py_instance_object_magic_638836(self_no_cast_638838, other_638839) 
 
 }
 
-function or_py_instance_object_magic_639036(self_no_cast_639038, other_639039) {
+function mod_py_instance_object_magic_639036(self_no_cast_639038, other_639039) {
 	var result_639040 = null;
 
-	var F={procname:"typeobject.orPyInstanceObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
+	var F={procname:"typeobject.modPyInstanceObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
 	framePtr = F;
 	BeforeRet: do {
-		if (!(isObj(self_no_cast_639038.m_type, NTI626109))) {
+		if (!(isObj(self_no_cast_639038.m_type, NTI628109))) {
 		F.line = 438;
 		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Objects/pyobject.nim(438, 33) `selfNoCast of PyInstanceObject` "));
 		}
@@ -28005,11 +27774,11 @@ function or_py_instance_object_magic_639036(self_no_cast_639038, other_639039) {
 		F.line = 438;
 		var self_639201 = self_no_cast_639038;
 		F.line = 221;
-		var magic_name_str_639207 = magic_name_strs_612041[0][chckIndx(15, 0, magic_name_strs_612041[0].length+0-1)-0];
+		var magic_name_str_639207 = magic_name_strs_614041[0][chckIndx(5, 0, magic_name_strs_614041[0].length+0-1)-0];
 		F.line = 222;
-		var fun_639209 = HEX5BHEX5D_523323(get_type_dict_617304(self_639201), magic_name_str_639207);
+		var fun_639209 = HEX5BHEX5D_523323(get_type_dict_619304(self_639201), magic_name_str_639207);
 		F.line = 223;
-		result_639040 = fast_call_599133(fun_639209, [self_639201, other_639039]);
+		result_639040 = fast_call_601133(fun_639209, [self_639201, other_639039]);
 		break BeforeRet;
 	} while (false);
 	framePtr = F.prev;
@@ -28018,13 +27787,13 @@ function or_py_instance_object_magic_639036(self_no_cast_639038, other_639039) {
 
 }
 
-function lt_py_instance_object_magic_639236(self_no_cast_639238, other_639239) {
+function pow_py_instance_object_magic_639236(self_no_cast_639238, other_639239) {
 	var result_639240 = null;
 
-	var F={procname:"typeobject.ltPyInstanceObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
+	var F={procname:"typeobject.powPyInstanceObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
 	framePtr = F;
 	BeforeRet: do {
-		if (!(isObj(self_no_cast_639238.m_type, NTI626109))) {
+		if (!(isObj(self_no_cast_639238.m_type, NTI628109))) {
 		F.line = 438;
 		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Objects/pyobject.nim(438, 33) `selfNoCast of PyInstanceObject` "));
 		}
@@ -28032,11 +27801,11 @@ function lt_py_instance_object_magic_639236(self_no_cast_639238, other_639239) {
 		F.line = 438;
 		var self_639401 = self_no_cast_639238;
 		F.line = 221;
-		var magic_name_str_639407 = magic_name_strs_612041[0][chckIndx(16, 0, magic_name_strs_612041[0].length+0-1)-0];
+		var magic_name_str_639407 = magic_name_strs_614041[0][chckIndx(6, 0, magic_name_strs_614041[0].length+0-1)-0];
 		F.line = 222;
-		var fun_639409 = HEX5BHEX5D_523323(get_type_dict_617304(self_639401), magic_name_str_639407);
+		var fun_639409 = HEX5BHEX5D_523323(get_type_dict_619304(self_639401), magic_name_str_639407);
 		F.line = 223;
-		result_639240 = fast_call_599133(fun_639409, [self_639401, other_639239]);
+		result_639240 = fast_call_601133(fun_639409, [self_639401, other_639239]);
 		break BeforeRet;
 	} while (false);
 	framePtr = F.prev;
@@ -28045,499 +27814,499 @@ function lt_py_instance_object_magic_639236(self_no_cast_639238, other_639239) {
 
 }
 
-function le_py_instance_object_magic_639436(self_no_cast_639438, other_639439) {
-	var result_639440 = null;
+function not_py_instance_object_magic_639436(self_no_cast_639438) {
+	var result_639439 = null;
 
-	var F={procname:"typeobject.lePyInstanceObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
+	var F={procname:"typeobject.notPyInstanceObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
 	framePtr = F;
 	BeforeRet: do {
-		if (!(isObj(self_no_cast_639438.m_type, NTI626109))) {
+		if (!(isObj(self_no_cast_639438.m_type, NTI628109))) {
 		F.line = 438;
 		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Objects/pyobject.nim(438, 33) `selfNoCast of PyInstanceObject` "));
 		}
 		
 		F.line = 438;
 		var self_639601 = self_no_cast_639438;
-		F.line = 221;
-		var magic_name_str_639607 = magic_name_strs_612041[0][chckIndx(17, 0, magic_name_strs_612041[0].length+0-1)-0];
-		F.line = 222;
-		var fun_639609 = HEX5BHEX5D_523323(get_type_dict_617304(self_639601), magic_name_str_639607);
-		F.line = 223;
-		result_639440 = fast_call_599133(fun_639609, [self_639601, other_639439]);
+		F.line = 215;
+		var magic_name_str_639607 = magic_name_strs_614041[0][chckIndx(7, 0, magic_name_strs_614041[0].length+0-1)-0];
+		F.line = 216;
+		var fun_639609 = HEX5BHEX5D_523323(get_type_dict_619304(self_639601), magic_name_str_639607);
+		F.line = 217;
+		result_639439 = fast_call_601133(fun_639609, [self_639601]);
 		break BeforeRet;
 	} while (false);
 	framePtr = F.prev;
 
-	return result_639440;
+	return result_639439;
 
 }
 
-function eq_py_instance_object_magic_639636(self_no_cast_639638, other_639639) {
-	var result_639640 = null;
+function negative_py_instance_object_magic_639636(self_no_cast_639638) {
+	var result_639639 = null;
 
-	var F={procname:"typeobject.eqPyInstanceObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
+	var F={procname:"typeobject.negativePyInstanceObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
 	framePtr = F;
 	BeforeRet: do {
-		if (!(isObj(self_no_cast_639638.m_type, NTI626109))) {
+		if (!(isObj(self_no_cast_639638.m_type, NTI628109))) {
 		F.line = 438;
 		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Objects/pyobject.nim(438, 33) `selfNoCast of PyInstanceObject` "));
 		}
 		
 		F.line = 438;
 		var self_639801 = self_no_cast_639638;
-		F.line = 221;
-		var magic_name_str_639807 = magic_name_strs_612041[0][chckIndx(18, 0, magic_name_strs_612041[0].length+0-1)-0];
-		F.line = 222;
-		var fun_639809 = HEX5BHEX5D_523323(get_type_dict_617304(self_639801), magic_name_str_639807);
-		F.line = 223;
-		result_639640 = fast_call_599133(fun_639809, [self_639801, other_639639]);
+		F.line = 215;
+		var magic_name_str_639807 = magic_name_strs_614041[0][chckIndx(8, 0, magic_name_strs_614041[0].length+0-1)-0];
+		F.line = 216;
+		var fun_639809 = HEX5BHEX5D_523323(get_type_dict_619304(self_639801), magic_name_str_639807);
+		F.line = 217;
+		result_639639 = fast_call_601133(fun_639809, [self_639801]);
 		break BeforeRet;
 	} while (false);
 	framePtr = F.prev;
 
-	return result_639640;
+	return result_639639;
 
 }
 
-function ne_py_instance_object_magic_639836(self_no_cast_639838, other_639839) {
-	var result_639840 = null;
+function positive_py_instance_object_magic_639836(self_no_cast_639838) {
+	var result_639839 = null;
 
-	var F={procname:"typeobject.nePyInstanceObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
+	var F={procname:"typeobject.positivePyInstanceObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
 	framePtr = F;
 	BeforeRet: do {
-		if (!(isObj(self_no_cast_639838.m_type, NTI626109))) {
+		if (!(isObj(self_no_cast_639838.m_type, NTI628109))) {
 		F.line = 438;
 		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Objects/pyobject.nim(438, 33) `selfNoCast of PyInstanceObject` "));
 		}
 		
 		F.line = 438;
 		var self_640001 = self_no_cast_639838;
-		F.line = 221;
-		var magic_name_str_640007 = magic_name_strs_612041[0][chckIndx(19, 0, magic_name_strs_612041[0].length+0-1)-0];
-		F.line = 222;
-		var fun_640009 = HEX5BHEX5D_523323(get_type_dict_617304(self_640001), magic_name_str_640007);
-		F.line = 223;
-		result_639840 = fast_call_599133(fun_640009, [self_640001, other_639839]);
+		F.line = 215;
+		var magic_name_str_640007 = magic_name_strs_614041[0][chckIndx(9, 0, magic_name_strs_614041[0].length+0-1)-0];
+		F.line = 216;
+		var fun_640009 = HEX5BHEX5D_523323(get_type_dict_619304(self_640001), magic_name_str_640007);
+		F.line = 217;
+		result_639839 = fast_call_601133(fun_640009, [self_640001]);
 		break BeforeRet;
 	} while (false);
 	framePtr = F.prev;
 
-	return result_639840;
+	return result_639839;
 
 }
 
-function gt_py_instance_object_magic_640036(self_no_cast_640038, other_640039) {
-	var result_640040 = null;
+function abs_py_instance_object_magic_640036(self_no_cast_640038) {
+	var result_640039 = null;
 
-	var F={procname:"typeobject.gtPyInstanceObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
+	var F={procname:"typeobject.absPyInstanceObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
 	framePtr = F;
 	BeforeRet: do {
-		if (!(isObj(self_no_cast_640038.m_type, NTI626109))) {
+		if (!(isObj(self_no_cast_640038.m_type, NTI628109))) {
 		F.line = 438;
 		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Objects/pyobject.nim(438, 33) `selfNoCast of PyInstanceObject` "));
 		}
 		
 		F.line = 438;
 		var self_640201 = self_no_cast_640038;
-		F.line = 221;
-		var magic_name_str_640207 = magic_name_strs_612041[0][chckIndx(20, 0, magic_name_strs_612041[0].length+0-1)-0];
-		F.line = 222;
-		var fun_640209 = HEX5BHEX5D_523323(get_type_dict_617304(self_640201), magic_name_str_640207);
-		F.line = 223;
-		result_640040 = fast_call_599133(fun_640209, [self_640201, other_640039]);
+		F.line = 215;
+		var magic_name_str_640207 = magic_name_strs_614041[0][chckIndx(10, 0, magic_name_strs_614041[0].length+0-1)-0];
+		F.line = 216;
+		var fun_640209 = HEX5BHEX5D_523323(get_type_dict_619304(self_640201), magic_name_str_640207);
+		F.line = 217;
+		result_640039 = fast_call_601133(fun_640209, [self_640201]);
 		break BeforeRet;
 	} while (false);
 	framePtr = F.prev;
 
-	return result_640040;
+	return result_640039;
 
 }
 
-function ge_py_instance_object_magic_640236(self_no_cast_640238, other_640239) {
-	var result_640240 = null;
+function index_py_instance_object_magic_640236(self_no_cast_640238) {
+	var result_640239 = null;
 
-	var F={procname:"typeobject.gePyInstanceObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
+	var F={procname:"typeobject.indexPyInstanceObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
 	framePtr = F;
 	BeforeRet: do {
-		if (!(isObj(self_no_cast_640238.m_type, NTI626109))) {
+		if (!(isObj(self_no_cast_640238.m_type, NTI628109))) {
 		F.line = 438;
 		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Objects/pyobject.nim(438, 33) `selfNoCast of PyInstanceObject` "));
 		}
 		
 		F.line = 438;
 		var self_640401 = self_no_cast_640238;
-		F.line = 221;
-		var magic_name_str_640407 = magic_name_strs_612041[0][chckIndx(21, 0, magic_name_strs_612041[0].length+0-1)-0];
-		F.line = 222;
-		var fun_640409 = HEX5BHEX5D_523323(get_type_dict_617304(self_640401), magic_name_str_640407);
-		F.line = 223;
-		result_640240 = fast_call_599133(fun_640409, [self_640401, other_640239]);
+		F.line = 215;
+		var magic_name_str_640407 = magic_name_strs_614041[0][chckIndx(11, 0, magic_name_strs_614041[0].length+0-1)-0];
+		F.line = 216;
+		var fun_640409 = HEX5BHEX5D_523323(get_type_dict_619304(self_640401), magic_name_str_640407);
+		F.line = 217;
+		result_640239 = fast_call_601133(fun_640409, [self_640401]);
 		break BeforeRet;
 	} while (false);
 	framePtr = F.prev;
 
-	return result_640240;
+	return result_640239;
 
 }
 
-function contains_py_instance_object_magic_640436(self_no_cast_640438, other_640439) {
-	var result_640440 = null;
+function bool_py_instance_object_magic_640436(self_no_cast_640438) {
+	var result_640439 = null;
 
-	var F={procname:"typeobject.containsPyInstanceObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
+	var F={procname:"typeobject.boolPyInstanceObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
 	framePtr = F;
 	BeforeRet: do {
-		if (!(isObj(self_no_cast_640438.m_type, NTI626109))) {
+		if (!(isObj(self_no_cast_640438.m_type, NTI628109))) {
 		F.line = 438;
 		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Objects/pyobject.nim(438, 33) `selfNoCast of PyInstanceObject` "));
 		}
 		
 		F.line = 438;
 		var self_640601 = self_no_cast_640438;
-		F.line = 221;
-		var magic_name_str_640607 = magic_name_strs_612041[0][chckIndx(22, 0, magic_name_strs_612041[0].length+0-1)-0];
-		F.line = 222;
-		var fun_640609 = HEX5BHEX5D_523323(get_type_dict_617304(self_640601), magic_name_str_640607);
-		F.line = 223;
-		result_640440 = fast_call_599133(fun_640609, [self_640601, other_640439]);
+		F.line = 215;
+		var magic_name_str_640607 = magic_name_strs_614041[0][chckIndx(12, 0, magic_name_strs_614041[0].length+0-1)-0];
+		F.line = 216;
+		var fun_640609 = HEX5BHEX5D_523323(get_type_dict_619304(self_640601), magic_name_str_640607);
+		F.line = 217;
+		result_640439 = fast_call_601133(fun_640609, [self_640601]);
 		break BeforeRet;
 	} while (false);
 	framePtr = F.prev;
 
-	return result_640440;
+	return result_640439;
 
 }
 
-function len_py_instance_object_magic_640636(self_no_cast_640638) {
-	var result_640639 = null;
+function and_py_instance_object_magic_640636(self_no_cast_640638, other_640639) {
+	var result_640640 = null;
 
-	var F={procname:"typeobject.lenPyInstanceObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
+	var F={procname:"typeobject.andPyInstanceObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
 	framePtr = F;
 	BeforeRet: do {
-		if (!(isObj(self_no_cast_640638.m_type, NTI626109))) {
+		if (!(isObj(self_no_cast_640638.m_type, NTI628109))) {
 		F.line = 438;
 		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Objects/pyobject.nim(438, 33) `selfNoCast of PyInstanceObject` "));
 		}
 		
 		F.line = 438;
 		var self_640801 = self_no_cast_640638;
-		F.line = 215;
-		var magic_name_str_640807 = magic_name_strs_612041[0][chckIndx(23, 0, magic_name_strs_612041[0].length+0-1)-0];
-		F.line = 216;
-		var fun_640809 = HEX5BHEX5D_523323(get_type_dict_617304(self_640801), magic_name_str_640807);
-		F.line = 217;
-		result_640639 = fast_call_599133(fun_640809, [self_640801]);
+		F.line = 221;
+		var magic_name_str_640807 = magic_name_strs_614041[0][chckIndx(13, 0, magic_name_strs_614041[0].length+0-1)-0];
+		F.line = 222;
+		var fun_640809 = HEX5BHEX5D_523323(get_type_dict_619304(self_640801), magic_name_str_640807);
+		F.line = 223;
+		result_640640 = fast_call_601133(fun_640809, [self_640801, other_640639]);
 		break BeforeRet;
 	} while (false);
 	framePtr = F.prev;
 
-	return result_640639;
+	return result_640640;
 
 }
 
-function str_py_instance_object_magic_640836(self_no_cast_640838) {
-	var result_640839 = null;
+function xor_py_instance_object_magic_640836(self_no_cast_640838, other_640839) {
+	var result_640840 = null;
 
-	var F={procname:"typeobject.strPyInstanceObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
+	var F={procname:"typeobject.xorPyInstanceObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
 	framePtr = F;
 	BeforeRet: do {
-		if (!(isObj(self_no_cast_640838.m_type, NTI626109))) {
+		if (!(isObj(self_no_cast_640838.m_type, NTI628109))) {
 		F.line = 438;
 		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Objects/pyobject.nim(438, 33) `selfNoCast of PyInstanceObject` "));
 		}
 		
 		F.line = 438;
 		var self_641001 = self_no_cast_640838;
-		F.line = 215;
-		var magic_name_str_641007 = magic_name_strs_612041[0][chckIndx(24, 0, magic_name_strs_612041[0].length+0-1)-0];
-		F.line = 216;
-		var fun_641009 = HEX5BHEX5D_523323(get_type_dict_617304(self_641001), magic_name_str_641007);
-		F.line = 217;
-		result_640839 = fast_call_599133(fun_641009, [self_641001]);
+		F.line = 221;
+		var magic_name_str_641007 = magic_name_strs_614041[0][chckIndx(14, 0, magic_name_strs_614041[0].length+0-1)-0];
+		F.line = 222;
+		var fun_641009 = HEX5BHEX5D_523323(get_type_dict_619304(self_641001), magic_name_str_641007);
+		F.line = 223;
+		result_640840 = fast_call_601133(fun_641009, [self_641001, other_640839]);
 		break BeforeRet;
 	} while (false);
 	framePtr = F.prev;
 
-	return result_640839;
+	return result_640840;
 
 }
 
-function repr_py_instance_object_magic_641036(self_no_cast_641038) {
-	var result_641039 = null;
+function or_py_instance_object_magic_641036(self_no_cast_641038, other_641039) {
+	var result_641040 = null;
 
-	var F={procname:"typeobject.reprPyInstanceObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
+	var F={procname:"typeobject.orPyInstanceObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
 	framePtr = F;
 	BeforeRet: do {
-		if (!(isObj(self_no_cast_641038.m_type, NTI626109))) {
+		if (!(isObj(self_no_cast_641038.m_type, NTI628109))) {
 		F.line = 438;
 		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Objects/pyobject.nim(438, 33) `selfNoCast of PyInstanceObject` "));
 		}
 		
 		F.line = 438;
 		var self_641201 = self_no_cast_641038;
-		F.line = 215;
-		var magic_name_str_641207 = magic_name_strs_612041[0][chckIndx(25, 0, magic_name_strs_612041[0].length+0-1)-0];
-		F.line = 216;
-		var fun_641209 = HEX5BHEX5D_523323(get_type_dict_617304(self_641201), magic_name_str_641207);
-		F.line = 217;
-		result_641039 = fast_call_599133(fun_641209, [self_641201]);
+		F.line = 221;
+		var magic_name_str_641207 = magic_name_strs_614041[0][chckIndx(15, 0, magic_name_strs_614041[0].length+0-1)-0];
+		F.line = 222;
+		var fun_641209 = HEX5BHEX5D_523323(get_type_dict_619304(self_641201), magic_name_str_641207);
+		F.line = 223;
+		result_641040 = fast_call_601133(fun_641209, [self_641201, other_641039]);
 		break BeforeRet;
 	} while (false);
 	framePtr = F.prev;
 
-	return result_641039;
+	return result_641040;
 
 }
 
-function init_py_instance_object_magic_641236(self_no_cast_641238, args_641252) {
-	var result_641253 = null;
+function lt_py_instance_object_magic_641236(self_no_cast_641238, other_641239) {
+	var result_641240 = null;
 
-	var F={procname:"typeobject.initPyInstanceObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
+	var F={procname:"typeobject.ltPyInstanceObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
 	framePtr = F;
 	BeforeRet: do {
-		if (!(isObj(self_no_cast_641238.m_type, NTI626109))) {
+		if (!(isObj(self_no_cast_641238.m_type, NTI628109))) {
 		F.line = 438;
 		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Objects/pyobject.nim(438, 33) `selfNoCast of PyInstanceObject` "));
 		}
 		
 		F.line = 438;
 		var self_641401 = self_no_cast_641238;
-		F.line = 239;
-		var magic_name_str_641407 = magic_name_strs_612041[0][chckIndx(27, 0, magic_name_strs_612041[0].length+0-1)-0];
-		F.line = 240;
-		var fun_641409 = HEX5BHEX5D_523323(get_type_dict_617304(self_641401), magic_name_str_641407);
-		F.line = 241;
-		result_641253 = fast_call_599133(fun_641409, HEX26_598015([self_641401], args_641252));
+		F.line = 221;
+		var magic_name_str_641407 = magic_name_strs_614041[0][chckIndx(16, 0, magic_name_strs_614041[0].length+0-1)-0];
+		F.line = 222;
+		var fun_641409 = HEX5BHEX5D_523323(get_type_dict_619304(self_641401), magic_name_str_641407);
+		F.line = 223;
+		result_641240 = fast_call_601133(fun_641409, [self_641401, other_641239]);
 		break BeforeRet;
 	} while (false);
 	framePtr = F.prev;
 
-	return result_641253;
+	return result_641240;
 
 }
 
-function getattr_py_instance_object_magic_641447(self_no_cast_641449, other_641450) {
-	var result_641451 = null;
+function le_py_instance_object_magic_641436(self_no_cast_641438, other_641439) {
+	var result_641440 = null;
 
-	var F={procname:"typeobject.getattrPyInstanceObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
+	var F={procname:"typeobject.lePyInstanceObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
 	framePtr = F;
 	BeforeRet: do {
-		if (!(isObj(self_no_cast_641449.m_type, NTI626109))) {
+		if (!(isObj(self_no_cast_641438.m_type, NTI628109))) {
 		F.line = 438;
 		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Objects/pyobject.nim(438, 33) `selfNoCast of PyInstanceObject` "));
 		}
 		
 		F.line = 438;
-		var self_641601 = self_no_cast_641449;
+		var self_641601 = self_no_cast_641438;
 		F.line = 221;
-		var magic_name_str_641607 = magic_name_strs_612041[0][chckIndx(28, 0, magic_name_strs_612041[0].length+0-1)-0];
+		var magic_name_str_641607 = magic_name_strs_614041[0][chckIndx(17, 0, magic_name_strs_614041[0].length+0-1)-0];
 		F.line = 222;
-		var fun_641609 = HEX5BHEX5D_523323(get_type_dict_617304(self_641601), magic_name_str_641607);
+		var fun_641609 = HEX5BHEX5D_523323(get_type_dict_619304(self_641601), magic_name_str_641607);
 		F.line = 223;
-		result_641451 = fast_call_599133(fun_641609, [self_641601, other_641450]);
+		result_641440 = fast_call_601133(fun_641609, [self_641601, other_641439]);
 		break BeforeRet;
 	} while (false);
 	framePtr = F.prev;
 
-	return result_641451;
+	return result_641440;
 
 }
 
-function setattr_py_instance_object_magic_641636(self_no_cast_641638, arg1_641639, arg2_641640) {
-	var result_641641 = null;
+function eq_py_instance_object_magic_641636(self_no_cast_641638, other_641639) {
+	var result_641640 = null;
 
-	var F={procname:"typeobject.setattrPyInstanceObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
+	var F={procname:"typeobject.eqPyInstanceObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
 	framePtr = F;
 	BeforeRet: do {
-		if (!(isObj(self_no_cast_641638.m_type, NTI626109))) {
+		if (!(isObj(self_no_cast_641638.m_type, NTI628109))) {
 		F.line = 438;
 		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Objects/pyobject.nim(438, 33) `selfNoCast of PyInstanceObject` "));
 		}
 		
 		F.line = 438;
 		var self_641801 = self_no_cast_641638;
-		F.line = 227;
-		var magic_name_str_641807 = magic_name_strs_612041[0][chckIndx(29, 0, magic_name_strs_612041[0].length+0-1)-0];
-		F.line = 228;
-		var fun_641809 = HEX5BHEX5D_523323(get_type_dict_617304(self_641801), magic_name_str_641807);
-		F.line = 229;
-		result_641641 = fast_call_599133(fun_641809, [self_641801, arg1_641639, arg2_641640]);
+		F.line = 221;
+		var magic_name_str_641807 = magic_name_strs_614041[0][chckIndx(18, 0, magic_name_strs_614041[0].length+0-1)-0];
+		F.line = 222;
+		var fun_641809 = HEX5BHEX5D_523323(get_type_dict_619304(self_641801), magic_name_str_641807);
+		F.line = 223;
+		result_641640 = fast_call_601133(fun_641809, [self_641801, other_641639]);
 		break BeforeRet;
 	} while (false);
 	framePtr = F.prev;
 
-	return result_641641;
+	return result_641640;
 
 }
 
-function hash_py_instance_object_magic_641836(self_no_cast_641838) {
-	var result_641839 = null;
+function ne_py_instance_object_magic_641836(self_no_cast_641838, other_641839) {
+	var result_641840 = null;
 
-	var F={procname:"typeobject.hashPyInstanceObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
+	var F={procname:"typeobject.nePyInstanceObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
 	framePtr = F;
 	BeforeRet: do {
-		if (!(isObj(self_no_cast_641838.m_type, NTI626109))) {
+		if (!(isObj(self_no_cast_641838.m_type, NTI628109))) {
 		F.line = 438;
 		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Objects/pyobject.nim(438, 33) `selfNoCast of PyInstanceObject` "));
 		}
 		
 		F.line = 438;
 		var self_642001 = self_no_cast_641838;
-		F.line = 215;
-		var magic_name_str_642007 = magic_name_strs_612041[0][chckIndx(30, 0, magic_name_strs_612041[0].length+0-1)-0];
-		F.line = 216;
-		var fun_642009 = HEX5BHEX5D_523323(get_type_dict_617304(self_642001), magic_name_str_642007);
-		F.line = 217;
-		result_641839 = fast_call_599133(fun_642009, [self_642001]);
+		F.line = 221;
+		var magic_name_str_642007 = magic_name_strs_614041[0][chckIndx(19, 0, magic_name_strs_614041[0].length+0-1)-0];
+		F.line = 222;
+		var fun_642009 = HEX5BHEX5D_523323(get_type_dict_619304(self_642001), magic_name_str_642007);
+		F.line = 223;
+		result_641840 = fast_call_601133(fun_642009, [self_642001, other_641839]);
 		break BeforeRet;
 	} while (false);
 	framePtr = F.prev;
 
-	return result_641839;
+	return result_641840;
 
 }
 
-function call_py_instance_object_magic_642036(self_no_cast_642038, args_642052) {
-	var result_642053 = null;
+function gt_py_instance_object_magic_642036(self_no_cast_642038, other_642039) {
+	var result_642040 = null;
 
-	var F={procname:"typeobject.callPyInstanceObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
+	var F={procname:"typeobject.gtPyInstanceObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
 	framePtr = F;
 	BeforeRet: do {
-		if (!(isObj(self_no_cast_642038.m_type, NTI626109))) {
+		if (!(isObj(self_no_cast_642038.m_type, NTI628109))) {
 		F.line = 438;
 		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Objects/pyobject.nim(438, 33) `selfNoCast of PyInstanceObject` "));
 		}
 		
 		F.line = 438;
 		var self_642201 = self_no_cast_642038;
-		F.line = 239;
-		var magic_name_str_642207 = magic_name_strs_612041[0][chckIndx(31, 0, magic_name_strs_612041[0].length+0-1)-0];
-		F.line = 240;
-		var fun_642209 = HEX5BHEX5D_523323(get_type_dict_617304(self_642201), magic_name_str_642207);
-		F.line = 241;
-		result_642053 = fast_call_599133(fun_642209, HEX26_598015([self_642201], args_642052));
+		F.line = 221;
+		var magic_name_str_642207 = magic_name_strs_614041[0][chckIndx(20, 0, magic_name_strs_614041[0].length+0-1)-0];
+		F.line = 222;
+		var fun_642209 = HEX5BHEX5D_523323(get_type_dict_619304(self_642201), magic_name_str_642207);
+		F.line = 223;
+		result_642040 = fast_call_601133(fun_642209, [self_642201, other_642039]);
 		break BeforeRet;
 	} while (false);
 	framePtr = F.prev;
 
-	return result_642053;
+	return result_642040;
 
 }
 
-function getitem_py_instance_object_magic_642247(self_no_cast_642249, other_642250) {
-	var result_642251 = null;
+function ge_py_instance_object_magic_642236(self_no_cast_642238, other_642239) {
+	var result_642240 = null;
 
-	var F={procname:"typeobject.getitemPyInstanceObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
+	var F={procname:"typeobject.gePyInstanceObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
 	framePtr = F;
 	BeforeRet: do {
-		if (!(isObj(self_no_cast_642249.m_type, NTI626109))) {
+		if (!(isObj(self_no_cast_642238.m_type, NTI628109))) {
 		F.line = 438;
 		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Objects/pyobject.nim(438, 33) `selfNoCast of PyInstanceObject` "));
 		}
 		
 		F.line = 438;
-		var self_642401 = self_no_cast_642249;
+		var self_642401 = self_no_cast_642238;
 		F.line = 221;
-		var magic_name_str_642407 = magic_name_strs_612041[0][chckIndx(32, 0, magic_name_strs_612041[0].length+0-1)-0];
+		var magic_name_str_642407 = magic_name_strs_614041[0][chckIndx(21, 0, magic_name_strs_614041[0].length+0-1)-0];
 		F.line = 222;
-		var fun_642409 = HEX5BHEX5D_523323(get_type_dict_617304(self_642401), magic_name_str_642407);
+		var fun_642409 = HEX5BHEX5D_523323(get_type_dict_619304(self_642401), magic_name_str_642407);
 		F.line = 223;
-		result_642251 = fast_call_599133(fun_642409, [self_642401, other_642250]);
+		result_642240 = fast_call_601133(fun_642409, [self_642401, other_642239]);
 		break BeforeRet;
 	} while (false);
 	framePtr = F.prev;
 
-	return result_642251;
+	return result_642240;
 
 }
 
-function setitem_py_instance_object_magic_642436(self_no_cast_642438, arg1_642439, arg2_642440) {
-	var result_642441 = null;
+function contains_py_instance_object_magic_642436(self_no_cast_642438, other_642439) {
+	var result_642440 = null;
 
-	var F={procname:"typeobject.setitemPyInstanceObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
+	var F={procname:"typeobject.containsPyInstanceObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
 	framePtr = F;
 	BeforeRet: do {
-		if (!(isObj(self_no_cast_642438.m_type, NTI626109))) {
+		if (!(isObj(self_no_cast_642438.m_type, NTI628109))) {
 		F.line = 438;
 		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Objects/pyobject.nim(438, 33) `selfNoCast of PyInstanceObject` "));
 		}
 		
 		F.line = 438;
 		var self_642601 = self_no_cast_642438;
-		F.line = 227;
-		var magic_name_str_642607 = magic_name_strs_612041[0][chckIndx(33, 0, magic_name_strs_612041[0].length+0-1)-0];
-		F.line = 228;
-		var fun_642609 = HEX5BHEX5D_523323(get_type_dict_617304(self_642601), magic_name_str_642607);
-		F.line = 229;
-		result_642441 = fast_call_599133(fun_642609, [self_642601, arg1_642439, arg2_642440]);
+		F.line = 221;
+		var magic_name_str_642607 = magic_name_strs_614041[0][chckIndx(22, 0, magic_name_strs_614041[0].length+0-1)-0];
+		F.line = 222;
+		var fun_642609 = HEX5BHEX5D_523323(get_type_dict_619304(self_642601), magic_name_str_642607);
+		F.line = 223;
+		result_642440 = fast_call_601133(fun_642609, [self_642601, other_642439]);
 		break BeforeRet;
 	} while (false);
 	framePtr = F.prev;
 
-	return result_642441;
+	return result_642440;
 
 }
 
-function get_py_instance_object_magic_642636(self_no_cast_642638, other_642639) {
-	var result_642640 = null;
+function len_py_instance_object_magic_642636(self_no_cast_642638) {
+	var result_642639 = null;
 
-	var F={procname:"typeobject.getPyInstanceObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
+	var F={procname:"typeobject.lenPyInstanceObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
 	framePtr = F;
 	BeforeRet: do {
-		if (!(isObj(self_no_cast_642638.m_type, NTI626109))) {
+		if (!(isObj(self_no_cast_642638.m_type, NTI628109))) {
 		F.line = 438;
 		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Objects/pyobject.nim(438, 33) `selfNoCast of PyInstanceObject` "));
 		}
 		
 		F.line = 438;
 		var self_642801 = self_no_cast_642638;
-		F.line = 221;
-		var magic_name_str_642807 = magic_name_strs_612041[0][chckIndx(34, 0, magic_name_strs_612041[0].length+0-1)-0];
-		F.line = 222;
-		var fun_642809 = HEX5BHEX5D_523323(get_type_dict_617304(self_642801), magic_name_str_642807);
-		F.line = 223;
-		result_642640 = fast_call_599133(fun_642809, [self_642801, other_642639]);
+		F.line = 215;
+		var magic_name_str_642807 = magic_name_strs_614041[0][chckIndx(23, 0, magic_name_strs_614041[0].length+0-1)-0];
+		F.line = 216;
+		var fun_642809 = HEX5BHEX5D_523323(get_type_dict_619304(self_642801), magic_name_str_642807);
+		F.line = 217;
+		result_642639 = fast_call_601133(fun_642809, [self_642801]);
 		break BeforeRet;
 	} while (false);
 	framePtr = F.prev;
 
-	return result_642640;
+	return result_642639;
 
 }
 
-function set_py_instance_object_magic_642836(self_no_cast_642838, arg1_642839, arg2_642840) {
-	var result_642841 = null;
+function str_py_instance_object_magic_642836(self_no_cast_642838) {
+	var result_642839 = null;
 
-	var F={procname:"typeobject.setPyInstanceObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
+	var F={procname:"typeobject.strPyInstanceObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
 	framePtr = F;
 	BeforeRet: do {
-		if (!(isObj(self_no_cast_642838.m_type, NTI626109))) {
+		if (!(isObj(self_no_cast_642838.m_type, NTI628109))) {
 		F.line = 438;
 		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Objects/pyobject.nim(438, 33) `selfNoCast of PyInstanceObject` "));
 		}
 		
 		F.line = 438;
 		var self_643001 = self_no_cast_642838;
-		F.line = 227;
-		var magic_name_str_643007 = magic_name_strs_612041[0][chckIndx(35, 0, magic_name_strs_612041[0].length+0-1)-0];
-		F.line = 228;
-		var fun_643009 = HEX5BHEX5D_523323(get_type_dict_617304(self_643001), magic_name_str_643007);
-		F.line = 229;
-		result_642841 = fast_call_599133(fun_643009, [self_643001, arg1_642839, arg2_642840]);
+		F.line = 215;
+		var magic_name_str_643007 = magic_name_strs_614041[0][chckIndx(24, 0, magic_name_strs_614041[0].length+0-1)-0];
+		F.line = 216;
+		var fun_643009 = HEX5BHEX5D_523323(get_type_dict_619304(self_643001), magic_name_str_643007);
+		F.line = 217;
+		result_642839 = fast_call_601133(fun_643009, [self_643001]);
 		break BeforeRet;
 	} while (false);
 	framePtr = F.prev;
 
-	return result_642841;
+	return result_642839;
 
 }
 
-function iter_py_instance_object_magic_643036(self_no_cast_643038) {
+function repr_py_instance_object_magic_643036(self_no_cast_643038) {
 	var result_643039 = null;
 
-	var F={procname:"typeobject.iterPyInstanceObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
+	var F={procname:"typeobject.reprPyInstanceObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
 	framePtr = F;
 	BeforeRet: do {
-		if (!(isObj(self_no_cast_643038.m_type, NTI626109))) {
+		if (!(isObj(self_no_cast_643038.m_type, NTI628109))) {
 		F.line = 438;
 		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Objects/pyobject.nim(438, 33) `selfNoCast of PyInstanceObject` "));
 		}
@@ -28545,11 +28314,11 @@ function iter_py_instance_object_magic_643036(self_no_cast_643038) {
 		F.line = 438;
 		var self_643201 = self_no_cast_643038;
 		F.line = 215;
-		var magic_name_str_643207 = magic_name_strs_612041[0][chckIndx(36, 0, magic_name_strs_612041[0].length+0-1)-0];
+		var magic_name_str_643207 = magic_name_strs_614041[0][chckIndx(25, 0, magic_name_strs_614041[0].length+0-1)-0];
 		F.line = 216;
-		var fun_643209 = HEX5BHEX5D_523323(get_type_dict_617304(self_643201), magic_name_str_643207);
+		var fun_643209 = HEX5BHEX5D_523323(get_type_dict_619304(self_643201), magic_name_str_643207);
 		F.line = 217;
-		result_643039 = fast_call_599133(fun_643209, [self_643201]);
+		result_643039 = fast_call_601133(fun_643209, [self_643201]);
 		break BeforeRet;
 	} while (false);
 	framePtr = F.prev;
@@ -28558,69 +28327,339 @@ function iter_py_instance_object_magic_643036(self_no_cast_643038) {
 
 }
 
-function iternext_py_instance_object_magic_643236(self_no_cast_643238) {
-	var result_643239 = null;
+function init_py_instance_object_magic_643236(self_no_cast_643238, args_643252) {
+	var result_643253 = null;
 
-	var F={procname:"typeobject.iternextPyInstanceObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
+	var F={procname:"typeobject.initPyInstanceObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
 	framePtr = F;
 	BeforeRet: do {
-		if (!(isObj(self_no_cast_643238.m_type, NTI626109))) {
+		if (!(isObj(self_no_cast_643238.m_type, NTI628109))) {
 		F.line = 438;
 		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Objects/pyobject.nim(438, 33) `selfNoCast of PyInstanceObject` "));
 		}
 		
 		F.line = 438;
 		var self_643401 = self_no_cast_643238;
-		F.line = 215;
-		var magic_name_str_643407 = magic_name_strs_612041[0][chckIndx(37, 0, magic_name_strs_612041[0].length+0-1)-0];
-		F.line = 216;
-		var fun_643409 = HEX5BHEX5D_523323(get_type_dict_617304(self_643401), magic_name_str_643407);
-		F.line = 217;
-		result_643239 = fast_call_599133(fun_643409, [self_643401]);
+		F.line = 239;
+		var magic_name_str_643407 = magic_name_strs_614041[0][chckIndx(27, 0, magic_name_strs_614041[0].length+0-1)-0];
+		F.line = 240;
+		var fun_643409 = HEX5BHEX5D_523323(get_type_dict_619304(self_643401), magic_name_str_643407);
+		F.line = 241;
+		result_643253 = fast_call_601133(fun_643409, HEX26_600015([self_643401], args_643252));
 		break BeforeRet;
 	} while (false);
 	framePtr = F.prev;
 
-	return result_643239;
+	return result_643253;
 
 }
-py_instance_object_type_626113.magicMethods.Field0 = add_py_instance_object_magic_636163;
-py_instance_object_type_626113.magicMethods.Field1 = sub_py_instance_object_magic_636236;
-py_instance_object_type_626113.magicMethods.Field2 = mul_py_instance_object_magic_636436;
-py_instance_object_type_626113.magicMethods.Field3 = truediv_py_instance_object_magic_636636;
-py_instance_object_type_626113.magicMethods.Field4 = floordiv_py_instance_object_magic_636836;
-py_instance_object_type_626113.magicMethods.Field5 = mod_py_instance_object_magic_637036;
-py_instance_object_type_626113.magicMethods.Field6 = pow_py_instance_object_magic_637236;
-py_instance_object_type_626113.magicMethods.Field7 = not_py_instance_object_magic_637436;
-py_instance_object_type_626113.magicMethods.Field8 = negative_py_instance_object_magic_637636;
-py_instance_object_type_626113.magicMethods.Field9 = positive_py_instance_object_magic_637836;
-py_instance_object_type_626113.magicMethods.Field10 = abs_py_instance_object_magic_638036;
-py_instance_object_type_626113.magicMethods.Field11 = index_py_instance_object_magic_638236;
-py_instance_object_type_626113.magicMethods.Field12 = bool_py_instance_object_magic_638436;
-py_instance_object_type_626113.magicMethods.Field13 = and_py_instance_object_magic_638636;
-py_instance_object_type_626113.magicMethods.Field14 = xor_py_instance_object_magic_638836;
-py_instance_object_type_626113.magicMethods.Field15 = or_py_instance_object_magic_639036;
-py_instance_object_type_626113.magicMethods.Field16 = lt_py_instance_object_magic_639236;
-py_instance_object_type_626113.magicMethods.Field17 = le_py_instance_object_magic_639436;
-py_instance_object_type_626113.magicMethods.Field18 = eq_py_instance_object_magic_639636;
-py_instance_object_type_626113.magicMethods.Field19 = ne_py_instance_object_magic_639836;
-py_instance_object_type_626113.magicMethods.Field20 = gt_py_instance_object_magic_640036;
-py_instance_object_type_626113.magicMethods.Field21 = ge_py_instance_object_magic_640236;
-py_instance_object_type_626113.magicMethods.Field22 = contains_py_instance_object_magic_640436;
-py_instance_object_type_626113.magicMethods.Field23 = len_py_instance_object_magic_640636;
-py_instance_object_type_626113.magicMethods.Field24 = str_py_instance_object_magic_640836;
-py_instance_object_type_626113.magicMethods.Field25 = repr_py_instance_object_magic_641036;
-py_instance_object_type_626113.magicMethods.Field27 = init_py_instance_object_magic_641236;
-py_instance_object_type_626113.magicMethods.Field28 = getattr_py_instance_object_magic_641447;
-py_instance_object_type_626113.magicMethods.Field29 = setattr_py_instance_object_magic_641636;
-py_instance_object_type_626113.magicMethods.Field30 = hash_py_instance_object_magic_641836;
-py_instance_object_type_626113.magicMethods.Field31 = call_py_instance_object_magic_642036;
-py_instance_object_type_626113.magicMethods.Field32 = getitem_py_instance_object_magic_642247;
-py_instance_object_type_626113.magicMethods.Field33 = setitem_py_instance_object_magic_642436;
-py_instance_object_type_626113.magicMethods.Field34 = get_py_instance_object_magic_642636;
-py_instance_object_type_626113.magicMethods.Field35 = set_py_instance_object_magic_642836;
-py_instance_object_type_626113.magicMethods.Field36 = iter_py_instance_object_magic_643036;
-py_instance_object_type_626113.magicMethods.Field37 = iternext_py_instance_object_magic_643236;
+
+function getattr_py_instance_object_magic_643447(self_no_cast_643449, other_643450) {
+	var result_643451 = null;
+
+	var F={procname:"typeobject.getattrPyInstanceObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
+	framePtr = F;
+	BeforeRet: do {
+		if (!(isObj(self_no_cast_643449.m_type, NTI628109))) {
+		F.line = 438;
+		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Objects/pyobject.nim(438, 33) `selfNoCast of PyInstanceObject` "));
+		}
+		
+		F.line = 438;
+		var self_643601 = self_no_cast_643449;
+		F.line = 221;
+		var magic_name_str_643607 = magic_name_strs_614041[0][chckIndx(28, 0, magic_name_strs_614041[0].length+0-1)-0];
+		F.line = 222;
+		var fun_643609 = HEX5BHEX5D_523323(get_type_dict_619304(self_643601), magic_name_str_643607);
+		F.line = 223;
+		result_643451 = fast_call_601133(fun_643609, [self_643601, other_643450]);
+		break BeforeRet;
+	} while (false);
+	framePtr = F.prev;
+
+	return result_643451;
+
+}
+
+function setattr_py_instance_object_magic_643636(self_no_cast_643638, arg1_643639, arg2_643640) {
+	var result_643641 = null;
+
+	var F={procname:"typeobject.setattrPyInstanceObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
+	framePtr = F;
+	BeforeRet: do {
+		if (!(isObj(self_no_cast_643638.m_type, NTI628109))) {
+		F.line = 438;
+		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Objects/pyobject.nim(438, 33) `selfNoCast of PyInstanceObject` "));
+		}
+		
+		F.line = 438;
+		var self_643801 = self_no_cast_643638;
+		F.line = 227;
+		var magic_name_str_643807 = magic_name_strs_614041[0][chckIndx(29, 0, magic_name_strs_614041[0].length+0-1)-0];
+		F.line = 228;
+		var fun_643809 = HEX5BHEX5D_523323(get_type_dict_619304(self_643801), magic_name_str_643807);
+		F.line = 229;
+		result_643641 = fast_call_601133(fun_643809, [self_643801, arg1_643639, arg2_643640]);
+		break BeforeRet;
+	} while (false);
+	framePtr = F.prev;
+
+	return result_643641;
+
+}
+
+function hash_py_instance_object_magic_643836(self_no_cast_643838) {
+	var result_643839 = null;
+
+	var F={procname:"typeobject.hashPyInstanceObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
+	framePtr = F;
+	BeforeRet: do {
+		if (!(isObj(self_no_cast_643838.m_type, NTI628109))) {
+		F.line = 438;
+		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Objects/pyobject.nim(438, 33) `selfNoCast of PyInstanceObject` "));
+		}
+		
+		F.line = 438;
+		var self_644001 = self_no_cast_643838;
+		F.line = 215;
+		var magic_name_str_644007 = magic_name_strs_614041[0][chckIndx(30, 0, magic_name_strs_614041[0].length+0-1)-0];
+		F.line = 216;
+		var fun_644009 = HEX5BHEX5D_523323(get_type_dict_619304(self_644001), magic_name_str_644007);
+		F.line = 217;
+		result_643839 = fast_call_601133(fun_644009, [self_644001]);
+		break BeforeRet;
+	} while (false);
+	framePtr = F.prev;
+
+	return result_643839;
+
+}
+
+function call_py_instance_object_magic_644036(self_no_cast_644038, args_644052) {
+	var result_644053 = null;
+
+	var F={procname:"typeobject.callPyInstanceObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
+	framePtr = F;
+	BeforeRet: do {
+		if (!(isObj(self_no_cast_644038.m_type, NTI628109))) {
+		F.line = 438;
+		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Objects/pyobject.nim(438, 33) `selfNoCast of PyInstanceObject` "));
+		}
+		
+		F.line = 438;
+		var self_644201 = self_no_cast_644038;
+		F.line = 239;
+		var magic_name_str_644207 = magic_name_strs_614041[0][chckIndx(31, 0, magic_name_strs_614041[0].length+0-1)-0];
+		F.line = 240;
+		var fun_644209 = HEX5BHEX5D_523323(get_type_dict_619304(self_644201), magic_name_str_644207);
+		F.line = 241;
+		result_644053 = fast_call_601133(fun_644209, HEX26_600015([self_644201], args_644052));
+		break BeforeRet;
+	} while (false);
+	framePtr = F.prev;
+
+	return result_644053;
+
+}
+
+function getitem_py_instance_object_magic_644247(self_no_cast_644249, other_644250) {
+	var result_644251 = null;
+
+	var F={procname:"typeobject.getitemPyInstanceObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
+	framePtr = F;
+	BeforeRet: do {
+		if (!(isObj(self_no_cast_644249.m_type, NTI628109))) {
+		F.line = 438;
+		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Objects/pyobject.nim(438, 33) `selfNoCast of PyInstanceObject` "));
+		}
+		
+		F.line = 438;
+		var self_644401 = self_no_cast_644249;
+		F.line = 221;
+		var magic_name_str_644407 = magic_name_strs_614041[0][chckIndx(32, 0, magic_name_strs_614041[0].length+0-1)-0];
+		F.line = 222;
+		var fun_644409 = HEX5BHEX5D_523323(get_type_dict_619304(self_644401), magic_name_str_644407);
+		F.line = 223;
+		result_644251 = fast_call_601133(fun_644409, [self_644401, other_644250]);
+		break BeforeRet;
+	} while (false);
+	framePtr = F.prev;
+
+	return result_644251;
+
+}
+
+function setitem_py_instance_object_magic_644436(self_no_cast_644438, arg1_644439, arg2_644440) {
+	var result_644441 = null;
+
+	var F={procname:"typeobject.setitemPyInstanceObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
+	framePtr = F;
+	BeforeRet: do {
+		if (!(isObj(self_no_cast_644438.m_type, NTI628109))) {
+		F.line = 438;
+		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Objects/pyobject.nim(438, 33) `selfNoCast of PyInstanceObject` "));
+		}
+		
+		F.line = 438;
+		var self_644601 = self_no_cast_644438;
+		F.line = 227;
+		var magic_name_str_644607 = magic_name_strs_614041[0][chckIndx(33, 0, magic_name_strs_614041[0].length+0-1)-0];
+		F.line = 228;
+		var fun_644609 = HEX5BHEX5D_523323(get_type_dict_619304(self_644601), magic_name_str_644607);
+		F.line = 229;
+		result_644441 = fast_call_601133(fun_644609, [self_644601, arg1_644439, arg2_644440]);
+		break BeforeRet;
+	} while (false);
+	framePtr = F.prev;
+
+	return result_644441;
+
+}
+
+function get_py_instance_object_magic_644636(self_no_cast_644638, other_644639) {
+	var result_644640 = null;
+
+	var F={procname:"typeobject.getPyInstanceObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
+	framePtr = F;
+	BeforeRet: do {
+		if (!(isObj(self_no_cast_644638.m_type, NTI628109))) {
+		F.line = 438;
+		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Objects/pyobject.nim(438, 33) `selfNoCast of PyInstanceObject` "));
+		}
+		
+		F.line = 438;
+		var self_644801 = self_no_cast_644638;
+		F.line = 221;
+		var magic_name_str_644807 = magic_name_strs_614041[0][chckIndx(34, 0, magic_name_strs_614041[0].length+0-1)-0];
+		F.line = 222;
+		var fun_644809 = HEX5BHEX5D_523323(get_type_dict_619304(self_644801), magic_name_str_644807);
+		F.line = 223;
+		result_644640 = fast_call_601133(fun_644809, [self_644801, other_644639]);
+		break BeforeRet;
+	} while (false);
+	framePtr = F.prev;
+
+	return result_644640;
+
+}
+
+function set_py_instance_object_magic_644836(self_no_cast_644838, arg1_644839, arg2_644840) {
+	var result_644841 = null;
+
+	var F={procname:"typeobject.setPyInstanceObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
+	framePtr = F;
+	BeforeRet: do {
+		if (!(isObj(self_no_cast_644838.m_type, NTI628109))) {
+		F.line = 438;
+		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Objects/pyobject.nim(438, 33) `selfNoCast of PyInstanceObject` "));
+		}
+		
+		F.line = 438;
+		var self_645001 = self_no_cast_644838;
+		F.line = 227;
+		var magic_name_str_645007 = magic_name_strs_614041[0][chckIndx(35, 0, magic_name_strs_614041[0].length+0-1)-0];
+		F.line = 228;
+		var fun_645009 = HEX5BHEX5D_523323(get_type_dict_619304(self_645001), magic_name_str_645007);
+		F.line = 229;
+		result_644841 = fast_call_601133(fun_645009, [self_645001, arg1_644839, arg2_644840]);
+		break BeforeRet;
+	} while (false);
+	framePtr = F.prev;
+
+	return result_644841;
+
+}
+
+function iter_py_instance_object_magic_645036(self_no_cast_645038) {
+	var result_645039 = null;
+
+	var F={procname:"typeobject.iterPyInstanceObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
+	framePtr = F;
+	BeforeRet: do {
+		if (!(isObj(self_no_cast_645038.m_type, NTI628109))) {
+		F.line = 438;
+		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Objects/pyobject.nim(438, 33) `selfNoCast of PyInstanceObject` "));
+		}
+		
+		F.line = 438;
+		var self_645201 = self_no_cast_645038;
+		F.line = 215;
+		var magic_name_str_645207 = magic_name_strs_614041[0][chckIndx(36, 0, magic_name_strs_614041[0].length+0-1)-0];
+		F.line = 216;
+		var fun_645209 = HEX5BHEX5D_523323(get_type_dict_619304(self_645201), magic_name_str_645207);
+		F.line = 217;
+		result_645039 = fast_call_601133(fun_645209, [self_645201]);
+		break BeforeRet;
+	} while (false);
+	framePtr = F.prev;
+
+	return result_645039;
+
+}
+
+function iternext_py_instance_object_magic_645236(self_no_cast_645238) {
+	var result_645239 = null;
+
+	var F={procname:"typeobject.iternextPyInstanceObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
+	framePtr = F;
+	BeforeRet: do {
+		if (!(isObj(self_no_cast_645238.m_type, NTI628109))) {
+		F.line = 438;
+		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Objects/pyobject.nim(438, 33) `selfNoCast of PyInstanceObject` "));
+		}
+		
+		F.line = 438;
+		var self_645401 = self_no_cast_645238;
+		F.line = 215;
+		var magic_name_str_645407 = magic_name_strs_614041[0][chckIndx(37, 0, magic_name_strs_614041[0].length+0-1)-0];
+		F.line = 216;
+		var fun_645409 = HEX5BHEX5D_523323(get_type_dict_619304(self_645401), magic_name_str_645407);
+		F.line = 217;
+		result_645239 = fast_call_601133(fun_645409, [self_645401]);
+		break BeforeRet;
+	} while (false);
+	framePtr = F.prev;
+
+	return result_645239;
+
+}
+py_instance_object_type_628113.magicMethods.Field0 = add_py_instance_object_magic_638163;
+py_instance_object_type_628113.magicMethods.Field1 = sub_py_instance_object_magic_638236;
+py_instance_object_type_628113.magicMethods.Field2 = mul_py_instance_object_magic_638436;
+py_instance_object_type_628113.magicMethods.Field3 = truediv_py_instance_object_magic_638636;
+py_instance_object_type_628113.magicMethods.Field4 = floordiv_py_instance_object_magic_638836;
+py_instance_object_type_628113.magicMethods.Field5 = mod_py_instance_object_magic_639036;
+py_instance_object_type_628113.magicMethods.Field6 = pow_py_instance_object_magic_639236;
+py_instance_object_type_628113.magicMethods.Field7 = not_py_instance_object_magic_639436;
+py_instance_object_type_628113.magicMethods.Field8 = negative_py_instance_object_magic_639636;
+py_instance_object_type_628113.magicMethods.Field9 = positive_py_instance_object_magic_639836;
+py_instance_object_type_628113.magicMethods.Field10 = abs_py_instance_object_magic_640036;
+py_instance_object_type_628113.magicMethods.Field11 = index_py_instance_object_magic_640236;
+py_instance_object_type_628113.magicMethods.Field12 = bool_py_instance_object_magic_640436;
+py_instance_object_type_628113.magicMethods.Field13 = and_py_instance_object_magic_640636;
+py_instance_object_type_628113.magicMethods.Field14 = xor_py_instance_object_magic_640836;
+py_instance_object_type_628113.magicMethods.Field15 = or_py_instance_object_magic_641036;
+py_instance_object_type_628113.magicMethods.Field16 = lt_py_instance_object_magic_641236;
+py_instance_object_type_628113.magicMethods.Field17 = le_py_instance_object_magic_641436;
+py_instance_object_type_628113.magicMethods.Field18 = eq_py_instance_object_magic_641636;
+py_instance_object_type_628113.magicMethods.Field19 = ne_py_instance_object_magic_641836;
+py_instance_object_type_628113.magicMethods.Field20 = gt_py_instance_object_magic_642036;
+py_instance_object_type_628113.magicMethods.Field21 = ge_py_instance_object_magic_642236;
+py_instance_object_type_628113.magicMethods.Field22 = contains_py_instance_object_magic_642436;
+py_instance_object_type_628113.magicMethods.Field23 = len_py_instance_object_magic_642636;
+py_instance_object_type_628113.magicMethods.Field24 = str_py_instance_object_magic_642836;
+py_instance_object_type_628113.magicMethods.Field25 = repr_py_instance_object_magic_643036;
+py_instance_object_type_628113.magicMethods.Field27 = init_py_instance_object_magic_643236;
+py_instance_object_type_628113.magicMethods.Field28 = getattr_py_instance_object_magic_643447;
+py_instance_object_type_628113.magicMethods.Field29 = setattr_py_instance_object_magic_643636;
+py_instance_object_type_628113.magicMethods.Field30 = hash_py_instance_object_magic_643836;
+py_instance_object_type_628113.magicMethods.Field31 = call_py_instance_object_magic_644036;
+py_instance_object_type_628113.magicMethods.Field32 = getitem_py_instance_object_magic_644247;
+py_instance_object_type_628113.magicMethods.Field33 = setitem_py_instance_object_magic_644436;
+py_instance_object_type_628113.magicMethods.Field34 = get_py_instance_object_magic_644636;
+py_instance_object_type_628113.magicMethods.Field35 = set_py_instance_object_magic_644836;
+py_instance_object_type_628113.magicMethods.Field36 = iter_py_instance_object_magic_645036;
+py_instance_object_type_628113.magicMethods.Field37 = iternext_py_instance_object_magic_645236;
 
 function len_468684(t_468686) {
 	var result_468687 = 0;
@@ -28635,520 +28674,520 @@ function len_468684(t_468686) {
 
 }
 
-function new_py_type_object_magic_643921(args_643936) {
-	var result_643937 = null;
+function new_py_type_object_magic_645921(args_645936) {
+	var result_645937 = null;
 
 	var F={procname:"typeobject.newPyTypeObjectMagic",prev:framePtr,filename:"../Objects/pyobject.nim",line:0};
 	framePtr = F;
 	BeforeRet: do {
 		F.line = 438;
-		if (!(((args_643936 != null ? args_643936.length : 0) == 4))) {
+		if (!(((args_645936 != null ? args_645936.length : 0) == 4))) {
 		F.line = 183;
-		var msg_643949 = null;
+		var msg_645949 = null;
 		if (true) {
 		F.line = 185;
 		F.line = 185;
-		var fmt_res_643954 = mnewString(0);
+		var fmt_res_645954 = mnewString(0);
 		F.line = 185;
-		if (fmt_res_643954 != null) { fmt_res_643954 = (fmt_res_643954).concat(makeNimstrLit(" argument (")); } else { fmt_res_643954 = makeNimstrLit(" argument ("); };
+		if (fmt_res_645954 != null) { fmt_res_645954 = (fmt_res_645954).concat(makeNimstrLit(" argument (")); } else { fmt_res_645954 = makeNimstrLit(" argument ("); };
 		F.line = 270;
-		if (fmt_res_643954 != null) { fmt_res_643954 = (fmt_res_643954).concat(cstrToNimstr(((args_643936 != null ? args_643936.length : 0))+"")); } else { fmt_res_643954 = cstrToNimstr(((args_643936 != null ? args_643936.length : 0))+"").slice(); };
+		if (fmt_res_645954 != null) { fmt_res_645954 = (fmt_res_645954).concat(cstrToNimstr(((args_645936 != null ? args_645936.length : 0))+"")); } else { fmt_res_645954 = cstrToNimstr(((args_645936 != null ? args_645936.length : 0))+"").slice(); };
 		F.line = 185;
-		if (fmt_res_643954 != null) { fmt_res_643954 = (fmt_res_643954).concat(makeNimstrLit(" given)")); } else { fmt_res_643954 = makeNimstrLit(" given)"); };
-		msg_643949 = nimCopy(null, (makeNimstrLit("New takes exactly 4")).concat(fmt_res_643954), NTI138);
+		if (fmt_res_645954 != null) { fmt_res_645954 = (fmt_res_645954).concat(makeNimstrLit(" given)")); } else { fmt_res_645954 = makeNimstrLit(" given)"); };
+		msg_645949 = nimCopy(null, (makeNimstrLit("New takes exactly 4")).concat(fmt_res_645954), NTI138);
 		}
 		else {
 			F.line = 187;
 			F.line = 187;
-			var fmt_res_644010 = mnewString(0);
+			var fmt_res_646010 = mnewString(0);
 			F.line = 187;
-			if (fmt_res_644010 != null) { fmt_res_644010 = (fmt_res_644010).concat(makeNimstrLit(" argument (")); } else { fmt_res_644010 = makeNimstrLit(" argument ("); };
+			if (fmt_res_646010 != null) { fmt_res_646010 = (fmt_res_646010).concat(makeNimstrLit(" argument (")); } else { fmt_res_646010 = makeNimstrLit(" argument ("); };
 			F.line = 270;
-			if (fmt_res_644010 != null) { fmt_res_644010 = (fmt_res_644010).concat(cstrToNimstr(((args_643936 != null ? args_643936.length : 0))+"")); } else { fmt_res_644010 = cstrToNimstr(((args_643936 != null ? args_643936.length : 0))+"").slice(); };
+			if (fmt_res_646010 != null) { fmt_res_646010 = (fmt_res_646010).concat(cstrToNimstr(((args_645936 != null ? args_645936.length : 0))+"")); } else { fmt_res_646010 = cstrToNimstr(((args_645936 != null ? args_645936.length : 0))+"").slice(); };
 			F.line = 187;
-			if (fmt_res_644010 != null) { fmt_res_644010 = (fmt_res_644010).concat(makeNimstrLit(" given)")); } else { fmt_res_644010 = makeNimstrLit(" given)"); };
-			msg_643949 = nimCopy(null, (makeNimstrLit("expected 4")).concat(fmt_res_644010), NTI138);
+			if (fmt_res_646010 != null) { fmt_res_646010 = (fmt_res_646010).concat(makeNimstrLit(" given)")); } else { fmt_res_646010 = makeNimstrLit(" given)"); };
+			msg_645949 = nimCopy(null, (makeNimstrLit("expected 4")).concat(fmt_res_646010), NTI138);
 		}
 		
 		F.line = 188;
 		F.line = 104;
-		var excp_644209 = new_py_type_error_simple_360601();
+		var excp_646209 = new_py_type_error_simple_360601();
 		F.line = 105;
-		excp_644209.tk = 3;
+		excp_646209.tk = 3;
 		F.line = 106;
-		excp_644209.thrown = true;
+		excp_646209.thrown = true;
 		F.line = 107;
-		excp_644209.msg = new_py_string_176075(msg_643949);
-		result_643937 = excp_644209;
+		excp_646209.msg = new_py_string_176075(msg_645949);
+		result_645937 = excp_646209;
 		break BeforeRet;
 		}
 		
-		if (!(isObj(args_643936[chckIndx(0, 0, args_643936.length+0-1)-0].m_type, NTI157280))) {
+		if (!(isObj(args_645936[chckIndx(0, 0, args_645936.length+0-1)-0].m_type, NTI157280))) {
 		F.line = 185;
-		var expected_644222 = nimCopy(null, py_type_object_type_612361.name, NTI138);
+		var expected_646222 = nimCopy(null, py_type_object_type_614361.name, NTI138);
 		F.line = 186;
-		var got_644223 = nimCopy(null, args_643936[chckIndx(0, 0, args_643936.length+0-1)-0].pyType.name, NTI138);
+		var got_646223 = nimCopy(null, args_645936[chckIndx(0, 0, args_645936.length+0-1)-0].pyType.name, NTI138);
 		F.line = 187;
-		var m_name_644224 = makeNimstrLit("New");
+		var m_name_646224 = makeNimstrLit("New");
 		F.line = 188;
 		F.line = 188;
-		var fmt_res_644228 = mnewString(0);
+		var fmt_res_646228 = mnewString(0);
 		F.line = 260;
-		if (fmt_res_644228 != null) { fmt_res_644228 = (fmt_res_644228).concat(expected_644222); } else { fmt_res_644228 = expected_644222.slice(); };
+		if (fmt_res_646228 != null) { fmt_res_646228 = (fmt_res_646228).concat(expected_646222); } else { fmt_res_646228 = expected_646222.slice(); };
 		F.line = 188;
-		if (fmt_res_644228 != null) { fmt_res_644228 = (fmt_res_644228).concat(makeNimstrLit(" is requred for ")); } else { fmt_res_644228 = makeNimstrLit(" is requred for "); };
+		if (fmt_res_646228 != null) { fmt_res_646228 = (fmt_res_646228).concat(makeNimstrLit(" is requred for ")); } else { fmt_res_646228 = makeNimstrLit(" is requred for "); };
 		F.line = 260;
-		if (fmt_res_644228 != null) { fmt_res_644228 = (fmt_res_644228).concat(m_name_644224); } else { fmt_res_644228 = m_name_644224.slice(); };
+		if (fmt_res_646228 != null) { fmt_res_646228 = (fmt_res_646228).concat(m_name_646224); } else { fmt_res_646228 = m_name_646224.slice(); };
 		F.line = 188;
-		if (fmt_res_644228 != null) { fmt_res_644228 = (fmt_res_644228).concat(makeNimstrLit(" (got ")); } else { fmt_res_644228 = makeNimstrLit(" (got "); };
+		if (fmt_res_646228 != null) { fmt_res_646228 = (fmt_res_646228).concat(makeNimstrLit(" (got ")); } else { fmt_res_646228 = makeNimstrLit(" (got "); };
 		F.line = 260;
-		if (fmt_res_644228 != null) { fmt_res_644228 = (fmt_res_644228).concat(got_644223); } else { fmt_res_644228 = got_644223.slice(); };
+		if (fmt_res_646228 != null) { fmt_res_646228 = (fmt_res_646228).concat(got_646223); } else { fmt_res_646228 = got_646223.slice(); };
 		F.line = 188;
-		if (fmt_res_644228 != null) { fmt_res_644228 = (fmt_res_644228).concat(makeNimstrLit(")")); } else { fmt_res_644228 = makeNimstrLit(")"); };
-		var msg_644802 = nimCopy(null, fmt_res_644228, NTI138);
+		if (fmt_res_646228 != null) { fmt_res_646228 = (fmt_res_646228).concat(makeNimstrLit(")")); } else { fmt_res_646228 = makeNimstrLit(")"); };
+		var msg_646802 = nimCopy(null, fmt_res_646228, NTI138);
 		F.line = 189;
 		F.line = 104;
-		var excp_644804 = new_py_type_error_simple_360601();
+		var excp_646804 = new_py_type_error_simple_360601();
 		F.line = 105;
-		excp_644804.tk = 3;
+		excp_646804.tk = 3;
 		F.line = 106;
-		excp_644804.thrown = true;
+		excp_646804.thrown = true;
 		F.line = 107;
-		excp_644804.msg = new_py_string_176075(msg_644802);
-		result_643937 = excp_644804;
+		excp_646804.msg = new_py_string_176075(msg_646802);
+		result_645937 = excp_646804;
 		break BeforeRet;
 		}
 		
 		F.line = 237;
-		var meta_type_644806 = args_643936[chckIndx(0, 0, args_643936.length+0-1)-0];
-		if (!(isObj(args_643936[chckIndx(1, 0, args_643936.length+0-1)-0].m_type, NTI175084))) {
+		var meta_type_646806 = args_645936[chckIndx(0, 0, args_645936.length+0-1)-0];
+		if (!(isObj(args_645936[chckIndx(1, 0, args_645936.length+0-1)-0].m_type, NTI175084))) {
 		F.line = 185;
-		var expected_644818 = nimCopy(null, py_str_object_type_175090.name, NTI138);
+		var expected_646818 = nimCopy(null, py_str_object_type_175090.name, NTI138);
 		F.line = 186;
-		var got_644819 = nimCopy(null, args_643936[chckIndx(1, 0, args_643936.length+0-1)-0].pyType.name, NTI138);
+		var got_646819 = nimCopy(null, args_645936[chckIndx(1, 0, args_645936.length+0-1)-0].pyType.name, NTI138);
 		F.line = 187;
-		var m_name_644820 = makeNimstrLit("New");
+		var m_name_646820 = makeNimstrLit("New");
 		F.line = 188;
 		F.line = 188;
-		var fmt_res_644824 = mnewString(0);
+		var fmt_res_646824 = mnewString(0);
 		F.line = 260;
-		if (fmt_res_644824 != null) { fmt_res_644824 = (fmt_res_644824).concat(expected_644818); } else { fmt_res_644824 = expected_644818.slice(); };
+		if (fmt_res_646824 != null) { fmt_res_646824 = (fmt_res_646824).concat(expected_646818); } else { fmt_res_646824 = expected_646818.slice(); };
 		F.line = 188;
-		if (fmt_res_644824 != null) { fmt_res_644824 = (fmt_res_644824).concat(makeNimstrLit(" is requred for ")); } else { fmt_res_644824 = makeNimstrLit(" is requred for "); };
+		if (fmt_res_646824 != null) { fmt_res_646824 = (fmt_res_646824).concat(makeNimstrLit(" is requred for ")); } else { fmt_res_646824 = makeNimstrLit(" is requred for "); };
 		F.line = 260;
-		if (fmt_res_644824 != null) { fmt_res_644824 = (fmt_res_644824).concat(m_name_644820); } else { fmt_res_644824 = m_name_644820.slice(); };
+		if (fmt_res_646824 != null) { fmt_res_646824 = (fmt_res_646824).concat(m_name_646820); } else { fmt_res_646824 = m_name_646820.slice(); };
 		F.line = 188;
-		if (fmt_res_644824 != null) { fmt_res_644824 = (fmt_res_644824).concat(makeNimstrLit(" (got ")); } else { fmt_res_644824 = makeNimstrLit(" (got "); };
+		if (fmt_res_646824 != null) { fmt_res_646824 = (fmt_res_646824).concat(makeNimstrLit(" (got ")); } else { fmt_res_646824 = makeNimstrLit(" (got "); };
 		F.line = 260;
-		if (fmt_res_644824 != null) { fmt_res_644824 = (fmt_res_644824).concat(got_644819); } else { fmt_res_644824 = got_644819.slice(); };
+		if (fmt_res_646824 != null) { fmt_res_646824 = (fmt_res_646824).concat(got_646819); } else { fmt_res_646824 = got_646819.slice(); };
 		F.line = 188;
-		if (fmt_res_644824 != null) { fmt_res_644824 = (fmt_res_644824).concat(makeNimstrLit(")")); } else { fmt_res_644824 = makeNimstrLit(")"); };
-		var msg_645402 = nimCopy(null, fmt_res_644824, NTI138);
+		if (fmt_res_646824 != null) { fmt_res_646824 = (fmt_res_646824).concat(makeNimstrLit(")")); } else { fmt_res_646824 = makeNimstrLit(")"); };
+		var msg_647402 = nimCopy(null, fmt_res_646824, NTI138);
 		F.line = 189;
 		F.line = 104;
-		var excp_645404 = new_py_type_error_simple_360601();
+		var excp_647404 = new_py_type_error_simple_360601();
 		F.line = 105;
-		excp_645404.tk = 3;
+		excp_647404.tk = 3;
 		F.line = 106;
-		excp_645404.thrown = true;
+		excp_647404.thrown = true;
 		F.line = 107;
-		excp_645404.msg = new_py_string_176075(msg_645402);
-		result_643937 = excp_645404;
+		excp_647404.msg = new_py_string_176075(msg_647402);
+		result_645937 = excp_647404;
 		break BeforeRet;
 		}
 		
 		F.line = 237;
-		var name_645406 = args_643936[chckIndx(1, 0, args_643936.length+0-1)-0];
-		if (!(isObj(args_643936[chckIndx(2, 0, args_643936.length+0-1)-0].m_type, NTI464070))) {
+		var name_647406 = args_645936[chckIndx(1, 0, args_645936.length+0-1)-0];
+		if (!(isObj(args_645936[chckIndx(2, 0, args_645936.length+0-1)-0].m_type, NTI464070))) {
 		F.line = 185;
-		var expected_645418 = nimCopy(null, py_tuple_object_type_464080.name, NTI138);
+		var expected_647418 = nimCopy(null, py_tuple_object_type_464080.name, NTI138);
 		F.line = 186;
-		var got_645419 = nimCopy(null, args_643936[chckIndx(2, 0, args_643936.length+0-1)-0].pyType.name, NTI138);
+		var got_647419 = nimCopy(null, args_645936[chckIndx(2, 0, args_645936.length+0-1)-0].pyType.name, NTI138);
 		F.line = 187;
-		var m_name_645420 = makeNimstrLit("New");
+		var m_name_647420 = makeNimstrLit("New");
 		F.line = 188;
 		F.line = 188;
-		var fmt_res_645424 = mnewString(0);
+		var fmt_res_647424 = mnewString(0);
 		F.line = 260;
-		if (fmt_res_645424 != null) { fmt_res_645424 = (fmt_res_645424).concat(expected_645418); } else { fmt_res_645424 = expected_645418.slice(); };
+		if (fmt_res_647424 != null) { fmt_res_647424 = (fmt_res_647424).concat(expected_647418); } else { fmt_res_647424 = expected_647418.slice(); };
 		F.line = 188;
-		if (fmt_res_645424 != null) { fmt_res_645424 = (fmt_res_645424).concat(makeNimstrLit(" is requred for ")); } else { fmt_res_645424 = makeNimstrLit(" is requred for "); };
+		if (fmt_res_647424 != null) { fmt_res_647424 = (fmt_res_647424).concat(makeNimstrLit(" is requred for ")); } else { fmt_res_647424 = makeNimstrLit(" is requred for "); };
 		F.line = 260;
-		if (fmt_res_645424 != null) { fmt_res_645424 = (fmt_res_645424).concat(m_name_645420); } else { fmt_res_645424 = m_name_645420.slice(); };
+		if (fmt_res_647424 != null) { fmt_res_647424 = (fmt_res_647424).concat(m_name_647420); } else { fmt_res_647424 = m_name_647420.slice(); };
 		F.line = 188;
-		if (fmt_res_645424 != null) { fmt_res_645424 = (fmt_res_645424).concat(makeNimstrLit(" (got ")); } else { fmt_res_645424 = makeNimstrLit(" (got "); };
+		if (fmt_res_647424 != null) { fmt_res_647424 = (fmt_res_647424).concat(makeNimstrLit(" (got ")); } else { fmt_res_647424 = makeNimstrLit(" (got "); };
 		F.line = 260;
-		if (fmt_res_645424 != null) { fmt_res_645424 = (fmt_res_645424).concat(got_645419); } else { fmt_res_645424 = got_645419.slice(); };
+		if (fmt_res_647424 != null) { fmt_res_647424 = (fmt_res_647424).concat(got_647419); } else { fmt_res_647424 = got_647419.slice(); };
 		F.line = 188;
-		if (fmt_res_645424 != null) { fmt_res_645424 = (fmt_res_645424).concat(makeNimstrLit(")")); } else { fmt_res_645424 = makeNimstrLit(")"); };
-		var msg_646002 = nimCopy(null, fmt_res_645424, NTI138);
+		if (fmt_res_647424 != null) { fmt_res_647424 = (fmt_res_647424).concat(makeNimstrLit(")")); } else { fmt_res_647424 = makeNimstrLit(")"); };
+		var msg_648002 = nimCopy(null, fmt_res_647424, NTI138);
 		F.line = 189;
 		F.line = 104;
-		var excp_646004 = new_py_type_error_simple_360601();
+		var excp_648004 = new_py_type_error_simple_360601();
 		F.line = 105;
-		excp_646004.tk = 3;
+		excp_648004.tk = 3;
 		F.line = 106;
-		excp_646004.thrown = true;
+		excp_648004.thrown = true;
 		F.line = 107;
-		excp_646004.msg = new_py_string_176075(msg_646002);
-		result_643937 = excp_646004;
+		excp_648004.msg = new_py_string_176075(msg_648002);
+		result_645937 = excp_648004;
 		break BeforeRet;
 		}
 		
 		F.line = 237;
-		var bases_646006 = args_643936[chckIndx(2, 0, args_643936.length+0-1)-0];
-		if (!(isObj(args_643936[chckIndx(3, 0, args_643936.length+0-1)-0].m_type, NTI521178))) {
+		var bases_648006 = args_645936[chckIndx(2, 0, args_645936.length+0-1)-0];
+		if (!(isObj(args_645936[chckIndx(3, 0, args_645936.length+0-1)-0].m_type, NTI521178))) {
 		F.line = 185;
-		var expected_646018 = nimCopy(null, pydict_object_type_521222.name, NTI138);
+		var expected_648018 = nimCopy(null, pydict_object_type_521222.name, NTI138);
 		F.line = 186;
-		var got_646019 = nimCopy(null, args_643936[chckIndx(3, 0, args_643936.length+0-1)-0].pyType.name, NTI138);
+		var got_648019 = nimCopy(null, args_645936[chckIndx(3, 0, args_645936.length+0-1)-0].pyType.name, NTI138);
 		F.line = 187;
-		var m_name_646020 = makeNimstrLit("New");
+		var m_name_648020 = makeNimstrLit("New");
 		F.line = 188;
 		F.line = 188;
-		var fmt_res_646024 = mnewString(0);
+		var fmt_res_648024 = mnewString(0);
 		F.line = 260;
-		if (fmt_res_646024 != null) { fmt_res_646024 = (fmt_res_646024).concat(expected_646018); } else { fmt_res_646024 = expected_646018.slice(); };
+		if (fmt_res_648024 != null) { fmt_res_648024 = (fmt_res_648024).concat(expected_648018); } else { fmt_res_648024 = expected_648018.slice(); };
 		F.line = 188;
-		if (fmt_res_646024 != null) { fmt_res_646024 = (fmt_res_646024).concat(makeNimstrLit(" is requred for ")); } else { fmt_res_646024 = makeNimstrLit(" is requred for "); };
+		if (fmt_res_648024 != null) { fmt_res_648024 = (fmt_res_648024).concat(makeNimstrLit(" is requred for ")); } else { fmt_res_648024 = makeNimstrLit(" is requred for "); };
 		F.line = 260;
-		if (fmt_res_646024 != null) { fmt_res_646024 = (fmt_res_646024).concat(m_name_646020); } else { fmt_res_646024 = m_name_646020.slice(); };
+		if (fmt_res_648024 != null) { fmt_res_648024 = (fmt_res_648024).concat(m_name_648020); } else { fmt_res_648024 = m_name_648020.slice(); };
 		F.line = 188;
-		if (fmt_res_646024 != null) { fmt_res_646024 = (fmt_res_646024).concat(makeNimstrLit(" (got ")); } else { fmt_res_646024 = makeNimstrLit(" (got "); };
+		if (fmt_res_648024 != null) { fmt_res_648024 = (fmt_res_648024).concat(makeNimstrLit(" (got ")); } else { fmt_res_648024 = makeNimstrLit(" (got "); };
 		F.line = 260;
-		if (fmt_res_646024 != null) { fmt_res_646024 = (fmt_res_646024).concat(got_646019); } else { fmt_res_646024 = got_646019.slice(); };
+		if (fmt_res_648024 != null) { fmt_res_648024 = (fmt_res_648024).concat(got_648019); } else { fmt_res_648024 = got_648019.slice(); };
 		F.line = 188;
-		if (fmt_res_646024 != null) { fmt_res_646024 = (fmt_res_646024).concat(makeNimstrLit(")")); } else { fmt_res_646024 = makeNimstrLit(")"); };
-		var msg_646602 = nimCopy(null, fmt_res_646024, NTI138);
+		if (fmt_res_648024 != null) { fmt_res_648024 = (fmt_res_648024).concat(makeNimstrLit(")")); } else { fmt_res_648024 = makeNimstrLit(")"); };
+		var msg_648602 = nimCopy(null, fmt_res_648024, NTI138);
 		F.line = 189;
 		F.line = 104;
-		var excp_646604 = new_py_type_error_simple_360601();
+		var excp_648604 = new_py_type_error_simple_360601();
 		F.line = 105;
-		excp_646604.tk = 3;
+		excp_648604.tk = 3;
 		F.line = 106;
-		excp_646604.thrown = true;
+		excp_648604.thrown = true;
 		F.line = 107;
-		excp_646604.msg = new_py_string_176075(msg_646602);
-		result_643937 = excp_646604;
+		excp_648604.msg = new_py_string_176075(msg_648602);
+		result_645937 = excp_648604;
 		break BeforeRet;
 		}
 		
 		F.line = 237;
-		var dict_646606 = args_643936[chckIndx(3, 0, args_643936.length+0-1)-0];
-		if (!((meta_type_644806 == py_type_object_type_612361))) {
+		var dict_648606 = args_645936[chckIndx(3, 0, args_645936.length+0-1)-0];
+		if (!((meta_type_646806 == py_type_object_type_614361))) {
 		F.line = 281;
 		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Objects/typeobject.nim(281, 10) `metaType == pyTypeObjectType` "));
 		}
 		
-		if (!((len_468684(bases_646006) == 0))) {
+		if (!((len_468684(bases_648006) == 0))) {
 		F.line = 282;
 		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Objects/typeobject.nim(282, 10) `len(bases) == 0` "));
 		}
 		
 		F.line = 283;
-		var tp_647001 = new_py_type_159261(name_645406.str);
+		var tp_649001 = new_py_type_159261(name_647406.str);
 		F.line = 284;
-		tp_647001.kind = 7;
+		tp_649001.kind = 7;
 		F.line = 285;
-		tp_647001.magicMethods.Field26 = new_py_instance_object_magic_627046;
+		tp_649001.magicMethods.Field26 = new_py_instance_object_magic_629046;
 		F.line = 267;
-		var magic_name_str_647084 = magic_name_strs_612041[0][chckIndx(0, 0, magic_name_strs_612041[0].length+0-1)-0];
-		if (has_key_522437(dict_646606, magic_name_str_647084)) {
+		var magic_name_str_649084 = magic_name_strs_614041[0][chckIndx(0, 0, magic_name_strs_614041[0].length+0-1)-0];
+		if (has_key_522437(dict_648606, magic_name_str_649084)) {
 		F.line = 269;
-		tp_647001.magicMethods.Field0 = add_py_instance_object_magic_636163;
+		tp_649001.magicMethods.Field0 = add_py_instance_object_magic_638163;
 		}
 		
 		F.line = 267;
-		var magic_name_str_647090 = magic_name_strs_612041[0][chckIndx(1, 0, magic_name_strs_612041[0].length+0-1)-0];
-		if (has_key_522437(dict_646606, magic_name_str_647090)) {
+		var magic_name_str_649090 = magic_name_strs_614041[0][chckIndx(1, 0, magic_name_strs_614041[0].length+0-1)-0];
+		if (has_key_522437(dict_648606, magic_name_str_649090)) {
 		F.line = 269;
-		tp_647001.magicMethods.Field1 = sub_py_instance_object_magic_636236;
+		tp_649001.magicMethods.Field1 = sub_py_instance_object_magic_638236;
 		}
 		
 		F.line = 267;
-		var magic_name_str_647096 = magic_name_strs_612041[0][chckIndx(2, 0, magic_name_strs_612041[0].length+0-1)-0];
-		if (has_key_522437(dict_646606, magic_name_str_647096)) {
+		var magic_name_str_649096 = magic_name_strs_614041[0][chckIndx(2, 0, magic_name_strs_614041[0].length+0-1)-0];
+		if (has_key_522437(dict_648606, magic_name_str_649096)) {
 		F.line = 269;
-		tp_647001.magicMethods.Field2 = mul_py_instance_object_magic_636436;
+		tp_649001.magicMethods.Field2 = mul_py_instance_object_magic_638436;
 		}
 		
 		F.line = 267;
-		var magic_name_str_647102 = magic_name_strs_612041[0][chckIndx(3, 0, magic_name_strs_612041[0].length+0-1)-0];
-		if (has_key_522437(dict_646606, magic_name_str_647102)) {
+		var magic_name_str_649102 = magic_name_strs_614041[0][chckIndx(3, 0, magic_name_strs_614041[0].length+0-1)-0];
+		if (has_key_522437(dict_648606, magic_name_str_649102)) {
 		F.line = 269;
-		tp_647001.magicMethods.Field3 = truediv_py_instance_object_magic_636636;
+		tp_649001.magicMethods.Field3 = truediv_py_instance_object_magic_638636;
 		}
 		
 		F.line = 267;
-		var magic_name_str_647108 = magic_name_strs_612041[0][chckIndx(4, 0, magic_name_strs_612041[0].length+0-1)-0];
-		if (has_key_522437(dict_646606, magic_name_str_647108)) {
+		var magic_name_str_649108 = magic_name_strs_614041[0][chckIndx(4, 0, magic_name_strs_614041[0].length+0-1)-0];
+		if (has_key_522437(dict_648606, magic_name_str_649108)) {
 		F.line = 269;
-		tp_647001.magicMethods.Field4 = floordiv_py_instance_object_magic_636836;
+		tp_649001.magicMethods.Field4 = floordiv_py_instance_object_magic_638836;
 		}
 		
 		F.line = 267;
-		var magic_name_str_647114 = magic_name_strs_612041[0][chckIndx(5, 0, magic_name_strs_612041[0].length+0-1)-0];
-		if (has_key_522437(dict_646606, magic_name_str_647114)) {
+		var magic_name_str_649114 = magic_name_strs_614041[0][chckIndx(5, 0, magic_name_strs_614041[0].length+0-1)-0];
+		if (has_key_522437(dict_648606, magic_name_str_649114)) {
 		F.line = 269;
-		tp_647001.magicMethods.Field5 = mod_py_instance_object_magic_637036;
+		tp_649001.magicMethods.Field5 = mod_py_instance_object_magic_639036;
 		}
 		
 		F.line = 267;
-		var magic_name_str_647120 = magic_name_strs_612041[0][chckIndx(6, 0, magic_name_strs_612041[0].length+0-1)-0];
-		if (has_key_522437(dict_646606, magic_name_str_647120)) {
+		var magic_name_str_649120 = magic_name_strs_614041[0][chckIndx(6, 0, magic_name_strs_614041[0].length+0-1)-0];
+		if (has_key_522437(dict_648606, magic_name_str_649120)) {
 		F.line = 269;
-		tp_647001.magicMethods.Field6 = pow_py_instance_object_magic_637236;
+		tp_649001.magicMethods.Field6 = pow_py_instance_object_magic_639236;
 		}
 		
 		F.line = 267;
-		var magic_name_str_647126 = magic_name_strs_612041[0][chckIndx(7, 0, magic_name_strs_612041[0].length+0-1)-0];
-		if (has_key_522437(dict_646606, magic_name_str_647126)) {
+		var magic_name_str_649126 = magic_name_strs_614041[0][chckIndx(7, 0, magic_name_strs_614041[0].length+0-1)-0];
+		if (has_key_522437(dict_648606, magic_name_str_649126)) {
 		F.line = 269;
-		tp_647001.magicMethods.Field7 = not_py_instance_object_magic_637436;
+		tp_649001.magicMethods.Field7 = not_py_instance_object_magic_639436;
 		}
 		
 		F.line = 267;
-		var magic_name_str_647132 = magic_name_strs_612041[0][chckIndx(8, 0, magic_name_strs_612041[0].length+0-1)-0];
-		if (has_key_522437(dict_646606, magic_name_str_647132)) {
+		var magic_name_str_649132 = magic_name_strs_614041[0][chckIndx(8, 0, magic_name_strs_614041[0].length+0-1)-0];
+		if (has_key_522437(dict_648606, magic_name_str_649132)) {
 		F.line = 269;
-		tp_647001.magicMethods.Field8 = negative_py_instance_object_magic_637636;
+		tp_649001.magicMethods.Field8 = negative_py_instance_object_magic_639636;
 		}
 		
 		F.line = 267;
-		var magic_name_str_647138 = magic_name_strs_612041[0][chckIndx(9, 0, magic_name_strs_612041[0].length+0-1)-0];
-		if (has_key_522437(dict_646606, magic_name_str_647138)) {
+		var magic_name_str_649138 = magic_name_strs_614041[0][chckIndx(9, 0, magic_name_strs_614041[0].length+0-1)-0];
+		if (has_key_522437(dict_648606, magic_name_str_649138)) {
 		F.line = 269;
-		tp_647001.magicMethods.Field9 = positive_py_instance_object_magic_637836;
+		tp_649001.magicMethods.Field9 = positive_py_instance_object_magic_639836;
 		}
 		
 		F.line = 267;
-		var magic_name_str_647144 = magic_name_strs_612041[0][chckIndx(10, 0, magic_name_strs_612041[0].length+0-1)-0];
-		if (has_key_522437(dict_646606, magic_name_str_647144)) {
+		var magic_name_str_649144 = magic_name_strs_614041[0][chckIndx(10, 0, magic_name_strs_614041[0].length+0-1)-0];
+		if (has_key_522437(dict_648606, magic_name_str_649144)) {
 		F.line = 269;
-		tp_647001.magicMethods.Field10 = abs_py_instance_object_magic_638036;
+		tp_649001.magicMethods.Field10 = abs_py_instance_object_magic_640036;
 		}
 		
 		F.line = 267;
-		var magic_name_str_647150 = magic_name_strs_612041[0][chckIndx(11, 0, magic_name_strs_612041[0].length+0-1)-0];
-		if (has_key_522437(dict_646606, magic_name_str_647150)) {
+		var magic_name_str_649150 = magic_name_strs_614041[0][chckIndx(11, 0, magic_name_strs_614041[0].length+0-1)-0];
+		if (has_key_522437(dict_648606, magic_name_str_649150)) {
 		F.line = 269;
-		tp_647001.magicMethods.Field11 = index_py_instance_object_magic_638236;
+		tp_649001.magicMethods.Field11 = index_py_instance_object_magic_640236;
 		}
 		
 		F.line = 267;
-		var magic_name_str_647156 = magic_name_strs_612041[0][chckIndx(12, 0, magic_name_strs_612041[0].length+0-1)-0];
-		if (has_key_522437(dict_646606, magic_name_str_647156)) {
+		var magic_name_str_649156 = magic_name_strs_614041[0][chckIndx(12, 0, magic_name_strs_614041[0].length+0-1)-0];
+		if (has_key_522437(dict_648606, magic_name_str_649156)) {
 		F.line = 269;
-		tp_647001.magicMethods.Field12 = bool_py_instance_object_magic_638436;
+		tp_649001.magicMethods.Field12 = bool_py_instance_object_magic_640436;
 		}
 		
 		F.line = 267;
-		var magic_name_str_647162 = magic_name_strs_612041[0][chckIndx(13, 0, magic_name_strs_612041[0].length+0-1)-0];
-		if (has_key_522437(dict_646606, magic_name_str_647162)) {
+		var magic_name_str_649162 = magic_name_strs_614041[0][chckIndx(13, 0, magic_name_strs_614041[0].length+0-1)-0];
+		if (has_key_522437(dict_648606, magic_name_str_649162)) {
 		F.line = 269;
-		tp_647001.magicMethods.Field13 = and_py_instance_object_magic_638636;
+		tp_649001.magicMethods.Field13 = and_py_instance_object_magic_640636;
 		}
 		
 		F.line = 267;
-		var magic_name_str_647168 = magic_name_strs_612041[0][chckIndx(14, 0, magic_name_strs_612041[0].length+0-1)-0];
-		if (has_key_522437(dict_646606, magic_name_str_647168)) {
+		var magic_name_str_649168 = magic_name_strs_614041[0][chckIndx(14, 0, magic_name_strs_614041[0].length+0-1)-0];
+		if (has_key_522437(dict_648606, magic_name_str_649168)) {
 		F.line = 269;
-		tp_647001.magicMethods.Field14 = xor_py_instance_object_magic_638836;
+		tp_649001.magicMethods.Field14 = xor_py_instance_object_magic_640836;
 		}
 		
 		F.line = 267;
-		var magic_name_str_647174 = magic_name_strs_612041[0][chckIndx(15, 0, magic_name_strs_612041[0].length+0-1)-0];
-		if (has_key_522437(dict_646606, magic_name_str_647174)) {
+		var magic_name_str_649174 = magic_name_strs_614041[0][chckIndx(15, 0, magic_name_strs_614041[0].length+0-1)-0];
+		if (has_key_522437(dict_648606, magic_name_str_649174)) {
 		F.line = 269;
-		tp_647001.magicMethods.Field15 = or_py_instance_object_magic_639036;
+		tp_649001.magicMethods.Field15 = or_py_instance_object_magic_641036;
 		}
 		
 		F.line = 267;
-		var magic_name_str_647180 = magic_name_strs_612041[0][chckIndx(16, 0, magic_name_strs_612041[0].length+0-1)-0];
-		if (has_key_522437(dict_646606, magic_name_str_647180)) {
+		var magic_name_str_649180 = magic_name_strs_614041[0][chckIndx(16, 0, magic_name_strs_614041[0].length+0-1)-0];
+		if (has_key_522437(dict_648606, magic_name_str_649180)) {
 		F.line = 269;
-		tp_647001.magicMethods.Field16 = lt_py_instance_object_magic_639236;
+		tp_649001.magicMethods.Field16 = lt_py_instance_object_magic_641236;
 		}
 		
 		F.line = 267;
-		var magic_name_str_647186 = magic_name_strs_612041[0][chckIndx(17, 0, magic_name_strs_612041[0].length+0-1)-0];
-		if (has_key_522437(dict_646606, magic_name_str_647186)) {
+		var magic_name_str_649186 = magic_name_strs_614041[0][chckIndx(17, 0, magic_name_strs_614041[0].length+0-1)-0];
+		if (has_key_522437(dict_648606, magic_name_str_649186)) {
 		F.line = 269;
-		tp_647001.magicMethods.Field17 = le_py_instance_object_magic_639436;
+		tp_649001.magicMethods.Field17 = le_py_instance_object_magic_641436;
 		}
 		
 		F.line = 267;
-		var magic_name_str_647192 = magic_name_strs_612041[0][chckIndx(18, 0, magic_name_strs_612041[0].length+0-1)-0];
-		if (has_key_522437(dict_646606, magic_name_str_647192)) {
+		var magic_name_str_649192 = magic_name_strs_614041[0][chckIndx(18, 0, magic_name_strs_614041[0].length+0-1)-0];
+		if (has_key_522437(dict_648606, magic_name_str_649192)) {
 		F.line = 269;
-		tp_647001.magicMethods.Field18 = eq_py_instance_object_magic_639636;
+		tp_649001.magicMethods.Field18 = eq_py_instance_object_magic_641636;
 		}
 		
 		F.line = 267;
-		var magic_name_str_647198 = magic_name_strs_612041[0][chckIndx(19, 0, magic_name_strs_612041[0].length+0-1)-0];
-		if (has_key_522437(dict_646606, magic_name_str_647198)) {
+		var magic_name_str_649198 = magic_name_strs_614041[0][chckIndx(19, 0, magic_name_strs_614041[0].length+0-1)-0];
+		if (has_key_522437(dict_648606, magic_name_str_649198)) {
 		F.line = 269;
-		tp_647001.magicMethods.Field19 = ne_py_instance_object_magic_639836;
+		tp_649001.magicMethods.Field19 = ne_py_instance_object_magic_641836;
 		}
 		
 		F.line = 267;
-		var magic_name_str_647204 = magic_name_strs_612041[0][chckIndx(20, 0, magic_name_strs_612041[0].length+0-1)-0];
-		if (has_key_522437(dict_646606, magic_name_str_647204)) {
+		var magic_name_str_649204 = magic_name_strs_614041[0][chckIndx(20, 0, magic_name_strs_614041[0].length+0-1)-0];
+		if (has_key_522437(dict_648606, magic_name_str_649204)) {
 		F.line = 269;
-		tp_647001.magicMethods.Field20 = gt_py_instance_object_magic_640036;
+		tp_649001.magicMethods.Field20 = gt_py_instance_object_magic_642036;
 		}
 		
 		F.line = 267;
-		var magic_name_str_647210 = magic_name_strs_612041[0][chckIndx(21, 0, magic_name_strs_612041[0].length+0-1)-0];
-		if (has_key_522437(dict_646606, magic_name_str_647210)) {
+		var magic_name_str_649210 = magic_name_strs_614041[0][chckIndx(21, 0, magic_name_strs_614041[0].length+0-1)-0];
+		if (has_key_522437(dict_648606, magic_name_str_649210)) {
 		F.line = 269;
-		tp_647001.magicMethods.Field21 = ge_py_instance_object_magic_640236;
+		tp_649001.magicMethods.Field21 = ge_py_instance_object_magic_642236;
 		}
 		
 		F.line = 267;
-		var magic_name_str_647216 = magic_name_strs_612041[0][chckIndx(22, 0, magic_name_strs_612041[0].length+0-1)-0];
-		if (has_key_522437(dict_646606, magic_name_str_647216)) {
+		var magic_name_str_649216 = magic_name_strs_614041[0][chckIndx(22, 0, magic_name_strs_614041[0].length+0-1)-0];
+		if (has_key_522437(dict_648606, magic_name_str_649216)) {
 		F.line = 269;
-		tp_647001.magicMethods.Field22 = contains_py_instance_object_magic_640436;
+		tp_649001.magicMethods.Field22 = contains_py_instance_object_magic_642436;
 		}
 		
 		F.line = 267;
-		var magic_name_str_647222 = magic_name_strs_612041[0][chckIndx(23, 0, magic_name_strs_612041[0].length+0-1)-0];
-		if (has_key_522437(dict_646606, magic_name_str_647222)) {
+		var magic_name_str_649222 = magic_name_strs_614041[0][chckIndx(23, 0, magic_name_strs_614041[0].length+0-1)-0];
+		if (has_key_522437(dict_648606, magic_name_str_649222)) {
 		F.line = 269;
-		tp_647001.magicMethods.Field23 = len_py_instance_object_magic_640636;
+		tp_649001.magicMethods.Field23 = len_py_instance_object_magic_642636;
 		}
 		
 		F.line = 267;
-		var magic_name_str_647228 = magic_name_strs_612041[0][chckIndx(24, 0, magic_name_strs_612041[0].length+0-1)-0];
-		if (has_key_522437(dict_646606, magic_name_str_647228)) {
+		var magic_name_str_649228 = magic_name_strs_614041[0][chckIndx(24, 0, magic_name_strs_614041[0].length+0-1)-0];
+		if (has_key_522437(dict_648606, magic_name_str_649228)) {
 		F.line = 269;
-		tp_647001.magicMethods.Field24 = str_py_instance_object_magic_640836;
+		tp_649001.magicMethods.Field24 = str_py_instance_object_magic_642836;
 		}
 		
 		F.line = 267;
-		var magic_name_str_647234 = magic_name_strs_612041[0][chckIndx(25, 0, magic_name_strs_612041[0].length+0-1)-0];
-		if (has_key_522437(dict_646606, magic_name_str_647234)) {
+		var magic_name_str_649234 = magic_name_strs_614041[0][chckIndx(25, 0, magic_name_strs_614041[0].length+0-1)-0];
+		if (has_key_522437(dict_648606, magic_name_str_649234)) {
 		F.line = 269;
-		tp_647001.magicMethods.Field25 = repr_py_instance_object_magic_641036;
+		tp_649001.magicMethods.Field25 = repr_py_instance_object_magic_643036;
 		}
 		
 		F.line = 267;
-		var magic_name_str_647240 = magic_name_strs_612041[0][chckIndx(26, 0, magic_name_strs_612041[0].length+0-1)-0];
-		if (has_key_522437(dict_646606, magic_name_str_647240)) {
+		var magic_name_str_649240 = magic_name_strs_614041[0][chckIndx(26, 0, magic_name_strs_614041[0].length+0-1)-0];
+		if (has_key_522437(dict_648606, magic_name_str_649240)) {
 		F.line = 269;
-		tp_647001.magicMethods.Field26 = new_py_instance_object_magic_627046;
+		tp_649001.magicMethods.Field26 = new_py_instance_object_magic_629046;
 		}
 		
 		F.line = 267;
-		var magic_name_str_647246 = magic_name_strs_612041[0][chckIndx(27, 0, magic_name_strs_612041[0].length+0-1)-0];
-		if (has_key_522437(dict_646606, magic_name_str_647246)) {
+		var magic_name_str_649246 = magic_name_strs_614041[0][chckIndx(27, 0, magic_name_strs_614041[0].length+0-1)-0];
+		if (has_key_522437(dict_648606, magic_name_str_649246)) {
 		F.line = 269;
-		tp_647001.magicMethods.Field27 = init_py_instance_object_magic_641236;
+		tp_649001.magicMethods.Field27 = init_py_instance_object_magic_643236;
 		}
 		
 		F.line = 267;
-		var magic_name_str_647252 = magic_name_strs_612041[0][chckIndx(28, 0, magic_name_strs_612041[0].length+0-1)-0];
-		if (has_key_522437(dict_646606, magic_name_str_647252)) {
+		var magic_name_str_649252 = magic_name_strs_614041[0][chckIndx(28, 0, magic_name_strs_614041[0].length+0-1)-0];
+		if (has_key_522437(dict_648606, magic_name_str_649252)) {
 		F.line = 269;
-		tp_647001.magicMethods.Field28 = getattr_py_instance_object_magic_641447;
+		tp_649001.magicMethods.Field28 = getattr_py_instance_object_magic_643447;
 		}
 		
 		F.line = 267;
-		var magic_name_str_647258 = magic_name_strs_612041[0][chckIndx(29, 0, magic_name_strs_612041[0].length+0-1)-0];
-		if (has_key_522437(dict_646606, magic_name_str_647258)) {
+		var magic_name_str_649258 = magic_name_strs_614041[0][chckIndx(29, 0, magic_name_strs_614041[0].length+0-1)-0];
+		if (has_key_522437(dict_648606, magic_name_str_649258)) {
 		F.line = 269;
-		tp_647001.magicMethods.Field29 = setattr_py_instance_object_magic_641636;
+		tp_649001.magicMethods.Field29 = setattr_py_instance_object_magic_643636;
 		}
 		
 		F.line = 267;
-		var magic_name_str_647264 = magic_name_strs_612041[0][chckIndx(30, 0, magic_name_strs_612041[0].length+0-1)-0];
-		if (has_key_522437(dict_646606, magic_name_str_647264)) {
+		var magic_name_str_649264 = magic_name_strs_614041[0][chckIndx(30, 0, magic_name_strs_614041[0].length+0-1)-0];
+		if (has_key_522437(dict_648606, magic_name_str_649264)) {
 		F.line = 269;
-		tp_647001.magicMethods.Field30 = hash_py_instance_object_magic_641836;
+		tp_649001.magicMethods.Field30 = hash_py_instance_object_magic_643836;
 		}
 		
 		F.line = 267;
-		var magic_name_str_647270 = magic_name_strs_612041[0][chckIndx(31, 0, magic_name_strs_612041[0].length+0-1)-0];
-		if (has_key_522437(dict_646606, magic_name_str_647270)) {
+		var magic_name_str_649270 = magic_name_strs_614041[0][chckIndx(31, 0, magic_name_strs_614041[0].length+0-1)-0];
+		if (has_key_522437(dict_648606, magic_name_str_649270)) {
 		F.line = 269;
-		tp_647001.magicMethods.Field31 = call_py_instance_object_magic_642036;
+		tp_649001.magicMethods.Field31 = call_py_instance_object_magic_644036;
 		}
 		
 		F.line = 267;
-		var magic_name_str_647276 = magic_name_strs_612041[0][chckIndx(32, 0, magic_name_strs_612041[0].length+0-1)-0];
-		if (has_key_522437(dict_646606, magic_name_str_647276)) {
+		var magic_name_str_649276 = magic_name_strs_614041[0][chckIndx(32, 0, magic_name_strs_614041[0].length+0-1)-0];
+		if (has_key_522437(dict_648606, magic_name_str_649276)) {
 		F.line = 269;
-		tp_647001.magicMethods.Field32 = getitem_py_instance_object_magic_642247;
+		tp_649001.magicMethods.Field32 = getitem_py_instance_object_magic_644247;
 		}
 		
 		F.line = 267;
-		var magic_name_str_647282 = magic_name_strs_612041[0][chckIndx(33, 0, magic_name_strs_612041[0].length+0-1)-0];
-		if (has_key_522437(dict_646606, magic_name_str_647282)) {
+		var magic_name_str_649282 = magic_name_strs_614041[0][chckIndx(33, 0, magic_name_strs_614041[0].length+0-1)-0];
+		if (has_key_522437(dict_648606, magic_name_str_649282)) {
 		F.line = 269;
-		tp_647001.magicMethods.Field33 = setitem_py_instance_object_magic_642436;
+		tp_649001.magicMethods.Field33 = setitem_py_instance_object_magic_644436;
 		}
 		
 		F.line = 267;
-		var magic_name_str_647288 = magic_name_strs_612041[0][chckIndx(34, 0, magic_name_strs_612041[0].length+0-1)-0];
-		if (has_key_522437(dict_646606, magic_name_str_647288)) {
+		var magic_name_str_649288 = magic_name_strs_614041[0][chckIndx(34, 0, magic_name_strs_614041[0].length+0-1)-0];
+		if (has_key_522437(dict_648606, magic_name_str_649288)) {
 		F.line = 269;
-		tp_647001.magicMethods.Field34 = get_py_instance_object_magic_642636;
+		tp_649001.magicMethods.Field34 = get_py_instance_object_magic_644636;
 		}
 		
 		F.line = 267;
-		var magic_name_str_647294 = magic_name_strs_612041[0][chckIndx(35, 0, magic_name_strs_612041[0].length+0-1)-0];
-		if (has_key_522437(dict_646606, magic_name_str_647294)) {
+		var magic_name_str_649294 = magic_name_strs_614041[0][chckIndx(35, 0, magic_name_strs_614041[0].length+0-1)-0];
+		if (has_key_522437(dict_648606, magic_name_str_649294)) {
 		F.line = 269;
-		tp_647001.magicMethods.Field35 = set_py_instance_object_magic_642836;
+		tp_649001.magicMethods.Field35 = set_py_instance_object_magic_644836;
 		}
 		
 		F.line = 267;
-		var magic_name_str_647300 = magic_name_strs_612041[0][chckIndx(36, 0, magic_name_strs_612041[0].length+0-1)-0];
-		if (has_key_522437(dict_646606, magic_name_str_647300)) {
+		var magic_name_str_649300 = magic_name_strs_614041[0][chckIndx(36, 0, magic_name_strs_614041[0].length+0-1)-0];
+		if (has_key_522437(dict_648606, magic_name_str_649300)) {
 		F.line = 269;
-		tp_647001.magicMethods.Field36 = iter_py_instance_object_magic_643036;
+		tp_649001.magicMethods.Field36 = iter_py_instance_object_magic_645036;
 		}
 		
 		F.line = 267;
-		var magic_name_str_647306 = magic_name_strs_612041[0][chckIndx(37, 0, magic_name_strs_612041[0].length+0-1)-0];
-		if (has_key_522437(dict_646606, magic_name_str_647306)) {
+		var magic_name_str_649306 = magic_name_strs_614041[0][chckIndx(37, 0, magic_name_strs_614041[0].length+0-1)-0];
+		if (has_key_522437(dict_648606, magic_name_str_649306)) {
 		F.line = 269;
-		tp_647001.magicMethods.Field37 = iternext_py_instance_object_magic_643236;
+		tp_649001.magicMethods.Field37 = iternext_py_instance_object_magic_645236;
 		}
 		
 		F.line = 287;
-		tp_647001.dict = copy_pydict_object_method_532009(dict_646606, []);
+		tp_649001.dict = copy_pydict_object_method_532009(dict_648606, []);
 		F.line = 288;
-		type_ready_625659(tp_647001);
-		result_643937 = tp_647001;
+		type_ready_627659(tp_649001);
+		result_645937 = tp_649001;
 	} while (false);
 	framePtr = F.prev;
 
-	return result_643937;
+	return result_645937;
 
 }
-py_type_object_type_612361.magicMethods.Field26 = new_py_type_object_magic_643921;
+py_type_object_type_614361.magicMethods.Field26 = new_py_type_object_magic_645921;
 
-function register_bltin_function_648027(name_648029, fun_648030) {
+function register_bltin_function_650027(name_650029, fun_650030) {
 	var F={procname:"bltinmodule.registerBltinFunction",prev:framePtr,filename:"bltinmodule.nim",line:0};
 	framePtr = F;
 		F.line = 10;
-		var name_str_648031 = new_py_string_176075(name_648029);
-		if (!(!(has_key_522437(bltin_dict_534014, name_str_648031)))) {
+		var name_str_650031 = new_py_string_176075(name_650029);
+		if (!(!(has_key_522437(bltin_dict_534014, name_str_650031)))) {
 		F.line = 11;
 		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Python/bltinmodule.nim(11, 3) `not hasKey(bltinDict, nameStr)` "));
 		}
 		
 		F.line = 12;
-		HEX5BHEX5DHEX3D_523842(bltin_dict_534014, name_str_648031, new_py_nim_func_549444(fun_648030, name_str_648031));
+		HEX5BHEX5DHEX3D_523842(bltin_dict_534014, name_str_650031, new_py_nim_func_549444(fun_650030, name_str_650031));
 	framePtr = F.prev;
 
 	
 }
 
-function builtin_print_648482(args_648485) {
-	var result_648486 = null;
+function builtin_print_650482(args_650485) {
+	var result_650486 = null;
 
 	var F={procname:"bltinmodule.builtinPrint",prev:framePtr,filename:"bltinmodule.nim",line:0};
 	framePtr = F;
@@ -29156,137 +29195,137 @@ function builtin_print_648482(args_648485) {
 		F.line = 68;
 		L1: do {
 			F.line = 68;
-			var obj_648495 = null;
+			var obj_650495 = null;
 			F.line = 3911;
-			var i_649226 = 0;
+			var i_651226 = 0;
 			F.line = 3912;
-			var l_649228 = (args_648485 != null ? args_648485.length : 0);
+			var l_651228 = (args_650485 != null ? args_650485.length : 0);
 			L2: do {
 				F.line = 3913;
 					L3: while (true) {
-					if (!(i_649226 < l_649228)) break L3;
+					if (!(i_651226 < l_651228)) break L3;
 						F.line = 3914;
-						obj_648495 = args_648485[chckIndx(i_649226, 0, args_648485.length+0-1)-0];
+						obj_650495 = args_650485[chckIndx(i_651226, 0, args_650485.length+0-1)-0];
 						F.line = 69;
 						F.line = 45;
-						if ((obj_648495.pyType === null)) {
+						if ((obj_650495.pyType === null)) {
 						F.line = 2895;
-						var e_648522 = null;
+						var e_650522 = null;
 						F.line = 2896;
-						e_648522 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
+						e_650522 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
 						F.line = 26;
-						e_648522.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
+						e_650522.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
 						F.line = 2891;
-						e_648522.parent = null;
+						e_650522.parent = null;
 						F.line = 26;
-						raiseException(e_648522, "InternalError");
+						raiseException(e_650522, "InternalError");
 						}
 						
 						F.line = 27;
-						var fun_648602 = obj_648495.pyType.magicMethods.Field24;
-						if ((fun_648602 === null)) {
+						var fun_650602 = obj_650495.pyType.magicMethods.Field24;
+						if ((fun_650602 === null)) {
 						F.line = 29;
-						var obj_type_str_648611 = obj_648495.pyType.name;
+						var obj_type_str_650611 = obj_650495.pyType.name;
 						F.line = 30;
-						var method_str_648613 = makeNimstrLit("str");
+						var method_str_650613 = makeNimstrLit("str");
 						F.line = 31;
-						var msg_648615 = (makeNimstrLit("No ")).concat(method_str_648613,makeNimstrLit(" method for "),obj_type_str_648611,makeNimstrLit(" defined"));
+						var msg_650615 = (makeNimstrLit("No ")).concat(method_str_650613,makeNimstrLit(" method for "),obj_type_str_650611,makeNimstrLit(" defined"));
 						F.line = 32;
 						F.line = 104;
-						var excp_648617 = new_py_type_error_simple_360601();
+						var excp_650617 = new_py_type_error_simple_360601();
 						F.line = 105;
-						excp_648617.tk = 3;
+						excp_650617.tk = 3;
 						F.line = 106;
-						excp_648617.thrown = true;
+						excp_650617.thrown = true;
 						F.line = 107;
-						excp_648617.msg = new_py_string_176075(msg_648615);
-						var excp_648620 = excp_648617;
+						excp_650617.msg = new_py_string_176075(msg_650615);
+						var excp_650620 = excp_650617;
 						F.line = 36;
-						result_648486 = excp_648620;
+						result_650486 = excp_650620;
 						break BeforeRet;
 						}
 						
-						var fun_648802 = fun_648602;
+						var fun_650802 = fun_650602;
 						F.line = 46;
-						var res_648804 = fun_648802(obj_648495);
-						var obj_str_649001 = res_648804;
-						if (!(of_py_str_object_175092(obj_str_649001))) {
+						var res_650804 = fun_650802(obj_650495);
+						var obj_str_651001 = res_650804;
+						if (!(of_py_str_object_175092(obj_str_651001))) {
 						F.line = 157;
-						var type_name_649004 = nimCopy(null, obj_str_649001.pyType.name, NTI138);
+						var type_name_651004 = nimCopy(null, obj_str_651001.pyType.name, NTI138);
 						F.line = 158;
 						F.line = 158;
-						var fmt_res_649007 = mnewString(0);
+						var fmt_res_651007 = mnewString(0);
 						F.line = 158;
-						if (fmt_res_649007 != null) { fmt_res_649007 = (fmt_res_649007).concat(makeNimstrLit(" returned non-string (type ")); } else { fmt_res_649007 = makeNimstrLit(" returned non-string (type "); };
+						if (fmt_res_651007 != null) { fmt_res_651007 = (fmt_res_651007).concat(makeNimstrLit(" returned non-string (type ")); } else { fmt_res_651007 = makeNimstrLit(" returned non-string (type "); };
 						F.line = 260;
-						if (fmt_res_649007 != null) { fmt_res_649007 = (fmt_res_649007).concat(type_name_649004); } else { fmt_res_649007 = type_name_649004.slice(); };
+						if (fmt_res_651007 != null) { fmt_res_651007 = (fmt_res_651007).concat(type_name_651004); } else { fmt_res_651007 = type_name_651004.slice(); };
 						F.line = 158;
-						if (fmt_res_649007 != null) { fmt_res_649007 = (fmt_res_649007).concat(makeNimstrLit(")")); } else { fmt_res_649007 = makeNimstrLit(")"); };
-						var msg_649202 = (makeNimstrLit("__str__")).concat(fmt_res_649007);
+						if (fmt_res_651007 != null) { fmt_res_651007 = (fmt_res_651007).concat(makeNimstrLit(")")); } else { fmt_res_651007 = makeNimstrLit(")"); };
+						var msg_651202 = (makeNimstrLit("__str__")).concat(fmt_res_651007);
 						F.line = 159;
 						F.line = 104;
-						var excp_649204 = new_py_type_error_simple_360601();
+						var excp_651204 = new_py_type_error_simple_360601();
 						F.line = 105;
-						excp_649204.tk = 3;
+						excp_651204.tk = 3;
 						F.line = 106;
-						excp_649204.thrown = true;
+						excp_651204.thrown = true;
 						F.line = 107;
-						excp_649204.msg = new_py_string_176075(msg_649202);
-						result_648486 = excp_649204;
+						excp_651204.msg = new_py_string_176075(msg_651202);
+						result_650486 = excp_651204;
 						break BeforeRet;
 						}
 						
 						F.line = 14;
-						rawEcho(obj_str_649001.str);
+						rawEcho(obj_str_651001.str);
 						L4: do {
 							F.line = 15;
-							var line_649212 = null;
+							var line_651212 = null;
 							F.line = 597;
-							var colontmp__649215 = null;
+							var colontmp__651215 = null;
 							F.line = 71;
-							colontmp__649215 = obj_str_649001.str;
+							colontmp__651215 = obj_str_651001.str;
 							F.line = 455;
-							var last_649219 = 0;
+							var last_651219 = 0;
 							F.line = 456;
-							var splits_649221 = -1;
+							var splits_651221 = -1;
 							L5: do {
 								F.line = 614;
 									L6: while (true) {
-									if (!(last_649219 <= (colontmp__649215 != null ? colontmp__649215.length : 0))) break L6;
+									if (!(last_651219 <= (colontmp__651215 != null ? colontmp__651215.length : 0))) break L6;
 										F.line = 459;
-										var first_649223 = last_649219;
+										var first_651223 = last_651219;
 										L7: do {
 											F.line = 460;
 												L8: while (true) {
-												if (!((last_649219 < (colontmp__649215 != null ? colontmp__649215.length : 0)) && !(substr_eq_132789(colontmp__649215, last_649219, makeNimstrLit("\x0A"))))) break L8;
+												if (!((last_651219 < (colontmp__651215 != null ? colontmp__651215.length : 0)) && !(substr_eq_132789(colontmp__651215, last_651219, makeNimstrLit("\x0A"))))) break L8;
 													F.line = 461;
-													last_649219 = addInt(last_649219, 1);
+													last_651219 = addInt(last_651219, 1);
 												}
 										} while(false);
-										if ((splits_649221 == 0)) {
+										if ((splits_651221 == 0)) {
 										F.line = 462;
-										last_649219 = (colontmp__649215 != null ? colontmp__649215.length : 0);
+										last_651219 = (colontmp__651215 != null ? colontmp__651215.length : 0);
 										}
 										
 										F.line = 463;
-										line_649212 = substr_23422(colontmp__649215, first_649223, subInt(last_649219, 1));
+										line_651212 = substr_23422(colontmp__651215, first_651223, subInt(last_651219, 1));
 										F.line = 16;
-										log(" ", toJSStr(line_649212));
-										if ((splits_649221 == 0)) {
+										log(" ", toJSStr(line_651212));
+										if ((splits_651221 == 0)) {
 										F.line = 464;
 										break L5;
 										}
 										
 										F.line = 465;
-										splits_649221 = subInt(splits_649221, 1);
+										splits_651221 = subInt(splits_651221, 1);
 										F.line = 466;
-										last_649219 = addInt(last_649219, 1);
+										last_651219 = addInt(last_651219, 1);
 									}
 							} while(false);
 						} while(false);
 						F.line = 3915;
-						i_649226 = addInt(i_649226, 1);
-						if (!(((args_648485 != null ? args_648485.length : 0) == l_649228))) {
+						i_651226 = addInt(i_651226, 1);
+						if (!(((args_650485 != null ? args_650485.length : 0) == l_651228))) {
 						F.line = 3916;
 						failed_assert_impl_20481(makeNimstrLit("/home/wtli/.choosenim/toolchains/nim-0.19.4/lib/system.nim(3916, 11) `len(a) == L` seq modified while iterating over it"));
 						}
@@ -29294,11 +29333,11 @@ function builtin_print_648482(args_648485) {
 					}
 			} while(false);
 		} while(false);
-		result_648486 = py_none_356044;
+		result_650486 = py_none_356044;
 	} while (false);
 	framePtr = F.prev;
 
-	return result_648486;
+	return result_650486;
 
 }
 
@@ -29419,350 +29458,152 @@ function keys_532653(d_532655) {
 
 }
 
-function bltindir_649243(args_649258) {
-	var result_649259 = null;
+function bltindir_651243(args_651258) {
+	var result_651259 = null;
 
 	var F={procname:"bltinmodule.bltindir",prev:framePtr,filename:"bltinmodule.nim",line:0};
 	framePtr = F;
 	BeforeRet: do {
 		F.line = 75;
-		if (!(((args_649258 != null ? args_649258.length : 0) == 1))) {
+		if (!(((args_651258 != null ? args_651258.length : 0) == 1))) {
 		F.line = 183;
-		var msg_649271 = null;
+		var msg_651271 = null;
 		if (true) {
 		F.line = 185;
 		F.line = 185;
-		var fmt_res_649276 = mnewString(0);
+		var fmt_res_651276 = mnewString(0);
 		F.line = 185;
-		if (fmt_res_649276 != null) { fmt_res_649276 = (fmt_res_649276).concat(makeNimstrLit(" argument (")); } else { fmt_res_649276 = makeNimstrLit(" argument ("); };
+		if (fmt_res_651276 != null) { fmt_res_651276 = (fmt_res_651276).concat(makeNimstrLit(" argument (")); } else { fmt_res_651276 = makeNimstrLit(" argument ("); };
 		F.line = 270;
-		if (fmt_res_649276 != null) { fmt_res_649276 = (fmt_res_649276).concat(cstrToNimstr(((args_649258 != null ? args_649258.length : 0))+"")); } else { fmt_res_649276 = cstrToNimstr(((args_649258 != null ? args_649258.length : 0))+"").slice(); };
+		if (fmt_res_651276 != null) { fmt_res_651276 = (fmt_res_651276).concat(cstrToNimstr(((args_651258 != null ? args_651258.length : 0))+"")); } else { fmt_res_651276 = cstrToNimstr(((args_651258 != null ? args_651258.length : 0))+"").slice(); };
 		F.line = 185;
-		if (fmt_res_649276 != null) { fmt_res_649276 = (fmt_res_649276).concat(makeNimstrLit(" given)")); } else { fmt_res_649276 = makeNimstrLit(" given)"); };
-		msg_649271 = nimCopy(null, (makeNimstrLit("dir takes exactly 1")).concat(fmt_res_649276), NTI138);
+		if (fmt_res_651276 != null) { fmt_res_651276 = (fmt_res_651276).concat(makeNimstrLit(" given)")); } else { fmt_res_651276 = makeNimstrLit(" given)"); };
+		msg_651271 = nimCopy(null, (makeNimstrLit("dir takes exactly 1")).concat(fmt_res_651276), NTI138);
 		}
 		else {
 			F.line = 187;
 			F.line = 187;
-			var fmt_res_649410 = mnewString(0);
+			var fmt_res_651410 = mnewString(0);
 			F.line = 187;
-			if (fmt_res_649410 != null) { fmt_res_649410 = (fmt_res_649410).concat(makeNimstrLit(" argument (")); } else { fmt_res_649410 = makeNimstrLit(" argument ("); };
+			if (fmt_res_651410 != null) { fmt_res_651410 = (fmt_res_651410).concat(makeNimstrLit(" argument (")); } else { fmt_res_651410 = makeNimstrLit(" argument ("); };
 			F.line = 270;
-			if (fmt_res_649410 != null) { fmt_res_649410 = (fmt_res_649410).concat(cstrToNimstr(((args_649258 != null ? args_649258.length : 0))+"")); } else { fmt_res_649410 = cstrToNimstr(((args_649258 != null ? args_649258.length : 0))+"").slice(); };
+			if (fmt_res_651410 != null) { fmt_res_651410 = (fmt_res_651410).concat(cstrToNimstr(((args_651258 != null ? args_651258.length : 0))+"")); } else { fmt_res_651410 = cstrToNimstr(((args_651258 != null ? args_651258.length : 0))+"").slice(); };
 			F.line = 187;
-			if (fmt_res_649410 != null) { fmt_res_649410 = (fmt_res_649410).concat(makeNimstrLit(" given)")); } else { fmt_res_649410 = makeNimstrLit(" given)"); };
-			msg_649271 = nimCopy(null, (makeNimstrLit("expected 1")).concat(fmt_res_649410), NTI138);
+			if (fmt_res_651410 != null) { fmt_res_651410 = (fmt_res_651410).concat(makeNimstrLit(" given)")); } else { fmt_res_651410 = makeNimstrLit(" given)"); };
+			msg_651271 = nimCopy(null, (makeNimstrLit("expected 1")).concat(fmt_res_651410), NTI138);
 		}
 		
 		F.line = 188;
 		F.line = 104;
-		var excp_649609 = new_py_type_error_simple_360601();
+		var excp_651609 = new_py_type_error_simple_360601();
 		F.line = 105;
-		excp_649609.tk = 3;
+		excp_651609.tk = 3;
 		F.line = 106;
-		excp_649609.thrown = true;
+		excp_651609.thrown = true;
 		F.line = 107;
-		excp_649609.msg = new_py_string_176075(msg_649271);
-		result_649259 = excp_649609;
+		excp_651609.msg = new_py_string_176075(msg_651271);
+		result_651259 = excp_651609;
 		break BeforeRet;
 		}
 		
 		F.line = 230;
-		var obj_649611 = args_649258[chckIndx(0, 0, args_649258.length+0-1)-0];
+		var obj_651611 = args_651258[chckIndx(0, 0, args_651258.length+0-1)-0];
 		F.line = 78;
-		var merged_dict_649612 = new_py_dict_522257();
+		var merged_dict_651612 = new_py_dict_522257();
 		F.line = 79;
-		update_533227(merged_dict_649612, get_type_dict_617304(obj_649611));
-		if (has_dict_159278(obj_649611)) {
+		update_533227(merged_dict_651612, get_type_dict_619304(obj_651611));
+		if (has_dict_159278(obj_651611)) {
 		F.line = 81;
-		update_533227(merged_dict_649612, get_dict_159307(obj_649611));
+		update_533227(merged_dict_651612, get_dict_159307(obj_651611));
 		}
 		
-		result_649259 = keys_532653(merged_dict_649612);
+		result_651259 = keys_532653(merged_dict_651612);
 	} while (false);
 	framePtr = F.prev;
 
-	return result_649259;
+	return result_651259;
 
 }
 
-function bltinid_649626(args_649641) {
-	var result_649642 = null;
+function bltinid_651626(args_651641) {
+	var result_651642 = null;
 
 	var F={procname:"bltinmodule.bltinid",prev:framePtr,filename:"bltinmodule.nim",line:0};
 	framePtr = F;
 	BeforeRet: do {
 		F.line = 85;
-		if (!(((args_649641 != null ? args_649641.length : 0) == 1))) {
+		if (!(((args_651641 != null ? args_651641.length : 0) == 1))) {
 		F.line = 183;
-		var msg_649654 = null;
+		var msg_651654 = null;
 		if (true) {
 		F.line = 185;
 		F.line = 185;
-		var fmt_res_649659 = mnewString(0);
+		var fmt_res_651659 = mnewString(0);
 		F.line = 185;
-		if (fmt_res_649659 != null) { fmt_res_649659 = (fmt_res_649659).concat(makeNimstrLit(" argument (")); } else { fmt_res_649659 = makeNimstrLit(" argument ("); };
+		if (fmt_res_651659 != null) { fmt_res_651659 = (fmt_res_651659).concat(makeNimstrLit(" argument (")); } else { fmt_res_651659 = makeNimstrLit(" argument ("); };
 		F.line = 270;
-		if (fmt_res_649659 != null) { fmt_res_649659 = (fmt_res_649659).concat(cstrToNimstr(((args_649641 != null ? args_649641.length : 0))+"")); } else { fmt_res_649659 = cstrToNimstr(((args_649641 != null ? args_649641.length : 0))+"").slice(); };
+		if (fmt_res_651659 != null) { fmt_res_651659 = (fmt_res_651659).concat(cstrToNimstr(((args_651641 != null ? args_651641.length : 0))+"")); } else { fmt_res_651659 = cstrToNimstr(((args_651641 != null ? args_651641.length : 0))+"").slice(); };
 		F.line = 185;
-		if (fmt_res_649659 != null) { fmt_res_649659 = (fmt_res_649659).concat(makeNimstrLit(" given)")); } else { fmt_res_649659 = makeNimstrLit(" given)"); };
-		msg_649654 = nimCopy(null, (makeNimstrLit("id takes exactly 1")).concat(fmt_res_649659), NTI138);
+		if (fmt_res_651659 != null) { fmt_res_651659 = (fmt_res_651659).concat(makeNimstrLit(" given)")); } else { fmt_res_651659 = makeNimstrLit(" given)"); };
+		msg_651654 = nimCopy(null, (makeNimstrLit("id takes exactly 1")).concat(fmt_res_651659), NTI138);
 		}
 		else {
 			F.line = 187;
 			F.line = 187;
-			var fmt_res_649810 = mnewString(0);
+			var fmt_res_651810 = mnewString(0);
 			F.line = 187;
-			if (fmt_res_649810 != null) { fmt_res_649810 = (fmt_res_649810).concat(makeNimstrLit(" argument (")); } else { fmt_res_649810 = makeNimstrLit(" argument ("); };
+			if (fmt_res_651810 != null) { fmt_res_651810 = (fmt_res_651810).concat(makeNimstrLit(" argument (")); } else { fmt_res_651810 = makeNimstrLit(" argument ("); };
 			F.line = 270;
-			if (fmt_res_649810 != null) { fmt_res_649810 = (fmt_res_649810).concat(cstrToNimstr(((args_649641 != null ? args_649641.length : 0))+"")); } else { fmt_res_649810 = cstrToNimstr(((args_649641 != null ? args_649641.length : 0))+"").slice(); };
+			if (fmt_res_651810 != null) { fmt_res_651810 = (fmt_res_651810).concat(cstrToNimstr(((args_651641 != null ? args_651641.length : 0))+"")); } else { fmt_res_651810 = cstrToNimstr(((args_651641 != null ? args_651641.length : 0))+"").slice(); };
 			F.line = 187;
-			if (fmt_res_649810 != null) { fmt_res_649810 = (fmt_res_649810).concat(makeNimstrLit(" given)")); } else { fmt_res_649810 = makeNimstrLit(" given)"); };
-			msg_649654 = nimCopy(null, (makeNimstrLit("expected 1")).concat(fmt_res_649810), NTI138);
+			if (fmt_res_651810 != null) { fmt_res_651810 = (fmt_res_651810).concat(makeNimstrLit(" given)")); } else { fmt_res_651810 = makeNimstrLit(" given)"); };
+			msg_651654 = nimCopy(null, (makeNimstrLit("expected 1")).concat(fmt_res_651810), NTI138);
 		}
 		
 		F.line = 188;
 		F.line = 104;
-		var excp_650009 = new_py_type_error_simple_360601();
+		var excp_652009 = new_py_type_error_simple_360601();
 		F.line = 105;
-		excp_650009.tk = 3;
+		excp_652009.tk = 3;
 		F.line = 106;
-		excp_650009.thrown = true;
+		excp_652009.thrown = true;
 		F.line = 107;
-		excp_650009.msg = new_py_string_176075(msg_649654);
-		result_649642 = excp_650009;
+		excp_652009.msg = new_py_string_176075(msg_651654);
+		result_651642 = excp_652009;
 		break BeforeRet;
 		}
 		
 		F.line = 230;
-		var obj_650011 = args_649641[chckIndx(0, 0, args_649641.length+0-1)-0];
-		result_649642 = new_py_int_376142(id_157596(obj_650011));
+		var obj_652011 = args_651641[chckIndx(0, 0, args_651641.length+0-1)-0];
+		result_651642 = new_py_int_376142(id_157596(obj_652011));
 	} while (false);
 	framePtr = F.prev;
 
-	return result_649642;
+	return result_651642;
 
 }
 
-function bltinlen_650025(args_650040) {
-	var result_650041 = null;
+function bltinlen_652025(args_652040) {
+	var result_652041 = null;
 
 	var F={procname:"bltinmodule.bltinlen",prev:framePtr,filename:"bltinmodule.nim",line:0};
 	framePtr = F;
 	BeforeRet: do {
 		F.line = 88;
-		if (!(((args_650040 != null ? args_650040.length : 0) == 1))) {
+		if (!(((args_652040 != null ? args_652040.length : 0) == 1))) {
 		F.line = 183;
-		var msg_650053 = null;
+		var msg_652053 = null;
 		if (true) {
 		F.line = 185;
 		F.line = 185;
-		var fmt_res_650058 = mnewString(0);
+		var fmt_res_652058 = mnewString(0);
 		F.line = 185;
-		if (fmt_res_650058 != null) { fmt_res_650058 = (fmt_res_650058).concat(makeNimstrLit(" argument (")); } else { fmt_res_650058 = makeNimstrLit(" argument ("); };
+		if (fmt_res_652058 != null) { fmt_res_652058 = (fmt_res_652058).concat(makeNimstrLit(" argument (")); } else { fmt_res_652058 = makeNimstrLit(" argument ("); };
 		F.line = 270;
-		if (fmt_res_650058 != null) { fmt_res_650058 = (fmt_res_650058).concat(cstrToNimstr(((args_650040 != null ? args_650040.length : 0))+"")); } else { fmt_res_650058 = cstrToNimstr(((args_650040 != null ? args_650040.length : 0))+"").slice(); };
+		if (fmt_res_652058 != null) { fmt_res_652058 = (fmt_res_652058).concat(cstrToNimstr(((args_652040 != null ? args_652040.length : 0))+"")); } else { fmt_res_652058 = cstrToNimstr(((args_652040 != null ? args_652040.length : 0))+"").slice(); };
 		F.line = 185;
-		if (fmt_res_650058 != null) { fmt_res_650058 = (fmt_res_650058).concat(makeNimstrLit(" given)")); } else { fmt_res_650058 = makeNimstrLit(" given)"); };
-		msg_650053 = nimCopy(null, (makeNimstrLit("len takes exactly 1")).concat(fmt_res_650058), NTI138);
-		}
-		else {
-			F.line = 187;
-			F.line = 187;
-			var fmt_res_650210 = mnewString(0);
-			F.line = 187;
-			if (fmt_res_650210 != null) { fmt_res_650210 = (fmt_res_650210).concat(makeNimstrLit(" argument (")); } else { fmt_res_650210 = makeNimstrLit(" argument ("); };
-			F.line = 270;
-			if (fmt_res_650210 != null) { fmt_res_650210 = (fmt_res_650210).concat(cstrToNimstr(((args_650040 != null ? args_650040.length : 0))+"")); } else { fmt_res_650210 = cstrToNimstr(((args_650040 != null ? args_650040.length : 0))+"").slice(); };
-			F.line = 187;
-			if (fmt_res_650210 != null) { fmt_res_650210 = (fmt_res_650210).concat(makeNimstrLit(" given)")); } else { fmt_res_650210 = makeNimstrLit(" given)"); };
-			msg_650053 = nimCopy(null, (makeNimstrLit("expected 1")).concat(fmt_res_650210), NTI138);
-		}
-		
-		F.line = 188;
-		F.line = 104;
-		var excp_650409 = new_py_type_error_simple_360601();
-		F.line = 105;
-		excp_650409.tk = 3;
-		F.line = 106;
-		excp_650409.thrown = true;
-		F.line = 107;
-		excp_650409.msg = new_py_string_176075(msg_650053);
-		result_650041 = excp_650409;
-		break BeforeRet;
-		}
-		
-		F.line = 230;
-		var obj_650411 = args_650040[chckIndx(0, 0, args_650040.length+0-1)-0];
-		F.line = 45;
-		if ((obj_650411.pyType === null)) {
-		F.line = 2895;
-		var e_650438 = null;
-		F.line = 2896;
-		e_650438 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
-		F.line = 26;
-		e_650438.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
-		F.line = 2891;
-		e_650438.parent = null;
-		F.line = 26;
-		raiseException(e_650438, "InternalError");
-		}
-		
-		F.line = 27;
-		var fun_650602 = obj_650411.pyType.magicMethods.Field23;
-		if ((fun_650602 === null)) {
-		F.line = 29;
-		var obj_type_str_650611 = obj_650411.pyType.name;
-		F.line = 30;
-		var method_str_650613 = makeNimstrLit("len");
-		F.line = 31;
-		var msg_650615 = (makeNimstrLit("No ")).concat(method_str_650613,makeNimstrLit(" method for "),obj_type_str_650611,makeNimstrLit(" defined"));
-		F.line = 32;
-		F.line = 104;
-		var excp_650617 = new_py_type_error_simple_360601();
-		F.line = 105;
-		excp_650617.tk = 3;
-		F.line = 106;
-		excp_650617.thrown = true;
-		F.line = 107;
-		excp_650617.msg = new_py_string_176075(msg_650615);
-		var excp_650620 = excp_650617;
-		F.line = 36;
-		result_650041 = excp_650620;
-		break BeforeRet;
-		}
-		
-		var fun_650802 = fun_650602;
-		F.line = 46;
-		var res_650804 = fun_650802(obj_650411);
-		result_650041 = res_650804;
-	} while (false);
-	framePtr = F.prev;
-
-	return result_650041;
-
-}
-
-function bltiniter_651014(args_651029) {
-	var result_651030 = null;
-
-	var F={procname:"bltinmodule.bltiniter",prev:framePtr,filename:"bltinmodule.nim",line:0};
-	framePtr = F;
-	BeforeRet: do {
-		F.line = 92;
-		if (!(((args_651029 != null ? args_651029.length : 0) == 1))) {
-		F.line = 183;
-		var msg_651042 = null;
-		if (true) {
-		F.line = 185;
-		F.line = 185;
-		var fmt_res_651047 = mnewString(0);
-		F.line = 185;
-		if (fmt_res_651047 != null) { fmt_res_651047 = (fmt_res_651047).concat(makeNimstrLit(" argument (")); } else { fmt_res_651047 = makeNimstrLit(" argument ("); };
-		F.line = 270;
-		if (fmt_res_651047 != null) { fmt_res_651047 = (fmt_res_651047).concat(cstrToNimstr(((args_651029 != null ? args_651029.length : 0))+"")); } else { fmt_res_651047 = cstrToNimstr(((args_651029 != null ? args_651029.length : 0))+"").slice(); };
-		F.line = 185;
-		if (fmt_res_651047 != null) { fmt_res_651047 = (fmt_res_651047).concat(makeNimstrLit(" given)")); } else { fmt_res_651047 = makeNimstrLit(" given)"); };
-		msg_651042 = nimCopy(null, (makeNimstrLit("iter takes exactly 1")).concat(fmt_res_651047), NTI138);
-		}
-		else {
-			F.line = 187;
-			F.line = 187;
-			var fmt_res_651210 = mnewString(0);
-			F.line = 187;
-			if (fmt_res_651210 != null) { fmt_res_651210 = (fmt_res_651210).concat(makeNimstrLit(" argument (")); } else { fmt_res_651210 = makeNimstrLit(" argument ("); };
-			F.line = 270;
-			if (fmt_res_651210 != null) { fmt_res_651210 = (fmt_res_651210).concat(cstrToNimstr(((args_651029 != null ? args_651029.length : 0))+"")); } else { fmt_res_651210 = cstrToNimstr(((args_651029 != null ? args_651029.length : 0))+"").slice(); };
-			F.line = 187;
-			if (fmt_res_651210 != null) { fmt_res_651210 = (fmt_res_651210).concat(makeNimstrLit(" given)")); } else { fmt_res_651210 = makeNimstrLit(" given)"); };
-			msg_651042 = nimCopy(null, (makeNimstrLit("expected 1")).concat(fmt_res_651210), NTI138);
-		}
-		
-		F.line = 188;
-		F.line = 104;
-		var excp_651409 = new_py_type_error_simple_360601();
-		F.line = 105;
-		excp_651409.tk = 3;
-		F.line = 106;
-		excp_651409.thrown = true;
-		F.line = 107;
-		excp_651409.msg = new_py_string_176075(msg_651042);
-		result_651030 = excp_651409;
-		break BeforeRet;
-		}
-		
-		F.line = 230;
-		var obj_651411 = args_651029[chckIndx(0, 0, args_651029.length+0-1)-0];
-		F.line = 45;
-		if ((obj_651411.pyType === null)) {
-		F.line = 2895;
-		var e_651438 = null;
-		F.line = 2896;
-		e_651438 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
-		F.line = 26;
-		e_651438.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
-		F.line = 2891;
-		e_651438.parent = null;
-		F.line = 26;
-		raiseException(e_651438, "InternalError");
-		}
-		
-		F.line = 27;
-		var fun_651602 = obj_651411.pyType.magicMethods.Field36;
-		if ((fun_651602 === null)) {
-		F.line = 29;
-		var obj_type_str_651611 = obj_651411.pyType.name;
-		F.line = 30;
-		var method_str_651613 = makeNimstrLit("iter");
-		F.line = 31;
-		var msg_651615 = (makeNimstrLit("No ")).concat(method_str_651613,makeNimstrLit(" method for "),obj_type_str_651611,makeNimstrLit(" defined"));
-		F.line = 32;
-		F.line = 104;
-		var excp_651617 = new_py_type_error_simple_360601();
-		F.line = 105;
-		excp_651617.tk = 3;
-		F.line = 106;
-		excp_651617.thrown = true;
-		F.line = 107;
-		excp_651617.msg = new_py_string_176075(msg_651615);
-		var excp_651620 = excp_651617;
-		F.line = 36;
-		result_651030 = excp_651620;
-		break BeforeRet;
-		}
-		
-		var fun_651802 = fun_651602;
-		F.line = 46;
-		var res_651804 = fun_651802(obj_651411);
-		result_651030 = res_651804;
-	} while (false);
-	framePtr = F.prev;
-
-	return result_651030;
-
-}
-
-function bltinrepr_652014(args_652029) {
-	var result_652030 = null;
-
-	var F={procname:"bltinmodule.bltinrepr",prev:framePtr,filename:"bltinmodule.nim",line:0};
-	framePtr = F;
-	BeforeRet: do {
-		F.line = 94;
-		if (!(((args_652029 != null ? args_652029.length : 0) == 1))) {
-		F.line = 183;
-		var msg_652042 = null;
-		if (true) {
-		F.line = 185;
-		F.line = 185;
-		var fmt_res_652047 = mnewString(0);
-		F.line = 185;
-		if (fmt_res_652047 != null) { fmt_res_652047 = (fmt_res_652047).concat(makeNimstrLit(" argument (")); } else { fmt_res_652047 = makeNimstrLit(" argument ("); };
-		F.line = 270;
-		if (fmt_res_652047 != null) { fmt_res_652047 = (fmt_res_652047).concat(cstrToNimstr(((args_652029 != null ? args_652029.length : 0))+"")); } else { fmt_res_652047 = cstrToNimstr(((args_652029 != null ? args_652029.length : 0))+"").slice(); };
-		F.line = 185;
-		if (fmt_res_652047 != null) { fmt_res_652047 = (fmt_res_652047).concat(makeNimstrLit(" given)")); } else { fmt_res_652047 = makeNimstrLit(" given)"); };
-		msg_652042 = nimCopy(null, (makeNimstrLit("repr takes exactly 1")).concat(fmt_res_652047), NTI138);
+		if (fmt_res_652058 != null) { fmt_res_652058 = (fmt_res_652058).concat(makeNimstrLit(" given)")); } else { fmt_res_652058 = makeNimstrLit(" given)"); };
+		msg_652053 = nimCopy(null, (makeNimstrLit("len takes exactly 1")).concat(fmt_res_652058), NTI138);
 		}
 		else {
 			F.line = 187;
@@ -29771,10 +29612,10 @@ function bltinrepr_652014(args_652029) {
 			F.line = 187;
 			if (fmt_res_652210 != null) { fmt_res_652210 = (fmt_res_652210).concat(makeNimstrLit(" argument (")); } else { fmt_res_652210 = makeNimstrLit(" argument ("); };
 			F.line = 270;
-			if (fmt_res_652210 != null) { fmt_res_652210 = (fmt_res_652210).concat(cstrToNimstr(((args_652029 != null ? args_652029.length : 0))+"")); } else { fmt_res_652210 = cstrToNimstr(((args_652029 != null ? args_652029.length : 0))+"").slice(); };
+			if (fmt_res_652210 != null) { fmt_res_652210 = (fmt_res_652210).concat(cstrToNimstr(((args_652040 != null ? args_652040.length : 0))+"")); } else { fmt_res_652210 = cstrToNimstr(((args_652040 != null ? args_652040.length : 0))+"").slice(); };
 			F.line = 187;
 			if (fmt_res_652210 != null) { fmt_res_652210 = (fmt_res_652210).concat(makeNimstrLit(" given)")); } else { fmt_res_652210 = makeNimstrLit(" given)"); };
-			msg_652042 = nimCopy(null, (makeNimstrLit("expected 1")).concat(fmt_res_652210), NTI138);
+			msg_652053 = nimCopy(null, (makeNimstrLit("expected 1")).concat(fmt_res_652210), NTI138);
 		}
 		
 		F.line = 188;
@@ -29785,13 +29626,13 @@ function bltinrepr_652014(args_652029) {
 		F.line = 106;
 		excp_652409.thrown = true;
 		F.line = 107;
-		excp_652409.msg = new_py_string_176075(msg_652042);
-		result_652030 = excp_652409;
+		excp_652409.msg = new_py_string_176075(msg_652053);
+		result_652041 = excp_652409;
 		break BeforeRet;
 		}
 		
 		F.line = 230;
-		var obj_652411 = args_652029[chckIndx(0, 0, args_652029.length+0-1)-0];
+		var obj_652411 = args_652040[chckIndx(0, 0, args_652040.length+0-1)-0];
 		F.line = 45;
 		if ((obj_652411.pyType === null)) {
 		F.line = 2895;
@@ -29807,12 +29648,12 @@ function bltinrepr_652014(args_652029) {
 		}
 		
 		F.line = 27;
-		var fun_652602 = obj_652411.pyType.magicMethods.Field25;
+		var fun_652602 = obj_652411.pyType.magicMethods.Field23;
 		if ((fun_652602 === null)) {
 		F.line = 29;
 		var obj_type_str_652611 = obj_652411.pyType.name;
 		F.line = 30;
-		var method_str_652613 = makeNimstrLit("repr");
+		var method_str_652613 = makeNimstrLit("len");
 		F.line = 31;
 		var msg_652615 = (makeNimstrLit("No ")).concat(method_str_652613,makeNimstrLit(" method for "),obj_type_str_652611,makeNimstrLit(" defined"));
 		F.line = 32;
@@ -29826,33 +29667,231 @@ function bltinrepr_652014(args_652029) {
 		excp_652617.msg = new_py_string_176075(msg_652615);
 		var excp_652620 = excp_652617;
 		F.line = 36;
-		result_652030 = excp_652620;
+		result_652041 = excp_652620;
 		break BeforeRet;
 		}
 		
 		var fun_652802 = fun_652602;
 		F.line = 46;
 		var res_652804 = fun_652802(obj_652411);
-		result_652030 = res_652804;
+		result_652041 = res_652804;
 	} while (false);
 	framePtr = F.prev;
 
-	return result_652030;
+	return result_652041;
+
+}
+
+function bltiniter_653014(args_653029) {
+	var result_653030 = null;
+
+	var F={procname:"bltinmodule.bltiniter",prev:framePtr,filename:"bltinmodule.nim",line:0};
+	framePtr = F;
+	BeforeRet: do {
+		F.line = 92;
+		if (!(((args_653029 != null ? args_653029.length : 0) == 1))) {
+		F.line = 183;
+		var msg_653042 = null;
+		if (true) {
+		F.line = 185;
+		F.line = 185;
+		var fmt_res_653047 = mnewString(0);
+		F.line = 185;
+		if (fmt_res_653047 != null) { fmt_res_653047 = (fmt_res_653047).concat(makeNimstrLit(" argument (")); } else { fmt_res_653047 = makeNimstrLit(" argument ("); };
+		F.line = 270;
+		if (fmt_res_653047 != null) { fmt_res_653047 = (fmt_res_653047).concat(cstrToNimstr(((args_653029 != null ? args_653029.length : 0))+"")); } else { fmt_res_653047 = cstrToNimstr(((args_653029 != null ? args_653029.length : 0))+"").slice(); };
+		F.line = 185;
+		if (fmt_res_653047 != null) { fmt_res_653047 = (fmt_res_653047).concat(makeNimstrLit(" given)")); } else { fmt_res_653047 = makeNimstrLit(" given)"); };
+		msg_653042 = nimCopy(null, (makeNimstrLit("iter takes exactly 1")).concat(fmt_res_653047), NTI138);
+		}
+		else {
+			F.line = 187;
+			F.line = 187;
+			var fmt_res_653210 = mnewString(0);
+			F.line = 187;
+			if (fmt_res_653210 != null) { fmt_res_653210 = (fmt_res_653210).concat(makeNimstrLit(" argument (")); } else { fmt_res_653210 = makeNimstrLit(" argument ("); };
+			F.line = 270;
+			if (fmt_res_653210 != null) { fmt_res_653210 = (fmt_res_653210).concat(cstrToNimstr(((args_653029 != null ? args_653029.length : 0))+"")); } else { fmt_res_653210 = cstrToNimstr(((args_653029 != null ? args_653029.length : 0))+"").slice(); };
+			F.line = 187;
+			if (fmt_res_653210 != null) { fmt_res_653210 = (fmt_res_653210).concat(makeNimstrLit(" given)")); } else { fmt_res_653210 = makeNimstrLit(" given)"); };
+			msg_653042 = nimCopy(null, (makeNimstrLit("expected 1")).concat(fmt_res_653210), NTI138);
+		}
+		
+		F.line = 188;
+		F.line = 104;
+		var excp_653409 = new_py_type_error_simple_360601();
+		F.line = 105;
+		excp_653409.tk = 3;
+		F.line = 106;
+		excp_653409.thrown = true;
+		F.line = 107;
+		excp_653409.msg = new_py_string_176075(msg_653042);
+		result_653030 = excp_653409;
+		break BeforeRet;
+		}
+		
+		F.line = 230;
+		var obj_653411 = args_653029[chckIndx(0, 0, args_653029.length+0-1)-0];
+		F.line = 45;
+		if ((obj_653411.pyType === null)) {
+		F.line = 2895;
+		var e_653438 = null;
+		F.line = 2896;
+		e_653438 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
+		F.line = 26;
+		e_653438.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
+		F.line = 2891;
+		e_653438.parent = null;
+		F.line = 26;
+		raiseException(e_653438, "InternalError");
+		}
+		
+		F.line = 27;
+		var fun_653602 = obj_653411.pyType.magicMethods.Field36;
+		if ((fun_653602 === null)) {
+		F.line = 29;
+		var obj_type_str_653611 = obj_653411.pyType.name;
+		F.line = 30;
+		var method_str_653613 = makeNimstrLit("iter");
+		F.line = 31;
+		var msg_653615 = (makeNimstrLit("No ")).concat(method_str_653613,makeNimstrLit(" method for "),obj_type_str_653611,makeNimstrLit(" defined"));
+		F.line = 32;
+		F.line = 104;
+		var excp_653617 = new_py_type_error_simple_360601();
+		F.line = 105;
+		excp_653617.tk = 3;
+		F.line = 106;
+		excp_653617.thrown = true;
+		F.line = 107;
+		excp_653617.msg = new_py_string_176075(msg_653615);
+		var excp_653620 = excp_653617;
+		F.line = 36;
+		result_653030 = excp_653620;
+		break BeforeRet;
+		}
+		
+		var fun_653802 = fun_653602;
+		F.line = 46;
+		var res_653804 = fun_653802(obj_653411);
+		result_653030 = res_653804;
+	} while (false);
+	framePtr = F.prev;
+
+	return result_653030;
+
+}
+
+function bltinrepr_654014(args_654029) {
+	var result_654030 = null;
+
+	var F={procname:"bltinmodule.bltinrepr",prev:framePtr,filename:"bltinmodule.nim",line:0};
+	framePtr = F;
+	BeforeRet: do {
+		F.line = 94;
+		if (!(((args_654029 != null ? args_654029.length : 0) == 1))) {
+		F.line = 183;
+		var msg_654042 = null;
+		if (true) {
+		F.line = 185;
+		F.line = 185;
+		var fmt_res_654047 = mnewString(0);
+		F.line = 185;
+		if (fmt_res_654047 != null) { fmt_res_654047 = (fmt_res_654047).concat(makeNimstrLit(" argument (")); } else { fmt_res_654047 = makeNimstrLit(" argument ("); };
+		F.line = 270;
+		if (fmt_res_654047 != null) { fmt_res_654047 = (fmt_res_654047).concat(cstrToNimstr(((args_654029 != null ? args_654029.length : 0))+"")); } else { fmt_res_654047 = cstrToNimstr(((args_654029 != null ? args_654029.length : 0))+"").slice(); };
+		F.line = 185;
+		if (fmt_res_654047 != null) { fmt_res_654047 = (fmt_res_654047).concat(makeNimstrLit(" given)")); } else { fmt_res_654047 = makeNimstrLit(" given)"); };
+		msg_654042 = nimCopy(null, (makeNimstrLit("repr takes exactly 1")).concat(fmt_res_654047), NTI138);
+		}
+		else {
+			F.line = 187;
+			F.line = 187;
+			var fmt_res_654210 = mnewString(0);
+			F.line = 187;
+			if (fmt_res_654210 != null) { fmt_res_654210 = (fmt_res_654210).concat(makeNimstrLit(" argument (")); } else { fmt_res_654210 = makeNimstrLit(" argument ("); };
+			F.line = 270;
+			if (fmt_res_654210 != null) { fmt_res_654210 = (fmt_res_654210).concat(cstrToNimstr(((args_654029 != null ? args_654029.length : 0))+"")); } else { fmt_res_654210 = cstrToNimstr(((args_654029 != null ? args_654029.length : 0))+"").slice(); };
+			F.line = 187;
+			if (fmt_res_654210 != null) { fmt_res_654210 = (fmt_res_654210).concat(makeNimstrLit(" given)")); } else { fmt_res_654210 = makeNimstrLit(" given)"); };
+			msg_654042 = nimCopy(null, (makeNimstrLit("expected 1")).concat(fmt_res_654210), NTI138);
+		}
+		
+		F.line = 188;
+		F.line = 104;
+		var excp_654409 = new_py_type_error_simple_360601();
+		F.line = 105;
+		excp_654409.tk = 3;
+		F.line = 106;
+		excp_654409.thrown = true;
+		F.line = 107;
+		excp_654409.msg = new_py_string_176075(msg_654042);
+		result_654030 = excp_654409;
+		break BeforeRet;
+		}
+		
+		F.line = 230;
+		var obj_654411 = args_654029[chckIndx(0, 0, args_654029.length+0-1)-0];
+		F.line = 45;
+		if ((obj_654411.pyType === null)) {
+		F.line = 2895;
+		var e_654438 = null;
+		F.line = 2896;
+		e_654438 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
+		F.line = 26;
+		e_654438.message = nimCopy(null, makeNimstrLit("Py type not set"), NTI138);
+		F.line = 2891;
+		e_654438.parent = null;
+		F.line = 26;
+		raiseException(e_654438, "InternalError");
+		}
+		
+		F.line = 27;
+		var fun_654602 = obj_654411.pyType.magicMethods.Field25;
+		if ((fun_654602 === null)) {
+		F.line = 29;
+		var obj_type_str_654611 = obj_654411.pyType.name;
+		F.line = 30;
+		var method_str_654613 = makeNimstrLit("repr");
+		F.line = 31;
+		var msg_654615 = (makeNimstrLit("No ")).concat(method_str_654613,makeNimstrLit(" method for "),obj_type_str_654611,makeNimstrLit(" defined"));
+		F.line = 32;
+		F.line = 104;
+		var excp_654617 = new_py_type_error_simple_360601();
+		F.line = 105;
+		excp_654617.tk = 3;
+		F.line = 106;
+		excp_654617.thrown = true;
+		F.line = 107;
+		excp_654617.msg = new_py_string_176075(msg_654615);
+		var excp_654620 = excp_654617;
+		F.line = 36;
+		result_654030 = excp_654620;
+		break BeforeRet;
+		}
+		
+		var fun_654802 = fun_654602;
+		F.line = 46;
+		var res_654804 = fun_654802(obj_654411);
+		result_654030 = res_654804;
+	} while (false);
+	framePtr = F.prev;
+
+	return result_654030;
 
 }
 
 function new_py_frame_551047(fun_551049) {
 			var Tmp1;
 
-	var result_583004 = null;
+	var result_584204 = null;
 
 	var F={procname:"neval.newPyFrame",prev:framePtr,filename:"neval.nim",line:0};
 	framePtr = F;
 	BeforeRet: do {
-		F.line = 636;
-		var obj_583019 = new_py_frame_551050(fun_551049, [], null);
-			if (of_py_exception_object_358259(obj_583019)) {
-			Tmp1 = obj_583019.thrown;
+		F.line = 643;
+		var obj_584219 = new_py_frame_551050(fun_551049, [], null);
+			if (of_py_exception_object_358259(obj_584219)) {
+			Tmp1 = obj_584219.thrown;
 			}
 			else {
 			Tmp1 = false;
@@ -29860,26 +29899,26 @@ function new_py_frame_551047(fun_551049) {
 			
 		if (Tmp1) {
 		F.line = 2895;
-		var e_583025 = null;
+		var e_584225 = null;
 		F.line = 2896;
-		e_583025 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
+		e_584225 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
 		F.line = 25;
-		e_583025.message = nimCopy(null, makeNimstrLit("Shouldn\'t be here"), NTI138);
+		e_584225.message = nimCopy(null, makeNimstrLit("Shouldn\'t be here"), NTI138);
 		F.line = 2891;
-		e_583025.parent = null;
-		F.line = 638;
-		raiseException(e_583025, "InternalError");
+		e_584225.parent = null;
+		F.line = 645;
+		raiseException(e_584225, "InternalError");
 		}
 		else {
-			F.line = 640;
-			result_583004 = obj_583019;
+			F.line = 647;
+			result_584204 = obj_584219;
 			break BeforeRet;
 		}
 		
 	} while (false);
 	framePtr = F.prev;
 
-	return result_583004;
+	return result_584204;
 
 }
 
@@ -30077,137 +30116,137 @@ function to_py_dict_538073(f_538075) {
 
 }
 
-function bltinbuild_class_653018(args_653033) {
+function bltinbuild_class_655018(args_655033) {
 			var Tmp1;
 			var Tmp2;
 
-	var result_653034 = null;
+	var result_655034 = null;
 
 	var F={procname:"bltinmodule.bltinbuildClass",prev:framePtr,filename:"bltinmodule.nim",line:0};
 	framePtr = F;
 	BeforeRet: do {
 		F.line = 96;
-		if (!(((args_653033 != null ? args_653033.length : 0) == 2))) {
+		if (!(((args_655033 != null ? args_655033.length : 0) == 2))) {
 		F.line = 183;
-		var msg_653046 = null;
+		var msg_655046 = null;
 		if (true) {
 		F.line = 185;
 		F.line = 185;
-		var fmt_res_653051 = mnewString(0);
+		var fmt_res_655051 = mnewString(0);
 		F.line = 185;
-		if (fmt_res_653051 != null) { fmt_res_653051 = (fmt_res_653051).concat(makeNimstrLit(" argument (")); } else { fmt_res_653051 = makeNimstrLit(" argument ("); };
+		if (fmt_res_655051 != null) { fmt_res_655051 = (fmt_res_655051).concat(makeNimstrLit(" argument (")); } else { fmt_res_655051 = makeNimstrLit(" argument ("); };
 		F.line = 270;
-		if (fmt_res_653051 != null) { fmt_res_653051 = (fmt_res_653051).concat(cstrToNimstr(((args_653033 != null ? args_653033.length : 0))+"")); } else { fmt_res_653051 = cstrToNimstr(((args_653033 != null ? args_653033.length : 0))+"").slice(); };
+		if (fmt_res_655051 != null) { fmt_res_655051 = (fmt_res_655051).concat(cstrToNimstr(((args_655033 != null ? args_655033.length : 0))+"")); } else { fmt_res_655051 = cstrToNimstr(((args_655033 != null ? args_655033.length : 0))+"").slice(); };
 		F.line = 185;
-		if (fmt_res_653051 != null) { fmt_res_653051 = (fmt_res_653051).concat(makeNimstrLit(" given)")); } else { fmt_res_653051 = makeNimstrLit(" given)"); };
-		msg_653046 = nimCopy(null, (makeNimstrLit("buildClass takes exactly 2")).concat(fmt_res_653051), NTI138);
+		if (fmt_res_655051 != null) { fmt_res_655051 = (fmt_res_655051).concat(makeNimstrLit(" given)")); } else { fmt_res_655051 = makeNimstrLit(" given)"); };
+		msg_655046 = nimCopy(null, (makeNimstrLit("buildClass takes exactly 2")).concat(fmt_res_655051), NTI138);
 		}
 		else {
 			F.line = 187;
 			F.line = 187;
-			var fmt_res_653210 = mnewString(0);
+			var fmt_res_655210 = mnewString(0);
 			F.line = 187;
-			if (fmt_res_653210 != null) { fmt_res_653210 = (fmt_res_653210).concat(makeNimstrLit(" argument (")); } else { fmt_res_653210 = makeNimstrLit(" argument ("); };
+			if (fmt_res_655210 != null) { fmt_res_655210 = (fmt_res_655210).concat(makeNimstrLit(" argument (")); } else { fmt_res_655210 = makeNimstrLit(" argument ("); };
 			F.line = 270;
-			if (fmt_res_653210 != null) { fmt_res_653210 = (fmt_res_653210).concat(cstrToNimstr(((args_653033 != null ? args_653033.length : 0))+"")); } else { fmt_res_653210 = cstrToNimstr(((args_653033 != null ? args_653033.length : 0))+"").slice(); };
+			if (fmt_res_655210 != null) { fmt_res_655210 = (fmt_res_655210).concat(cstrToNimstr(((args_655033 != null ? args_655033.length : 0))+"")); } else { fmt_res_655210 = cstrToNimstr(((args_655033 != null ? args_655033.length : 0))+"").slice(); };
 			F.line = 187;
-			if (fmt_res_653210 != null) { fmt_res_653210 = (fmt_res_653210).concat(makeNimstrLit(" given)")); } else { fmt_res_653210 = makeNimstrLit(" given)"); };
-			msg_653046 = nimCopy(null, (makeNimstrLit("expected 2")).concat(fmt_res_653210), NTI138);
+			if (fmt_res_655210 != null) { fmt_res_655210 = (fmt_res_655210).concat(makeNimstrLit(" given)")); } else { fmt_res_655210 = makeNimstrLit(" given)"); };
+			msg_655046 = nimCopy(null, (makeNimstrLit("expected 2")).concat(fmt_res_655210), NTI138);
 		}
 		
 		F.line = 188;
 		F.line = 104;
-		var excp_653409 = new_py_type_error_simple_360601();
+		var excp_655409 = new_py_type_error_simple_360601();
 		F.line = 105;
-		excp_653409.tk = 3;
+		excp_655409.tk = 3;
 		F.line = 106;
-		excp_653409.thrown = true;
+		excp_655409.thrown = true;
 		F.line = 107;
-		excp_653409.msg = new_py_string_176075(msg_653046);
-		result_653034 = excp_653409;
+		excp_655409.msg = new_py_string_176075(msg_655046);
+		result_655034 = excp_655409;
 		break BeforeRet;
 		}
 		
-		if (!(isObj(args_653033[chckIndx(0, 0, args_653033.length+0-1)-0].m_type, NTI540123))) {
+		if (!(isObj(args_655033[chckIndx(0, 0, args_655033.length+0-1)-0].m_type, NTI540123))) {
 		F.line = 185;
-		var expected_653422 = nimCopy(null, py_function_object_type_540135.name, NTI138);
+		var expected_655422 = nimCopy(null, py_function_object_type_540135.name, NTI138);
 		F.line = 186;
-		var got_653423 = nimCopy(null, args_653033[chckIndx(0, 0, args_653033.length+0-1)-0].pyType.name, NTI138);
+		var got_655423 = nimCopy(null, args_655033[chckIndx(0, 0, args_655033.length+0-1)-0].pyType.name, NTI138);
 		F.line = 187;
-		var m_name_653424 = makeNimstrLit("buildClass");
+		var m_name_655424 = makeNimstrLit("buildClass");
 		F.line = 188;
 		F.line = 188;
-		var fmt_res_653428 = mnewString(0);
+		var fmt_res_655428 = mnewString(0);
 		F.line = 260;
-		if (fmt_res_653428 != null) { fmt_res_653428 = (fmt_res_653428).concat(expected_653422); } else { fmt_res_653428 = expected_653422.slice(); };
+		if (fmt_res_655428 != null) { fmt_res_655428 = (fmt_res_655428).concat(expected_655422); } else { fmt_res_655428 = expected_655422.slice(); };
 		F.line = 188;
-		if (fmt_res_653428 != null) { fmt_res_653428 = (fmt_res_653428).concat(makeNimstrLit(" is requred for ")); } else { fmt_res_653428 = makeNimstrLit(" is requred for "); };
+		if (fmt_res_655428 != null) { fmt_res_655428 = (fmt_res_655428).concat(makeNimstrLit(" is requred for ")); } else { fmt_res_655428 = makeNimstrLit(" is requred for "); };
 		F.line = 260;
-		if (fmt_res_653428 != null) { fmt_res_653428 = (fmt_res_653428).concat(m_name_653424); } else { fmt_res_653428 = m_name_653424.slice(); };
+		if (fmt_res_655428 != null) { fmt_res_655428 = (fmt_res_655428).concat(m_name_655424); } else { fmt_res_655428 = m_name_655424.slice(); };
 		F.line = 188;
-		if (fmt_res_653428 != null) { fmt_res_653428 = (fmt_res_653428).concat(makeNimstrLit(" (got ")); } else { fmt_res_653428 = makeNimstrLit(" (got "); };
+		if (fmt_res_655428 != null) { fmt_res_655428 = (fmt_res_655428).concat(makeNimstrLit(" (got ")); } else { fmt_res_655428 = makeNimstrLit(" (got "); };
 		F.line = 260;
-		if (fmt_res_653428 != null) { fmt_res_653428 = (fmt_res_653428).concat(got_653423); } else { fmt_res_653428 = got_653423.slice(); };
+		if (fmt_res_655428 != null) { fmt_res_655428 = (fmt_res_655428).concat(got_655423); } else { fmt_res_655428 = got_655423.slice(); };
 		F.line = 188;
-		if (fmt_res_653428 != null) { fmt_res_653428 = (fmt_res_653428).concat(makeNimstrLit(")")); } else { fmt_res_653428 = makeNimstrLit(")"); };
-		var msg_654002 = nimCopy(null, fmt_res_653428, NTI138);
+		if (fmt_res_655428 != null) { fmt_res_655428 = (fmt_res_655428).concat(makeNimstrLit(")")); } else { fmt_res_655428 = makeNimstrLit(")"); };
+		var msg_656002 = nimCopy(null, fmt_res_655428, NTI138);
 		F.line = 189;
 		F.line = 104;
-		var excp_654004 = new_py_type_error_simple_360601();
+		var excp_656004 = new_py_type_error_simple_360601();
 		F.line = 105;
-		excp_654004.tk = 3;
+		excp_656004.tk = 3;
 		F.line = 106;
-		excp_654004.thrown = true;
+		excp_656004.thrown = true;
 		F.line = 107;
-		excp_654004.msg = new_py_string_176075(msg_654002);
-		result_653034 = excp_654004;
+		excp_656004.msg = new_py_string_176075(msg_656002);
+		result_655034 = excp_656004;
 		break BeforeRet;
 		}
 		
 		F.line = 237;
-		var func_obj_654006 = args_653033[chckIndx(0, 0, args_653033.length+0-1)-0];
-		if (!(isObj(args_653033[chckIndx(1, 0, args_653033.length+0-1)-0].m_type, NTI175084))) {
+		var func_obj_656006 = args_655033[chckIndx(0, 0, args_655033.length+0-1)-0];
+		if (!(isObj(args_655033[chckIndx(1, 0, args_655033.length+0-1)-0].m_type, NTI175084))) {
 		F.line = 185;
-		var expected_654018 = nimCopy(null, py_str_object_type_175090.name, NTI138);
+		var expected_656018 = nimCopy(null, py_str_object_type_175090.name, NTI138);
 		F.line = 186;
-		var got_654019 = nimCopy(null, args_653033[chckIndx(1, 0, args_653033.length+0-1)-0].pyType.name, NTI138);
+		var got_656019 = nimCopy(null, args_655033[chckIndx(1, 0, args_655033.length+0-1)-0].pyType.name, NTI138);
 		F.line = 187;
-		var m_name_654020 = makeNimstrLit("buildClass");
+		var m_name_656020 = makeNimstrLit("buildClass");
 		F.line = 188;
 		F.line = 188;
-		var fmt_res_654024 = mnewString(0);
+		var fmt_res_656024 = mnewString(0);
 		F.line = 260;
-		if (fmt_res_654024 != null) { fmt_res_654024 = (fmt_res_654024).concat(expected_654018); } else { fmt_res_654024 = expected_654018.slice(); };
+		if (fmt_res_656024 != null) { fmt_res_656024 = (fmt_res_656024).concat(expected_656018); } else { fmt_res_656024 = expected_656018.slice(); };
 		F.line = 188;
-		if (fmt_res_654024 != null) { fmt_res_654024 = (fmt_res_654024).concat(makeNimstrLit(" is requred for ")); } else { fmt_res_654024 = makeNimstrLit(" is requred for "); };
+		if (fmt_res_656024 != null) { fmt_res_656024 = (fmt_res_656024).concat(makeNimstrLit(" is requred for ")); } else { fmt_res_656024 = makeNimstrLit(" is requred for "); };
 		F.line = 260;
-		if (fmt_res_654024 != null) { fmt_res_654024 = (fmt_res_654024).concat(m_name_654020); } else { fmt_res_654024 = m_name_654020.slice(); };
+		if (fmt_res_656024 != null) { fmt_res_656024 = (fmt_res_656024).concat(m_name_656020); } else { fmt_res_656024 = m_name_656020.slice(); };
 		F.line = 188;
-		if (fmt_res_654024 != null) { fmt_res_654024 = (fmt_res_654024).concat(makeNimstrLit(" (got ")); } else { fmt_res_654024 = makeNimstrLit(" (got "); };
+		if (fmt_res_656024 != null) { fmt_res_656024 = (fmt_res_656024).concat(makeNimstrLit(" (got ")); } else { fmt_res_656024 = makeNimstrLit(" (got "); };
 		F.line = 260;
-		if (fmt_res_654024 != null) { fmt_res_654024 = (fmt_res_654024).concat(got_654019); } else { fmt_res_654024 = got_654019.slice(); };
+		if (fmt_res_656024 != null) { fmt_res_656024 = (fmt_res_656024).concat(got_656019); } else { fmt_res_656024 = got_656019.slice(); };
 		F.line = 188;
-		if (fmt_res_654024 != null) { fmt_res_654024 = (fmt_res_654024).concat(makeNimstrLit(")")); } else { fmt_res_654024 = makeNimstrLit(")"); };
-		var msg_654602 = nimCopy(null, fmt_res_654024, NTI138);
+		if (fmt_res_656024 != null) { fmt_res_656024 = (fmt_res_656024).concat(makeNimstrLit(")")); } else { fmt_res_656024 = makeNimstrLit(")"); };
+		var msg_656602 = nimCopy(null, fmt_res_656024, NTI138);
 		F.line = 189;
 		F.line = 104;
-		var excp_654604 = new_py_type_error_simple_360601();
+		var excp_656604 = new_py_type_error_simple_360601();
 		F.line = 105;
-		excp_654604.tk = 3;
+		excp_656604.tk = 3;
 		F.line = 106;
-		excp_654604.thrown = true;
+		excp_656604.thrown = true;
 		F.line = 107;
-		excp_654604.msg = new_py_string_176075(msg_654602);
-		result_653034 = excp_654604;
+		excp_656604.msg = new_py_string_176075(msg_656602);
+		result_655034 = excp_656604;
 		break BeforeRet;
 		}
 		
 		F.line = 237;
-		var name_654606 = args_653033[chckIndx(1, 0, args_653033.length+0-1)-0];
+		var name_656606 = args_655033[chckIndx(1, 0, args_655033.length+0-1)-0];
 		F.line = 98;
-		var f_654607 = new_py_frame_551047(func_obj_654006);
-			if (of_py_exception_object_358259(f_654607)) {
-			Tmp1 = f_654607.thrown;
+		var f_656607 = new_py_frame_551047(func_obj_656006);
+			if (of_py_exception_object_358259(f_656607)) {
+			Tmp1 = f_656607.thrown;
 			}
 			else {
 			Tmp1 = false;
@@ -30215,21 +30254,21 @@ function bltinbuild_class_653018(args_653033) {
 			
 		if (Tmp1) {
 		F.line = 2895;
-		var e_654613 = null;
+		var e_656613 = null;
 		F.line = 2896;
-		e_654613 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
+		e_656613 = {m_type: NTI156081, parent: null, name: null, message: null, trace: null, raise_id: 0, up: null};
 		F.line = 100;
-		e_654613.message = nimCopy(null, makeNimstrLit("funcObj shouldn\'t have any arg issue"), NTI138);
+		e_656613.message = nimCopy(null, makeNimstrLit("funcObj shouldn\'t have any arg issue"), NTI138);
 		F.line = 2891;
-		e_654613.parent = null;
+		e_656613.parent = null;
 		F.line = 100;
-		raiseException(e_654613, "InternalError");
+		raiseException(e_656613, "InternalError");
 		}
 		
 		F.line = 101;
-		var ret_obj_654801 = eval_frame_551056(f_654607);
-			if (of_py_exception_object_358259(ret_obj_654801)) {
-			Tmp2 = ret_obj_654801.thrown;
+		var ret_obj_656801 = eval_frame_551056(f_656607);
+			if (of_py_exception_object_358259(ret_obj_656801)) {
+			Tmp2 = ret_obj_656801.thrown;
 			}
 			else {
 			Tmp2 = false;
@@ -30237,65 +30276,65 @@ function bltinbuild_class_653018(args_653033) {
 			
 		if (Tmp2) {
 		F.line = 103;
-		result_653034 = ret_obj_654801;
+		result_655034 = ret_obj_656801;
 		break BeforeRet;
 		}
 		
-		result_653034 = new_py_type_object_magic_643921([py_type_object_type_612361, name_654606, new_py_tuple_465057([]), to_py_dict_538073(f_654607)]);
+		result_655034 = new_py_type_object_magic_645921([py_type_object_type_614361, name_656606, new_py_tuple_465057([]), to_py_dict_538073(f_656607)]);
 	} while (false);
 	framePtr = F.prev;
 
-	return result_653034;
+	return result_655034;
 
 }
 
-function register_bltin_object_648214(name_648216, obj_648217) {
+function register_bltin_object_650214(name_650216, obj_650217) {
 	var F={procname:"bltinmodule.registerBltinObject",prev:framePtr,filename:"bltinmodule.nim",line:0};
 	framePtr = F;
 		F.line = 16;
-		var name_str_648218 = new_py_string_176075(name_648216);
-		if (!(!(has_key_522437(bltin_dict_534014, name_str_648218)))) {
+		var name_str_650218 = new_py_string_176075(name_650216);
+		if (!(!(has_key_522437(bltin_dict_534014, name_str_650218)))) {
 		F.line = 17;
 		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Python/bltinmodule.nim(17, 3) `not hasKey(bltinDict, nameStr)` "));
 		}
 		
 		F.line = 18;
-		HEX5BHEX5DHEX3D_523842(bltin_dict_534014, name_str_648218, obj_648217);
+		HEX5BHEX5DHEX3D_523842(bltin_dict_534014, name_str_650218, obj_650217);
 	framePtr = F.prev;
 
 	
 }
-register_bltin_function_648027(makeNimstrLit("print"), builtin_print_648482);
-register_bltin_function_648027(makeNimstrLit("dir"), bltindir_649243);
-register_bltin_function_648027(makeNimstrLit("id"), bltinid_649626);
-register_bltin_function_648027(makeNimstrLit("len"), bltinlen_650025);
-register_bltin_function_648027(makeNimstrLit("iter"), bltiniter_651014);
-register_bltin_function_648027(makeNimstrLit("repr"), bltinrepr_652014);
-register_bltin_function_648027(makeNimstrLit("__build_class__"), bltinbuild_class_653018);
-register_bltin_object_648214(makeNimstrLit("None"), py_none_356044);
-register_bltin_object_648214(makeNimstrLit("type"), py_type_object_type_612361);
-register_bltin_object_648214(makeNimstrLit("range"), py_range_object_type_588202);
-register_bltin_object_648214(makeNimstrLit("list"), py_list_object_type_505269);
-register_bltin_object_648214(makeNimstrLit("tuple"), py_tuple_object_type_464080);
-register_bltin_object_648214(makeNimstrLit("dict"), pydict_object_type_521222);
-register_bltin_object_648214(makeNimstrLit("int"), py_int_object_type_374115);
-register_bltin_object_648214(makeNimstrLit("str"), py_str_object_type_175090);
-register_bltin_object_648214(makeNimstrLit("property"), py_property_object_type_604310);
-register_bltin_object_648214(makeNimstrLit("NameError"), py_name_error_object_type_358419);
-register_bltin_object_648214(makeNimstrLit("NotImplementedError"), py_not_implemented_error_object_type_359505);
-register_bltin_object_648214(makeNimstrLit("TypeError"), py_type_error_object_type_360505);
-register_bltin_object_648214(makeNimstrLit("AttributeError"), py_attribute_error_object_type_361505);
-register_bltin_object_648214(makeNimstrLit("ValueError"), py_value_error_object_type_362505);
-register_bltin_object_648214(makeNimstrLit("IndexError"), py_index_error_object_type_363505);
-register_bltin_object_648214(makeNimstrLit("StopIterError"), py_stop_iter_error_object_type_364505);
-register_bltin_object_648214(makeNimstrLit("LockError"), py_lock_error_object_type_365505);
-register_bltin_object_648214(makeNimstrLit("ImportError"), py_import_error_object_type_366505);
-register_bltin_object_648214(makeNimstrLit("UnboundLocalError"), py_unbound_local_error_object_type_367505);
-register_bltin_object_648214(makeNimstrLit("KeyError"), py_key_error_object_type_368505);
-register_bltin_object_648214(makeNimstrLit("AssertionError"), py_assertion_error_object_type_369505);
-register_bltin_object_648214(makeNimstrLit("ZeroDivisionError"), py_zero_division_error_object_type_370505);
-register_bltin_object_648214(makeNimstrLit("RuntimeError"), py_runtime_error_object_type_371505);
-register_bltin_object_648214(makeNimstrLit("SyntaxError"), py_syntax_error_object_type_372505);
+register_bltin_function_650027(makeNimstrLit("print"), builtin_print_650482);
+register_bltin_function_650027(makeNimstrLit("dir"), bltindir_651243);
+register_bltin_function_650027(makeNimstrLit("id"), bltinid_651626);
+register_bltin_function_650027(makeNimstrLit("len"), bltinlen_652025);
+register_bltin_function_650027(makeNimstrLit("iter"), bltiniter_653014);
+register_bltin_function_650027(makeNimstrLit("repr"), bltinrepr_654014);
+register_bltin_function_650027(makeNimstrLit("__build_class__"), bltinbuild_class_655018);
+register_bltin_object_650214(makeNimstrLit("None"), py_none_356044);
+register_bltin_object_650214(makeNimstrLit("type"), py_type_object_type_614361);
+register_bltin_object_650214(makeNimstrLit("range"), py_range_object_type_590202);
+register_bltin_object_650214(makeNimstrLit("list"), py_list_object_type_505269);
+register_bltin_object_650214(makeNimstrLit("tuple"), py_tuple_object_type_464080);
+register_bltin_object_650214(makeNimstrLit("dict"), pydict_object_type_521222);
+register_bltin_object_650214(makeNimstrLit("int"), py_int_object_type_374115);
+register_bltin_object_650214(makeNimstrLit("str"), py_str_object_type_175090);
+register_bltin_object_650214(makeNimstrLit("property"), py_property_object_type_606310);
+register_bltin_object_650214(makeNimstrLit("NameError"), py_name_error_object_type_358419);
+register_bltin_object_650214(makeNimstrLit("NotImplementedError"), py_not_implemented_error_object_type_359505);
+register_bltin_object_650214(makeNimstrLit("TypeError"), py_type_error_object_type_360505);
+register_bltin_object_650214(makeNimstrLit("AttributeError"), py_attribute_error_object_type_361505);
+register_bltin_object_650214(makeNimstrLit("ValueError"), py_value_error_object_type_362505);
+register_bltin_object_650214(makeNimstrLit("IndexError"), py_index_error_object_type_363505);
+register_bltin_object_650214(makeNimstrLit("StopIterError"), py_stop_iter_error_object_type_364505);
+register_bltin_object_650214(makeNimstrLit("LockError"), py_lock_error_object_type_365505);
+register_bltin_object_650214(makeNimstrLit("ImportError"), py_import_error_object_type_366505);
+register_bltin_object_650214(makeNimstrLit("UnboundLocalError"), py_unbound_local_error_object_type_367505);
+register_bltin_object_650214(makeNimstrLit("KeyError"), py_key_error_object_type_368505);
+register_bltin_object_650214(makeNimstrLit("AssertionError"), py_assertion_error_object_type_369505);
+register_bltin_object_650214(makeNimstrLit("ZeroDivisionError"), py_zero_division_error_object_type_370505);
+register_bltin_object_650214(makeNimstrLit("RuntimeError"), py_runtime_error_object_type_371505);
+register_bltin_object_650214(makeNimstrLit("SyntaxError"), py_syntax_error_object_type_372505);
 
 function new_lexer_345814(file_name_345816) {
 	var result_345817 = null;
@@ -30311,10 +30350,10 @@ function new_lexer_345814(file_name_345816) {
 	return result_345817;
 
 }
-var finished_657053 = [true];
-var root_cst_657054 = [null];
-var lexer_inst_657055 = new_lexer_345814(makeNimstrLit("<stdin>"));
-var prev_f_657056 = [null];
+var finished_659053 = [true];
+var root_cst_659054 = [null];
+var lexer_inst_659055 = new_lexer_345814(makeNimstrLit("<stdin>"));
+var prev_f_659056 = [null];
 
 function clear_indent_345872(lexer_345874) {
 	var F={procname:"lexer.clearIndent",prev:framePtr,filename:"../Parser/lexer.nim",line:0};
@@ -34261,62 +34300,62 @@ function from_bltin_syntax_error_486149(e_486151, file_name_486152) {
 
 }
 
-function new_seq_596405(len_596409) {
-	var result_596411 = null;
+function new_seq_598405(len_598409) {
+	var result_598411 = null;
 
 	var F={procname:"newSeq.newSeq",prev:framePtr,filename:"../../../../.choosenim/toolchains/nim-0.19.4/lib/system.nim",line:0};
 	framePtr = F;
 		F.line = 763;
-		result_596411 = new Array(len_596409); for (var i=0;i<len_596409;++i) {result_596411[i]={Field0: null, Field1: null, Field2: 0, Field3: 0};}	framePtr = F.prev;
+		result_598411 = new Array(len_598409); for (var i=0;i<len_598409;++i) {result_598411[i]={Field0: null, Field1: null, Field2: 0, Field3: 0};}	framePtr = F.prev;
 
-	return result_596411;
+	return result_598411;
 
 }
 
-function reversed_596260(a_596265, first_596267, last_596269) {
-	var result_596271 = null;
+function reversed_598260(a_598265, first_598267, last_598269) {
+	var result_598271 = null;
 
 	var F={procname:"reversed.reversed",prev:framePtr,filename:"../../../../.choosenim/toolchains/nim-0.19.4/lib/pure/algorithm.nim",line:0};
 	framePtr = F;
-		if (!((subInt(first_596267, 1) <= last_596269))) {
+		if (!((subInt(first_598267, 1) <= last_598269))) {
 		F.line = 54;
 		failed_assert_impl_20481(makeNimstrLit("/home/wtli/.choosenim/toolchains/nim-0.19.4/lib/pure/algorithm.nim(54, 10) `\x0Afirst - 1 <= last` "));
 		}
 		
 		F.line = 55;
-		var i_596401 = subInt(last_596269, first_596267);
+		var i_598401 = subInt(last_598269, first_598267);
 		F.line = 56;
-		var x_596402 = first_596267;
+		var x_598402 = first_598267;
 		F.line = 57;
-		result_596271 = nimCopy(null, new_seq_596405(chckRange(addInt(i_596401, 1), 0, 2147483647)), NTI596410);
+		result_598271 = nimCopy(null, new_seq_598405(chckRange(addInt(i_598401, 1), 0, 2147483647)), NTI598410);
 		L1: do {
 			F.line = 58;
 				L2: while (true) {
-				if (!(0 <= i_596401)) break L2;
+				if (!(0 <= i_598401)) break L2;
 					F.line = 59;
-					nimCopy(result_596271[chckIndx(i_596401, 0, result_596271.length+0-1)-0], a_596265[chckIndx(x_596402, 0, a_596265.length+0-1)-0], NTI357165);
+					nimCopy(result_598271[chckIndx(i_598401, 0, result_598271.length+0-1)-0], a_598265[chckIndx(x_598402, 0, a_598265.length+0-1)-0], NTI357165);
 					F.line = 60;
-					i_596401 = subInt(i_596401, 1);
+					i_598401 = subInt(i_598401, 1);
 					F.line = 61;
-					x_596402 = addInt(x_596402, 1);
+					x_598402 = addInt(x_598402, 1);
 				}
 		} while(false);
 	framePtr = F.prev;
 
-	return result_596271;
+	return result_598271;
 
 }
 
-function reversed_596244(a_596249) {
-	var result_596251 = null;
+function reversed_598244(a_598249) {
+	var result_598251 = null;
 
 	var F={procname:"reversed.reversed",prev:framePtr,filename:"../../../../.choosenim/toolchains/nim-0.19.4/lib/pure/algorithm.nim",line:0};
 	framePtr = F;
 		F.line = 64;
-		result_596251 = nimCopy(null, reversed_596260(a_596249, 0, (a_596249 != null ? (a_596249.length-1) : -1)), NTI596270);
+		result_598251 = nimCopy(null, reversed_598260(a_598249, 0, (a_598249 != null ? (a_598249.length-1) : -1)), NTI598270);
 	framePtr = F.prev;
 
-	return result_596251;
+	return result_598251;
 
 }
 
@@ -34444,152 +34483,152 @@ function nsuIndent(s_135663, count_135664, padding_135665) {
 
 }
 
-function fmt_trace_back_595040(tb_595042) {
-	var result_595043 = null;
+function fmt_trace_back_597040(tb_597042) {
+	var result_597043 = null;
 
 	var F={procname:"traceback.fmtTraceBack",prev:framePtr,filename:"traceback.nim",line:0};
 	framePtr = F;
-		if (!(of_py_str_object_175092(tb_595042.Field0))) {
+		if (!(of_py_str_object_175092(tb_597042.Field0))) {
 		F.line = 11;
 		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Python/traceback.nim(11, 10) `ofPyStrObject(tb.fileName)` "));
 		}
 		
-		if (!(!((tb_595042.Field2 == 0)))) {
+		if (!(!((tb_597042.Field2 == 0)))) {
 		F.line = 13;
 		failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Python/traceback.nim(13, 10) `\x0Anot (tb.lineNo == 0)` "));
 		}
 		
 		F.line = 14;
-		var file_name_595401 = nimCopy(null, tb_595042.Field0.str, NTI138);
+		var file_name_597401 = nimCopy(null, tb_597042.Field0.str, NTI138);
 		F.line = 15;
-		var at_where_595402 = null;
-		if ((tb_595042.Field1 === null)) {
+		var at_where_597402 = null;
+		if ((tb_597042.Field1 === null)) {
 		F.line = 17;
-		at_where_595402 = nimCopy(null, [], NTI138);
+		at_where_597402 = nimCopy(null, [], NTI138);
 		}
 		else {
-			if (!(of_py_str_object_175092(tb_595042.Field1))) {
+			if (!(of_py_str_object_175092(tb_597042.Field1))) {
 			F.line = 19;
 			failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Python/traceback.nim(19, 12) `ofPyStrObject(tb.funName)` "));
 			}
 			
 			F.line = 20;
-			at_where_595402 = nimCopy(null, (makeNimstrLit(", in ")).concat(tb_595042.Field1.str), NTI138);
+			at_where_597402 = nimCopy(null, (makeNimstrLit(", in ")).concat(tb_597042.Field1.str), NTI138);
 		}
 		
 		F.line = 21;
 		F.line = 21;
-		var fmt_res_595604 = mnewString(0);
+		var fmt_res_597604 = mnewString(0);
 		F.line = 21;
-		if (fmt_res_595604 != null) { fmt_res_595604 = (fmt_res_595604).concat(makeNimstrLit("  File \"")); } else { fmt_res_595604 = makeNimstrLit("  File \""); };
+		if (fmt_res_597604 != null) { fmt_res_597604 = (fmt_res_597604).concat(makeNimstrLit("  File \"")); } else { fmt_res_597604 = makeNimstrLit("  File \""); };
 		F.line = 260;
-		if (fmt_res_595604 != null) { fmt_res_595604 = (fmt_res_595604).concat(file_name_595401); } else { fmt_res_595604 = file_name_595401.slice(); };
+		if (fmt_res_597604 != null) { fmt_res_597604 = (fmt_res_597604).concat(file_name_597401); } else { fmt_res_597604 = file_name_597401.slice(); };
 		F.line = 21;
-		if (fmt_res_595604 != null) { fmt_res_595604 = (fmt_res_595604).concat(makeNimstrLit("\", line ")); } else { fmt_res_595604 = makeNimstrLit("\", line "); };
+		if (fmt_res_597604 != null) { fmt_res_597604 = (fmt_res_597604).concat(makeNimstrLit("\", line ")); } else { fmt_res_597604 = makeNimstrLit("\", line "); };
 		F.line = 270;
-		if (fmt_res_595604 != null) { fmt_res_595604 = (fmt_res_595604).concat(cstrToNimstr((tb_595042.Field2)+"")); } else { fmt_res_595604 = cstrToNimstr((tb_595042.Field2)+"").slice(); };
+		if (fmt_res_597604 != null) { fmt_res_597604 = (fmt_res_597604).concat(cstrToNimstr((tb_597042.Field2)+"")); } else { fmt_res_597604 = cstrToNimstr((tb_597042.Field2)+"").slice(); };
 		F.line = 260;
-		if (fmt_res_595604 != null) { fmt_res_595604 = (fmt_res_595604).concat(at_where_595402); } else { fmt_res_595604 = at_where_595402.slice(); };
+		if (fmt_res_597604 != null) { fmt_res_597604 = (fmt_res_597604).concat(at_where_597402); } else { fmt_res_597604 = at_where_597402.slice(); };
 		F.line = 21;
-		if (fmt_res_595604 != null) { fmt_res_595604 = (fmt_res_595604).concat(makeNimstrLit("\x0A")); } else { fmt_res_595604 = makeNimstrLit("\x0A"); };
-		if (result_595043 != null) { result_595043 = (result_595043).concat(fmt_res_595604); } else { result_595043 = fmt_res_595604.slice(); };
+		if (fmt_res_597604 != null) { fmt_res_597604 = (fmt_res_597604).concat(makeNimstrLit("\x0A")); } else { fmt_res_597604 = makeNimstrLit("\x0A"); };
+		if (result_597043 != null) { result_597043 = (result_597043).concat(fmt_res_597604); } else { result_597043 = fmt_res_597604.slice(); };
 		F.line = 22;
-		if (result_595043 != null) { result_595043 = (result_595043).concat((makeNimstrLit("    ")).concat(nsuStrip(get_source_342875(file_name_595401, tb_595042.Field2), true, true, ConstSet20))); } else { result_595043 = (makeNimstrLit("    ")).concat(nsuStrip(get_source_342875(file_name_595401, tb_595042.Field2), true, true, ConstSet20)).slice(); };
-		if (!((tb_595042.Field3 == -1))) {
+		if (result_597043 != null) { result_597043 = (result_597043).concat((makeNimstrLit("    ")).concat(nsuStrip(get_source_342875(file_name_597401, tb_597042.Field2), true, true, ConstSet20))); } else { result_597043 = (makeNimstrLit("    ")).concat(nsuStrip(get_source_342875(file_name_597401, tb_597042.Field2), true, true, ConstSet20)).slice(); };
+		if (!((tb_597042.Field3 == -1))) {
 		F.line = 24;
-		if (result_595043 != null) { result_595043 = (result_595043).concat((makeNimstrLit("\x0A    ")).concat(nsuIndent(makeNimstrLit("^"), chckRange(tb_595042.Field3, 0, 2147483647), makeNimstrLit(" ")))); } else { result_595043 = (makeNimstrLit("\x0A    ")).concat(nsuIndent(makeNimstrLit("^"), chckRange(tb_595042.Field3, 0, 2147483647), makeNimstrLit(" "))).slice(); };
+		if (result_597043 != null) { result_597043 = (result_597043).concat((makeNimstrLit("\x0A    ")).concat(nsuIndent(makeNimstrLit("^"), chckRange(tb_597042.Field3, 0, 2147483647), makeNimstrLit(" ")))); } else { result_597043 = (makeNimstrLit("\x0A    ")).concat(nsuIndent(makeNimstrLit("^"), chckRange(tb_597042.Field3, 0, 2147483647), makeNimstrLit(" "))).slice(); };
 		}
 		
 	framePtr = F.prev;
 
-	return result_595043;
+	return result_597043;
 
 }
 
-function reversed_596666(a_596671, first_596673, last_596675) {
-	var result_596677 = null;
+function reversed_598666(a_598671, first_598673, last_598675) {
+	var result_598677 = null;
 
 	var F={procname:"reversed.reversed",prev:framePtr,filename:"../../../../.choosenim/toolchains/nim-0.19.4/lib/pure/algorithm.nim",line:0};
 	framePtr = F;
-		if (!((subInt(first_596673, 1) <= last_596675))) {
+		if (!((subInt(first_598673, 1) <= last_598675))) {
 		F.line = 54;
 		failed_assert_impl_20481(makeNimstrLit("/home/wtli/.choosenim/toolchains/nim-0.19.4/lib/pure/algorithm.nim(54, 10) `\x0Afirst - 1 <= last` "));
 		}
 		
 		F.line = 55;
-		var i_596801 = subInt(last_596675, first_596673);
+		var i_598801 = subInt(last_598675, first_598673);
 		F.line = 56;
-		var x_596802 = first_596673;
+		var x_598802 = first_598673;
 		F.line = 57;
-		result_596677 = nimCopy(null, new_seq_178023(chckRange(addInt(i_596801, 1), 0, 2147483647)), NTI178028);
+		result_598677 = nimCopy(null, new_seq_178023(chckRange(addInt(i_598801, 1), 0, 2147483647)), NTI178028);
 		L1: do {
 			F.line = 58;
 				L2: while (true) {
-				if (!(0 <= i_596801)) break L2;
+				if (!(0 <= i_598801)) break L2;
 					F.line = 59;
-					result_596677[chckIndx(i_596801, 0, result_596677.length+0-1)-0] = nimCopy(null, a_596671[chckIndx(x_596802, 0, a_596671.length+0-1)-0], NTI138);
+					result_598677[chckIndx(i_598801, 0, result_598677.length+0-1)-0] = nimCopy(null, a_598671[chckIndx(x_598802, 0, a_598671.length+0-1)-0], NTI138);
 					F.line = 60;
-					i_596801 = subInt(i_596801, 1);
+					i_598801 = subInt(i_598801, 1);
 					F.line = 61;
-					x_596802 = addInt(x_596802, 1);
+					x_598802 = addInt(x_598802, 1);
 				}
 		} while(false);
 	framePtr = F.prev;
 
-	return result_596677;
+	return result_598677;
 
 }
 
-function reversed_596650(a_596655) {
-	var result_596657 = null;
+function reversed_598650(a_598655) {
+	var result_598657 = null;
 
 	var F={procname:"reversed.reversed",prev:framePtr,filename:"../../../../.choosenim/toolchains/nim-0.19.4/lib/pure/algorithm.nim",line:0};
 	framePtr = F;
 		F.line = 64;
-		result_596657 = nimCopy(null, reversed_596666(a_596655, 0, (a_596655 != null ? (a_596655.length-1) : -1)), NTI596676);
+		result_598657 = nimCopy(null, reversed_598666(a_598655, 0, (a_598655 != null ? (a_598655.length-1) : -1)), NTI598676);
 	framePtr = F.prev;
 
-	return result_596657;
+	return result_598657;
 
 }
 
-function print_tb_596216(excp_596218) {
+function print_tb_598216(excp_598218) {
 	var F={procname:"traceback.printTb",prev:framePtr,filename:"traceback.nim",line:0};
 	framePtr = F;
 		F.line = 28;
-		var cur_596219 = excp_596218;
+		var cur_598219 = excp_598218;
 		F.line = 29;
-		var excp_strs_596221 = null;
+		var excp_strs_598221 = null;
 		L1: do {
 			F.line = 30;
 				L2: while (true) {
-				if (!!((cur_596219 === null))) break L2;
+				if (!!((cur_598219 === null))) break L2;
 					F.line = 31;
-					var single_excp_strs_596230 = null;
+					var single_excp_strs_598230 = null;
 					F.line = 32;
-					if (single_excp_strs_596230 != null) { single_excp_strs_596230.push(makeNimstrLit("Traceback (most recent call last):")); } else { single_excp_strs_596230 = [makeNimstrLit("Traceback (most recent call last):")]; };
+					if (single_excp_strs_598230 != null) { single_excp_strs_598230.push(makeNimstrLit("Traceback (most recent call last):")); } else { single_excp_strs_598230 = [makeNimstrLit("Traceback (most recent call last):")]; };
 					L3: do {
 						F.line = 33;
-						var tb_596615 = {Field0: null, Field1: null, Field2: 0, Field3: 0};
+						var tb_598615 = {Field0: null, Field1: null, Field2: 0, Field3: 0};
 						F.line = 3909;
-						var colontmp__596869 = null;
+						var colontmp__598869 = null;
 						F.line = 33;
-						colontmp__596869 = reversed_596244(cur_596219.traceBacks);
+						colontmp__598869 = reversed_598244(cur_598219.traceBacks);
 						F.line = 3911;
-						var i_596872 = 0;
+						var i_598872 = 0;
 						F.line = 3912;
-						var l_596874 = (colontmp__596869 != null ? colontmp__596869.length : 0);
+						var l_598874 = (colontmp__598869 != null ? colontmp__598869.length : 0);
 						L4: do {
 							F.line = 3913;
 								L5: while (true) {
-								if (!(i_596872 < l_596874)) break L5;
+								if (!(i_598872 < l_598874)) break L5;
 									F.line = 3914;
-									nimCopy(tb_596615, colontmp__596869[chckIndx(i_596872, 0, colontmp__596869.length+0-1)-0], NTI357165);
+									nimCopy(tb_598615, colontmp__598869[chckIndx(i_598872, 0, colontmp__598869.length+0-1)-0], NTI357165);
 									F.line = 34;
-									if (single_excp_strs_596230 != null) { single_excp_strs_596230.push(fmt_trace_back_595040(tb_596615)); } else { single_excp_strs_596230 = [fmt_trace_back_595040(tb_596615)]; };
+									if (single_excp_strs_598230 != null) { single_excp_strs_598230.push(fmt_trace_back_597040(tb_598615)); } else { single_excp_strs_598230 = [fmt_trace_back_597040(tb_598615)]; };
 									F.line = 3915;
-									i_596872 = addInt(i_596872, 1);
-									if (!(((colontmp__596869 != null ? colontmp__596869.length : 0) == l_596874))) {
+									i_598872 = addInt(i_598872, 1);
+									if (!(((colontmp__598869 != null ? colontmp__598869.length : 0) == l_598874))) {
 									F.line = 3916;
 									failed_assert_impl_20481(makeNimstrLit("/home/wtli/.choosenim/toolchains/nim-0.19.4/lib/system.nim(3916, 11) `len(a) == L` seq modified while iterating over it"));
 									}
@@ -34598,61 +34637,61 @@ function print_tb_596216(excp_596218) {
 						} while(false);
 					} while(false);
 					F.line = 35;
-					var Tmp6 = nimCopy(null, repr_py_base_error_object_magic_473314(cur_596219).str, NTI138);
-					if (single_excp_strs_596230 != null) { single_excp_strs_596230.push(Tmp6); } else { single_excp_strs_596230 = [Tmp6]; };
+					var Tmp6 = nimCopy(null, repr_py_base_error_object_magic_473314(cur_598219).str, NTI138);
+					if (single_excp_strs_598230 != null) { single_excp_strs_598230.push(Tmp6); } else { single_excp_strs_598230 = [Tmp6]; };
 					F.line = 36;
-					if (excp_strs_596221 != null) { excp_strs_596221.push(nsuJoinSep(single_excp_strs_596230, makeNimstrLit("\x0A"))); } else { excp_strs_596221 = [nsuJoinSep(single_excp_strs_596230, makeNimstrLit("\x0A"))]; };
+					if (excp_strs_598221 != null) { excp_strs_598221.push(nsuJoinSep(single_excp_strs_598230, makeNimstrLit("\x0A"))); } else { excp_strs_598221 = [nsuJoinSep(single_excp_strs_598230, makeNimstrLit("\x0A"))]; };
 					F.line = 37;
-					cur_596219 = cur_596219.context;
+					cur_598219 = cur_598219.context;
 				}
 		} while(false);
 		F.line = 38;
-		var join_msg_596646 = makeNimstrLit("\x0A\x0ADuring handling of the above exception, another exception occured\x0A\x0A");
+		var join_msg_598646 = makeNimstrLit("\x0A\x0ADuring handling of the above exception, another exception occured\x0A\x0A");
 		F.line = 14;
-		rawEcho(nsuJoinSep(reversed_596650(excp_strs_596221), join_msg_596646));
+		rawEcho(nsuJoinSep(reversed_598650(excp_strs_598221), join_msg_598646));
 		L7: do {
 			F.line = 15;
-			var line_596866 = null;
+			var line_598866 = null;
 			F.line = 597;
-			var colontmp__596876 = null;
+			var colontmp__598876 = null;
 			F.line = 39;
-			colontmp__596876 = nsuJoinSep(reversed_596650(excp_strs_596221), join_msg_596646);
+			colontmp__598876 = nsuJoinSep(reversed_598650(excp_strs_598221), join_msg_598646);
 			F.line = 455;
-			var last_596880 = 0;
+			var last_598880 = 0;
 			F.line = 456;
-			var splits_596882 = -1;
+			var splits_598882 = -1;
 			L8: do {
 				F.line = 614;
 					L9: while (true) {
-					if (!(last_596880 <= (colontmp__596876 != null ? colontmp__596876.length : 0))) break L9;
+					if (!(last_598880 <= (colontmp__598876 != null ? colontmp__598876.length : 0))) break L9;
 						F.line = 459;
-						var first_596884 = last_596880;
+						var first_598884 = last_598880;
 						L10: do {
 							F.line = 460;
 								L11: while (true) {
-								if (!((last_596880 < (colontmp__596876 != null ? colontmp__596876.length : 0)) && !(substr_eq_132789(colontmp__596876, last_596880, makeNimstrLit("\x0A"))))) break L11;
+								if (!((last_598880 < (colontmp__598876 != null ? colontmp__598876.length : 0)) && !(substr_eq_132789(colontmp__598876, last_598880, makeNimstrLit("\x0A"))))) break L11;
 									F.line = 461;
-									last_596880 = addInt(last_596880, 1);
+									last_598880 = addInt(last_598880, 1);
 								}
 						} while(false);
-						if ((splits_596882 == 0)) {
+						if ((splits_598882 == 0)) {
 						F.line = 462;
-						last_596880 = (colontmp__596876 != null ? colontmp__596876.length : 0);
+						last_598880 = (colontmp__598876 != null ? colontmp__598876.length : 0);
 						}
 						
 						F.line = 463;
-						line_596866 = substr_23422(colontmp__596876, first_596884, subInt(last_596880, 1));
+						line_598866 = substr_23422(colontmp__598876, first_598884, subInt(last_598880, 1));
 						F.line = 16;
-						log(" ", toJSStr(line_596866));
-						if ((splits_596882 == 0)) {
+						log(" ", toJSStr(line_598866));
+						if ((splits_598882 == 0)) {
 						F.line = 464;
 						break L8;
 						}
 						
 						F.line = 465;
-						splits_596882 = subInt(splits_596882, 1);
+						splits_598882 = subInt(splits_598882, 1);
 						F.line = 466;
-						last_596880 = addInt(last_596880, 1);
+						last_598880 = addInt(last_598880, 1);
 					}
 			} while(false);
 		} while(false);
@@ -40391,17 +40430,17 @@ function collect_declaration_443396(st_443398, ast_root_443399) {
 				L2: while (true) {
 				if (!!(((to_visit_443402[0] != null ? to_visit_443402[0].length : 0) == 0))) break L2;
 					F.line = 151;
-					var colontmp__657431 = {Field0: null, Field1: null};
+					var colontmp__659431 = {Field0: null, Field1: null};
 					F.line = 151;
 					var ast_node_443462 = null;
 					F.line = 151;
 					var parent_ste_443463 = null;
 					F.line = 151;
-					nimCopy(colontmp__657431, pop_443422(to_visit_443402, 0), NTI443401);
+					nimCopy(colontmp__659431, pop_443422(to_visit_443402, 0), NTI443401);
 					F.line = 151;
-					ast_node_443462 = colontmp__657431["Field0"];
+					ast_node_443462 = colontmp__659431["Field0"];
 					F.line = 151;
-					parent_ste_443463 = colontmp__657431["Field1"];
+					parent_ste_443463 = colontmp__659431["Field1"];
 					F.line = 152;
 					var ste_443464 = new_sym_table_entry_427365(parent_ste_443463);
 					F.line = 153;
@@ -43379,26 +43418,26 @@ lastJSError = prevJSError;
 
 }
 
-function interactivePython(input_657072) {
+function interactivePython(input_659072) {
 			var Tmp2;
 			var Tmp3;
 
-	var result_657073 = false;
+	var result_659073 = false;
 
 	var F={procname:"jspython.interactivePython",prev:framePtr,filename:"jspython.nim",line:0};
 	framePtr = F;
 	BeforeRet: do {
 		F.line = 16;
 		F.line = 16;
-		rawEcho(cstrToNimstr(input_657072));
-		if (finished_657053[0]) {
+		rawEcho(cstrToNimstr(input_659072));
+		if (finished_659053[0]) {
 		F.line = 18;
-		root_cst_657054[0] = null;
+		root_cst_659054[0] = null;
 		F.line = 19;
-		clear_indent_345872(lexer_inst_657055);
+		clear_indent_345872(lexer_inst_659055);
 		}
 		else {
-			if (!(!((root_cst_657054[0] === null)))) {
+			if (!(!((root_cst_659054[0] === null)))) {
 			F.line = 21;
 			failed_assert_impl_20481(makeNimstrLit("/home/wtli/GitClone/liwt31/NPython/Python/jspython.nim(21, 5) `not isNil(rootCst)` "));
 			}
@@ -43409,7 +43448,7 @@ function interactivePython(input_657072) {
 ++excHandler;
 		try {
 		F.line = 24;
-		root_cst_657054[0] = parse_with_state_351248(cstrToNimstr(input_657072), lexer_inst_657055, 0, root_cst_657054[0]);
+		root_cst_659054[0] = parse_with_state_351248(cstrToNimstr(input_659072), lexer_inst_659055, 0, root_cst_659054[0]);
 --excHandler;
 } catch (EXC) {
  var prevJSError = lastJSError;
@@ -43418,15 +43457,15 @@ function interactivePython(input_657072) {
 		framePtr = F;
 		if (lastJSError && (isObj(lastJSError.m_type, NTI156086))) {
 		F.line = 26;
-		var e_657202 = getCurrentException();
+		var e_659202 = getCurrentException();
 		F.line = 27;
-		var excp_obj_657203 = from_bltin_syntax_error_486149(e_657202, new_py_str_176092(makeNimstrLit("<stdin>")));
+		var excp_obj_659203 = from_bltin_syntax_error_486149(e_659202, new_py_str_176092(makeNimstrLit("<stdin>")));
 		F.line = 28;
-		print_tb_596216(excp_obj_657203);
+		print_tb_598216(excp_obj_659203);
 		F.line = 29;
-		finished_657053[0] = true;
+		finished_659053[0] = true;
 		F.line = 30;
-		result_657073 = true;
+		result_659073 = true;
 		break BeforeRet;
 		}
 		else {
@@ -43436,24 +43475,24 @@ lastJSError = prevJSError;
 		} finally {
 		framePtr = F;
 		}
-		if ((root_cst_657054[0] === null)) {
+		if ((root_cst_659054[0] === null)) {
 		F.line = 33;
-		result_657073 = true;
+		result_659073 = true;
 		break BeforeRet;
 		}
 		
 		F.line = 34;
-		finished_657053[0] = finished_350088(root_cst_657054[0]);
-		if (!(finished_657053[0])) {
+		finished_659053[0] = finished_350088(root_cst_659054[0]);
+		if (!(finished_659053[0])) {
 		F.line = 36;
-		result_657073 = false;
+		result_659073 = false;
 		break BeforeRet;
 		}
 		
 		F.line = 38;
-		var compile_res_657211 = compile_503054(root_cst_657054[0], makeNimstrLit("<stdin>"));
-			if (of_py_exception_object_358259(compile_res_657211)) {
-			Tmp2 = compile_res_657211.thrown;
+		var compile_res_659211 = compile_503054(root_cst_659054[0], makeNimstrLit("<stdin>"));
+			if (of_py_exception_object_358259(compile_res_659211)) {
+			Tmp2 = compile_res_659211.thrown;
 			}
 			else {
 			Tmp2 = false;
@@ -43461,33 +43500,33 @@ lastJSError = prevJSError;
 			
 		if (Tmp2) {
 		F.line = 40;
-		print_tb_596216(compile_res_657211);
+		print_tb_598216(compile_res_659211);
 		F.line = 41;
-		result_657073 = true;
+		result_659073 = true;
 		break BeforeRet;
 		}
 		
 		F.line = 42;
-		var co_657212 = compile_res_657211;
+		var co_659212 = compile_res_659211;
 		F.line = 47;
-		var globals_657401 = null;
-		if (!((prev_f_657056[0] == null))) {
+		var globals_659401 = null;
+		if (!((prev_f_659056[0] == null))) {
 		F.line = 49;
-		globals_657401 = prev_f_657056[0].globals;
+		globals_659401 = prev_f_659056[0].globals;
 		}
 		else {
 			F.line = 51;
-			globals_657401 = new_py_dict_522257();
+			globals_659401 = new_py_dict_522257();
 		}
 		
 		F.line = 52;
-		var fun_657413 = new_py_func_542057(new_py_string_176075(makeNimstrLit("Bla")), co_657212, globals_657401, null);
+		var fun_659413 = new_py_func_542057(new_py_string_176075(makeNimstrLit("Bla")), co_659212, globals_659401, null);
 		F.line = 53;
-		var f_657414 = new_py_frame_551047(fun_657413);
+		var f_659414 = new_py_frame_551047(fun_659413);
 		F.line = 54;
-		var ret_obj_657415 = eval_frame_551056(f_657414);
-			if (of_py_exception_object_358259(ret_obj_657415)) {
-			Tmp3 = ret_obj_657415.thrown;
+		var ret_obj_659415 = eval_frame_551056(f_659414);
+			if (of_py_exception_object_358259(ret_obj_659415)) {
+			Tmp3 = ret_obj_659415.thrown;
 			}
 			else {
 			Tmp3 = false;
@@ -43495,42 +43534,42 @@ lastJSError = prevJSError;
 			
 		if (Tmp3) {
 		F.line = 56;
-		print_tb_596216(ret_obj_657415);
+		print_tb_598216(ret_obj_659415);
 		}
 		else {
 			F.line = 58;
-			prev_f_657056[0] = f_657414;
+			prev_f_659056[0] = f_659414;
 		}
 		
-		result_657073 = true;
+		result_659073 = true;
 	} while (false);
 	framePtr = F.prev;
 
-	return result_657073;
+	return result_659073;
 
 }
 
-function py_init_656214(args_656217) {
+function py_init_658214(args_658217) {
 	var F={procname:"lifecycle.pyInit",prev:framePtr,filename:"lifecycle.nim",line:0};
 	framePtr = F;
 		L1: do {
 			F.line = 12;
-			var t_656415 = null;
+			var t_658415 = null;
 			F.line = 3911;
-			var i_656604 = 0;
+			var i_658604 = 0;
 			F.line = 3912;
-			var l_656606 = (bltin_types_158717[0] != null ? bltin_types_158717[0].length : 0);
+			var l_658606 = (bltin_types_158717[0] != null ? bltin_types_158717[0].length : 0);
 			L2: do {
 				F.line = 3913;
 					L3: while (true) {
-					if (!(i_656604 < l_656606)) break L3;
+					if (!(i_658604 < l_658606)) break L3;
 						F.line = 3914;
-						t_656415 = bltin_types_158717[0][chckIndx(i_656604, 0, bltin_types_158717[0].length+0-1)-0];
+						t_658415 = bltin_types_158717[0][chckIndx(i_658604, 0, bltin_types_158717[0].length+0-1)-0];
 						F.line = 13;
-						type_ready_625659(t_656415);
+						type_ready_627659(t_658415);
 						F.line = 3915;
-						i_656604 = addInt(i_656604, 1);
-						if (!(((bltin_types_158717[0] != null ? bltin_types_158717[0].length : 0) == l_656606))) {
+						i_658604 = addInt(i_658604, 1);
+						if (!(((bltin_types_158717[0] != null ? bltin_types_158717[0].length : 0) == l_658606))) {
 						F.line = 3916;
 						failed_assert_impl_20481(makeNimstrLit("/home/wtli/.choosenim/toolchains/nim-0.19.4/lib/system.nim(3916, 11) `len(a) == L` seq modified while iterating over it"));
 						}
@@ -43542,7 +43581,7 @@ function py_init_656214(args_656217) {
 
 	
 }
-py_init_656214([]);
+py_init_658214([]);
 
 function sys_fatal_16979(message_16985) {
 	var F={procname:"sysFatal.sysFatal",prev:framePtr,filename:"../../../../.choosenim/toolchains/nim-0.19.4/lib/system.nim",line:0};

@@ -67,5 +67,5 @@ $(document).ready(function(e) {
    };
 
    log(" ", "NPython 0.1.0 JS target");
-   $(".editline").show();
+   $(".editline").css("visibility", "visible");
 });

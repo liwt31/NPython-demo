@@ -30,7 +30,7 @@ body .line .prompt {
   padding-right: 12px;
 }
 body .editline {
-  display: none;
+  visibility: hidden;
   background-color: #262626;
   padding: 2px 4px 0px 4px;
   width: calc(100%);
